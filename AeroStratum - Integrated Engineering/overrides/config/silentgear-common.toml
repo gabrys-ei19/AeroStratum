@@ -1,0 +1,29 @@
+# Silent Gear Configuration
+# Configuration for the Silent Gear crafting system
+
+[materials]
+	# Allows custom materials to be added
+	enableCustomMaterials = true
+
+[crafting]
+	# Enable smithing table for Silent Gear
+	smithingTableSmithingEnabled = true
+	
+	# Maximum number of parts in a gear
+	maxParts = 4
+
+[gear]
+	# Allows gear crafting with specific materials
+	enableGearCrafting = true
+	
+	# Durability multiplier
+	durabilityMultiplier = 1.0
+
+[tools]
+	# Allows crafting of weapons and tools
+	enableWeaponCrafting = true
+	enableToolCrafting = true
+
+[parts]
+	# Enable crafting of individual parts for assembly
+	enablePartCrafting = true

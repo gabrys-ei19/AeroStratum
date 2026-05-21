@@ -1,0 +1,31 @@
+# =============================================================================
+# FTB Chunks Configuration
+# =============================================================================
+# Ograniczenia na liczbę chunków i force-loading dla każdego gracza
+# W AeroStratum zmuszamy gracza do postępu aby zdobyć więcej chunku
+
+[claims]
+    # Maksymalna liczba czunków do zaznaczenia przez gracza
+    # Niedopuszczenie gracza aby zaznaczył zbyt dużo na starcie
+    max_claimed_chunks = 100
+    
+    # Maksymalna liczba force-loadowanych chunków
+    # Wymuszamy budowanie skomplikowanych systemów aby zaciągnąć chunk
+    max_force_loaded_chunks = 15
+    
+    # Koszt claima nowego chunka (w monecie lokalizacyjnej, jeśli enabled)
+    claim_chunk_cost = 10.0
+
+[protection]
+    # Czy wybuchy mogą niszczyć bloki w zaznaczonych chunkach?
+    allow_explosions = false
+    
+    # Czy gracze mogą modyfikować bloki w obcych zaznaczonych chunkach?
+    allow_modifications_in_claimed_chunks = false
+
+[general]
+    # Czy chunki są automatycznie zaznaczane?
+    auto_claim_chunks = false
+    
+    # Domyślny radialus ładowania dla force-loaded chunków (w chunkach)
+    chunk_load_radius = 1
