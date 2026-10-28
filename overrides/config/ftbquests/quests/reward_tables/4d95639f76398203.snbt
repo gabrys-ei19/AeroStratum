@@ -1,0 +1,71 @@
+{
+	id: "4D95639F76398203"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{
+			count: 6
+			id: "755844245F0971C0"
+			item: {
+				count: 1
+				id: "farmersdelight:hamburger"
+			}
+		}
+		{
+			count: 6
+			id: "7DBE35E93A938194"
+			item: {
+				count: 1
+				id: "createfood:beef_burrito_rice"
+			}
+		}
+		{
+			count: 6
+			id: "17034F662F9EA18C"
+			item: {
+				count: 1
+				id: "createfood:chicken_burger_bacon_lettuce"
+			}
+		}
+		{
+			count: 6
+			id: "1D2A04AB187E6BC5"
+			item: {
+				count: 1
+				id: "createfood:hamburger_bacon"
+			}
+		}
+		{
+			count: 6
+			id: "689657682A085687"
+			item: {
+				count: 1
+				id: "createfood:fish_burrito_rice"
+			}
+		}
+		{
+			count: 6
+			id: "18DCBBA437633FE0"
+			item: {
+				count: 1
+				id: "farmersdelight:chicken_sandwich"
+			}
+		}
+		{
+			count: 6
+			id: "443A40CC9C99193F"
+			item: {
+				count: 1
+				id: "createfood:sausage_biscuit_sandwich_fried_egg"
+			}
+		}
+		{
+			count: 6
+			id: "5548E2BA272165D7"
+			item: {
+				count: 1
+				id: "createfood:vegetable_sandwich_lettuce_tomato"
+			}
+		}
+	]
+}

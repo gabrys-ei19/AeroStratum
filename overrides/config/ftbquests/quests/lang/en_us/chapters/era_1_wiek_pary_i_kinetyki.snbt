@@ -1,0 +1,171 @@
+{
+	quest.035A4D63CB792F6E.quest_desc: ["Precision joints forged from zinc sheets mimic the movement of a human hand. A key component of every automated assembly arm."]
+	quest.035A4D63CB792F6E.quest_subtitle: "1x Zinc Hand"
+	quest.035A4D63CB792F6E.title: "Mechanical Grip: Zinc Hand"
+	quest.037A93600E70561C.quest_desc: ["A unique module integrating physical drawer capacity with Refined Storage disk and block structures. Essential for sealing any data storage medium."]
+	quest.037A93600E70561C.quest_subtitle: "1x Digital Drawer"
+	quest.037A93600E70561C.title: "Hybrid Buffer: Digital Drawer"
+	quest.04C59391A677A292.quest_desc: ["An empty, armored protective cartridge ready to house a memory core. Protects delicate quartz circuitry from damage."]
+	quest.04C59391A677A292.quest_subtitle: "1x Storage Housing"
+	quest.04C59391A677A292.title: "Data Shell: Storage Housing"
+	quest.061307A9C70E47B4.quest_desc: ["A heated basin with a mixer allows you to alloy copper and zinc into noble brass. This alloy unlocks smart filtering, advanced machinery, and precision automation."]
+	quest.061307A9C70E47B4.quest_subtitle: "1x Brass Ingot"
+	quest.061307A9C70E47B4.title: "Engineer's Gold: Brass Alloy"
+	quest.093786ED188CB158.quest_desc: ["Four times the data packing density. The ideal choice when output from automated quarries starts counting in the thousands."]
+	quest.093786ED188CB158.quest_subtitle: "1x 4k Storage Part"
+	quest.093786ED188CB158.title: "Denser Storage: 4k Part"
+	quest.0B98C898071F3C33.quest_desc: ["A regular campfire won't suffice for smelting noble alloys. Forge an iron burner cage, travel to the Nether, and capture a Blaze inside to gain a controlled source of extreme heat."]
+	quest.0B98C898071F3C33.quest_subtitle: "1x Empty Blaze Burner"
+	quest.0B98C898071F3C33.title: "Elemental Cage"
+	quest.0C16D28641468295.quest_desc: ["The Constructor pulls blocks from your Refined Storage network and places them in the world directly in front of it."]
+	quest.0C16D28641468295.quest_subtitle: "1x Constructor"
+	quest.0C16D28641468295.title: "Automated Builder: Constructor"
+	quest.0C6ADA0C7F766E65.quest_desc: ["Dark volcanic rock generated on demand without trips to the Nether."]
+	quest.0C6ADA0C7F766E65.quest_subtitle: "64x Basalt"
+	quest.0C6ADA0C7F766E65.title: "Extrusion: Basalt"
+	quest.1136FE2A46C13302.quest_desc: ["A Depot holds items in the exact position under a press or Deployer arm. Combined with funnels, it forms the simplest sequential processing station."]
+	quest.1136FE2A46C13302.quest_subtitle: "Essential belt components"
+	quest.1136FE2A46C13302.title: "Basic Belt Tools"
+	quest.179A2967D712CE85.quest_desc: ["Infusing Nether quartz with a heavy dose of redstone dust creates a crystal capable of conducting and amplifying energy pulses."]
+	quest.179A2967D712CE85.quest_subtitle: "1x Rose Quartz"
+	quest.179A2967D712CE85.title: "Crystalline Resonance: Rose Quartz"
+	quest.18B025CA634BFF11.quest_desc: ["A standalone 1k memory block that can be placed directly in the world and connected via cable without needing a Disk Drive."]
+	quest.18B025CA634BFF11.quest_subtitle: "1x 1k Storage Block"
+	quest.18B025CA634BFF11.title: "Stationary Bank 1k"
+	quest.1B93CC74B13084E5.quest_desc: ["Dried kelp acts as a surprisingly flexible and durable industrial rubber substitute. Harvest a solid supply from the ocean floor – no conveyor belt will move without it."]
+	quest.1B93CC74B13084E5.quest_subtitle: "32x Kelp"
+	quest.1B93CC74B13084E5.title: "Harvest from the Deep: Kelp"
+	quest.1C22288B92135426.quest_desc: ["A freestanding server rack holding up to 4,096 items. Works great as dedicated buffer storage hooked directly to an assembly line."]
+	quest.1C22288B92135426.quest_subtitle: "1x 4k Storage Block"
+	quest.1C22288B92135426.title: "Stationary Bank 4k"
+	quest.1E3C2E5663DE1F3F.quest_desc: [
+		"The pinnacle of precision mechanics! Line up a row of Deployers above a conveyor belt and automate Precision Mechanism production."
+		""
+		"Mastering this process opens the gates to advanced logistics, brass machinery, and full-scale factory automation. Welcome to Era 2!"
+	]
+	quest.1E3C2E5663DE1F3F.quest_subtitle: "Era 1 Milestone"
+	quest.1E3C2E5663DE1F3F.title: "Golden Heart of Automation: Precision Mechanism"
+	quest.200DFE86A1BCAE00.quest_desc: ["The Destructor mines blocks directly in front of it and sends the drops straight into your network storage disks."]
+	quest.200DFE86A1BCAE00.quest_subtitle: "1x Destructor"
+	quest.200DFE86A1BCAE00.title: "Automated Miner: Destructor"
+	quest.24E0B7BE9E8CAF99.quest_desc: ["A docking bay holding up to 8 storage disks. Connect it to a Controller, insert your disks, and enjoy centralized digital storage."]
+	quest.24E0B7BE9E8CAF99.quest_subtitle: "1x Disk Drive"
+	quest.24E0B7BE9E8CAF99.title: "Server Rack: Disk Drive"
+	quest.24F68B7E8A51E6FD.quest_desc: ["A specialized computing core responsible for materializing digital data into physical blocks."]
+	quest.24F68B7E8A51E6FD.quest_subtitle: "1x Construction Core"
+	quest.24F68B7E8A51E6FD.title: "Construction Core"
+	quest.267ABF42F9628FEA.quest_desc: ["The heart of every Refined Storage network. Supply it with Forge Energy (FE), and it will power all connected terminals, drives, and interfaces."]
+	quest.267ABF42F9628FEA.quest_subtitle: "1x Controller"
+	quest.267ABF42F9628FEA.title: "Brain of Operations: Network Controller"
+	quest.2A02D797F5CABAD6.quest_desc: ["An infinite source of andesite for mass production of Andesite Alloy."]
+	quest.2A02D797F5CABAD6.quest_subtitle: "64x Andesite"
+	quest.2A02D797F5CABAD6.title: "Extrusion: Andesite"
+	quest.2E5D835D2B5D7078.quest_desc: ["Andesite handles kinetic stress well, but fails quickly under liquid pressure and corrosion. Coating stripped wood in copper opens the door to the parallel branch of fluid engineering (Era 1.5)!"]
+	quest.2E5D835D2B5D7078.quest_subtitle: "1x Copper Casing"
+	quest.2E5D835D2B5D7078.title: "Watertight Frame: Copper Casing"
+	quest.31AA7117F83F8B86.quest_desc: ["Your factory's tireless worker. The Deployer places components onto belts, wields tools, and assembles multi-stage mechanisms with pinpoint precision."]
+	quest.31AA7117F83F8B86.quest_subtitle: "1x Deployer"
+	quest.31AA7117F83F8B86.title: "Assembly Arm: Deployer"
+	quest.34B798B9DF328A6F.quest_desc: ["Polish raw rose quartz with sandpaper (or automate it with a Deployer) to unlock its full optical and electronic properties."]
+	quest.34B798B9DF328A6F.quest_subtitle: "1x Polished Rose Quartz"
+	quest.34B798B9DF328A6F.title: "Optical Smoothness: Polished Rose Quartz"
+	quest.34D17EBBA4F9CA1F.quest_desc: ["Light igneous rock, great for both construction and crushing in mills."]
+	quest.34D17EBBA4F9CA1F.quest_subtitle: "64x Diorite"
+	quest.34D17EBBA4F9CA1F.title: "Extrusion: Diorite"
+	quest.35CB6AFD283E9A43.quest_desc: ["Central hub for your Functional Storage drawers. Deposit hundreds of stacks of materials from across your factory into linked drawers with a single click."]
+	quest.35CB6AFD283E9A43.quest_subtitle: "1x Storage Controller"
+	quest.35CB6AFD283E9A43.title: "Warehouse Master: Storage Controller"
+	quest.3C31D3F9E8A8F756.quest_desc: ["Golden sedimentary rock that yields gold nuggets when crushed and washed."]
+	quest.3C31D3F9E8A8F756.quest_subtitle: "64x Ochrum"
+	quest.3C31D3F9E8A8F756.title: "Extrusion: Ochrum (Gold)"
+	quest.3D88E2FFB342DE22.quest_desc: ["A basic logic processor handling simple signal routing and item display in network terminals."]
+	quest.3D88E2FFB342DE22.quest_subtitle: "1x Basic Processor"
+	quest.3D88E2FFB342DE22.title: "Logic Circuit: Basic Processor"
+	quest.3ECDF40CC01FA01E.quest_desc: ["Enriching iron and copper with pure quartz gives the metals semiconductor properties. The primary building block for Refined Storage casings, cables, and parts."]
+	quest.3ECDF40CC01FA01E.quest_subtitle: "Quartz Enriched Iron & Copper"
+	quest.3ECDF40CC01FA01E.title: "Quartz-Enriched Alloys"
+	quest.400E5AD3B2378A9F.quest_desc: ["Manages Security Cards and defines which players are permitted to view, modify, or expand your Refined Storage network."]
+	quest.400E5AD3B2378A9F.quest_subtitle: "1x Security Manager"
+	quest.400E5AD3B2378A9F.title: "Network Firewall: Security Manager"
+	quest.40D92BD3F935D0E8.quest_desc: ["A steady supply of snow and ice for thermal processing."]
+	quest.40D92BD3F935D0E8.quest_subtitle: "64x Snow Block"
+	quest.40D92BD3F935D0E8.title: "Extrusion: Snow Block"
+	quest.42E44B6C8CDF031D.quest_desc: ["Every self-respecting engineer needs a stockpile of zinc, andesite, copper, iron, and golden sheets. Set up a press over a belt or depot and prepare a batch for advanced components."]
+	quest.42E44B6C8CDF031D.quest_subtitle: "Industrial Sheet Assortment"
+	quest.42E44B6C8CDF031D.title: "Rolling Mill at Full Steam"
+	quest.43D13FD7FDF29A61.quest_desc: ["Manually carrying items between machines is a waste of valuable time. Link your workstations with Mechanical Belts, Chutes, and Funnels so resources flow automatically."]
+	quest.43D13FD7FDF29A61.quest_subtitle: "Belt, Chute & Funnel"
+	quest.43D13FD7FDF29A61.title: "Factory Lifeblood: Belts & Chutes"
+	quest.4494D77B49C5F925.quest_desc: ["Greenish copper-bearing rock. Crushing it supplies your factory with a steady stream of copper."]
+	quest.4494D77B49C5F925.quest_subtitle: "64x Veridium"
+	quest.4494D77B49C5F925.title: "Extrusion: Veridium (Copper)"
+	quest.466DCFD1A0975A61.quest_desc: ["The standard structural frame for all Refined Storage digital devices. Your factory now enters the information age."]
+	quest.466DCFD1A0975A61.quest_subtitle: "1x Machine Casing"
+	quest.466DCFD1A0975A61.title: "Network Foundation: Machine Casing"
+	quest.4CA9892CF7949738.quest_desc: ["The toughest volcanic glass produced automatically – ideal for powdered obsidian and Sturdy Sheets!"]
+	quest.4CA9892CF7949738.quest_subtitle: "64x Obsidian"
+	quest.4CA9892CF7949738.title: "Extrusion: Obsidian"
+	quest.4DA40DA3D1519118.quest_desc: ["Dense slate from the lowest depths of the world, generated right on the surface."]
+	quest.4DA40DA3D1519118.quest_subtitle: "64x Deepslate"
+	quest.4DA40DA3D1519118.title: "Extrusion: Deepslate"
+	quest.4DF90C1AA6BF4543.quest_desc: ["A complete 1k hard drive ready for installation in a Disk Drive. One small cartridge replaces an entire row of wooden chests."]
+	quest.4DF90C1AA6BF4543.quest_subtitle: "1x 1k Storage Disk"
+	quest.4DF90C1AA6BF4543.title: "1k Storage Disk"
+	quest.5052424165D93DE0.quest_desc: ["The blacksmith's hammer is history. Connect a Mechanical Press to a rotating shaft to rapidly stamp metal ingots into thin, durable sheets."]
+	quest.5052424165D93DE0.quest_subtitle: "1x Mechanical Press"
+	quest.5052424165D93DE0.title: "Pressing Force: Mechanical Press"
+	quest.51D3919CC88C4DC9.quest_desc: ["A basic memory matrix capable of encoding 1,024 items as pure energy pulses."]
+	quest.51D3919CC88C4DC9.quest_subtitle: "1x 1k Storage Part"
+	quest.51D3919CC88C4DC9.title: "First Kilobyte: 1k Storage Part"
+	quest.51F6702B4F6B62C7.quest_desc: ["Crimson rock rich in iron. Automate its crushing and you will never run out of iron or steel again."]
+	quest.51F6702B4F6B62C7.quest_subtitle: "64x Crimsite"
+	quest.51F6702B4F6B62C7.title: "Extrusion: Crimsite (Iron)"
+	quest.52773B62C578E4EF.quest_desc: ["Light limestone indispensable in smelting, chemical processing, and industrial architecture."]
+	quest.52773B62C578E4EF.quest_subtitle: "64x Limestone"
+	quest.52773B62C578E4EF.title: "Extrusion: Limestone"
+	quest.54E3834447E5148B.quest_desc: ["Data and power bus connecting distant machines, interfaces, and terminals to the main Network Controller."]
+	quest.54E3834447E5148B.quest_subtitle: "1x Cable"
+	quest.54E3834447E5148B.title: "Fiber & Wiring: Cable"
+	quest.567698BFB097C64A.quest_desc: ["A core converting broken blocks and items directly into digital storage."]
+	quest.567698BFB097C64A.quest_subtitle: "1x Destruction Core"
+	quest.567698BFB097C64A.title: "Destruction Core"
+	quest.61C0DE1432691045.quest_desc: ["Basic rock formed where water meets lava. The foundation for milling gravel, sand, and iron."]
+	quest.61C0DE1432691045.quest_subtitle: "64x Cobblestone"
+	quest.61C0DE1432691045.title: "Extrusion: Cobblestone"
+	quest.6313CA2B81D9D8A3.quest_desc: ["A high-capacity 4k storage medium for Disk Drives. Provides a solid buffer for your expanding factory."]
+	quest.6313CA2B81D9D8A3.quest_subtitle: "1x 4k Storage Disk"
+	quest.6313CA2B81D9D8A3.title: "4k Storage Disk"
+	quest.6416431155E7BCAB.quest_desc: ["Why dig underground when you can generate rock on the surface? Placing the right fluids and catalyst blocks next to a Mechanical Extruder produces endless varieties of stone and mineral ores without swinging a pickaxe!"]
+	quest.6416431155E7BCAB.quest_subtitle: "Infinite Rock Generation"
+	quest.6416431155E7BCAB.title: "Geological Forge: Mechanical Extruder"
+	quest.6A3A70C8DA59AFCF.quest_desc: ["Hard igneous rock generated automatically without scarring the landscape."]
+	quest.6A3A70C8DA59AFCF.quest_subtitle: "64x Granite"
+	quest.6A3A70C8DA59AFCF.title: "Extrusion: Granite"
+	quest.6DB8129C82669E9C.quest_desc: ["The first real test for your assembly line. Combining copper components with a Deployer produces a sealed mechanism essential for advanced fluid apparatus."]
+	quest.6DB8129C82669E9C.quest_subtitle: "1x Copper Mechanism"
+	quest.6DB8129C82669E9C.title: "Copper Gearwork: Copper Mechanism"
+	quest.70DF0552174AC3AB.quest_desc: ["The most powerful computing unit, essential for coordinating the entire storage network and managing its power draw."]
+	quest.70DF0552174AC3AB.quest_subtitle: "1x Advanced Processor"
+	quest.70DF0552174AC3AB.title: "Diamond Computing: Advanced Processor"
+	quest.711EF94B2C4CA981.quest_desc: ["Azure rock rich in zinc particulates. Run it through Crushing Wheels for a passive supply of zinc!"]
+	quest.711EF94B2C4CA981.quest_subtitle: "64x Asurine"
+	quest.711EF94B2C4CA981.title: "Extrusion: Asurine (Zinc)"
+	quest.7490FF6AFDB54922.quest_desc: ["Corrosion-resistant zinc casing forms the ideal foundation for hybrid storage modules bridging mechanics and digital data."]
+	quest.7490FF6AFDB54922.quest_subtitle: "1x Zinc Casing"
+	quest.7490FF6AFDB54922.title: "Industrial Frame: Zinc Casing"
+	quest.752F142C980DF1DA.quest_desc: ["A high-throughput circuit capable of handling multiple storage media simultaneously inside Disk Drives."]
+	quest.752F142C980DF1DA.quest_subtitle: "1x Improved Processor"
+	quest.752F142C980DF1DA.title: "Golden Architecture: Improved Processor"
+	quest.76297780BCB4FB60.quest_desc: ["Your resource command console. Search, insert, and extract any item stored across your network's disks at a glance."]
+	quest.76297780BCB4FB60.quest_subtitle: "1x Grid"
+	quest.76297780BCB4FB60.title: "Window to the Warehouse: Grid"
+	quest.79ECF0D064F99464.quest_desc: ["An excellent source of sand and quartz when processed through crushing wheels."]
+	quest.79ECF0D064F99464.quest_subtitle: "64x Sandstone"
+	quest.79ECF0D064F99464.title: "Extrusion: Sandstone"
+	quest.7C34541A2380C127.quest_desc: ["Assembled on a conveyor belt, the Zinc Mechanism bridges simple kinetics with high-density storage systems and early digital circuitry."]
+	quest.7C34541A2380C127.quest_subtitle: "1x Zinc Mechanism"
+	quest.7C34541A2380C127.title: "Zinc Core: Zinc Mechanism"
+	quest.7EB9D1C19D161DF8.quest_desc: ["An individual access card assigned to a specific engineer inside the Security Manager."]
+	quest.7EB9D1C19D161DF8.quest_subtitle: "1x Security Card"
+	quest.7EB9D1C19D161DF8.title: "Authorization: Security Card"
+}

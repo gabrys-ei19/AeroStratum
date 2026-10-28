@@ -1,0 +1,78 @@
+{
+	quest.05DD778297C6611B.quest_desc: ["Diamentowe wzmocnienia dają ogromną przestrzeń ładunkową i miejsce na zaawansowane moduły ulepszeń. Z takim plecakiem możesz przenieść pół fabryki na własnych plecach."]
+	quest.05DD778297C6611B.quest_subtitle: "Najsilniejszy tragarz w ekipie"
+	quest.05DD778297C6611B.title: "Diamentowy Plecak"
+	quest.0794B19AAB6261EF.quest_desc: ["Połącz ociosane drewno ze Stopem Andezytowym (Andesite Alloy), klikając stopem na postawione drewno lub łącząc je w stole rzemieślniczym. Gratulacje – masz oficjalny korpus, który potrafi utrzymać w miejscu koła zębate i tłoki bez rozpadania się konstrukcji."]
+	quest.0794B19AAB6261EF.quest_subtitle: "5x Andesite Casing"
+	quest.0794B19AAB6261EF.title: "Andezytowa Obudowa"
+	quest.166B94A48B3625D5.quest_desc: ["Podstawowe paliwo dla Twoich pierwszych pieców i kotłów. Zbierz solidny zapas węgla, zanim przejdziesz na paliwa płynne."]
+	quest.166B94A48B3625D5.quest_subtitle: "32x Węgiel (Coal)"
+	quest.166B94A48B3625D5.title: "Czarne Złoto: Węgiel"
+	quest.18A64670D9EE86E8.quest_desc: ["Szara, niepozorna skała, która stanowi fundament całej technologii Create. Wykop pełny stack andezytu – przyda się szybciej, niż myślisz!"]
+	quest.18A64670D9EE86E8.quest_subtitle: "64x Andezyt (Andesite)"
+	quest.18A64670D9EE86E8.title: "Fundament Inżynierii: Andezyt"
+	quest.1FD7EB7910170E8D.quest_desc: ["Miedź to klucz do opanowania rurociągów, zbiorników ciśnieniowych oraz wytopu mosiądzu w nadchodzących erach."]
+	quest.1FD7EB7910170E8D.quest_subtitle: "16x Sztabka miedzi (Copper Ingot)"
+	quest.1FD7EB7910170E8D.title: "Rudy Przemysłowe: Miedź"
+	quest.226FB6C7CF3FEFB3.quest_desc: ["Podczas tej przygody niezbędny do przetrwania będzie plecak. Zrób go tak szybko, jak tylko potrafisz (będziesz potrzebował skóry)."]
+	quest.226FB6C7CF3FEFB3.quest_subtitle: "Największy przyjaciel zbieracza - PLECAK"
+	quest.226FB6C7CF3FEFB3.title: "Najważniejsze akcesorium"
+	quest.25DB44EB6E7DA3B0.quest_desc: ["To jest najważniejszy surowiec w całej Erze 0. Połączenie zwykłego andezytu z samorodkami żelaza (lub cynku) daje wyjątkowo plastyczny i wytrzymały stop. Będziesz go potrzebować w setkach, jeśli nie tysiącach sztuk. Zrób zapas!"]
+	quest.25DB44EB6E7DA3B0.quest_subtitle: "8x Andesite Alloy"
+	quest.25DB44EB6E7DA3B0.title: "Magiczne połączenie: Stop Andezytowy"
+	quest.269AB30A3588E4CD.quest_desc: ["Każdy wielki inżynier zaczynał od ubrudzenia sobie rąk. Zanim zaczniesz budować fabryki parowe, musisz przetrwać pierwszą noc. Wydobądź trochę kamienia, zrób podstawowe narzędzia i przygotuj się na ciężką pracę."]
+	quest.269AB30A3588E4CD.quest_subtitle: "16x Bruk (Cobblestone)"
+	quest.269AB30A3588E4CD.title: "Podnieś ten kamień"
+	quest.33BDEE1D6D8C50A6.quest_desc: ["Szlachetny metal o doskonałym przewodnictwie. Przyda się w zaawansowanych komponentach elektronicznych i stopach specjalnych."]
+	quest.33BDEE1D6D8C50A6.quest_subtitle: "16x Sztabka srebra (Silver Ingot)"
+	quest.33BDEE1D6D8C50A6.title: "Rudy Przemysłowe: Srebro"
+	quest.36E78F8D9F91A5E0.quest_desc: ["Kamienne narzędzia są dobre do kopania dziur w ziemi, ale nie do budowania maszyn. Znajdź rudę żelaza i przetop ją w piecu. Żelazo będzie podstawą Twoich pierwszych mechanizmów, wałów korbowych i kół zębatych."]
+	quest.36E78F8D9F91A5E0.quest_subtitle: "32x Sztabka żelaza (Iron Ingot)"
+	quest.36E78F8D9F91A5E0.title: "Epoka Żelaza"
+	quest.43B52BE28D14514D.quest_desc: ["Krwioobieg układów logicznych, różowego kwarcu oraz rdzeni pamięci Refined Storage. Im więcej go wykopiesz, tym lepiej."]
+	quest.43B52BE28D14514D.quest_subtitle: "64x Redstone"
+	quest.43B52BE28D14514D.title: "Rudy Przemysłowe: Redstone"
+	quest.43B5BA3A5CE95E7A.quest_desc: ["Ciężki metal izolacyjny, który okaże się bezcenny przy budowie zaawansowanych akumulatorów i osłon reaktorów w późniejszych erach."]
+	quest.43B5BA3A5CE95E7A.quest_subtitle: "16x Sztabka ołowiu (Lead Ingot)"
+	quest.43B5BA3A5CE95E7A.title: "Rudy Przemysłowe: Ołów"
+	quest.43DA4C62DD1CD392.quest_desc: ["Najtwardszy minerał w świecie gry, niezbędny do zaawansowanych procesorów i najmocniejszych narzędzi."]
+	quest.43DA4C62DD1CD392.quest_subtitle: "16x Diament (Diamond)"
+	quest.43DA4C62DD1CD392.title: "Skarby Głębin: Diamenty"
+	quest.4AF4F5612CE4A30F.quest_desc: ["Złote okucia zapewniają jeszcze więcej slotów na surowce i dodatkowe kieszenie na ulepszenia."]
+	quest.4AF4F5612CE4A30F.quest_subtitle: "Prawie najlepszy"
+	quest.4AF4F5612CE4A30F.title: "Złoty Plecak"
+	quest.55F156D969DFF910.quest_desc: ["W życiu inżyniera na samym początku nie myśli się o zasobach – w tym przypadku warto zabezpieczyć się na przyszłość już od pierwszej wizyty w kopalni (zacząłeś od żelaza – zbieraj wszystko jak leci!)."]
+	quest.55F156D969DFF910.quest_subtitle: "Zacznij zbierać rudy już teraz (nie pożałujesz)"
+	quest.55F156D969DFF910.title: "Bogactwa Podziemi"
+	quest.5B35AA2B52B7EE5F.quest_desc: ["Cenne kryształy poszukiwane zarówno przez kupców, jak i twórców precyzyjnej optyki."]
+	quest.5B35AA2B52B7EE5F.quest_subtitle: "16x Szmaragd (Emerald)"
+	quest.5B35AA2B52B7EE5F.title: "Skarby Głębin: Szmaragdy"
+	quest.6996F3F5F20CC47C.quest_desc: ["Drugi obok miedzi najważniejszy metal Ery 1. Niezbędny do odlewania mosiądzu, cynkowych obudów oraz mechanicznych dłoni."]
+	quest.6996F3F5F20CC47C.quest_subtitle: "16x Sztabka cynku (Zinc Ingot)"
+	quest.6996F3F5F20CC47C.title: "Rudy Przemysłowe: Cynk"
+	quest.6BD6050862596B7F.quest_desc: ["Wzmocnienie plecaka żelaznymi płytami znacząco powiększa jego pojemność podczas długich wypraw górniczych."]
+	quest.6BD6050862596B7F.quest_subtitle: "Ulepszenie"
+	quest.6BD6050862596B7F.title: "Żelazny Plecak"
+	quest.72B909D63ED0D8E0.quest_desc: ["Maszyny potrzebują ruchu, a w Create ruchem jest rotacja. Wały przenoszą moc na odległość, a koła zębate pozwalają zmieniać kierunek obrotu i jego prędkość. Stwórz te dwa podstawowe elementy ze stopu andezytowego i patyków."]
+	quest.72B909D63ED0D8E0.quest_subtitle: "16x Wał korbowy (Shaft), 2x Małe koło zębate (Cogwheel), 2x Duże koło zębate (Large Cogwheel)"
+	quest.72B909D63ED0D8E0.title: "Niech to się kręci!"
+	quest.78EE55CCF4235510.quest_desc: ["Niezbędny do zaklinania oraz zaawansowanych procesów alchemicznych i optycznych."]
+	quest.78EE55CCF4235510.quest_subtitle: "64x Lazuryt (Lapis Lazuli)"
+	quest.78EE55CCF4235510.title: "Rudy Przemysłowe: Lazuryt"
+	quest.793CC4C42DE82B09.quest_desc: ["Ostatni krok dzieli Cię przed dotarciem do najważniejszego komponentu, który pozwoli Ci zbudować Twoją własną fabrykę. Tak trzymaj!"]
+	quest.793CC4C42DE82B09.quest_subtitle: "2x Andesite Mechanism"
+	quest.793CC4C42DE82B09.title: "Pierwszy mechanizm"
+	quest.7C2AADE731F3CA8F.quest_desc: ["Aby zbudować obudowę maszyny, potrzebujesz gładkiego, obrobionego drewna. Użyj topora na postawionym drzewie, aby ściągnąć z niego korę. Tak przygotowane bale będą idealnym korpusem dla andezytowej obudowy."]
+	quest.7C2AADE731F3CA8F.quest_subtitle: "8x Ociosana kłoda (Stripped Log)"
+	quest.7C2AADE731F3CA8F.title: "Kora precz!"
+	quest.7D906E6F59EF726B.quest_desc: ["Złote blachy są podstawą dla mechanizmów precyzyjnych (Precision Mechanism) oraz procesorów sieciowych."]
+	quest.7D906E6F59EF726B.quest_subtitle: "16x Sztabka złota (Gold Ingot)"
+	quest.7D906E6F59EF726B.title: "Rudy Przemysłowe: Złoto"
+	quest.7FF173A78D72F662.quest_desc: [
+		"Stało się. Połączyłeś obudowę, koła zębate i stop andezytowy w jedną, działającą całość. Ta maszyna to Twój bilet do automatyzacji. Pozwoli Ci ona na bezwysiłkowe prasowanie żelaza na płyty, robienie blach i przetwarzanie surowców z wydajnością, o jakiej zwykły górnik może tylko pomarzyć."
+		""
+		"Era 0 oficjalnie zakończona. Witaj w Erze Pary i Żelaza!"
+	]
+	quest.7FF173A78D72F662.quest_subtitle: "Kamień Milowy Ery 0"
+	quest.7FF173A78D72F662.title: "Andesite Machine"
+}

@@ -1,0 +1,124 @@
+{
+	quest.00C26068B55F4FD9.quest_desc: ["Runa Ciszy całkowicie wyłącza dźwięki wydawane przez spawner oraz przyzywane z niego stworzenia. Idealne rozwiązanie do głośnych hal produkcyjnych!"]
+	quest.00C26068B55F4FD9.title: "Cisza na Hali!"
+	quest.0E02CE4469FCA4C9.quest_desc: ["Dodaje do spawnera wyłącznik zasilania. Po zaaplikowaniu tej runy spawner będzie działał wyłącznie wtedy, gdy doprowadzisz do niego sygnał Redstone."]
+	quest.0E02CE4469FCA4C9.title: "Sterowanie Redstone"
+	quest.0E90577AC72749C4.quest_desc: [
+		"&6Thundering Spawner Upgrade Rune&r to czwarty, ostateczny poziom ulepszenia spawnera (wymaga klejnotu Endersurge z wymiaru Endu):"
+		""
+		"• Minimalne i maksymalne opóźnienie: 20 ticków (1 sekunda!)"
+		"• Liczba mobów na cykl: 16"
+		"• Limit pobliskich bytów: 32"
+		"• Zasięg aktywacji gracza: 48 kratek"
+	]
+	quest.0E90577AC72749C4.title: "Runa Ulepszenia IV: Pinnacle"
+	quest.0F0E227FC3EC0D90.quest_desc: ["Alternatywne systemy przyzywania stworzeń oraz zestalania płynnego doświadczenia wspomagające automatyzację fabryki."]
+	quest.0F0E227FC3EC0D90.title: "Przemysłowe Spawnowanie"
+	quest.0F89BFD4A3F63A48.quest_desc: ["Sprawia, że spawner całkowicie ignoruje poziom oświetlenia – wrogie potwory będą pojawiać się nawet w pełnym świetle lamp, choć nadal obowiązują inne wymogi (np. trawa dla zwierząt hodowlanych)."]
+	quest.0F89BFD4A3F63A48.title: "Ignorowanie Światła"
+	quest.1102B27CBF564127.quest_desc: ["Dodatkowy moduł nakładany na spawner, który zapobiega znikaniu (despawnowaniu) przyzwanych mobów, gdy oddalisz się od swojej fabryki."]
+	quest.1102B27CBF564127.quest_subtitle: "Nie znikajcie mi stąd!"
+	quest.1102B27CBF564127.title: "Agitator Spawnera"
+	quest.167E1474644C9908.quest_desc: [
+		"Kwarc pozwala odwrócić działanie dowolnej runy modyfikującej."
+		""
+		"Trzymając Kwarc w drugiej ręce (Offhand), a runę w głównej dłoni, zaaplikujesz odwrotny efekt – np. zmniejszysz zasięg przyzywania zamiast go zwiększać."
+	]
+	quest.167E1474644C9908.title: "Odwrócenie Efektu: Kwarc"
+	quest.17410BE15A81DD96.quest_desc: [
+		"&9Wayfarer's Spawner Upgrade Rune&r to drugi poziom ulepszenia spawnera (do jej stworzenia możesz użyć dowolnego jajka przyzywającego):"
+		""
+		"• Minimalne opóźnienie: 100 ticków"
+		"• Maksymalne opóźnienie: 400 ticków"
+		"• Liczba mobów na cykl: 10"
+		"• Limit pobliskich bytów: 18"
+		"• Zasięg aktywacji gracza: 32 kratki"
+	]
+	quest.17410BE15A81DD96.title: "Runa Ulepszenia II: Ascent"
+	quest.17C87EB8ED8A27AB.quest_desc: ["Runy Spawnera stanowią bazowy komponent rzemieślniczy wymagany do wytwarzania podstawowych ulepszeń spawnerów."]
+	quest.17C87EB8ED8A27AB.quest_subtitle: "Podstawowe modyfikacje"
+	quest.17C87EB8ED8A27AB.title: "Runa Spawnera"
+	quest.186593EBCE3FE8D8.quest_desc: ["Zwiększa promień wokół spawnera, w którym mogą pojawiać się potwory (lub zmniejsza go, jeśli trzymasz Kwarc w drugiej ręce, co ułatwia budowę ciasnych komór zrzutowych)."]
+	quest.186593EBCE3FE8D8.title: "Zasięg Przyzywania"
+	quest.18E0F5A78F696FA3.quest_desc: ["Runa Echa nakłada specjalny efekt na spawner – wszystkie przyzwane przez niego stworzenia upuszczają zwielokrotnioną ilość łupów po śmierci."]
+	quest.18E0F5A78F696FA3.title: "Runa Echa (Echoing)"
+	quest.223A5BDB5056B781.quest_desc: ["Capturing to zaklęcie na miecze, które daje szansę (0,5% na każdy poziom zaklęcia, aż do poziomu VII) na wypadnięcie jajka przyzywającego z pokonanego potwora."]
+	quest.223A5BDB5056B781.title: "Zaklęcie: Capturing"
+	quest.2D8A7065F8CDDDDD.quest_desc: [
+		"Najprostszy sposób na pozyskanie jajek przyzywających dzięki Mob Grinding Utils!"
+		""
+		"Kliknij prawym przyciskiem myszy na wybranego moba za pomocą wymazówki (Mob Swab), połącz ją z nasionami i wiadrem płynnego XP w paszę GM Chicken Feed, a następnie nakarm nią kurczaka, by uzyskać gotowe jajko przyzywające."
+	]
+	quest.2D8A7065F8CDDDDD.title: "Inżynieria Genetyczna: Mob Swab"
+	quest.30EB438C66324213.quest_desc: ["Runa Samotności sprawia, że spawner nie wymaga już obecności gracza w pobliżu. Dopóki chunk ze spawnerem jest załadowany (np. przez FTB Chunks), produkcja trwa bez przerwy!"]
+	quest.30EB438C66324213.title: "Ignorowanie Gracza"
+	quest.310969B8FE0A94DE.quest_desc: [
+		"Dzięki modyfikacji Apothic Spawners możesz wydobyć dowolny spawner w świecie za pomocą kilofa z Jedwabnym Dotykiem (Silk Touch)."
+		""
+		"Wydobyty spawner można następnie ulepszać, klikając na niego prawym przyciskiem myszy z odpowiednimi runami modyfikującymi."
+	]
+	quest.310969B8FE0A94DE.title: "Inżynieria Spawnerów"
+	quest.321C15EBBE2D3D30.quest_desc: [
+		"Wysadzenie spawnera za pomocą TNT destabilizuje jego strukturę – przed zniszczeniem wyrzuci on z siebie falę potworów oraz pozostawi od 48 do 57 Łańcuchów Spawnera (Spawner Chains)."
+		""
+		"Łańcuchy te są podstawowym surowcem do wykuwania wszystkich run modyfikujących."
+	]
+	quest.321C15EBBE2D3D30.title: "Demontaż Wybuchowy: Łańcuchy"
+	quest.39E822440E7D2E04.quest_desc: [
+		"Entity Spawner z Mob Grinding Utils pozwala masowo przyzywać stworzenia na żądanie!"
+		""
+		"Do pracy wymaga trzech rzeczy: jajka przyzywającego w górnym slocie, paliwa &aSolid XP Baby&r (wytwarzanego z płynnego XP w urządzeniu XP Solidifier z formą Jelly Baby Mould) oraz sygnału Redstone."
+	]
+	quest.39E822440E7D2E04.quest_subtitle: "Spawner z Mob Grinding Utils"
+	quest.39E822440E7D2E04.title: "Entity Spawner i XP Solidifier"
+	quest.3F1430ADB648102F.quest_desc: [
+		"&aFrontiersman's Spawner Upgrade Rune&r to pierwszy poziom run ulepszających, które ustawiają wszystkie statystyki spawnera na sztywne wartości:"
+		""
+		"• Minimalne opóźnienie: 150 ticków"
+		"• Maksymalne opóźnienie: 600 ticków"
+		"• Liczba mobów na cykl (Spawn Count): 7"
+		"• Limit pobliskich bytów (Max Entities): 12"
+		"• Zasięg aktywacji gracza: 24 kratki"
+	]
+	quest.3F1430ADB648102F.title: "Runa Ulepszenia I: Frontier"
+	quest.40096ED0B04C3EC5.quest_desc: ["Sprawia, że spawner ignoruje niemal wszystkie wymogi środowiskowe: poziom światła, rodzaj podłoża oraz biom (nadal wymagana jest jedynie wolna przestrzeń fizyczna na pojawienie się moba)."]
+	quest.40096ED0B04C3EC5.title: "Ignorowanie Warunków"
+	quest.42D7C8CD8E6F5CD7.quest_desc: ["Runa Otępienia całkowicie wyłącza sztuczną inteligencję (AI) przyzywanych stworzeń. Moby nie poruszają się, nie teleportują i nie atakują, czekając na transport taśmociągiem."]
+	quest.42D7C8CD8E6F5CD7.title: "Wyłączenie AI (No AI)"
+	quest.4F7F8F4ED1CA0550.quest_desc: ["Runa Podpalenia sprawia, że wszystkie przyzywane przez spawner stworzenia pojawiają się od razu w płomieniach."]
+	quest.4F7F8F4ED1CA0550.title: "Runa Podpalenia"
+	quest.503AC506720FC59E.quest_desc: [
+		"Zaawansowane modyfikacje spawnerów wymagają &d&lInfuzji&r zwykłych run w Stole do Zaklinania."
+		""
+		"Wymagane parametry ołtarza: min. &a70 Eterna&r, &c30% Quanta&r oraz &550% Arcana&r."
+		""
+		"Osiągniesz je za pomocą jednego z poniższych układów:"
+		"• 14x &9Deepshelf&r (aktywnych)"
+		"• 13x &4Glowing Hellshelf&r + 2x &9Deepshelf&r"
+		"• 12x &bCrystalline Seashelf&r + 2x &9Deepshelf&r"
+	]
+	quest.503AC506720FC59E.quest_subtitle: "Zaawansowane modyfikacje"
+	quest.503AC506720FC59E.title: "Nasycona Runa Spawnera"
+	quest.6F71FD826C29C31A.quest_desc: ["Runa Młodości sprawia, że spawner przyzywa wyłącznie młode warianty stworzeń (działa z podstawowymi mobami z gry, które posiadają dziecięcą formę)."]
+	quest.6F71FD826C29C31A.title: "Runa Młodości"
+	quest.77A8E8122870BBCE.quest_desc: ["Niezniszczalna smycz z Apothic Enchanting. Choć nie jest jajkiem przyzywającym, pozwala schwytać żywego moba i bezpośrednio przypisać go do spawnera!"]
+	quest.77A8E8122870BBCE.quest_subtitle: "Bezpośredni transfer moba"
+	quest.77A8E8122870BBCE.title: "Okultystyczna Smycz Endu"
+	quest.78E94C386B1E7359.quest_desc: ["Zdobycie jajka przyzywającego (Spawn Egg) pozwala w dowolnym momencie zmienić typ potwora w spawnerze – wystarczy kliknąć jajkiem prawym przyciskiem myszy na blok spawnera."]
+	quest.78E94C386B1E7359.title: "Zmiana Zawartości: Jajka Przyzywające"
+	quest.7AC6A958936636D9.quest_desc: [
+		"&5Mountaineer's Spawner Upgrade Rune&r to trzeci poziom ulepszenia spawnera, wymagający trofeum z Wardena:"
+		""
+		"• Minimalne opóźnienie: 50 ticków"
+		"• Maksymalne opóźnienie: 200 ticków"
+		"• Liczba mobów na cykl: 13"
+		"• Limit pobliskich bytów: 24"
+		"• Zasięg aktywacji gracza: 40 kratek"
+	]
+	quest.7AC6A958936636D9.title: "Runa Ulepszenia III: Summit"
+	quest.7F6B66566C211735.quest_desc: ["Runa Osłabienia obniża początkowe zdrowie przyzywanych mobów (nawet do 20% ich maksymalnego HP), co znacznie przyspiesza pracę automatycznych mobfarm."]
+	quest.7F6B66566C211735.title: "Redukcja Zdrowia"
+	task.45250DA4433007C6.title: "Księgi Capturing"
+	task.524CBF7058496E7F.title: "Inne Spawnery"
+	task.55587BA32D30318C.title: "Jajka Przyzywające"
+}

@@ -1,0 +1,70 @@
+{
+	id: "4C7F2A91B83E5062"
+	loot_size: 1
+	order_index: 3
+	rewards: [
+		{
+			count: 4
+			id: "7C405793E6E3244E"
+			item: {
+				count: 1
+				id: "create:blaze_cake"
+			}
+			weight: 40.0f
+		}
+		{
+			count: 8
+			id: "34CAABE6E7028EB0"
+			item: {
+				count: 1
+				id: "minecraft:golden_apple"
+			}
+			weight: 40.0f
+		}
+		{
+			count: 16
+			id: "4BFCB10965DDAD1F"
+			item: {
+				count: 1
+				id: "apotheosis:gem_dust"
+			}
+			weight: 35.0f
+		}
+		{
+			count: 4
+			id: "545019FA0E417D71"
+			item: {
+				count: 1
+				id: "apotheosis:sigil_of_rebirth"
+			}
+			weight: 25.0f
+		}
+		{
+			count: 8
+			id: "2927E9BDC83C0235"
+			item: {
+				count: 1
+				id: "minecraft:experience_bottle"
+			}
+			weight: 30.0f
+		}
+		{
+			id: "14CAF66D9CAEA477"
+			item: {
+				count: 1
+				id: "minecraft:enchanted_golden_apple"
+			}
+			weight: 8.0f
+		}
+		{
+			count: 2
+			id: "45CE63DCE48003FB"
+			item: {
+				count: 1
+				id: "apotheosis:godforged_pearl"
+			}
+			weight: 5.0f
+		}
+	]
+	use_title: true
+}

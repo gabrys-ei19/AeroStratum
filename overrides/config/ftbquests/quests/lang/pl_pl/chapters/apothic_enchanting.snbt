@@ -1,0 +1,210 @@
+{
+	quest.001A348054127235.quest_desc: ["Dzięki &d&lInfuzji&r zwykłego Bloku Ametystu (przy &a60 Eterna&r, &c30–50% Quanta&r i &550% Arcana&r) stworzysz przenośny &5Budding Amethyst&r do hodowli kryształów!"]
+	quest.001A348054127235.title: "Tworzenie &5Budding Amethyst"
+	quest.0518551637F76C50.quest_desc: ["Ulepszenie &9Deepshelf&r świecami oraz Odłamkami Echa (Echo Shards) zapewnia &5+15% Arcana&r i podnosi limit Eterna do &a75&r."]
+	quest.0518551637F76C50.title: "&9Echoing Deepshelf"
+	quest.06F70F6CA37168CC.quest_desc: ["&6&oGem Case of House Fabergé&r powstaje przez infuzję zwykłego Gem Case i mieści do 2,1 miliarda sztuk każdego unikalnego klejnotu!"]
+	quest.06F70F6CA37168CC.quest_subtitle: "Gustav Fabergé byłby dumny"
+	quest.06F70F6CA37168CC.title: "&6&oGem Case of House Fabergé"
+	quest.091957223C32B094.quest_desc: ["Aby wejść w etap półek głębinowych (Deepshelves), podnieś limit &aMax Eterna&r do &a60&r, aktywując poziom świata &e&lAscent&r."]
+	quest.091957223C32B094.quest_subtitle: "Max Eterna: 60"
+	quest.091957223C32B094.title: "&e&lAscent&r do 60 Eterna"
+	quest.0A3C464EF7CDD5F6.quest_desc: [
+		"&4Hellshelves&r wprowadzają parametr &cQuanta&r – każda daje &a+3 Eterna&r oraz &c+3% Quanta&r."
+		""
+		"Do kolejnego kroku potrzebujesz 15 takich półek ustawionych wokół stołu oraz 1 sztuki w ekwipunku do przeprowadzenia infuzji."
+	]
+	quest.0A3C464EF7CDD5F6.title: "&4Hellshelves"
+	quest.0F3A0A4DC18E5E55.quest_desc: [
+		"&aEterna&r określa bazowy poziom zaklinania (siłę oferowanych zaklęć). Maksymalny limit Eterna zależy od Twojego aktualnego &lPoziomu Świata (World Tier)&r:"
+		""
+		"• &a30&r na poziomie &9&lHaven&r"
+		"• &a45&r na poziomie &2&lFrontier&r"
+		"• &a60&r na poziomie &e&lAscent&r"
+		"• &a75&r na poziomie &6&lSummit&r"
+		"• &a100&r na poziomie &4&lPinnacle&r"
+	]
+	quest.0F3A0A4DC18E5E55.title: "Parametr: &aEterna"
+	quest.105442DA79829777.quest_desc: ["Połączenie przedmiotu z &8Tome of Scrapping&r w kowadle pozwala odzyskać połowę jego zaklęć na księgę, niszcząc przy tym sam przedmiot."]
+	quest.105442DA79829777.quest_subtitle: "Połowa zaklęć, niszczy przedmiot"
+	quest.105442DA79829777.title: "&8Tome of Scrapping"
+	quest.1113BF457DB7F1DE.quest_desc: ["Poziom świata &6&lSummit&r podnosi Twój limit &aMax Eterna&r do &a75&r, co jest niezbędne do przeprowadzenia najtrudniejszych infuzji użytkowych."]
+	quest.1113BF457DB7F1DE.quest_subtitle: "Max Eterna: 75"
+	quest.1113BF457DB7F1DE.title: "Wspinaczka na &6&lSummit"
+	quest.148A33CC36B2563A.quest_desc: ["&dDraconic Endshelf&r wykuta z użyciem &dGłowy Smoka&r to jedyna półka pozwalająca osiągnąć ostateczny pułap &a100 Eterna&r!"]
+	quest.148A33CC36B2563A.title: "&dDraconic Endshelf"
+	quest.158F872A3A2C3650.quest_desc: [
+		"Mając dostęp do &a80 Eterna&r, możesz poddać infuzji &dOddech Smoka (Dragon's Breath)&r!"
+		""
+		"Wymagane parametry (&a80 Eterna&r, &c25% Quanta&r, &5100% Arcana&r) uzyskasz za pomocą: 4x &9Echoing Sculkshelf&r, 4x &9Soul-Touched Sculkshelf&r oraz 6x &6Geode-Encased Bookshelf of Stability&r."
+	]
+	quest.158F872A3A2C3650.title: "&dInfused Dragon's Breath"
+	quest.1617C1935F22FBD1.quest_desc: [
+		"Infuzja mitycznej perły &6Godforged Pearl&r przy pełnych &a100 Eterna&r, &c9,65–11% Quanta&r oraz &558,75–60% Arcana&r."
+		""
+		"Wymagany układ: 1x &dDraconic Endshelf&r, 6x &6Geode-Encased Bookshelf&r, 1x &9Echoing Sculkshelf&r, 5x &9Soul-Touched Sculkshelf&r, 1x &7Stoneshelf&r oraz 1 Świeca."
+	]
+	quest.1617C1935F22FBD1.quest_subtitle: "Alchemia boskich pereł"
+	quest.1617C1935F22FBD1.title: "&6God-Fused Pearl"
+	quest.1873205CF5247E3E.quest_desc: ["&dEndshelves&r tworzone z nasyconego oddechu smoka i cegieł Endu pozwalają podnieść poziom &aEterna&r aż do &a90&r!"]
+	quest.1873205CF5247E3E.title: "&dEndshelves"
+	quest.18AA64DF63F68762.quest_desc: ["Węzeł łączący ścieżkę Hellshelf i Seashelf przed przejściem na poziom Ascent."]
+	quest.18AA64DF63F68762.title: "Kolejna Brama"
+	quest.191A7F3C9FBA4C13.quest_desc: [
+		"Ulepszenie &bInfused Seashelf&r kryształami pryzmarynu daje &bCrystalline Seashelf&r (&a+5 Eterna&r, &5+5% Arcana&r, &c+3% Quanta&r)."
+		""
+		"12 takich półek wystarczy, aby nasycić &9Dormant Deepshelf&r!"
+	]
+	quest.191A7F3C9FBA4C13.title: "&bCrystalline Seashelf"
+	quest.1F748ACA3976A92F.quest_desc: ["Węzeł łączący ścieżkę Hellshelf lub Seashelf z wymogiem odblokowania poziomu świata Frontier."]
+	quest.1F748ACA3976A92F.title: "Wybór Ścieżki"
+	quest.1FAFDB20F504688E.quest_desc: [
+		"&5&lApothic Enchanting&r całkowicie przebudowuje mechanikę zaklinania."
+		""
+		"Zwykłe 15 biblioteczek to dopiero początek – nowe rodzaje półek pozwalają sterować trzema parametrami ołtarza (&aEterna&r, &cQuanta&r, &5Arcana&r) oraz przeprowadzać rytuały &d&lInfuzji&r!"
+	]
+	quest.1FAFDB20F504688E.title: "&5&lApothic Enchanting"
+	quest.224716A537F2FFA0.quest_desc: ["&8Armor Tomes&r losują wyłącznie zaklęcia przeznaczone dla konkretnego elementu pancerza (hełmu, napierśnika, nogawic lub butów)."]
+	quest.224716A537F2FFA0.title: "&8Armor Tomes"
+	quest.235E3C386E8D36A3.quest_desc: ["Tutaj ścieżki piekielna i morska łączą się w jedną! Wytwórz &9Dormant Deepshelf&r z łupku i książek, a następnie poddaj ją infuzji przy &a60 Eterna&r, &c40% Quanta&r i &540% Arcana&r (12x Crystalline Seashelf lub 13x Glowing Hellshelf)."]
+	quest.235E3C386E8D36A3.title: "&9Deepshelf"
+	quest.24391162F4FF0587.quest_desc: [
+		"Przy 15 półkach &bSeashelf&r wokół stołu przeprowadzisz infuzję tworzącą &bInfused Seashelf&r!"
+		""
+		"Każda daje &a+5 Eterna&r (do limitu &a60&r) oraz &5+5% Arcana&r."
+	]
+	quest.24391162F4FF0587.title: "&bInfused Seashelf"
+	quest.24C757B8AA6841F6.quest_desc: ["Wytwórz &3Inert Trident&r i poddaj go &d&lInfuzji&r (min. &a40 Eterna&r, &c20–50% Quanta&r, &535% Arcana&r), aby uzyskać pełnoprawny &3Trójząb&r!"]
+	quest.24C757B8AA6841F6.title: "Tworzenie &3Trójzębu"
+	quest.24FCFF18296ED907.quest_desc: [
+		"Wymaga bloków Sculku, katalizatora Sculku oraz trofeum &9Warden Tendril&r z pokonanego Wardena."
+		""
+		"Zapewnia aż &a+10 Eterna&r, &c+15% Quanta&r, &5+10% Arcana&r oraz podnosi limit Eterna do &a80&r!"
+	]
+	quest.24FCFF18296ED907.title: "&9Soul-Touched Sculkshelf"
+	quest.2EC2FA680076C07D.quest_desc: ["Druga z potężnych półek ze Sculku i &9Warden Tendril&r – zapewnia &a+10 Eterna&r, &c+10% Quanta&r, &5+15% Arcana&r oraz podnosi limit Eterna do &a80&r!"]
+	quest.2EC2FA680076C07D.title: "&9Echoing Sculkshelf"
+	quest.31E7F7464D79F881.quest_desc: ["Oprócz samych półek na książki, rytuałowi &d&lInfuzji&r możesz poddać także wiele przydatnych narzędzi, ksiąg i minerałów!"]
+	quest.31E7F7464D79F881.title: "Pozostałe Przedmioty z &d&lInfuzji&r"
+	quest.3311B79A8F6C6ADD.quest_desc: ["&6&lEnchanting Table of the Raven&r to ostateczny stół do zaklinania, w którym możesz swobodnie ustawiać wartości &aEterna&r, &cQuanta&r oraz &5Arcana&r bez konieczności stawiania jakichkolwiek półek wokół!"]
+	quest.3311B79A8F6C6ADD.quest_subtitle: "Rzekł Kruk: Nigdy więcej"
+	quest.3311B79A8F6C6ADD.title: "&6&lEnchanting Table of the Raven"
+	quest.377D6CF86BC1C64F.quest_desc: ["&8Tome of Superior Scrapping&r odzyskuje 100% zaklęć z przedmiotu w kowadle, choć sam przedmiot wciąż ulega zniszczeniu."]
+	quest.377D6CF86BC1C64F.quest_subtitle: "Wszystkie zaklęcia, niszczy przedmiot"
+	quest.377D6CF86BC1C64F.title: "&8Tome of Superior Scrapping"
+	quest.37E556B4A730E5AA.quest_desc: ["Zauważyłeś, że Twoja &aEterna&r zatrzymuje się na wartości &a30&r? Aby przekroczyć ten próg i osiągnąć &a45 Eterna&r, musisz odblokować poziom świata &2&lFrontier&r w menu &e[ CTRL + T ]&r!"]
+	quest.37E556B4A730E5AA.quest_subtitle: "Dlaczego Eterna staje na 30?"
+	quest.37E556B4A730E5AA.title: "Zew &2&lFrontier&r"
+	quest.3D31B94CC42BCE43.quest_desc: ["&8Tome of Extraction&r ściąga wszystkie zaklęcia z przedmiotu na księgę i pozostawia sam przedmiot w nienaruszonym stanie!"]
+	quest.3D31B94CC42BCE43.quest_subtitle: "Wszystkie zaklęcia, zachowuje przedmiot"
+	quest.3D31B94CC42BCE43.title: "&8Tome of Extraction"
+	quest.42746659C66CF17F.quest_desc: ["&6&oLibrary of Alexandria&r powstaje z infuzji zwykłej Biblioteki Zaklęć i zwiększa pojemność każdego zaklęcia z 32 tysięcy aż do 1,1 miliarda punktów!"]
+	quest.42746659C66CF17F.quest_subtitle: "Gdyby Aleksandria nigdy nie spłonęła..."
+	quest.42746659C66CF17F.title: "&6&oLibrary of Alexandria"
+	quest.43167C59036E79A7.quest_desc: ["&8Tool & Fishing Tomes&r losują wyłącznie zaklęcia wydobywcze (Wydajność, Szczęście, Jedwabny Dotyk) lub wędkarskie."]
+	quest.43167C59036E79A7.title: "&8Tool Tomes"
+	quest.45161821C221EF0B.quest_desc: [
+		"Przy 15 półkach &4Hellshelf&r wokół stołu uzyskasz &a45 Eterna&r i &c30% Quanta&r – dokładnie tyle, ile potrzeba do stworzenia &4Infused Hellshelves&r!"
+		""
+		"Każda nasycona półka daje &a+5 Eterna&r (z limitem do &a60&r) oraz &c+5% Quanta&r."
+	]
+	quest.45161821C221EF0B.title: "&4Infused Hellshelves"
+	quest.4E895C54651A3CB3.quest_desc: ["&8Księgi Specjalistyczne (Tomes)&r można zaklinać na stole tak jak zwykłe książki, ale przyjmują one wyłącznie zaklęcia z wybranej kategorii (np. tylko na napierśnik lub tylko na kilof)."]
+	quest.4E895C54651A3CB3.title: "&8&lKsięgi Specjalistyczne (Tomes)"
+	quest.4EE6824A970EEB35.quest_desc: ["Nasycanie run spawnerowych przy &a70 Eterna&r, &c30% Quanta&r oraz &550% Arcana&r na potrzeby zaawansowanych ulepszeń spawnerów."]
+	quest.4EE6824A970EEB35.title: "&d&lInfuzja&r Run Spawnera"
+	quest.516E66BE01EE5B31.quest_desc: ["&8Weapon & Bow Tomes&r losują wyłącznie zaklęcia bojowe dla mieczy i toporów lub broni dystansowej."]
+	quest.516E66BE01EE5B31.title: "&8Weapon Tomes"
+	quest.51E554305FFEBA1D.quest_desc: ["&4Blazing Hellshelf&r zapewnia solidny przyrost &aEterna&r oraz &cQuanta&r, choć do dalszych infuzji bardziej przyda się wariant świecący (Glowing)."]
+	quest.51E554305FFEBA1D.title: "&4Blazing Hellshelf"
+	quest.523DC411241B470A.quest_desc: [
+		"&6Geode-Encased Bookshelf of Stability&r całkowicie usuwa negatywne skutki wysokiego parametru &cQuanta&r – od teraz Quanta może jedynie podnosić siłę zaklęć!"
+		""
+		"Do jej stworzenia potrzebujesz biblioteczki, kalcytu oraz &5Budding Amethyst&r (który wytworzysz przez infuzję bloku ametystu)."
+	]
+	quest.523DC411241B470A.title: "&6Stabilizacja Quanta"
+	quest.586D5DE28EEC8014.quest_desc: [
+		"&cQuanta&r (domyślnie 15%, maks. 100%) określa losowe wahania końcowego poziomu zaklinania."
+		""
+		"Bez stabilizacji wysoka Quanta może zarówno mocno podbić, jak i obniżyć poziom zaklęcia. Po ustawieniu &6Geode-Encased Bookshelf of Stability&r negatywne wahania znikają, a Quanta działa wyłącznie na Twoją korzyść!"
+	]
+	quest.586D5DE28EEC8014.title: "Parametr: &cQuanta"
+	quest.5C73247A48E72FB3.quest_desc: ["Chcesz wykluczyć konkretne zaklęcie z losowania? Włóż księgę z niechcianym zaklęciem do &bFiltering Shelf&r ustawionej przy stole, a to zaklęcie nigdy więcej się nie pojawi!"]
+	quest.5C73247A48E72FB3.title: "Filtrowanie Puli Zaklęć"
+	quest.5DE45BC0258D1B0B.quest_desc: ["Wariant półki Endu wzmocniony prętami Endu i perłami, zapewniający wysoki przyrost statystyk do pułapu &a90 Eterna&r."]
+	quest.5DE45BC0258D1B0B.title: "&dPearlescent Endshelf"
+	quest.60850E717C747A78.quest_desc: ["Półki &9Sightshelf&r zwiększają liczbę widocznych zaklęć na liście podglądu przed zaklęciem przedmiotu."]
+	quest.60850E717C747A78.title: "&3Wskazówki Zaklęć: Sightshelf"
+	quest.61217D80BFF8A858.quest_desc: ["Trzeci, ostateczny wariant smyczy (&a75 Eterna&r, &c85% Quanta&r, &560–85% Arcana&r ze schwytaną Wiedźmą w środku). Jest całkowicie niezniszczalna i potrafi bezpośrednio przepisywać schwytane moby do spawnerów!"]
+	quest.61217D80BFF8A858.quest_subtitle: "Bezpośredni zapis mobów do spawnera"
+	quest.61217D80BFF8A858.title: "&5Occult Ender Lead"
+	quest.6220EDE42C813C1B.quest_desc: ["Masz dość zużywających się amuletów mikstur (&eCharms&r)? Przeprowadź ich &d&lInfuzję&r przy &a100 Eterna&r, &c8,5–13,5% Quanta&r oraz &532,5–37,5% Arcana&r, aby stały się całkowicie niezniszczalne!"]
+	quest.6220EDE42C813C1B.title: "Niezniszczalne &eAmulety"
+	quest.62D39F68DE6E44A4.quest_desc: ["&5Arcana&r (domyślnie 0%, maks. 100%) zwiększa liczbę otrzymywanych naraz zaklęć oraz sprawia, że rzadkie zaklęcia (takie jak Grabież czy Szczęście) pojawiają się znacznie częściej."]
+	quest.62D39F68DE6E44A4.title: "Parametr: &5Arcana"
+	quest.6852BEFDD4DE4E4B.quest_desc: ["Połączenie &9Deepshelf&r z latarnią dusz i blokami Sculku daje &9Soul-Touched Deepshelf&r (&c+15% Quanta&r oraz limit &a75 Eterna&r)."]
+	quest.6852BEFDD4DE4E4B.title: "&9Soul-Touched Deepshelf"
+	quest.6884E25641A1020C.quest_desc: [
+		"&5Enchantment Library&r to najlepsze archiwum na zaklęte księgi!"
+		""
+		"Wrzucaj do niej wszystkie znalezione księgi – biblioteka zamieni je na punkty i pozwoli jednym kliknięciem wyciągać gotowe kombinacje zaklęć aż do najwyższego odkrytego przez Ciebie poziomu (mieści do 32 768 punktów na każde zaklęcie)."
+	]
+	quest.6884E25641A1020C.title: "&5Enchantment Library"
+	quest.695889817162EFC7.quest_desc: ["Poddając &6Butelki Miodu&r rytuałowi &d&lInfuzji&r, przekształcisz je bezpośrednio w &aZaklęte Butelki z Doświadczeniem (Bottles o' Enchanting)&r!"]
+	quest.695889817162EFC7.title: "Wytwarzanie &aEXP&r?"
+	quest.6A07D09831428CB9.quest_desc: [
+		"Alternatywa dla ścieżki piekielnej! &bSeashelves&r wprowadzają parametr &5Arcana&r – każda daje &a+3 Eterna&r oraz &5+3% Arcana&r."
+		""
+		"Ustaw 15 sztuk wokół stołu, aby przygotować ołtarz do ich infuzji."
+	]
+	quest.6A07D09831428CB9.title: "&bSeashelves"
+	quest.6C2C135B9B7B9402.quest_desc: [
+		"&d&lInfuzja (Infusion)&r to specjalny rytuał wykonywany w Stole do Zaklinania."
+		""
+		"Gdy ustawisz wokół stołu półki dające odpowiednią kombinację &aEterna&r, &cQuanta&r oraz &5Arcana&r, włożony przedmiot przekształci się w nową, potężniejszą formę (dokładne wymagania zawsze sprawdzisz w EMI)."
+	]
+	quest.6C2C135B9B7B9402.title: "&l&dRytuał Infuzji"
+	quest.6C57D64518FF22C0.quest_desc: ["Księga przeznaczona na ogólne zaklęcia użytkowe, takie jak Niezniszczalność (Unbreaking)."]
+	quest.6C57D64518FF22C0.title: "&8Other Tome"
+	quest.70D2C5FAC661E01A.quest_desc: ["&bHeart-Forged Seashelf&r zapewnia ogromny przyrost parametru &5Arcana&r, niezwykle przydatny przy zaawansowanych infuzjach."]
+	quest.70D2C5FAC661E01A.title: "&bHeart-Forged Seashelf"
+	quest.73E09ED46A94B812.quest_desc: ["Ostatni poziom świata – &4&lPinnacle&r – odblokowuje maksymalny możliwy pułap &a100 Eterna&r na Twoim ołtarzu zaklinania!"]
+	quest.73E09ED46A94B812.quest_subtitle: "Max Eterna: 100"
+	quest.73E09ED46A94B812.title: "Szczyt Możliwości: &4&lPinnacle"
+	quest.784466C3813AA506.quest_desc: ["&5Flimsy Ender Lead&r pozwala złapać i przenieść w ekwipunku dowolne pasywne zwierzę (wytrzymuje 8 użyć)."]
+	quest.784466C3813AA506.title: "&5Flimsy Ender Lead"
+	quest.78BFDD3A9B996655.quest_desc: ["Wzmocniona smycz &5Ender Lead&r powstała przez infuzję (&a45 Eterna&r, &c25% Quanta&r, &540% Arcana&r) pozwala przenosić również wrogie potwory i wytrzymuje 64 użycia."]
+	quest.78BFDD3A9B996655.title: "&5Ender Lead"
+	quest.78E66F1DE42C747A.quest_desc: ["Zamiast przeszukiwać kolejne Pradawne Miasta, użyj &d&lInfuzji&r (przy &a70 Eterna&r, &c50% Quanta&r, &550% Arcana&r), aby przemienić 1 &9Echo Shard&r w 4 sztuki!"]
+	quest.78E66F1DE42C747A.title: "Nieskończone &9Echo Shards&r?"
+	quest.78FEDE6FA4845585.quest_desc: ["Niektóre rytuały &d&lInfuzji&r wymagają utrzymania parametrów w bardzo wąskim przedziale. Te trzy półki obniżają poszczególne wartości, pozwalając precyzyjnie dostroić ołtarz."]
+	quest.78FEDE6FA4845585.title: "&4Redukcja&r Parametrów"
+	quest.79AF63E77AD70A93.quest_desc: ["Zwykłe biblioteczki (&7Basic Bookshelves&r) pozwalają podnieść parametr &aEterna&r jedynie do wartości 15 (lub 30 przy większej ich liczbie). Czas poznać zaawansowane parametry stołu!"]
+	quest.79AF63E77AD70A93.title: "&2&lPodstawowe Biblioteczki&r to dopiero start"
+	quest.7C758209D06ED0E3.quest_desc: [
+		"Połączenie &4Infused Hellshelf&r z jasnopyłem daje &4Glowing Hellshelf&r, która oprócz Eterna i Quanta zapewnia również &5+3,33% Arcana&r."
+		""
+		"Ustawienie 13 sztuk pozwoli Ci nasycić &9Dormant Deepshelf&r!"
+	]
+	quest.7C758209D06ED0E3.title: "&4Glowing Hellshelf"
+	quest.7C9D9D1C054874A7.quest_desc: [
+		"Kompletna konfiguracja dająca maksymalne &a100 Eterna&r, &c100% Quanta&r (bez negatywnych wahań) oraz &5100% Arcana&r:"
+		""
+		"• 5x &9Soul-Touched Sculkshelf&r"
+		"• 5x &9Echoing Sculkshelf&r"
+		"• 1x &dDraconic Endshelf&r"
+		"• 1x &6Geode-Encased Bookshelf of Stability&r"
+		"• 1x &6Treasure Shelf&r (odblokowuje zaklęcia skarbów, np. Mending)"
+	]
+	quest.7C9D9D1C054874A7.quest_subtitle: "Perfekcyjny ołtarz zaklęć"
+	quest.7C9D9D1C054874A7.title: "&6&lNajlepszy Układ Półek"
+	quest.7F007C888C23EC42.quest_desc: ["&5Gem Case&r mieści do 32 768 sztuk każdego rodzaju i czystości klejnotu Apotheosis oraz pozwala ulepszać klejnoty bezpośrednio w swoim oknie za pomocą pyłu i materiałów rzadkości!"]
+	quest.7F007C888C23EC42.title: "&5Gem Case"
+	task.3D62C020980A2DEC.title: "Biblioteczki"
+	task.432FCFECDAA542F1.title: "Biblioteczki"
+	task.4644C76CEC129AA4.title: "Trwałe Amulety"
+	task.52C6DC68BF096122.title: "Księgi Broni"
+	task.598F1FCB5B5ED8FC.title: "Księgi Narzędzi"
+	task.5AB4C41B6800D7FA.title: "Księgi Pancerza"
+	task.79FB7E7194336B30.title: "Stoły do Zaklinania"
+}

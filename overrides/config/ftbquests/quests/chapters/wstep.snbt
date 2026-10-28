@@ -1,0 +1,250 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "circle"
+	filename: "wstep"
+	group: ""
+	icon: {
+		components: {
+			"minecraft:damage": 0
+			"minecraft:fire_resistant": { }
+			"minecraft:item_name": "{\"translate\":\"item.silentgear.elytra.nameProper\",\"with\":[{\"translate\":\"material.silentgear.crimson_steel\"}]}"
+			"silentgear:construction": {
+				broken_count: 0
+				example: 0b
+				parts: [
+					{
+						item: {
+							components: {
+								"silentgear:material_list": [{
+									item: {
+										count: 1
+										id: "silentgear:crimson_steel_ingot"
+									}
+									material: "silentgear:crimson_steel"
+								}]
+							}
+							count: 1
+							id: "silentgear:elytra_wings"
+						}
+						part: "silentgear:elytra_wings"
+					}
+					{
+						item: {
+							components: {
+								"silentgear:material_list": [{
+									item: {
+										count: 1
+										id: "minecraft:string"
+									}
+									material: "silentgear:string"
+								}]
+							}
+							count: 1
+							id: "silentgear:binding"
+						}
+						part: "silentgear:binding"
+					}
+				]
+				repairedCount: 0
+			}
+			"silentgear:model_index": 3
+			"silentgear:model_key": "elytra:elytra_wings{crimson_steel},binding{string},"
+			"silentgear:properties": {
+				"silentgear:armor": 4.200001f
+				"silentgear:armor_durability": 42.0f
+				"silentgear:armor_toughness": 10.0f
+				"silentgear:charging_value": 0.9f
+				"silentgear:durability": 2400.0f
+				"silentgear:enchantment_value": 19.0f
+				"silentgear:knockback_resistance": 0.0f
+				"silentgear:magic_armor": 10.0f
+				"silentgear:rarity": 83.0f
+				"silentgear:repair_efficiency": 1.05f
+				"silentgear:repair_value": 0.5f
+				"silentgear:traits": [
+					{
+						conditions: [ ]
+						level: 5
+						trait: "silentgear:malleable"
+					}
+					{
+						conditions: [ ]
+						level: 1
+						trait: "silentgear:flame_ward"
+					}
+					{
+						conditions: [ ]
+						level: 1
+						trait: "silentgear:flexible"
+					}
+				]
+			}
+		}
+		id: "silentgear:elytra"
+	}
+	id: "78F4F7FE4BE6E101"
+	images: [
+		{
+			click_action: "none:"
+			height: 5.0d
+			id: "147BB4DE96CB3E62"
+			image: "cataclysm:textures/entity/leviathan/dimensional_rift/abyss_black_hole_idle4.png"
+			rotation: 12.0d
+			width: 5.0d
+			x: 1.0d
+			y: 5.5d
+		}
+		{
+			click_action: "none:"
+			height: 1.0d
+			id: "62FE0588E5E59F3A"
+			image: "chipped:block/redstone_torch/yellow_redstone_torch_on"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: 0.5d
+		}
+		{
+			click_action: "none:"
+			height: 2.0d
+			id: "42199C3B42A5F005"
+			image: "numismatics:item/coin/crown"
+			rotation: 0.0d
+			width: 2.0d
+			x: -2.5d
+			y: 0.5d
+		}
+		{
+			click_action: "none:"
+			height: 2.5d
+			id: "35A411AD25E86245"
+			image: "numismatics:item/coin/sun"
+			rotation: -3.3d
+			width: 2.5d
+			x: -1.5d
+			y: 2.0d
+		}
+		{
+			click_action: "none:"
+			height: 1.0d
+			id: "532642BF2B2CA6E2"
+			image: "createfood:item/cheeseburger_tomato"
+			rotation: -7.0d
+			width: 1.0d
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			click_action: "none:"
+			height: 1.0d
+			id: "2955737BAECB144C"
+			image: "comforts:item/sleeping_bag_green"
+			rotation: 7.0d
+			width: 1.0d
+			x: 0.5d
+			y: -1.5d
+		}
+	]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "7ED4C6E89007F931"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "70B74E666DF2B32A"
+					table_id: 5590484048984769027L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2152BC9F645DAB12"
+					table_id: 366852337625127333L
+					type: "choice"
+				}
+			]
+			tasks: [{
+				id: "23009876BE4DC57E"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["7ED4C6E89007F931"]
+			id: "243D55E17CC9B04A"
+			rewards: [{
+				count: 16
+				id: "3DDEE7E59F12E562"
+				item: {
+					count: 1
+					id: "minecraft:torch"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "761309C31F417035"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7ED4C6E89007F931"]
+			id: "083ED9A55CB6F690"
+			rewards: [{
+				count: 2
+				id: "2FD01464AB9936FD"
+				item: {
+					count: 1
+					id: "numismatics:spur"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "3F60C7E390541081"
+				type: "checkmark"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7ED4C6E89007F931"]
+			id: "31FE06D7BD761156"
+			rewards: [{
+				count: 2
+				id: "2B18236966AB0B3B"
+				item: {
+					count: 1
+					id: "numismatics:bevel"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "6062FD4E5796C25B"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["7ED4C6E89007F931"]
+			id: "0961A1F2AC4E3A5B"
+			rewards: [{
+				id: "7FE8760301DFFB9B"
+				item: {
+					count: 1
+					id: "minecraft:enchanted_golden_apple"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "7ABFE3ABB2631996"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 5.5d
+		}
+	]
+}

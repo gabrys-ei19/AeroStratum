@@ -1,0 +1,151 @@
+{
+	quest.001C1881E9289566.quest_desc: [
+		"&9Rare (Rzadki)&r to środkowa klasa rzadkości, dominująca na poziomie świata &eAscent&r."
+		""
+		"&9Luminous Crystal Shards&r pozyskasz poprzez rozbiórkę rzadkich przedmiotów na &c&lStole Rozbiórki&r."
+	]
+	quest.001C1881E9289566.quest_subtitle: "&9Rare"
+	quest.001C1881E9289566.title: "&9Luminous Crystal Shard"
+	quest.0089A394566B0F3B.quest_desc: [
+		"&aUncommon (Niepospolity)&r to druga klasa rzadkości, najczęstsza na poziomie świata &2Frontier&r."
+		""
+		"&aTimeworn Fabric&r pozyskasz poprzez rozbiórkę niepospolitego ekwipunku na &c&lStole Rozbiórki&r."
+	]
+	quest.0089A394566B0F3B.quest_subtitle: "&aUncommon"
+	quest.0089A394566B0F3B.title: "&aTimeworn Fabric"
+	quest.097FDC136BC843A7.quest_desc: [
+		"Poziom &6&lSummit&r wymaga założenia pełnego rynsztunku rangi &9Rare&r (lub wyższej) oraz pokonania &0&lWithera&r."
+		""
+		"• Odblokowuje łupy &6Mythic&r oraz klejnoty &zPerfect&r!"
+		"• Premie gracza: +75% XP, +50% Szczęścia, limit &a75 Eterna&r"
+		"• Wzmocnienie potworów: +12 Pancerza, +10 Wytrzymałości Zbroi, +15 Przebicia"
+	]
+	quest.097FDC136BC843A7.title: "&lWorld Tier: &6Summit"
+	quest.099C2A9B9CA138F8.quest_desc: [
+		"&6Mythic (Mityczny)&r to najwyższa klasa przedmiotów, dostępna wyłącznie na poziomach świata &6Summit&r oraz &4Pinnacle&r!"
+		""
+		"&6Godforged Pearls&r pozyskasz z rozbiórki mitycznego rynsztunku na &c&lStole Rozbiórki&r."
+	]
+	quest.099C2A9B9CA138F8.quest_subtitle: "&6Mythic"
+	quest.099C2A9B9CA138F8.title: "&6Godforged Pearl"
+	quest.1403D677CF2815C3.quest_desc: ["Ulepszony &5&lReforging Table&r przełamuje ograniczenia podstawowego stołu, pozwalając przekuwać przedmioty z użyciem materiałów &5Epic&r oraz &6Mythic&r!"]
+	quest.1403D677CF2815C3.title: "(Ulepszony) &5&lReforging Table&r"
+	quest.166CE4243896A0CD.quest_desc: ["Chcesz zwiększyć moc swoich klejnotów? Na &a&lStole Szlifierskim (Gem Cutting Table)&r połączysz dwa identyczne klejnoty tej samej jakości z pyłem klejnotów i materiałami rzadkości, podnosząc ich czystość aż do rangi &zPerfect&r!"]
+	quest.166CE4243896A0CD.title: "Szlifowanie &aKlejnotów"
+	quest.16C74B5F99AD6724.quest_desc: [
+		"&8Common (Zwykły)&r to najbardziej podstawowa klasa rzadkości, powszechna na poziomie świata &9Haven&r."
+		""
+		"&8Mysterious Scrap Metal&r pozyskasz, rozbierając zwykłe przedmioty na &c&lStole Rozbiórki&r."
+	]
+	quest.16C74B5F99AD6724.quest_subtitle: "&8Common"
+	quest.16C74B5F99AD6724.title: "&8Mysterious Scrap Metal"
+	quest.196312DF0D2E2CB6.quest_desc: [
+		"&4Najeźdźcy (Invaders)&r to mini-bossowie Apotheosis pojawiający się w każdym wymiarze i upuszczający klejnoty oraz przedmioty z afiksami."
+		""
+		"Ich siła oraz jakość łupów zależą od wybranego &lPoziomu Świata (World Tier)&r! Menu Poziomów Świata otworzysz w każdej chwili skrótem &e[ CTRL + T ]&r."
+	]
+	quest.196312DF0D2E2CB6.title: "&4Najeźdźcy&r i &lPoziomy Świata"
+	quest.1CD05CB4A3DB112A.quest_desc: ["&c&lStół Rozbiórki (Salvaging Table)&r pozwala przetwarzać niepotrzebne klejnoty w pył oraz rozbierać znaleziony ekwipunek z afiksami na surowce rzemieślnicze odpowiadające jego rzadkości."]
+	quest.1CD05CB4A3DB112A.title: "&c&lSalvaging Table"
+	quest.1D1FAA2F86695781.quest_desc: [
+		"Aby przejść na poziom &e&lAscent&r, cały Twój założony ekwipunek musi być rangi &aUncommon&r (lub wyższej), a ponadto musisz pokonać przynajmniej jednego &4Najeźdźcę (Invader)&r."
+		""
+		"• Premie gracza: +55% XP, +30% Szczęścia, limit &a60 Eterna&r"
+		"• Wzmocnienie potworów: +8 Pancerza, +5 Przebicia Pancerza"
+	]
+	quest.1D1FAA2F86695781.title: "&lWorld Tier: &eAscent"
+	quest.2002C7EB13626AE7.quest_desc: [
+		"&6Sigil of Enhancement&r stanowi paliwo dla &6&lStołu Augmentacji&r."
+		""
+		"Każde przelosowanie pojedynczego afiksu kosztuje 1 pieczęć, a jego ulepszenie na wyższy poziom – 2 pieczęcie."
+	]
+	quest.2002C7EB13626AE7.title: "&6Sigil of Enhancement"
+	quest.22E57BF23B9BA2C5.quest_desc: ["Zgromadź zapas pyłu klejnotów potrzebny do zaawansowanego rzemiosła na wyższych poziomach świata."]
+	quest.22E57BF23B9BA2C5.title: "Rezerwy Pyłu Klejnotów"
+	quest.24D11ED5F4EEDC48.quest_desc: [
+		"Aby osadzić klejnot w broni lub zbroi, przedmiot musi posiadać wolne &9Gniazdo (Socket)&r."
+		""
+		"Połącz swój przedmiot z &9Sigil of Socketing&r w &8&lStole Kowalskim&r, aby odblokować w nim dodatkowe gniazdo na klejnot!"
+	]
+	quest.24D11ED5F4EEDC48.title: "&9Sigil of Socketing"
+	quest.29EA8E178F8F8FDB.quest_desc: [
+		"&9&lSimple Reforging Table&r pozwala nadawać nowe &eAfiksy&r na dowolną broń, narzędzie lub zbroję!"
+		""
+		"Umieść przedmiot na środku, materiał rzadkości po lewej stronie oraz &dSigil of Rebirth&r po prawej. Ten stół obsługuje materiały aż do rangi &9Rare&r."
+	]
+	quest.29EA8E178F8F8FDB.title: "&9&lSimple Reforging Table"
+	quest.2A032EC573B5316C.quest_desc: [
+		"Aby odblokować poziom &2&lFrontier&r, załóż pełny zestaw pancerza z afiksami oraz weź do ręki broń lub narzędzie z afiksem, a następnie aktywuj poziom w menu &e[ CTRL + T ]&r."
+		""
+		"• Premie gracza: +35% XP, +20% Szczęścia, limit &a45 Eterna&r"
+		"• Wzmocnienie potworów: +4 Pancerza"
+	]
+	quest.2A032EC573B5316C.title: "&lWorld Tier: &2Frontier"
+	quest.2E5E129F25707C5D.quest_desc: [
+		"&6Sigil of Supremacy&r to korona kowalstwa Apotheosis!"
+		""
+		"W przeciwieństwie do Sigil of Malice, ta pieczęć wzmacnia JEDNOCZEŚNIE każdy afiks na wybranym przedmiocie i nie resetuje żadnej statystyki w trakcie procesu!"
+	]
+	quest.2E5E129F25707C5D.title: "&6Sigil of Supremacy"
+	quest.377A41499D8218C9.quest_desc: [
+		"Pierwszym poziomem świata jest &9&lHaven&r. Odblokujesz go automatycznie, biorąc do ręki dowolny przedmiot z afiksem."
+		""
+		"• Najczęstsze łupy: &8Common&r oraz &aUncommon&r"
+		"• Maksymalna &aEterna&r: &a30&r"
+		"• Na tym poziomie &4Najeźdźcy&r nie pojawiają się jeszcze naturalnie."
+	]
+	quest.377A41499D8218C9.title: "&lWorld Tier: &9Haven"
+	quest.38956DC28E317DEF.quest_desc: ["&dSigil of Rebirth&r stanowi katalizator dla wszystkich &9&lStołów Przekuwania (Reforging Tables)&r przy nadawaniu nowych afiksów na ekwipunek."]
+	quest.38956DC28E317DEF.title: "&dSigil of Rebirth"
+	quest.3BF5B8DE7A1CC4D7.quest_desc: [
+		"Potężny rynsztunek w Apotheosis zaczyna się od &aKlejnotów (Gems)&r!"
+		""
+		"Klejnoty wypadają rzadko ze zwykłych potworów oraz gwarantowanie z bossów zwanych &4Najeźdźcami (Invaders)&r. Po osadzeniu w gniazdach broni lub pancerza zapewniają potężne bonusy."
+	]
+	quest.3BF5B8DE7A1CC4D7.title: "&6&lPrzygoda z Apoteozą"
+	quest.45647395169978ED.quest_desc: [
+		"Aby uzyskać &9Pył Klejnotów (Gem Dust)&r, rzuć niepotrzebne klejnoty na ziemię i spuść na nie spadające &7&lKowadło&r!"
+		""
+		"Zdobytą mączkę wykorzystasz do budowy Stołu Rozbiórki, Stołu Przekuwania oraz wytwarzania pieczęci."
+	]
+	quest.45647395169978ED.title: "&9Gem Dust"
+	quest.4E9DDDBD8263D0E3.quest_desc: ["Jeśli Twój przedmiot z afiksami ma zbyt długą i nieczytelną nazwę, połącz go z &7Sigil of Unnaming&r w &8&lStole Kowalskim&r – usunie to przydomki afiksów, zostawiając sam kolor rzadkości i nazwę bazową."]
+	quest.4E9DDDBD8263D0E3.title: "&7Sigil of Unnaming"
+	quest.552BA5E6FA987256.quest_desc: [
+		"&cSigil of Malice&r to tajemnicza pieczęć zdobywana z pokonanych &4Najeźdźców&r."
+		""
+		"Użyta w &8&lStole Kowalskim&r przeciąża losowy afiks na przedmiocie ponad normalny limit, ale w zamian całkowicie zeruje inny losowy afiks (który możesz później uratować na Stole Augmentacji)."
+	]
+	quest.552BA5E6FA987256.title: "&cSigil of Malice"
+	quest.57BB2CC6D9D2AE87.quest_desc: [
+		"&6&lAugmenting Table&r to narzędzie do tworzenia perfekcyjnego rynsztunku!"
+		""
+		"Zasilany za pomocą &6Sigils of Enhancement&r, pozwala oglądać każdy afiks z osobna, wymieniać pojedyncze statystyki lub podnosić ich moc do maksimum."
+	]
+	quest.57BB2CC6D9D2AE87.title: "&6&lAugmenting Table"
+	quest.6667638252DB9C74.quest_desc: ["&8Pieczęcie (Sigils)&r służą do modyfikowania ekwipunku z afiksami – pozwalają dodawać gniazda, wyciągać klejnoty oraz ulepszać statystyki w Stole Kowalskim, Stole Przekuwania lub Stole Augmentacji."]
+	quest.6667638252DB9C74.quest_subtitle: "Baza pod pieczęcie"
+	quest.6667638252DB9C74.title: "&8Gem-Fused Slate i Pieczęcie"
+	quest.6B5B01C612951BAF.quest_desc: ["Wykuj mityczne perły &6Godforged Pearl&r oraz łupki &8Gem-Fused Slate&r, przygotowując się do stworzenia ostatecznej pieczęci."]
+	quest.6B5B01C612951BAF.title: "Mistrzowskie Zasoby Apoteozy"
+	quest.6EF206A0BD5BAC0A.quest_desc: [
+		"&5Epic (Epicki)&r to wysoka klasa rzadkości, pojawiająca się od poziomu &2Frontier&r i powszechna na poziomach &6Summit&r oraz &4Pinnacle&r."
+		""
+		"&5Arcane Sands&r pozyskasz z rozbiórki epickich przedmiotów na &c&lStole Rozbiórki&r."
+	]
+	quest.6EF206A0BD5BAC0A.quest_subtitle: "&5Epic"
+	quest.6EF206A0BD5BAC0A.title: "&5Arcane Sands"
+	quest.7C90008081DEBECA.quest_desc: ["Gdy masz już narzędzie z wolnym &9Gniazdem (Socket)&r oraz odpowiedni &aKlejnot (Gem)&r, połącz je ze sobą w zwykłym &8&lStole Kowalskim&r!"]
+	quest.7C90008081DEBECA.title: "Osadzanie &aKlejnotów"
+	quest.7CB03F92F9ECEFFB.quest_desc: ["Koniec z wyborem między ratowaniem narzędzia a klejnotu! Połącz przedmiot z &aSigil of Withdrawal&r w &8&lStole Kowalskim&r, aby bezpiecznie wyjąć osadzone w nim klejnoty i zachować oba elementy."]
+	quest.7CB03F92F9ECEFFB.title: "&aSigil of Withdrawal"
+	quest.7EF873DCEB3B9D48.quest_desc: [
+		"Ostateczny poziom świata – &4&lPinnacle&r! Wymaga pokonania &d&lSmoka Endu&r oraz założenia pełnego ekwipunku rangi &5Epic&r lub &6Mythic&r."
+		""
+		"• Premie gracza: +125% XP, +100% Szczęścia, maksymalny limit &a100 Eterna&r!"
+		"• Wzmocnienie potworów: +16 Pancerza, +20 Wytrzymałości Zbroi, +25 Przebicia"
+	]
+	quest.7EF873DCEB3B9D48.title: "&lWorld Tier: &4Pinnacle"
+	task.1F073FD0F4A296A3.title: "Pył Klejnotów"
+	task.67D884FA6DD22065.title: "Dowolny Klejnot Apotheosis"
+}

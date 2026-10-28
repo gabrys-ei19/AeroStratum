@@ -1,0 +1,199 @@
+{
+	quest.002D65E4D7E8F62B.quest_desc: ["Katalizator 2. poziomu do urządzenia Material Grader, pozwalający osiągać wyższe oceny surowców."]
+	quest.002D65E4D7E8F62B.title: "Katalizator Gradera II: Blazing Dust"
+	quest.00A1223DAAEB28BD.quest_desc: ["Forma do odlewania metalowych prętów konstrukcyjnych."]
+	quest.00A1223DAAEB28BD.title: "Forma: Pręt (Rod Cast)"
+	quest.0251715AB65D8151.quest_desc: ["Forma do odlewania klejnotów i kryształów na stole odlewniczym."]
+	quest.0251715AB65D8151.title: "Forma: Klejnot (Gem Cast)"
+	quest.036D5767E07005BC.quest_desc: ["&bFoundry Drain&r pozwala wyprowadzać stopiony metal na zewnątrz pieca. Zamontuj na nim kranik (&7Foundry Tap&r) lub podłącz rury płynowe!"]
+	quest.036D5767E07005BC.title: "&c&lFoundry&r &bDrains"
+	quest.047F3F99035CE623.quest_desc: ["Forma do odlewania młotka geologicznego wykrywającego złoża rud w ścianach jaskiń."]
+	quest.047F3F99035CE623.quest_subtitle: "Poszukiwacz złóż"
+	quest.047F3F99035CE623.title: "Forma: Młotek Geologa (Prospector Hammer)"
+	quest.061A51A0EC13CA0F.quest_desc: [
+		"Aby zamknąć strukturę wieloblokową Odlewni:"
+		""
+		"1. Ułóż podłogę z bloków grzewczych &6Liquid Heating Coils&r."
+		"2. Wznieś 4 ściany wokół podłogi (narożniki mogą pozostać puste) z cegieł &cFire Bricks&r lub okien &cFoundry Windows&r."
+		"3. Wmontuj w ściany &aController&r, &4Tank&r oraz &bDrain&r."
+		""
+		"Gdy struktura jest poprawna, kontroler zapali się, a grzałki na dnie zmienią kolor na pomarańczowy!"
+	]
+	quest.061A51A0EC13CA0F.title: "Budowa &c&lOdlewni (Foundry)&r"
+	quest.083ABBA1C45FF960.quest_desc: ["Forma do odlewania sierpa ścinającego plony i wysoką trawę na dużym obszarze."]
+	quest.083ABBA1C45FF960.quest_subtitle: "Żniwa pełną parą"
+	quest.083ABBA1C45FF960.title: "Forma: Sierp (Sickle Cast)"
+	quest.0947B4ED95B0267E.quest_desc: ["Powłoka ochronna (Coating) nakładana na wierzch gotowej broni lub narzędzia (np. powłoka z netherytu)."]
+	quest.0947B4ED95B0267E.quest_subtitle: "Zewnętrzna warstwa ochronna"
+	quest.0947B4ED95B0267E.title: "Szablon: Powłoka (Coating Blueprint)"
+	quest.0D26E5EF6CFCFDBF.quest_desc: ["Forma do odlewania ostrza noża – wysoka wytrzymałość i szybkie cięcia."]
+	quest.0D26E5EF6CFCFDBF.quest_subtitle: "Krótkie ostrze"
+	quest.0D26E5EF6CFCFDBF.title: "Forma: Nóż (Knife Cast)"
+	quest.0DF4B01CC5B49E4E.quest_desc: ["Forma do odlewania klasycznej głowni miecza – zrównoważone obrażenia i prędkość ataku."]
+	quest.0DF4B01CC5B49E4E.quest_subtitle: "Niezawodny klasyk"
+	quest.0DF4B01CC5B49E4E.title: "Forma: Miecz (Sword Cast)"
+	quest.0EF9F10A2178451F.quest_desc: ["Wszystkie cegły i bloki konstrukcyjne odlewni można barwić na dowolny kolor – poszczególne kolory można też swobodnie mieszać w jednej strukturze!"]
+	quest.0EF9F10A2178451F.title: "&zKolorowe Bloki &c&lOdlewni&r"
+	quest.0FEAD3CA2CC4A8B1.quest_desc: ["Katalizator 3. poziomu pozwalający nałożyć najwyższy stopień gwiezdnego naładowania."]
+	quest.0FEAD3CA2CC4A8B1.title: "Katalizator Gwiezdny III: Starmetal Dust"
+	quest.11B0B93D725ABE43.quest_desc: [
+		"Narzędzia z Silent Gear naprawisz w każdej chwili bez kowadła za pomocą &9Repair Kit&r!"
+		""
+		"Połącz zestaw naprawczy z surowcami w siatce rzemieślniczej, aby go napełnić, a następnie połącz go z uszkodzonym narzędziem."
+	]
+	quest.11B0B93D725ABE43.quest_subtitle: "Naprawa w terenie bez kowadła"
+	quest.11B0B93D725ABE43.title: "Zestaw Naprawczy (Repair Kit)"
+	quest.158B24939A269D83.quest_desc: ["Okucie końcówki (Tip Upgrade) pozwala podnieść poziom wydobycia gotowego narzędzia – np. nałożenie diamentowej końcówki na żelazny kilof pozwoli nim kopać obsydian!"]
+	quest.158B24939A269D83.quest_subtitle: "Gdy masz tylko 1 diament"
+	quest.158B24939A269D83.title: "Forma: Końcówka (Tip Cast)"
+	quest.1E2F1E036716C031.quest_desc: ["Forma do odlewania widełek procy miotającej drobnymi kamykami."]
+	quest.1E2F1E036716C031.title: "Forma: Proca (Slingshot Cast)"
+	quest.1E8357755479E259.quest_desc: ["Forma do odlewania korpusu kuszy o dużej sile przebicia."]
+	quest.1E8357755479E259.title: "Forma: Kusza (Crossbow Cast)"
+	quest.2098D8BFADB55D2A.quest_desc: ["Szablon wyściółki pancerza dodającej miękką warstwę ochronną wewnątrz zbroi."]
+	quest.2098D8BFADB55D2A.title: "Szablon: Wyściółka (Lining Blueprint)"
+	quest.21234BB40DB05C78.quest_desc: ["Forma do odlewania bransolet wzmacniających statystyki postaci."]
+	quest.21234BB40DB05C78.title: "Forma: Bransoleta (Bracelet Cast)"
+	quest.2156C00E30424844.quest_desc: ["&4Foundry Tank&r to zbiornik paliwowy odlewni – wypełnij go &cLawą&r, aby zasilić grzałki w podłodze pieca."]
+	quest.2156C00E30424844.title: "&l&cFoundry&r &4Tanks"
+	quest.222D08F43B995FED.quest_desc: ["Forma do odlewania głowicy modułowego trójzębu z wybranych stopów metali."]
+	quest.222D08F43B995FED.quest_subtitle: "Władca mórz"
+	quest.222D08F43B995FED.title: "Forma: Trójząb (Trident Cast)"
+	quest.22A0A9C81A5C85A1.quest_desc: ["Szablon wiązania spajającego głowicę narzędzia z trzonkiem."]
+	quest.22A0A9C81A5C85A1.quest_subtitle: "Spaja wszystko w całość"
+	quest.22A0A9C81A5C85A1.title: "Szablon: Wiązanie (Binding Blueprint)"
+	quest.22C51025DC42CDE2.quest_desc: ["Forma do odlewania płyt nogawic."]
+	quest.22C51025DC42CDE2.title: "Forma: Nogawice (Leggings Cast)"
+	quest.262036FE8E87F50A.quest_desc: ["Forma do odlewania ciężkiego młota górniczego kopiącego skały w obszarze 3x3!"]
+	quest.262036FE8E87F50A.quest_subtitle: "Kopanie 3x3"
+	quest.262036FE8E87F50A.title: "Forma: Młot (Hammer Cast)"
+	quest.26F9DB31A835B69C.quest_desc: ["Zamontuj &7Foundry Tap&r na bloku odpływu (&bDrain&r), a bezpośrednio pod kranikiem ustaw &8Casting Table&r (do odlewania sztabek i części narzędzi) lub &8Casting Basin&r (do odlewania pełnych bloków metali)."]
+	quest.26F9DB31A835B69C.title: "Stacje Odlewnicze"
+	quest.29131C3532610ADF.quest_desc: ["Zwieńczenie filarów 2. poziomu (Tier 2 Pillar Cap) dla struktury Starlight Charger."]
+	quest.29131C3532610ADF.title: "Głowica Filaru II: Azure Electrum"
+	quest.2BF119DD5D977409.quest_desc: ["Katalizator 2. poziomu wymagany do gwiezdnego ładowania w Starlight Charger."]
+	quest.2BF119DD5D977409.title: "Katalizator Gwiezdny II: Azure Silver Dust"
+	quest.2EB96FF06627FD9A.quest_desc: ["&6Salvager&r pozwala rozbierać niepotrzebne narzędzia i pancerze z powrotem na surowce oraz części składowe."]
+	quest.2EB96FF06627FD9A.quest_subtitle: "Odzysk surowców!"
+	quest.2EB96FF06627FD9A.title: "Salvager"
+	quest.35E8C65CCA676E76.quest_desc: ["Forma do odlewania płyt napierśnika."]
+	quest.35E8C65CCA676E76.title: "Forma: Napierśnik (Chestplate Cast)"
+	quest.36A5229DB5D4C059.quest_desc: ["Podstawowa forma odlewnicza pozwalająca wylewać płynny metal z powrotem w kształt sztabek."]
+	quest.36A5229DB5D4C059.title: "Forma: Sztabka (Ingot Cast)"
+	quest.3722B43822F80470.quest_desc: ["Forma do odlewania głowni katany – zadaje wyższe obrażenia od zwykłego miecza kosztem nieco wolniejszego zamachu."]
+	quest.3722B43822F80470.quest_subtitle: "Droga samuraja"
+	quest.3722B43822F80470.title: "Forma: Katana (Katana Cast)"
+	quest.3844877F6C1AFE77.quest_desc: ["Forma do odlewania grotów strzał o niestandardowych właściwościach."]
+	quest.3844877F6C1AFE77.title: "Forma: Groty Strzał (Arrow Cast)"
+	quest.3930404D5C8B44EB.quest_desc: ["&cAlloy Forge&r służy do wytapiania zaawansowanych stopów Silent Gear – to jedyny sposób na uzyskanie potężnej &5Tyrian Steel&r!"]
+	quest.3930404D5C8B44EB.quest_subtitle: "Kuźnia stopów specjalnych"
+	quest.3930404D5C8B44EB.title: "Alloy Forge"
+	quest.39B85DB54B1037FE.quest_desc: ["Forma do odlewania maczety – szybsza od miecza i potrafi ścinać roślinność jak sierp."]
+	quest.39B85DB54B1037FE.quest_subtitle: "Ciężkie ostrze"
+	quest.39B85DB54B1037FE.title: "Forma: Maczeta (Machete Cast)"
+	quest.3AC03D1FA5C341A7.quest_desc: ["&bRecrystallizer&r pozwala łączyć ze sobą różne kryształy w zaawansowane kompozyty do wyrobu broni, narzędzi i pancerzy."]
+	quest.3AC03D1FA5C341A7.title: "Recrystallizer"
+	quest.3B560B2ECE331CAF.quest_desc: ["Zwieńczenie filarów 3. poziomu (Tier 3 Pillar Cap) dla struktury Starlight Charger."]
+	quest.3B560B2ECE331CAF.title: "Głowica Filaru III: Tyrian Steel"
+	quest.3D2C6FF462B17205.quest_desc: ["Forma do odlewania sztyletu – bardzo wysoka prędkość ataku i skrócenie czasu nietykalności trafionego celu."]
+	quest.3D2C6FF462B17205.quest_subtitle: "Błyskawiczne pchnięcia"
+	quest.3D2C6FF462B17205.title: "Forma: Sztylet (Dagger Cast)"
+	quest.3F39BEB788175CEF.quest_desc: ["Forma do odlewania ciężkiej kopaczki usuwającej ziemię, piasek i żwir w obszarze 3x3!"]
+	quest.3F39BEB788175CEF.quest_subtitle: "Wykopy 3x3!"
+	quest.3F39BEB788175CEF.title: "Forma: Kopaczka (Excavator Cast)"
+	quest.3F56A5253D477B97.quest_desc: ["Szablon do tworzenia lotek stabilizujących strzały z Silent Gear."]
+	quest.3F56A5253D477B97.title: "Szablon: Lotki (Fletching Blueprint)"
+	quest.405DCD3E36232EEA.quest_desc: ["Forma do odlewania grotu włóczni – mniejsze obrażenia bazowe, ale znacznie większy zasięg ataku."]
+	quest.405DCD3E36232EEA.quest_subtitle: "Zasięg falangi"
+	quest.405DCD3E36232EEA.title: "Forma: Włócznia (Spear Cast)"
+	quest.4119E115505036E5.quest_desc: ["Forma pozwalająca odlewać drobne samorodki metali."]
+	quest.4119E115505036E5.title: "Forma: Samorodek (Nugget Cast)"
+	quest.427516AA3E8C9442.quest_desc: ["Forma do odlewania motyki ogrodniczej łączącej funkcje motyki, siekiery i łopaty."]
+	quest.427516AA3E8C9442.quest_subtitle: "Uniwersalna motyka"
+	quest.427516AA3E8C9442.title: "Forma: Motyka (Mattock Cast)"
+	quest.45899579D9B92D91.quest_desc: ["&aFoundry Controller&r to serce Twojej wieloblokowej odlewni. W jego interfejsie sprawdzisz temperaturę, poziom płynnych metali oraz włożysz rudy i sztabki do przetopienia."]
+	quest.45899579D9B92D91.title: "&c&lFoundry&r &aController"
+	quest.462C1F75A2FB9F02.quest_desc: ["Forma do odlewania wędki modułowej."]
+	quest.462C1F75A2FB9F02.quest_subtitle: "Na ryby!"
+	quest.462C1F75A2FB9F02.title: "Forma: Wędka (Fishing Rod Cast)"
+	quest.474AF9F90C8E40A2.quest_desc: ["Szablon do wykucia głowicy buzdyganu zadającego potężne obrażenia z upadku."]
+	quest.474AF9F90C8E40A2.title: "Szablon: Buzdygan (Mace Blueprint)"
+	quest.48D358470A019E7A.quest_desc: ["Katalizator 1. poziomu wymagany do gwiezdnego ładowania w Starlight Charger."]
+	quest.48D358470A019E7A.title: "Katalizator Gwiezdny I: Blaze Gold Dust"
+	quest.52CDB46F6CBF007B.quest_desc: ["Forma do odlewania głowicy łopaty."]
+	quest.52CDB46F6CBF007B.quest_subtitle: "Szybkie kopanie"
+	quest.52CDB46F6CBF007B.title: "Forma: Łopata (Shovel Cast)"
+	quest.5AB8651FCB1E2F72.quest_desc: ["Szablon pozwalający stworzyć modułową Elytrę zapewniającą jednocześnie punkty pancerza!"]
+	quest.5AB8651FCB1E2F72.title: "Szablon: Elytra (Elytra Blueprint)"
+	quest.63CAD77A4488F2CE.quest_desc: ["Forma do odlewania głowicy Paxela – uniwersalnego narzędzia łączącego kilof, siekierę oraz łopatę w jednym!"]
+	quest.63CAD77A4488F2CE.quest_subtitle: "Kilof + Siekiera + Łopata"
+	quest.63CAD77A4488F2CE.title: "Forma: Paxel (Paxel Cast)"
+	quest.657B3116A6419420.quest_desc: ["Forma do odlewania metalowych trzonków narzędziowych zastępujących zwykłe patyki."]
+	quest.657B3116A6419420.quest_subtitle: "Solidny trzonek!"
+	quest.657B3116A6419420.title: "Forma: Trzonek (Tool Rod Cast)"
+	quest.67216EC5274F08B9.quest_desc: ["Forma do odlewania wytrzymałych nożyc modułowych."]
+	quest.67216EC5274F08B9.quest_subtitle: "Strzyżenie i zbiory"
+	quest.67216EC5274F08B9.title: "Forma: Nożyce (Shears Cast)"
+	quest.6912C0E3D092DD27.quest_desc: ["Forma do odlewania płyt butów."]
+	quest.6912C0E3D092DD27.title: "Forma: Buty (Boots Cast)"
+	quest.69383DA579901E7E.quest_desc: ["Forma do odlewania głowicy siekiery."]
+	quest.69383DA579901E7E.quest_subtitle: "Drwal i wojownik"
+	quest.69383DA579901E7E.title: "Forma: Siekiera (Axe Cast)"
+	quest.6A393C7A24899E3E.quest_desc: [
+		"Umieszczenie surowca w &aMaterial Grader&r wraz z proszkiem katalitycznym nadaje materiałowi klasę jakości (od E aż do &6MAX&r)."
+		""
+		"Im wyższa klasa materiału, tym lepsze statystyki będzie miało wykute z niego narzędzie!"
+	]
+	quest.6A393C7A24899E3E.quest_subtitle: "Klasyfikator jakości surowców"
+	quest.6A393C7A24899E3E.title: "Material Grader"
+	quest.6B78378BC8036227.quest_desc: ["Katalizator 1. poziomu do urządzenia Material Grader."]
+	quest.6B78378BC8036227.title: "Katalizator Gradera I: Glowing Dust"
+	quest.6BBC440BD0AD0E93.quest_desc: [
+		"W tej paczce modułowe narzędzia &9&lSilent Gear&r zostały połączone z wieloblokową odlewnią &c&lProductive Metalworks&r!"
+		""
+		"Zamiast wycinać części z papierowych szablonów, będziesz odlewać je z płynnych metali za pomocą stalowych form (&8Casts&r). Rozpocznij budowę odlewni od wytworzenia gliny ogniotrwałej (&cFire Clay&r)."
+	]
+	quest.6BBC440BD0AD0E93.title: "&9&lSilent Gear&r i &c&lProductive Metalworks"
+	quest.6BFD7854F078BF16.quest_desc: ["Szablon owijki na rękojeść zwiększającej wygodę i prędkość pracy narzędziem."]
+	quest.6BFD7854F078BF16.quest_subtitle: "Pewny chwyt"
+	quest.6BFD7854F078BF16.title: "Szablon: Owijka (Grip Blueprint)"
+	quest.6D9CDB4D81DC164D.quest_desc: ["Forma do odlewania ramion łuku z elastycznych stopów metali."]
+	quest.6D9CDB4D81DC164D.title: "Forma: Łuk (Bow Cast)"
+	quest.6E2806D8DC61C46F.quest_desc: ["Forma do odlewania płyt hełmu z wybranego stopu."]
+	quest.6E2806D8DC61C46F.title: "Forma: Hełm (Helmet Cast)"
+	quest.7098F24BC8FAC749.quest_desc: ["Forma do odlewania naszyjników biżuteryjnych zapewniających pasywne premie."]
+	quest.7098F24BC8FAC749.title: "Forma: Naszyjnik (Necklace Cast)"
+	quest.711826BBCA832EE2.quest_desc: [
+		"Wszystkie formy odlewnicze (&8Casts&r) wykonuje się poprzez wylanie płynnej &8Stali (Steel)&r na wzorcowy przedmiot położony na &8Casting Table&r."
+		""
+		"Płynną Stal uzyskasz w rozgrzanej odlewni, stapiając ze sobą &7Żelazo&r oraz &0Węgiel&r!"
+	]
+	quest.711826BBCA832EE2.title: "Wytop Stali i &8Formy Odlewnicze"
+	quest.74FA25B2E087BEC4.quest_desc: ["Forma do odlewania pierścieni z metali szlachetnych i klejnotów."]
+	quest.74FA25B2E087BEC4.title: "Forma: Pierścień (Ring Cast)"
+	quest.75EE2123753062B8.quest_desc: ["Forma do odlewania arkuszy blach bezpośrednio z płynnego metalu."]
+	quest.75EE2123753062B8.title: "Forma: Płyta (Plate Cast)"
+	quest.766C80E5D7B7A916.quest_desc: ["Forma do odlewania głowicy kilofa modułowego."]
+	quest.766C80E5D7B7A916.quest_subtitle: "Wybierz swój stop!"
+	quest.766C80E5D7B7A916.title: "Forma: Kilof (Pickaxe Cast)"
+	quest.78C112170E17FBF4.quest_desc: ["Forma do odlewania płyt wzmacniających tarczę modułową."]
+	quest.78C112170E17FBF4.title: "Forma: Tarcza (Shield Cast)"
+	quest.7965E2CBF3FF9B65.quest_desc: ["Forma do bezpośredniego odlewania kół zębatych z płynnego metalu."]
+	quest.7965E2CBF3FF9B65.title: "Forma: Koło Zębate (Gear Cast)"
+	quest.7C3D763CF22D167A.quest_desc: [
+		"&dStarlight Charger&r nasyca materiały energią gwiezdną w nocy (cecha &dStar Charged&r)."
+		""
+		"Ustaw go na środku struktury 7x7 z bezpośrednim dostępem do nocnego nieba i wznieś w czterech rogach filary zakończone blokami &ePillar Cap&r."
+	]
+	quest.7C3D763CF22D167A.quest_subtitle: "Gwiezdne ładowanie materiałów"
+	quest.7C3D763CF22D167A.title: "&dStarlight Charger"
+	quest.7D690A7D0FF6E328.quest_desc: ["Katalizator 3. poziomu do urządzenia Material Grader, dający najwyższą szansę na ocenę MAX."]
+	quest.7D690A7D0FF6E328.title: "Katalizator Gradera III: Glittery Dust"
+	quest.7E13007340A818C5.quest_desc: ["Zwieńczenie filarów 1. poziomu (Tier 1 Pillar Cap) dla struktury Starlight Charger."]
+	quest.7E13007340A818C5.title: "Głowica Filaru I: Crimson Steel"
+	task.2AE89914A34BF3AD.title: "Cegły Ogniotrwałe lub Okna Odlewni"
+	task.3B23E744D3B72AE8.title: "Cegły Ogniotrwałe lub Okna Odlewni"
+	task.511ECEA2E9BD1F71.title: "Dowolny #productivemetalworks:foundry_drains"
+	task.51297F6E0D9BB58C.title: "Dowolny #productivemetalworks:foundry_tanks"
+	task.76E296A2AD3EFE92.title: "Dowolny #productivemetalworks:foundry_controllers"
+}

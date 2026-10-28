@@ -1,0 +1,102 @@
+{
+	quest.0223CC1700D49B6C.quest_desc: [
+		"Combining brass with redstone circuitry creates an advanced control module."
+		""
+		"This is the heart of smart automation – from filtering chutes and sequencers to crafting terminals and Refined Storage autocrafters."
+	]
+	quest.0223CC1700D49B6C.quest_subtitle: "1x Brass Redstone Machine"
+	quest.0223CC1700D49B6C.title: "Brass Logic: Brass Redstone Machine"
+	quest.02E1E48521F85EF6.quest_desc: [
+		"Powerful, reinforced crushing wheels assembled on a Mechanical Crafter."
+		""
+		"Rotating against each other, they grind rocks and ores at high speeds, providing extra resource yields and access to valuable dusts."
+	]
+	quest.02E1E48521F85EF6.quest_subtitle: "2x Crushing Wheel"
+	quest.02E1E48521F85EF6.title: "Heavy Crushers: Crushing Wheels"
+	quest.046B84EA84A40FA7.quest_desc: [
+		"Budding Amethyst is the living heart of a geode where new crystals continuously grow."
+		""
+		"Secure it in place or create your own via an infusion ritual to automate amethyst shard harvesting!"
+	]
+	quest.046B84EA84A40FA7.quest_subtitle: "1x Budding Amethyst"
+	quest.046B84EA84A40FA7.title: "Geode Heart: Budding Amethyst"
+	quest.0E809204C288AAE9.quest_desc: ["Ordinary crafting tables have their limits. Arranging at least 9 Mechanical Crafters into a matrix allows you to assemble large machine components like Crushing Wheels!"]
+	quest.0E809204C288AAE9.quest_subtitle: "9x Mechanical Crafter"
+	quest.0E809204C288AAE9.title: "Assembly Matrix: Mechanical Crafter"
+	quest.1204BCEDBE8D18EE.quest_desc: ["Efficient, maintenance-free obsidian production in a brass extruder – the foundation for mass-producing Sturdy Sheets and advanced casings."]
+	quest.1204BCEDBE8D18EE.quest_subtitle: "64x Obsidian"
+	quest.1204BCEDBE8D18EE.title: "Advanced Extrusion: Obsidian"
+	quest.1D415EDA55BC810F.quest_desc: ["The Diamond Autocrafter further accelerates operations and provides a massive number of pattern slots for complex production lines."]
+	quest.1D415EDA55BC810F.quest_subtitle: "1x Diamond Crafter"
+	quest.1D415EDA55BC810F.title: "Diamond Autocrafter"
+	quest.1E13E3DE5D69B61F.quest_desc: ["A blank memory card for production schemas. Encode a crafting recipe or smelting process onto it, then place it inside an Autocrafter."]
+	quest.1E13E3DE5D69B61F.quest_subtitle: "1x Pattern"
+	quest.1E13E3DE5D69B61F.title: "Schema Medium: Pattern"
+	quest.213EB741245A7B27.quest_desc: ["A high-capacity storage disk holding 16,384 items inside a Disk Drive station."]
+	quest.213EB741245A7B27.quest_subtitle: "1x 16k Storage Disk"
+	quest.213EB741245A7B27.title: "16k Storage Disk"
+	quest.28D3A1D0B60D86C5.quest_desc: ["The brass extruder lets you generate End Stone directly within your factory without manually tearing up End islands."]
+	quest.28D3A1D0B60D86C5.quest_subtitle: "64x End Stone"
+	quest.28D3A1D0B60D86C5.title: "Advanced Extrusion: End Stone"
+	quest.33664C509F66A6E2.quest_desc: ["Mine the crystalline amethyst blocks lining the interior of a discovered geode."]
+	quest.33664C509F66A6E2.quest_subtitle: "1x Amethyst Block"
+	quest.33664C509F66A6E2.title: "Geode Treasures: Amethyst Block"
+	quest.35A0D0350873E798.quest_desc: ["A fourfold capacity increase over the 4k core, capable of storing up to 16,384 items on a single medium."]
+	quest.35A0D0350873E798.quest_subtitle: "1x 16k Storage Part"
+	quest.35A0D0350873E798.title: "Higher Density: 16k Part"
+	quest.3EE5013CCEC66EF8.quest_desc: ["An infinite source of Netherrack straight from the brass extruder – ideal for milling into Cinder Flour to craft Blaze Cakes!"]
+	quest.3EE5013CCEC66EF8.quest_subtitle: "64x Netherrack"
+	quest.3EE5013CCEC66EF8.title: "Advanced Extrusion: Netherrack"
+	quest.414FE7C3B16B1F76.quest_desc: ["The peak of digital automation from ExtraStorage – the Netherite Autocrafter instantly executes the most complex manufacturing chains."]
+	quest.414FE7C3B16B1F76.quest_subtitle: "1x Netherite Crafter"
+	quest.414FE7C3B16B1F76.title: "Netherite Autocrafter"
+	quest.46C2B6B25AD1ED93.quest_desc: ["A specialized terminal (Pattern Grid) allowing you to transfer recipes from EMI onto blank Patterns with a single click."]
+	quest.46C2B6B25AD1ED93.quest_subtitle: "1x Pattern Grid"
+	quest.46C2B6B25AD1ED93.title: "Schema Programmer: Pattern Grid"
+	quest.4768E04E1E7DC172.quest_desc: ["A diagnostic screen displaying real-time progress for all active autocrafting tasks and any missing resources."]
+	quest.4768E04E1E7DC172.quest_subtitle: "1x Autocrafting Monitor"
+	quest.4768E04E1E7DC172.title: "Production Control: Autocrafting Monitor"
+	quest.479018DD12B5D1DD.quest_desc: ["A powerful, standalone server block housing up to 65,536 items directly within the network."]
+	quest.479018DD12B5D1DD.quest_subtitle: "1x 64k Storage Block"
+	quest.479018DD12B5D1DD.title: "Stationary 64k Bank"
+	quest.4AB3D19BB418DCD7.quest_desc: ["A central console managing all Autocrafters in your base. Remotely insert and organize Patterns without running across the machine hall!"]
+	quest.4AB3D19BB418DCD7.quest_subtitle: "1x Autocrafter Manager"
+	quest.4AB3D19BB418DCD7.title: "Command Center: Autocrafter Manager"
+	quest.4C247BF978FA7AEE.quest_desc: ["The Gold Autocrafter offers significantly higher processing speed and more pattern slots than the iron variant."]
+	quest.4C247BF978FA7AEE.quest_subtitle: "1x Gold Crafter"
+	quest.4C247BF978FA7AEE.title: "Gold Autocrafter"
+	quest.54A9CBBFC0236AC9.quest_desc: ["Gather 32 Amethyst Shards – a key resource for crystal calibration and advanced optics in subsequent stages."]
+	quest.54A9CBBFC0236AC9.quest_subtitle: "32x Amethyst Shard"
+	quest.54A9CBBFC0236AC9.title: "Crystal Yield: Amethyst Shards"
+	quest.54BC4B2395B82D1B.quest_desc: ["A suite of tools for intelligent factory management: Smart Chutes filter dropped items, Content Observers and Stockpile Switches monitor inventory, and Sequenced Gearshifts program precise machine movements!"]
+	quest.54BC4B2395B82D1B.quest_subtitle: "Brass Automation Kit"
+	quest.54BC4B2395B82D1B.title: "Create Intelligent Logistics"
+	quest.574A358ADA1BC26D.quest_desc: ["A combination terminal and crafting table! Lets you craft items directly using resources stored on your Refined Storage network disks."]
+	quest.574A358ADA1BC26D.quest_subtitle: "1x Crafting Grid"
+	quest.574A358ADA1BC26D.title: "Convenient Crafting: Crafting Grid"
+	quest.5B56BCBD12170E53.quest_desc: ["No more manual component assembly! Insert a programmed Pattern into an Autocrafter to let the network manufacture requested items on demand or feed external machinery."]
+	quest.5B56BCBD12170E53.quest_subtitle: "1x Autocrafter"
+	quest.5B56BCBD12170E53.title: "On-Demand Production: Autocrafter"
+	quest.63CB5961BE31AA90.quest_desc: ["Combining a brass casing with precision mechanisms creates a Brass Machine – the foundation for heavy assembly machinery, crushers, and Era 2 advanced logistics."]
+	quest.63CB5961BE31AA90.quest_subtitle: "1x Brass Machine"
+	quest.63CB5961BE31AA90.title: "Brass Foundation: Brass Machine"
+	quest.6842600FC1293062.quest_desc: ["Head underground, locate a natural amethyst geode, and look directly at the Budding Amethyst block inside its core."]
+	quest.6842600FC1293062.quest_subtitle: "Look at Budding Amethyst"
+	quest.6842600FC1293062.title: "Geode Explorer"
+	quest.6A3841EB4433E273.quest_desc: ["A storage drive holding up to 65,536 items in a single Disk Drive slot."]
+	quest.6A3841EB4433E273.quest_subtitle: "1x 64k Storage Disk"
+	quest.6A3841EB4433E273.title: "64k Storage Disk"
+	quest.6B1B13C942556064.quest_desc: ["A powerful storage core capable of holding up to 65,536 items."]
+	quest.6B1B13C942556064.quest_subtitle: "1x 64k Storage Part"
+	quest.6B1B13C942556064.title: "Mass Storage: 64k Part"
+	quest.7292BDEC4D72AF07.quest_desc: ["An upgraded brass version of the mechanical extruder. Withstands higher pressures and generates exotic rocks from other dimensions!"]
+	quest.7292BDEC4D72AF07.quest_subtitle: "1x Mechanical Brass Extruder"
+	quest.7292BDEC4D72AF07.title: "Brass Rock Forge: Brass Extruder"
+	quest.74C78BDDFC275D0D.quest_desc: ["A stationary storage block with a 16,384 item capacity, ready to be placed and connected to the network via cable."]
+	quest.74C78BDDFC275D0D.quest_subtitle: "1x 16k Storage Block"
+	quest.74C78BDDFC275D0D.title: "Stationary 16k Bank"
+	quest.751FD398A3CEFA87.quest_desc: ["Upgrading the basic Autocrafter with iron increases pattern slot capacity and accelerates task execution."]
+	quest.751FD398A3CEFA87.quest_subtitle: "1x Iron Crafter"
+	quest.751FD398A3CEFA87.title: "Iron Autocrafter"
+	task.074B307481A475B0.title: "Look at Budding Amethyst block"
+}

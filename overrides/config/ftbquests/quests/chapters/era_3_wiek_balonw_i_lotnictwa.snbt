@@ -1,0 +1,19 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "era_3_wiek_balonw_i_lotnictwa"
+	group: "5177702D2E2E75BA"
+	icon: {
+		id: "kubejs:frequency_mechanism"
+	}
+	id: "322E83C0A9E18059"
+	images: [ ]
+	order_index: 5
+	quest_links: [{
+		id: "3E548D395871173C"
+		linked_quest: "55D2E65AE3E743B8"
+		x: -2.5d
+		y: -2.0d
+	}]
+	quests: [ ]
+}

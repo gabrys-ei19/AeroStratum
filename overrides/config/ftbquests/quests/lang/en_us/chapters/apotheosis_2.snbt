@@ -1,0 +1,124 @@
+{
+	quest.00C26068B55F4FD9.quest_desc: ["The Rune of Silence mutes all sounds from the spawner and spawned creatures. Perfect for quiet factories!"]
+	quest.00C26068B55F4FD9.title: "Quiet Down!"
+	quest.0E02CE4469FCA4C9.quest_desc: ["Adds a power switch to your spawner. Without a Redstone signal, the spawner will remain dormant."]
+	quest.0E02CE4469FCA4C9.title: "Redstone Control"
+	quest.0E90577AC72749C4.quest_desc: [
+		"&6Thundering Spawner Upgrade Rune&r is the fourth and final tier of spawner upgrades (requires an Endersurge Gem from the End):"
+		""
+		"• Min & Max Delay: 20 ticks (1 second!)"
+		"• Spawn Count: 16"
+		"• Max Entities: 32"
+		"• Activation Range: 48 blocks"
+	]
+	quest.0E90577AC72749C4.title: "Upgrade Rune IV: Pinnacle"
+	quest.0F0E227FC3EC0D90.quest_desc: ["Alternative creature summoning systems and liquid XP solidification devices for your factory."]
+	quest.0F0E227FC3EC0D90.title: "Industrial Spawning"
+	quest.0F89BFD4A3F63A48.quest_desc: ["Forces the spawner to ignore light levels entirely, allowing hostile mobs to spawn even in bright daylight."]
+	quest.0F89BFD4A3F63A48.title: "Ignore Light"
+	quest.1102B27CBF564127.quest_desc: ["A PneumaticCraft module that prevents spawned mobs from despawning when you leave the area."]
+	quest.1102B27CBF564127.quest_subtitle: "Prevent Despawn"
+	quest.1102B27CBF564127.title: "Spawner Agitator"
+	quest.167E1474644C9908.quest_desc: [
+		"Quartz inverts the behavior of any modification rune."
+		""
+		"Holding Quartz in your offhand while applying a rune in your main hand reverses its effect (e.g., decreasing spawn range instead of increasing it)."
+	]
+	quest.167E1474644C9908.title: "Opposite Day: Quartz"
+	quest.17410BE15A81DD96.quest_desc: [
+		"&9Wayfarer's Spawner Upgrade Rune&r is the second tier of spawner upgrades:"
+		""
+		"• Min Delay: 100 ticks"
+		"• Max Delay: 400 ticks"
+		"• Spawn Count: 10"
+		"• Max Entities: 18"
+		"• Activation Range: 32 blocks"
+	]
+	quest.17410BE15A81DD96.title: "Upgrade Rune II: Ascent"
+	quest.17C87EB8ED8A27AB.quest_desc: ["Spawner Runes serve as the baseline crafting component required to manufacture all spawner upgrade runes."]
+	quest.17C87EB8ED8A27AB.quest_subtitle: "Basic Modifications"
+	quest.17C87EB8ED8A27AB.title: "Spawner Rune"
+	quest.186593EBCE3FE8D8.quest_desc: ["Modifies the area around the spawner where creatures can materialize."]
+	quest.186593EBCE3FE8D8.title: "Spawn Range"
+	quest.18E0F5A78F696FA3.quest_desc: ["The Echoing Rune grants a special effect: any mobs spawned by this spawner drop multiplied loot upon death."]
+	quest.18E0F5A78F696FA3.title: "Echoing Rune"
+	quest.223A5BDB5056B781.quest_desc: ["Capturing is a sword enchantment granting a chance (0.5% per level up to VII) for mobs to drop their Spawn Egg upon death."]
+	quest.223A5BDB5056B781.title: "Enchantment: Capturing"
+	quest.2D8A7065F8CDDDDD.quest_desc: [
+		"The easiest way to acquire Spawn Eggs using Mob Grinding Utils!"
+		""
+		"Right-click a mob with a Mob Swab, combine it with seeds and liquid XP to craft GM Chicken Feed, then feed it to a chicken to harvest a Spawn Egg."
+	]
+	quest.2D8A7065F8CDDDDD.title: "Genetic Engineering: Mob Swab"
+	quest.30EB438C66324213.quest_desc: ["The Rune of Solitude removes the requirement for a player to be nearby. As long as the chunk is loaded, production runs continuously!"]
+	quest.30EB438C66324213.title: "Ignore Players"
+	quest.310969B8FE0A94DE.quest_desc: [
+		"Thanks to Apothic Spawners, you can mine any spawner in the world using a Silk Touch pickaxe."
+		""
+		"Once mined, you can upgrade the spawner by right-clicking it with various modification runes."
+	]
+	quest.310969B8FE0A94DE.title: "Spawner Engineering"
+	quest.321C15EBBE2D3D30.quest_desc: [
+		"Exploding a spawner with TNT destabilizes its structure – before destruction, it will release a wave of monsters and drop 48 to 57 Spawner Chains."
+		""
+		"These chains are the primary raw material required for forging all spawner modification runes."
+	]
+	quest.321C15EBBE2D3D30.title: "Explosive Dismantling: Chains"
+	quest.39E822440E7D2E04.quest_desc: [
+		"The Entity Spawner from Mob Grinding Utils mass-produces creatures on demand!"
+		""
+		"Requires a Spawn Egg in the top slot, &aSolid XP Baby&r fuel (processed from liquid XP via an XP Solidifier) in the second slot, and a Redstone signal."
+	]
+	quest.39E822440E7D2E04.quest_subtitle: "Mob Grinding Utils Spawner"
+	quest.39E822440E7D2E04.title: "Entity Spawner & XP Solidifier"
+	quest.3F1430ADB648102F.quest_desc: [
+		"&aFrontiersman's Spawner Upgrade Rune&r is the first tier of upgrade runes, locking stats to fixed values:"
+		""
+		"• Min Delay: 150 ticks"
+		"• Max Delay: 600 ticks"
+		"• Spawn Count: 7"
+		"• Max Entities: 12"
+		"• Activation Range: 24 blocks"
+	]
+	quest.3F1430ADB648102F.title: "Upgrade Rune I: Frontier"
+	quest.40096ED0B04C3EC5.quest_desc: ["Causes the spawner to ignore environmental and biome restrictions, requiring only physical space to spawn creatures."]
+	quest.40096ED0B04C3EC5.title: "Ignore All Conditions"
+	quest.42D7C8CD8E6F5CD7.quest_desc: ["The Rune of Stupor completely disables creature AI. Mobs sit motionless, making them easy targets for automation."]
+	quest.42D7C8CD8E6F5CD7.title: "No AI"
+	quest.4F7F8F4ED1CA0550.quest_desc: ["The Rune of Immolation ensures all creatures spawned by the spawner appear engulfed in flames."]
+	quest.4F7F8F4ED1CA0550.title: "Burning Rune"
+	quest.503AC506720FC59E.quest_desc: [
+		"Advanced spawner modifications require &d&lInfusing&r ordinary runes inside an Enchanting Table."
+		""
+		"Required altar stats: min. &a70 Eterna&r, &c30% Quanta&r, and &550% Arcana&r."
+		""
+		"Achievable using one of the following setups:"
+		"• 14x active &9Deepshelves&r"
+		"• 13x &4Glowing Hellshelves&r + 2x &9Deepshelves&r"
+		"• 12x &bCrystalline Seashelves&r + 2x &9Deepshelves&r"
+	]
+	quest.503AC506720FC59E.quest_subtitle: "Advanced Modifications"
+	quest.503AC506720FC59E.title: "Infused Spawner Rune"
+	quest.6F71FD826C29C31A.quest_desc: ["The Rune of Youth forces the spawner to exclusively spawn baby variants of compatible vanilla mobs."]
+	quest.6F71FD826C29C31A.title: "Youthful Rune"
+	quest.77A8E8122870BBCE.quest_desc: ["An unbreakable lead that binds living mobs directly to a spawner without needing a Spawn Egg."]
+	quest.77A8E8122870BBCE.quest_subtitle: "Direct mob binding"
+	quest.77A8E8122870BBCE.title: "Occult Ender Lead"
+	quest.78E94C386B1E7359.quest_desc: ["Right-clicking a spawner with any Spawn Egg instantly converts it to spawn that specific mob type."]
+	quest.78E94C386B1E7359.title: "Changing Spawner Type: Spawn Eggs"
+	quest.7AC6A958936636D9.quest_desc: [
+		"&5Mountaineer's Spawner Upgrade Rune&r is the third tier, requiring a Warden trophy:"
+		""
+		"• Min Delay: 50 ticks"
+		"• Max Delay: 200 ticks"
+		"• Spawn Count: 13"
+		"• Max Entities: 24"
+		"• Activation Range: 40 blocks"
+	]
+	quest.7AC6A958936636D9.title: "Upgrade Rune III: Summit"
+	quest.7F6B66566C211735.quest_desc: ["The Rune of Debilitation lowers the starting health of spawned mobs (down to 20% of their max HP), significantly speeding up automated mob farms."]
+	quest.7F6B66566C211735.title: "Health Reduction"
+	task.45250DA4433007C6.title: "Capturing Books"
+	task.524CBF7058496E7F.title: "Other Spawners"
+	task.55587BA32D30318C.title: "Spawn Eggs"
+}

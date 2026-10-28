@@ -1,0 +1,161 @@
+{
+	quest.001A348054127235.quest_desc: ["Infuse an Amethyst Block to grow a portable Budding Amethyst for crystal farming."]
+	quest.001A348054127235.title: "Budding Amethyst Infusion"
+	quest.0518551637F76C50.quest_desc: ["Upgrading Deepshelves with candles and Echo Shards raises Max Eterna to 75 with +15% Arcana."]
+	quest.0518551637F76C50.title: "&9Echoing Deepshelf"
+	quest.06F70F6CA37168CC.quest_desc: ["&6&oGem Case of House Fabergé&r is an upgraded gem case holding up to 2.1 billion of each unique gem."]
+	quest.06F70F6CA37168CC.quest_subtitle: "Gustav Fabergé would be proud"
+	quest.06F70F6CA37168CC.title: "&6&oGem Case of House Fabergé"
+	quest.091957223C32B094.quest_desc: ["Activate the &e&lAscent&r world tier to raise your &aMax Eterna&r cap to 60."]
+	quest.091957223C32B094.quest_subtitle: "Eterna Cap: 60"
+	quest.091957223C32B094.title: "Ascent to 60 Eterna"
+	quest.0A3C464EF7CDD5F6.quest_desc: ["Hellshelves introduce &cQuanta&r (+3 Eterna, +3% Quanta each). You'll need 15 around the table for infusing."]
+	quest.0A3C464EF7CDD5F6.title: "&4Hellshelves"
+	quest.0F3A0A4DC18E5E55.quest_desc: [
+		"&aEterna&r determines enchantment power levels. Its maximum cap scales with your &lWorld Tier&r:"
+		""
+		"• &a30&r on &9&lHaven&r"
+		"• &a45&r on &2&lFrontier&r"
+		"• &a60&r on &e&lAscent&r"
+		"• &a75&r on &6&lSummit&r"
+		"• &a100&r on &4&lPinnacle&r"
+	]
+	quest.0F3A0A4DC18E5E55.title: "Stat: &aEterna"
+	quest.105442DA79829777.quest_desc: ["Combine with an item on an anvil to strip half its enchantments onto a book, destroying the item."]
+	quest.105442DA79829777.quest_subtitle: "Half enchants, breaks item"
+	quest.105442DA79829777.title: "&8Tome of Scrapping"
+	quest.1113BF457DB7F1DE.quest_desc: ["Unlocking the Summit world tier raises your Max Eterna cap to 75."]
+	quest.1113BF457DB7F1DE.quest_subtitle: "Eterna Cap: 75"
+	quest.1113BF457DB7F1DE.title: "Summit Advancement"
+	quest.148A33CC36B2563A.quest_desc: ["Crafted using a Dragon Head, this is the only shelf capable of reaching 100 Eterna on its own."]
+	quest.148A33CC36B2563A.title: "&dDraconic Endshelf"
+	quest.158F872A3A2C3650.quest_desc: ["With 80 Eterna unlocked, infuse Dragon's Breath using an altar with 80 Eterna, 25% Quanta, and 100% Arcana."]
+	quest.158F872A3A2C3650.title: "&dInfused Dragon's Breath"
+	quest.1617C1935F22FBD1.quest_desc: ["Infuse a Mythic Godforged Pearl at 100 Eterna, ~10% Quanta, and ~60% Arcana."]
+	quest.1617C1935F22FBD1.quest_subtitle: "Divine pearl alchemy"
+	quest.1617C1935F22FBD1.title: "&6God-Fused Pearl"
+	quest.1873205CF5247E3E.quest_desc: ["Crafted with Infused Dragon's Breath and End Stone Bricks. Raises Max Eterna to 90!"]
+	quest.1873205CF5247E3E.title: "&dEndshelves"
+	quest.18AA64DF63F68762.quest_desc: ["Gate junction before entering the Ascent world tier."]
+	quest.18AA64DF63F68762.title: "Deep Gateway"
+	quest.191A7F3C9FBA4C13.quest_desc: ["Upgrading Infused Seashelves with prismarine crystals yields Crystalline Seashelves."]
+	quest.191A7F3C9FBA4C13.title: "&bCrystalline Seashelf"
+	quest.1F748ACA3976A92F.quest_desc: ["Junction node bridging Hellshelf or Seashelf paths before the Frontier world tier."]
+	quest.1F748ACA3976A92F.title: "Path Junction"
+	quest.1FAFDB20F504688E.quest_desc: [
+		"&5&lApothic Enchanting&r overhauls the enchanting mechanics."
+		""
+		"Vanilla bookshelves are no longer enough – new shelf types let you control &aEterna&r, &cQuanta&r, and &5Arcana&r, and perform &d&lInfusions&r!"
+	]
+	quest.1FAFDB20F504688E.title: "&5&lApothic Enchanting"
+	quest.224716A537F2FFA0.quest_desc: ["Tomes rolling armor-specific enchantments."]
+	quest.224716A537F2FFA0.title: "&8Armor Tomes"
+	quest.235E3C386E8D36A3.quest_desc: ["Unite both paths! Infuse a Dormant Deepshelf at 60 Eterna, 40% Quanta, and 40% Arcana."]
+	quest.235E3C386E8D36A3.title: "&9Deepshelf"
+	quest.24391162F4FF0587.quest_desc: ["Surrounding the table with 15 Seashelves unlocks Infused Seashelves (+5 Eterna, +5% Arcana)."]
+	quest.24391162F4FF0587.title: "&bInfused Seashelf"
+	quest.24C757B8AA6841F6.quest_desc: ["Craft an Inert Trident and infuse it to forge a real Trident without hunting Drowned."]
+	quest.24C757B8AA6841F6.title: "Trident Synthesis"
+	quest.24FCFF18296ED907.quest_desc: ["Crafted using Sculk blocks and a Warden Tendril. Raises Max Eterna to 80 with high stat bonuses."]
+	quest.24FCFF18296ED907.title: "&9Soul-Touched Sculkshelf"
+	quest.2EC2FA680076C07D.quest_desc: ["A powerful sculk shelf providing Max Eterna 80 with balanced stats."]
+	quest.2EC2FA680076C07D.title: "&9Echoing Sculkshelf"
+	quest.31E7F7464D79F881.quest_desc: ["Perform infusion rituals on tools, books, and rare minerals."]
+	quest.31E7F7464D79F881.title: "Infusion Rituals"
+	quest.3311B79A8F6C6ADD.quest_desc: ["The ultimate table allowing you to manually set Eterna, Quanta, and Arcana via sliders without placing any bookshelves around!"]
+	quest.3311B79A8F6C6ADD.quest_subtitle: "Complete parameter control"
+	quest.3311B79A8F6C6ADD.title: "&6&lRaven Enchanting Table"
+	quest.377D6CF86BC1C64F.quest_desc: ["Strips 100% of enchantments onto a book, destroying the base item."]
+	quest.377D6CF86BC1C64F.quest_subtitle: "All enchants, breaks item"
+	quest.377D6CF86BC1C64F.title: "&8Tome of Superior Scrapping"
+	quest.37E556B4A730E5AA.quest_desc: ["Unlock &2&lFrontier&r to raise your &aMax Eterna&r cap from 30 to 45."]
+	quest.37E556B4A730E5AA.quest_subtitle: "Eterna Cap: 45"
+	quest.37E556B4A730E5AA.title: "The &2&lFrontier&r Calls"
+	quest.3D31B94CC42BCE43.quest_desc: ["Extracts all enchantments onto a book while keeping the base item intact."]
+	quest.3D31B94CC42BCE43.quest_subtitle: "All enchants, preserves item"
+	quest.3D31B94CC42BCE43.title: "&8Tome of Extraction"
+	quest.42746659C66CF17F.quest_desc: ["An upgraded library holding up to 1.1 billion points per enchantment level."]
+	quest.42746659C66CF17F.quest_subtitle: "The ultimate archive"
+	quest.42746659C66CF17F.title: "&6&oLibrary of Alexandria"
+	quest.43167C59036E79A7.quest_desc: ["Tomes rolling mining and fishing enchantments."]
+	quest.43167C59036E79A7.title: "&8Tool Tomes"
+	quest.45161821C221EF0B.quest_desc: ["Surrounding the table with 15 Hellshelves grants 45 Eterna and 30% Quanta, unlocking Infused Hellshelves (+5 Eterna, +5% Quanta each)."]
+	quest.45161821C221EF0B.title: "&4Infused Hellshelves"
+	quest.4E895C54651A3CB3.quest_desc: ["Specialized books targeting specific equipment slots for enchanting."]
+	quest.4E895C54651A3CB3.title: "&8&lSpecialized Tomes"
+	quest.4EE6824A970EEB35.quest_desc: ["Infuse spawner runes to unlock powerful spawner upgrade tiers."]
+	quest.4EE6824A970EEB35.title: "Spawner Rune Infusion"
+	quest.516E66BE01EE5B31.quest_desc: ["Tomes rolling weapon and ranged combat enchantments."]
+	quest.516E66BE01EE5B31.title: "&8Weapon Tomes"
+	quest.51E554305FFEBA1D.quest_desc: ["Blazing Hellshelves provide strong Eterna and Quanta stats."]
+	quest.51E554305FFEBA1D.title: "&4Blazing Hellshelf"
+	quest.523DC411241B470A.quest_desc: ["Geode-Encased Bookshelf of Stability removes the negative effects of high Quanta, ensuring Quanta only helps you."]
+	quest.523DC411241B470A.title: "Quanta Stabilization"
+	quest.586D5DE28EEC8014.quest_desc: ["&cQuanta&r (default 15%, max 100%) introduces randomness to enchantment levels. Combined with a stability shelf, negative fluctuations are negated."]
+	quest.586D5DE28EEC8014.title: "Stat: &cQuanta"
+	quest.5C73247A48E72FB3.quest_desc: ["Place any enchanted book inside a Filtering Shelf to permanently blacklist that enchantment from future enchanting rolls."]
+	quest.5C73247A48E72FB3.title: "Enchantment Filtering Shelf"
+	quest.5DE45BC0258D1B0B.quest_desc: ["An End shelf variant reinforced with end rods and ender pearls."]
+	quest.5DE45BC0258D1B0B.title: "&dPearlescent Endshelf"
+	quest.60850E717C747A78.quest_desc: ["Sightshelves increase the number of visible enchantment previews before enchanting."]
+	quest.60850E717C747A78.title: "Enchantment Clues: Sightshelf"
+	quest.61217D80BFF8A858.quest_desc: ["An unbreakable Ender Lead capable of directly binding mobs to spawners."]
+	quest.61217D80BFF8A858.quest_subtitle: "Direct mob-to-spawner binding"
+	quest.61217D80BFF8A858.title: "&5Occult Ender Lead"
+	quest.6220EDE42C813C1B.quest_desc: ["Infuse potion charms at 100 Eterna to make them completely unbreakable!"]
+	quest.6220EDE42C813C1B.title: "Unbreakable Charms"
+	quest.62D39F68DE6E44A4.quest_desc: ["&5Arcana&r (default 0%, max 100%) increases the number of simultaneous enchantments and makes rare enchantments much more common."]
+	quest.62D39F68DE6E44A4.title: "Stat: &5Arcana"
+	quest.6852BEFDD4DE4E4B.quest_desc: ["Upgrading Deepshelves with sculk blocks and soul lanterns raises Max Eterna to 75 and adds +15% Quanta."]
+	quest.6852BEFDD4DE4E4B.title: "&9Soul-Touched Deepshelf"
+	quest.6884E25641A1020C.quest_desc: ["The ultimate digital library storing up to 32,768 points per enchantment level, letting you extract max enchants instantly."]
+	quest.6884E25641A1020C.title: "&5Enchantment Library"
+	quest.695889817162EFC7.quest_desc: ["Infuse Honey Bottles to convert them directly into Bottles o' Enchanting."]
+	quest.695889817162EFC7.title: "Experience Infusion"
+	quest.6A07D09831428CB9.quest_desc: ["Seashelves introduce &5Arcana&r (+3 Eterna, +3% Arcana each). An alternative path to Hellshelves."]
+	quest.6A07D09831428CB9.title: "&bSeashelves"
+	quest.6C2C135B9B7B9402.quest_desc: [
+		"&d&lInfusion&r is a special ritual performed at the Enchanting Table."
+		""
+		"When the table reaches precise &aEterna&r, &cQuanta&r, and &5Arcana&r values, placing specific items on it initiates an infusing transformation."
+	]
+	quest.6C2C135B9B7B9402.title: "&l&dEnchanting Infusion"
+	quest.6C57D64518FF22C0.quest_desc: ["Tomes rolling general utilities like Unbreaking."]
+	quest.6C57D64518FF22C0.title: "&8Other Tome"
+	quest.70D2C5FAC661E01A.quest_desc: ["Heart-Forged Seashelves provide massive Arcana boosts for advanced infusions."]
+	quest.70D2C5FAC661E01A.title: "&bHeart-Forged Seashelf"
+	quest.73E09ED46A94B812.quest_desc: ["Activate the &4&lPinnacle&r world tier to unlock the ultimate &a100 Eterna&r cap!"]
+	quest.73E09ED46A94B812.quest_subtitle: "Eterna Cap: 100"
+	quest.73E09ED46A94B812.title: "The Pinnacle of Enchanting"
+	quest.784466C3813AA506.quest_desc: ["Captures and transports passive animals (8 uses)."]
+	quest.784466C3813AA506.title: "&5Flimsy Ender Lead"
+	quest.78BFDD3A9B996655.quest_desc: ["An upgraded Ender Lead capable of capturing hostile mobs (64 uses)."]
+	quest.78BFDD3A9B996655.title: "&5Ender Lead"
+	quest.78E66F1DE42C747A.quest_desc: ["Infuse 1 Echo Shard to duplicate it into 4 Echo Shards!"]
+	quest.78E66F1DE42C747A.title: "Infinite Echo Shards?"
+	quest.78FEDE6FA4845585.quest_desc: ["Specialized shelves that lower altar stats, useful when complex infusions require strict ranges."]
+	quest.78FEDE6FA4845585.title: "Stat Reduction Shelves"
+	quest.79AF63E77AD70A93.quest_desc: ["Basic bookshelves cap &aEterna&r at 30. Time to build a true altar of knowledge!"]
+	quest.79AF63E77AD70A93.title: "Vanilla Max is Just the Start"
+	quest.7C758209D06ED0E3.quest_desc: ["Infusing an Infused Hellshelf with glowstone yields Glowing Hellshelves (+3.33% Arcana)."]
+	quest.7C758209D06ED0E3.title: "&4Glowing Hellshelf"
+	quest.7C9D9D1C054874A7.quest_desc: [
+		"The ultimate setup granting max 100 Eterna, 100% Quanta, 100% Arcana, and Treasure Enchants:"
+		"• 5x Soul-Touched Sculkshelves"
+		"• 5x Echoing Sculkshelves"
+		"• 1x Draconic Endshelf"
+		"• 1x Geode-Encased Bookshelf of Stability"
+		"• 1x Treasure Shelf"
+	]
+	quest.7C9D9D1C054874A7.quest_subtitle: "Flawless altar setup"
+	quest.7C9D9D1C054874A7.title: "&6&lMaster Enchanting Setup"
+	quest.7F007C888C23EC42.quest_desc: ["A secure case storing up to 32,768 of each Apotheosis gem and purity tier, with in-window upgrading."]
+	quest.7F007C888C23EC42.title: "&5Gem Case"
+	task.3D62C020980A2DEC.title: "Bookshelves"
+	task.432FCFECDAA542F1.title: "Bookshelves"
+	task.4644C76CEC129AA4.title: "Permanent Charms"
+	task.52C6DC68BF096122.title: "Weapon Tomes"
+	task.598F1FCB5B5ED8FC.title: "Tool Tomes"
+	task.5AB4C41B6800D7FA.title: "Armor Tomes"
+	task.79FB7E7194336B30.title: "Enchanting Tables"
+}

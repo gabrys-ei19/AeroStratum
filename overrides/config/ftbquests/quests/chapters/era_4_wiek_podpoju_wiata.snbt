@@ -1,0 +1,14 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "era_4_wiek_podpoju_wiata"
+	group: "5177702D2E2E75BA"
+	icon: {
+		id: "kubejs:calibrated_eye"
+	}
+	id: "0A24069F4A6D554B"
+	images: [ ]
+	order_index: 7
+	quest_links: [ ]
+	quests: [ ]
+}

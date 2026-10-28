@@ -1,0 +1,1956 @@
+{
+	"/quest.36E78F8D9F91A5E0.quest_subtitle": "32x Sztabka żelaza (Iron Ingot)"
+	chapter.0731FA8830F28280.title: "Apotheosis: Klejnoty i Ekwipunek"
+	chapter.0A24069F4A6D554B.title: "ERA 4: Wiek podboju świata"
+	chapter.0AA5151D88D1BD3C.title: "ERA 3.5: Wiek atomu i masowej ekspansji"
+	chapter.0E81CBCD6B1D1895.chapter_subtitle: ["Oraz Mob Grinding Utils"]
+	chapter.0E81CBCD6B1D1895.title: "Apotheosis: Modyfikacja Spawnerów"
+	chapter.11919EBB416B2BD0.title: "Relics: Magiczne Relikty"
+	chapter.12AD9789D962B179.title: "Apotheosis: Zaklinanie i Biblioteki"
+	chapter.1354FE99817DA6E3.title: "ERA 0: Początki inżyniera"
+	chapter.1D42B373285DEF81.chapter_subtitle: ["Oraz Productive Metalworks"]
+	chapter.1D42B373285DEF81.title: "Silent Gear: Kuźnia i Odlewnia"
+	chapter.1F32960D0FC09E75.title: "ERA 1: Wiek Pary i Kinetyki"
+	chapter.2DF7703CAD82D903.title: "ERA 2: Wiek zaawansowanej logistyki"
+	chapter.322E83C0A9E18059.title: "ERA 3: Wiek balonów i lotnictwa"
+	chapter.59395B6806F2A98A.title: "Cataclysm: Pradawni Bossowie"
+	chapter.621CD037410FA95E.title: "ERA 2.5: Wiek kolei i eksportu"
+	chapter.68C8841E131FBF2F.title: "ERA 1.5: Wiek płynów i płomieni"
+	chapter.78F4F7FE4BE6E101.title: "WITAJ W AeroStratum"
+	chapter.7AF827D2D101D343.title: "Artifacts: Starożytne Artefakty"
+	chapter_group.02FE661031A105D8.title: "Poznaj świat AeroStratum"
+	chapter_group.3990CFC104D28511.title: "Poznaj świat AeroStratum"
+	chapter_group.40B7CC202ACD7077.title: "Największa fabryka na świecie"
+	chapter_group.5177702D2E2E75BA.title: "Największa fabryka na świecie"
+	file.0000000000000001.title: "AeroStratum - Integrated Engineering"
+	image.09D9B906D64EEC0C.title: "Forteca Netheru"
+	image.0F50CB9DB3CC94EF.title: "Statek Endu"
+	image.1FFF2C2FAFC33232.title: "Twierdza (Stronghold)"
+	image.2CA16137DBB87580.title: "Bastion"
+	image.31A75754D07F903D.title: "Wrak Statku"
+	image.3E2A18876931DED5.title: "Opuszczona Kopalnia"
+	image.406A39A037D0C241.title: "Wioska"
+	image.4E5BC7C1274B7182.title: "Miasto Endu"
+	image.6569C0513FF60AFB.title: "Podwodne Ruiny"
+	image.791EFC83C44C2F16.title: "Zrujnowany Portal"
+	quest.001A348054127235.quest_desc: ["Dzięki &d&lInfuzji&r zwykłego Bloku Ametystu (przy &a60 Eterna&r, &c30–50% Quanta&r i &550% Arcana&r) stworzysz przenośny &5Budding Amethyst&r do hodowli kryształów!"]
+	quest.001A348054127235.title: "Tworzenie &5Budding Amethyst"
+	quest.001C1881E9289566.quest_desc: [
+		"&9Rare (Rzadki)&r to środkowa klasa rzadkości, dominująca na poziomie świata &eAscent&r."
+		""
+		"&9Luminous Crystal Shards&r pozyskasz poprzez rozbiórkę rzadkich przedmiotów na &c&lStole Rozbiórki&r."
+	]
+	quest.001C1881E9289566.quest_subtitle: "&9Rare"
+	quest.001C1881E9289566.title: "&9Luminous Crystal Shard"
+	quest.002D65E4D7E8F62B.quest_desc: ["Katalizator 2. poziomu do urządzenia Material Grader, pozwalający osiągać wyższe oceny surowców."]
+	quest.002D65E4D7E8F62B.title: "Katalizator Gradera II: Blazing Dust"
+	quest.0089A394566B0F3B.quest_desc: [
+		"&aUncommon (Niepospolity)&r to druga klasa rzadkości, najczęstsza na poziomie świata &2Frontier&r."
+		""
+		"&aTimeworn Fabric&r pozyskasz poprzez rozbiórkę niepospolitego ekwipunku na &c&lStole Rozbiórki&r."
+	]
+	quest.0089A394566B0F3B.quest_subtitle: "&aUncommon"
+	quest.0089A394566B0F3B.title: "&aTimeworn Fabric"
+	quest.00A1223DAAEB28BD.quest_desc: ["Forma do odlewania metalowych prętów konstrukcyjnych."]
+	quest.00A1223DAAEB28BD.title: "Forma: Pręt (Rod Cast)"
+	quest.00C26068B55F4FD9.quest_desc: ["Runa Ciszy całkowicie wyłącza dźwięki wydawane przez spawner oraz przyzywane z niego stworzenia. Idealne rozwiązanie do głośnych hal produkcyjnych!"]
+	quest.00C26068B55F4FD9.title: "Cisza na Hali!"
+	quest.010607466D565B53.quest_desc: ["&aRooted Boots&r stojąc na trawie powoli odnawiają punkty głodu i zdrowia, pobierając składniki odżywcze z podłoża."]
+	quest.010607466D565B53.quest_subtitle: "Stopy"
+	quest.010607466D565B53.title: "&aRooted Boots"
+	quest.01AFC11EAAB6CB3B.quest_desc: ["&eBone Reptile Armor&r wykuty z kości, Starożytnego Metalu oraz czaszki Kobolediatora zapewnia wysoką obronę i odporność na odrzut."]
+	quest.01AFC11EAAB6CB3B.title: "&eBone Reptile Armor"
+	quest.0223CC1700D49B6C.quest_desc: [
+		"Połączenie mosiądzu z układami redstone tworzy zaawansowany moduł sterujący."
+		""
+		"To serce inteligentnej automatyki – od filtrujących zsypów i sekwenserów, aż po terminale rzemieślnicze i autocraftery Refined Storage."
+	]
+	quest.0223CC1700D49B6C.quest_subtitle: "1x Brass Redstone Machine"
+	quest.0223CC1700D49B6C.title: "Mosiężna Logika: Brass Redstone Machine"
+	quest.0251715AB65D8151.quest_desc: ["Forma do odlewania klejnotów i kryształów na stole odlewniczym."]
+	quest.0251715AB65D8151.title: "Forma: Klejnot (Gem Cast)"
+	quest.02E1E48521F85EF6.quest_desc: [
+		"Potężne, zbrojone koła kruszące składane na Mechanicznym Crafterze."
+		""
+		"Obracając się naprzeciw siebie, mielą skały i rudy z ogromną prędkością, zapewniając dodatkowy uzysk surowców oraz dostęp do cennych pyłów."
+	]
+	quest.02E1E48521F85EF6.quest_subtitle: "2x Crushing Wheel"
+	quest.02E1E48521F85EF6.title: "Ciężkie Kruszarki: Crushing Wheels"
+	quest.035A4D63CB792F6E.quest_desc: ["Precyzyjne przeguby wykute z blachy cynkowej pozwalają naśladować ruch ludzkiej dłoni. To kluczowy element każdego automatycznego ramienia montażowego."]
+	quest.035A4D63CB792F6E.quest_subtitle: "1x Zinc Hand"
+	quest.035A4D63CB792F6E.title: "Mechaniczny Chwyt: Cynkowa Dłoń"
+	quest.036D5767E07005BC.quest_desc: ["&bFoundry Drain&r pozwala wyprowadzać stopiony metal na zewnątrz pieca. Zamontuj na nim kranik (&7Foundry Tap&r) lub podłącz rury płynowe!"]
+	quest.036D5767E07005BC.title: "&c&lFoundry&r &bDrains"
+	quest.037A93600E70561C.quest_desc: ["Unikalny moduł integrujący fizyczną pojemność szuflad ze strukturą dysków i bloków pamięci Refined Storage. Niezbędny komponent do zamknięcia każdego nośnika danych."]
+	quest.037A93600E70561C.quest_subtitle: "1x Digital Drawer"
+	quest.037A93600E70561C.title: "Hybrydowy Bufor: Digital Drawer"
+	quest.046B84EA84A40FA7.quest_desc: [
+		"Kiełkujący Ametyst (Budding Amethyst) to żywe serce geody, na którym nieustannie odrastają nowe kryształy."
+		""
+		"Zabezpiecz go na miejscu lub stwórz własny za pomocą rytuału infuzji, aby zautomatyzować zbiory odłamków ametystu!"
+	]
+	quest.046B84EA84A40FA7.quest_subtitle: "1x Budding Amethyst"
+	quest.046B84EA84A40FA7.title: "Serce Geody: Kiełkujący Ametyst"
+	quest.047F3F99035CE623.quest_desc: ["Forma do odlewania młotka geologicznego wykrywającego złoża rud w ścianach jaskiń."]
+	quest.047F3F99035CE623.quest_subtitle: "Poszukiwacz złóż"
+	quest.047F3F99035CE623.title: "Forma: Młotek Geologa (Prospector Hammer)"
+	quest.0496E8E786262464.quest_desc: ["Nadziemny świat (&2Overworld&r) skrywa aż 5 monumentalnych struktur zamieszkiwanych przez pradawnych bossów Cataclysm."]
+	quest.0496E8E786262464.title: "&2Overworld&r: Kraina 5 Bossów"
+	quest.04B40BB107F14330.quest_desc: ["&4Meat Shredder&r to mechaniczna piła tarczowa zadająca błyskawiczne obrażenia ciągłe przy przytrzymaniu prawego przycisku myszy."]
+	quest.04B40BB107F14330.quest_subtitle: "Ciężka piła mechaniczna"
+	quest.04B40BB107F14330.title: "&4Meat Shredder"
+	quest.04C59391A677A292.quest_desc: ["Pusta, pancerna kaseta ochronna gotowa na przyjęcie rdzenia pamięci. Chroni delikatne układy kwarcowe przed uszkodzeniem."]
+	quest.04C59391A677A292.quest_subtitle: "1x Storage Housing"
+	quest.04C59391A677A292.title: "Kieszeń na Dane: Storage Housing"
+	quest.0518551637F76C50.quest_desc: ["Ulepszenie &9Deepshelf&r świecami oraz Odłamkami Echa (Echo Shards) zapewnia &5+15% Arcana&r i podnosi limit Eterna do &a75&r."]
+	quest.0518551637F76C50.title: "&9Echoing Deepshelf"
+	quest.05DD778297C6611B.quest_desc: ["Diamentowe wzmocnienia dają ogromną przestrzeń ładunkową i miejsce na zaawansowane moduły ulepszeń. Z takim plecakiem możesz przenieść pół fabryki na własnych plecach."]
+	quest.05DD778297C6611B.quest_subtitle: "Najsilniejszy tragarz w ekipie"
+	quest.05DD778297C6611B.title: "Diamentowy Plecak"
+	quest.05DE9E1CDFBC22DE.quest_desc: ["&dVoid Scatter Arrows&r przy trafieniu w cel rozpadają się na deszcz odłamków raniących wszystkich wrogów wokół."]
+	quest.05DE9E1CDFBC22DE.title: "&dVoid Scatter Arrows"
+	quest.060CAF1582B83918.quest_desc: ["&eOccupied Village&r to pustynna wioska przejęta przez &eKoboletony&r oraz &eWadjeta&r. Uwolnij uwięzionych osadników i przeszukaj skrzynie!"]
+	quest.060CAF1582B83918.title: "&eOccupied Village"
+	quest.061307A9C70E47B4.quest_desc: ["Podgrzana kadź z mikserem pozwala stopić miedź i cynk w szlachetny mosiądz. Ten stop otwiera drogę do filtrowania, inteligentnych maszyn oraz precyzyjnej automatyki."]
+	quest.061307A9C70E47B4.quest_subtitle: "1x Brass Ingot"
+	quest.061307A9C70E47B4.title: "Złoto Inżynierów: Stop Mosiądzu"
+	quest.061A51A0EC13CA0F.quest_desc: [
+		"Aby zamknąć strukturę wieloblokową Odlewni:"
+		""
+		"1. Ułóż podłogę z bloków grzewczych &6Liquid Heating Coils&r."
+		"2. Wznieś 4 ściany wokół podłogi (narożniki mogą pozostać puste) z cegieł &cFire Bricks&r lub okien &cFoundry Windows&r."
+		"3. Wmontuj w ściany &aController&r, &4Tank&r oraz &bDrain&r."
+		""
+		"Gdy struktura jest poprawna, kontroler zapali się, a grzałki na dnie zmienią kolor na pomarańczowy!"
+	]
+	quest.061A51A0EC13CA0F.title: "Budowa &c&lOdlewni (Foundry)&r"
+	quest.06F70F6CA37168CC.quest_desc: ["&6&oGem Case of House Fabergé&r powstaje przez infuzję zwykłego Gem Case i mieści do 2,1 miliarda sztuk każdego unikalnego klejnotu!"]
+	quest.06F70F6CA37168CC.quest_subtitle: "Gustav Fabergé byłby dumny"
+	quest.06F70F6CA37168CC.title: "&6&oGem Case of House Fabergé"
+	quest.073D0D41BA5F219B.quest_desc: [
+		"Tarcza wymagająca idealnego wyczucia czasu."
+		""
+		"• &4Retaliation&r: Aktywowana w ostatniej chwili całkowicie paruje nadchodzące uderzenie i kontratakuje napastnika (nieudana parada na chwilę zwiększa podatność na obrażenia)."
+	]
+	quest.073D0D41BA5F219B.quest_subtitle: "+ PAROWANIE"
+	quest.073D0D41BA5F219B.title: "&cShield of Retaliation"
+	quest.0741FABE57CA1A7D.quest_desc: ["&9Hippocamtus&r to opancerzony wojownik z tarczą i włócznią strzegący Akropolu. Podobnie jak Cindaria, upuszcza &9Lacrima&r."]
+	quest.0741FABE57CA1A7D.title: "&9Hippocamtus"
+	quest.0794B19AAB6261EF.quest_desc: ["Połącz ociosane drewno ze Stopem Andezytowym (Andesite Alloy), klikając stopem na postawione drewno lub łącząc je w stole rzemieślniczym. Gratulacje – masz oficjalny korpus, który potrafi utrzymać w miejscu koła zębate i tłoki bez rozpadania się konstrukcji."]
+	quest.0794B19AAB6261EF.quest_subtitle: "5x Andesite Casing"
+	quest.0794B19AAB6261EF.title: "Andezytowa Obudowa"
+	quest.083ABBA1C45FF960.quest_desc: ["Forma do odlewania sierpa ścinającego plony i wysoką trawę na dużym obszarze."]
+	quest.083ABBA1C45FF960.quest_subtitle: "Żniwa pełną parą"
+	quest.083ABBA1C45FF960.title: "Forma: Sierp (Sickle Cast)"
+	quest.083ED9A55CB6F690.quest_desc: [
+		"Nie pozwól, aby Creepery zniszczyły Twoje ciężko zarobione maszyny i skrzynki. Może to też uchronić Cię przed kradzieżą, jeśli grasz ze znajomymi!"
+		""
+		"Otwórz mapę świata klawiszem [ M ]."
+		""
+		"Kliknij ikonę trzech nakładających się kwadratów w lewym górnym rogu (Claimed Chunks)."
+		""
+		"Klikaj lewym przyciskiem myszy na kwadraty (chunki), aby je zająć. Staną się bezpieczne."
+		""
+		"Przytrzymaj [ Shift ] + kliknij LPM na zajęty chunk, aby go załadować na stałe (Force Load). Dzięki temu Twoje farmy i maszyny będą działać, nawet gdy pójdziesz na daleką wyprawę!"
+	]
+	quest.083ED9A55CB6F690.quest_subtitle: "(Zabezpiecz bazę)"
+	quest.083ED9A55CB6F690.title: "Moje na zawsze!"
+	quest.0853917693A259C2.quest_desc: ["&3The Annihilator&r to ciężki młot bojowy – trzymając po jednym w każdej dłoni i przytrzymując PPM, wykonasz potężne uderzenie sejsmiczne w ziemię!"]
+	quest.0853917693A259C2.title: "&3The Annihilator"
+	quest.0894EB1F3FCFCECA.quest_desc: ["&3Draugrowie&r (zwykli, Royal oraz Elite) to nieumarli wojownicy północy posługujący się orężem i tarczami z Czarnej Stali (Black Steel)."]
+	quest.0894EB1F3FCFCECA.title: "&3Draugrs"
+	quest.091957223C32B094.quest_desc: ["Aby wejść w etap półek głębinowych (Deepshelves), podnieś limit &aMax Eterna&r do &a60&r, aktywując poziom świata &e&lAscent&r."]
+	quest.091957223C32B094.quest_subtitle: "Max Eterna: 60"
+	quest.091957223C32B094.title: "&e&lAscent&r do 60 Eterna"
+	quest.0931562098210538.quest_desc: ["Podaj Płomykowi słomkę, a zamiast paliw stałych będzie mógł pić płynne paliwa, oleje i lawę doprowadzone prosto rurociągiem!"]
+	quest.0931562098210538.quest_subtitle: "4x Straw"
+	quest.0931562098210538.title: "Płynne Paliwo: Słomki dla Płomyków"
+	quest.093786ED188CB158.quest_desc: ["Czterokrotnie większa gęstość upakowania danych. Idealny wybór, gdy urobek z automatycznych kopalni zaczyna liczyć się w tysiącach."]
+	quest.093786ED188CB158.quest_subtitle: "1x 4k Storage Part"
+	quest.093786ED188CB158.title: "Gęstszy Zapis: Rdzeń 4k"
+	quest.0947B4ED95B0267E.quest_desc: ["Powłoka ochronna (Coating) nakładana na wierzch gotowej broni lub narzędzia (np. powłoka z netherytu)."]
+	quest.0947B4ED95B0267E.quest_subtitle: "Zewnętrzna warstwa ochronna"
+	quest.0947B4ED95B0267E.title: "Szablon: Powłoka (Coating Blueprint)"
+	quest.0961A1F2AC4E3A5B.quest_desc: [
+		"Świat, w którym się znalazłeś, skrywa mroczne tajemnice. Pradawne, monstrualne bestie (z moda Cataclysm) śpią głęboko w gigantycznych strukturach – w ruinach na dnie oceanów, w płonących zamkach w Netherze czy w pustkach Endu."
+		""
+		"Nie próbuj z nimi walczyć na początku gry. Bez pełnego netherytowego pancerza, potężnych mieczy i zapasu mikstur, te potwory zniszczą Cię jednym uderzeniem. Eksploruj ostrożnie, przygotuj się dobrze i dopiero wtedy ruszaj po ich legendarne dropy!"
+	]
+	quest.0961A1F2AC4E3A5B.title: "Ostrzeżenie: Cienie w ciemności"
+	quest.097FDC136BC843A7.quest_desc: [
+		"Poziom &6&lSummit&r wymaga założenia pełnego rynsztunku rangi &9Rare&r (lub wyższej) oraz pokonania &0&lWithera&r."
+		""
+		"• Odblokowuje łupy &6Mythic&r oraz klejnoty &zPerfect&r!"
+		"• Premie gracza: +75% XP, +50% Szczęścia, limit &a75 Eterna&r"
+		"• Wzmocnienie potworów: +12 Pancerza, +10 Wytrzymałości Zbroi, +15 Przebicia"
+	]
+	quest.097FDC136BC843A7.title: "&lWorld Tier: &6Summit"
+	quest.099C2A9B9CA138F8.quest_desc: [
+		"&6Mythic (Mityczny)&r to najwyższa klasa przedmiotów, dostępna wyłącznie na poziomach świata &6Summit&r oraz &4Pinnacle&r!"
+		""
+		"&6Godforged Pearls&r pozyskasz z rozbiórki mitycznego rynsztunku na &c&lStole Rozbiórki&r."
+	]
+	quest.099C2A9B9CA138F8.quest_subtitle: "&6Mythic"
+	quest.099C2A9B9CA138F8.title: "&6Godforged Pearl"
+	quest.0A1D4228271DECA3.quest_desc: ["Zmniejsza rozmiar Twojej postaci o połowę, pozwalając swobodnie przechodzić przez szczeliny o wysokości 1 bloku."]
+	quest.0A1D4228271DECA3.quest_subtitle: "Naszyjnik"
+	quest.0A1D4228271DECA3.title: "&5Charm of Shrinking&r"
+	quest.0A3C464EF7CDD5F6.quest_desc: [
+		"&4Hellshelves&r wprowadzają parametr &cQuanta&r – każda daje &a+3 Eterna&r oraz &c+3% Quanta&r."
+		""
+		"Do kolejnego kroku potrzebujesz 15 takich półek ustawionych wokół stołu oraz 1 sztuki w ekwipunku do przeprowadzenia infuzji."
+	]
+	quest.0A3C464EF7CDD5F6.title: "&4Hellshelves"
+	quest.0A43D38D27CF4304.quest_desc: ["&3Abandoned Spire&r to mniejsza mroźna warownia zamieszkiwana przez nieumarłych &3Draugrów&r oraz potężnego &3Aptrgangra&r."]
+	quest.0A43D38D27CF4304.title: "&3Abandoned Spire"
+	quest.0B7F2B63D867D221.quest_desc: ["W bocznych komnatach szybu prowadzącego na dno piramidy użyj Pędzla (Brush) na Podejrzanym Piasku, aby wydobyć &eNecklace of the Desert&r i przebudzić nim bossa!"]
+	quest.0B7F2B63D867D221.quest_subtitle: "Przebudzenie Ancient Remnant"
+	quest.0B7F2B63D867D221.title: "&eNecklace of the Desert"
+	quest.0B98C898071F3C33.quest_desc: ["Zwykłe ognisko nie wystarczy do wytopu szlachetnych stopów. Wykuj żelazny kosz palnika, udaj się do Netheru i schwytaj w niego Płomyka (Blaze'a), aby zyskać kontrolowane źródło ekstremalnej temperatury."]
+	quest.0B98C898071F3C33.quest_subtitle: "1x Empty Blaze Burner"
+	quest.0B98C898071F3C33.title: "Klatka na Żywioł"
+	quest.0BFD8B6ECABADB11.quest_desc: ["Metalowa trzepaczka montowana w mikserze mechanicznym. Pozwala błyskawicznie łączyć ciecze, żywice i roztopione metale."]
+	quest.0BFD8B6ECABADB11.quest_subtitle: "1x Whisk"
+	quest.0BFD8B6ECABADB11.title: "Wirujące Łopatki: Trzepaczka"
+	quest.0C16D28641468295.quest_desc: ["Automatyczny konstruktor (Constructor) pobiera bloki z sieci Refined Storage i stawia je w świecie przed sobą."]
+	quest.0C16D28641468295.quest_subtitle: "1x Constructor"
+	quest.0C16D28641468295.title: "Automatyczny Budowniczy: Constructor"
+	quest.0C6ADA0C7F766E65.quest_desc: ["Ciemna skała wulkaniczna wytwarzana na żądanie bez wypraw do Netheru."]
+	quest.0C6ADA0C7F766E65.quest_subtitle: "64x Basalt"
+	quest.0C6ADA0C7F766E65.title: "Ekstruzja: Bazalt"
+	quest.0D26E5EF6CFCFDBF.quest_desc: ["Forma do odlewania ostrza noża – wysoka wytrzymałość i szybkie cięcia."]
+	quest.0D26E5EF6CFCFDBF.quest_subtitle: "Krótkie ostrze"
+	quest.0D26E5EF6CFCFDBF.title: "Forma: Nóż (Knife Cast)"
+	quest.0DF4B01CC5B49E4E.quest_desc: ["Forma do odlewania klasycznej głowni miecza – zrównoważone obrażenia i prędkość ataku."]
+	quest.0DF4B01CC5B49E4E.quest_subtitle: "Niezawodny klasyk"
+	quest.0DF4B01CC5B49E4E.title: "Forma: Miecz (Sword Cast)"
+	quest.0E02CE4469FCA4C9.quest_desc: ["Dodaje do spawnera wyłącznik zasilania. Po zaaplikowaniu tej runy spawner będzie działał wyłącznie wtedy, gdy doprowadzisz do niego sygnał Redstone."]
+	quest.0E02CE4469FCA4C9.title: "Sterowanie Redstone"
+	quest.0E1BC2AE1BE0BDFA.quest_desc: ["W Bujnych Jaskiniach (Lush Caves) możesz natknąć się na &2Amethyst Nest&r – gniazdo zamieszkiwane przez gigantycznego kraba ametystowego."]
+	quest.0E1BC2AE1BE0BDFA.title: "&2Amethyst Nest"
+	quest.0E1BC2AE1BE1BDFA.quest_desc: ["W Bujnych Jaskiniach (Lush Caves) możesz natknąć się na &2Amethyst Nest&r – gniazdo zamieszkiwane przez gigantycznego kraba ametystowego."]
+	quest.0E716B90E60C486B.quest_desc: ["&4Panic Necklace&r zapewnia zastrzyk prędkości ruchu natychmiast po otrzymaniu obrażeń, pozwalając szybko wycofać się z zagrożenia."]
+	quest.0E716B90E60C486B.quest_subtitle: "Naszyjnik"
+	quest.0E716B90E60C486B.title: "&4Panic Necklace&r"
+	quest.0E809204C288AAE9.quest_desc: ["Zwykły stół rzemieślniczy ma swoje granice. Zestawienie co najmniej 9 Mechanicznych Crafterów w jedną matrycę pozwala składać wielkogabarytowe części maszyn, takie jak Koła Kruszące!"]
+	quest.0E809204C288AAE9.quest_subtitle: "9x Mechanical Crafter"
+	quest.0E809204C288AAE9.title: "Matryca Montażowa: Mechanical Crafter"
+	quest.0E90577AC72749C4.quest_desc: [
+		"&6Thundering Spawner Upgrade Rune&r to czwarty, ostateczny poziom ulepszenia spawnera (wymaga klejnotu Endersurge z wymiaru Endu):"
+		""
+		"• Minimalne i maksymalne opóźnienie: 20 ticków (1 sekunda!)"
+		"• Liczba mobów na cykl: 16"
+		"• Limit pobliskich bytów: 32"
+		"• Zasięg aktywacji gracza: 48 kratek"
+	]
+	quest.0E90577AC72749C4.title: "Runa Ulepszenia IV: Pinnacle"
+	quest.0EE0946240B41A00.quest_desc: ["&bIgnitium Armor&r zapewnia widzenie pod lawą (hełm), możliwość połączenia z Elytrą (napierśnik), szybsze gaśnięcie płomieni (nogawice) oraz chodzenie po powierzchni lawy (buty)!"]
+	quest.0EE0946240B41A00.title: "&bIgnitium Armor"
+	quest.0EF9F10A2178451F.quest_desc: ["Wszystkie cegły i bloki konstrukcyjne odlewni można barwić na dowolny kolor – poszczególne kolory można też swobodnie mieszać w jednej strukturze!"]
+	quest.0EF9F10A2178451F.title: "&zKolorowe Bloki &c&lOdlewni&r"
+	quest.0F0E227FC3EC0D90.quest_desc: ["Alternatywne systemy przyzywania stworzeń oraz zestalania płynnego doświadczenia wspomagające automatyzację fabryki."]
+	quest.0F0E227FC3EC0D90.title: "Przemysłowe Spawnowanie"
+	quest.0F3A0A4DC18E5E55.quest_desc: [
+		"&aEterna&r określa bazowy poziom zaklinania (siłę oferowanych zaklęć). Maksymalny limit Eterna zależy od Twojego aktualnego &lPoziomu Świata (World Tier)&r:"
+		""
+		"• &a30&r na poziomie &9&lHaven&r"
+		"• &a45&r na poziomie &2&lFrontier&r"
+		"• &a60&r na poziomie &e&lAscent&r"
+		"• &a75&r na poziomie &6&lSummit&r"
+		"• &a100&r na poziomie &4&lPinnacle&r"
+	]
+	quest.0F3A0A4DC18E5E55.title: "Parametr: &aEterna"
+	quest.0F89BFD4A3F63A48.quest_desc: ["Sprawia, że spawner całkowicie ignoruje poziom oświetlenia – wrogie potwory będą pojawiać się nawet w pełnym świetle lamp, choć nadal obowiązują inne wymogi (np. trawa dla zwierząt hodowlanych)."]
+	quest.0F89BFD4A3F63A48.title: "Ignorowanie Światła"
+	quest.0F8F0F7880235BA2.quest_desc: ["&cSoul Blacksmith&r to monumentalna kuźnia w Netherze pełna złota i czernitu, której pilnuje kolosalny &c&lNetherite Monstrosity&r."]
+	quest.0F8F0F7880235BA2.title: "&cSoul Blacksmith&f: Siedziba &c&lNetherite Monstrosity&r"
+	quest.0FEAD3CA2CC4A8B1.quest_desc: ["Katalizator 3. poziomu pozwalający nałożyć najwyższy stopień gwiezdnego naładowania."]
+	quest.0FEAD3CA2CC4A8B1.title: "Katalizator Gwiezdny III: Starmetal Dust"
+	quest.105442DA79829777.quest_desc: ["Połączenie przedmiotu z &8Tome of Scrapping&r w kowadle pozwala odzyskać połowę jego zaklęć na księgę, niszcząc przy tym sam przedmiot."]
+	quest.105442DA79829777.quest_subtitle: "Połowa zaklęć, niszczy przedmiot"
+	quest.105442DA79829777.title: "&8Tome of Scrapping"
+	quest.1102B27CBF564127.quest_desc: ["Dodatkowy moduł nakładany na spawner, który zapobiega znikaniu (despawnowaniu) przyzwanych mobów, gdy oddalisz się od swojej fabryki."]
+	quest.1102B27CBF564127.quest_subtitle: "Nie znikajcie mi stąd!"
+	quest.1102B27CBF564127.title: "Agitator Spawnera"
+	quest.1113BF457DB7F1DE.quest_desc: ["Poziom świata &6&lSummit&r podnosi Twój limit &aMax Eterna&r do &a75&r, co jest niezbędne do przeprowadzenia najtrudniejszych infuzji użytkowych."]
+	quest.1113BF457DB7F1DE.quest_subtitle: "Max Eterna: 75"
+	quest.1113BF457DB7F1DE.title: "Wspinaczka na &6&lSummit"
+	quest.1136FE2A46C13302.quest_desc: ["Zajezdnia (Depot) przytrzymuje przedmioty w idealnej pozycji pod prasą lub ramieniem Deployera. W połączeniu z lejami tworzy najprostszą stację obróbki sekwencyjnej."]
+	quest.1136FE2A46C13302.quest_subtitle: "Najważniejsze elementy na taśmie"
+	quest.1136FE2A46C13302.title: "Podstawowe narzędzia taśmowe"
+	quest.1178E4123E8818E2.quest_desc: ["&eSandstorm in a Bottle&r po użyciu przyzywa wokół Ciebie wirujące trąby powietrzne raniące i odrzucające wrogów."]
+	quest.1178E4123E8818E2.title: "&eSandstorm in a Bottle"
+	quest.11A6D020D6F411A8.quest_desc: [
+		"Płaszcz zakrzywiający rzeczywistość i percepcję wrogów."
+		""
+		"• &2Perception Glitch&r: Daje szansę na całkowite uniknięcie ciosu."
+		"• &9Glitchy Copy&r: Tworzy iluzorycznego klona, który ogłusza wrogów przy kontakcie."
+		"• &bSurface Tear&r: Pozwala chodzić w powietrzu niczym po rusztowaniu (dopóki pozostajesz w ruchu)."
+	]
+	quest.11A6D020D6F411A8.quest_subtitle: "Zakrzywienie rzeczywistości"
+	quest.11A6D020D6F411A8.title: "&2Glitchy Mantle"
+	quest.11B0B93D725ABE43.quest_desc: [
+		"Narzędzia z Silent Gear naprawisz w każdej chwili bez kowadła za pomocą &9Repair Kit&r!"
+		""
+		"Połącz zestaw naprawczy z surowcami w siatce rzemieślniczej, aby go napełnić, a następnie połącz go z uszkodzonym narzędziem."
+	]
+	quest.11B0B93D725ABE43.quest_subtitle: "Naprawa w terenie bez kowadła"
+	quest.11B0B93D725ABE43.title: "Zestaw Naprawczy (Repair Kit)"
+	quest.11C5F17C6BB1237B.quest_desc: ["Ataki wręcz z założoną &5Withered Bracelet&r mają szansę nałożyć na cel efekt Obumierania (Wither)."]
+	quest.11C5F17C6BB1237B.quest_subtitle: "Nadgarstki (Dłonie)"
+	quest.11C5F17C6BB1237B.title: "&5Withered Bracelet&r"
+	quest.11DBC70D36451A8D.quest_desc: ["Cyfrowy kartridż zdolny pomieścić aż 64 wiadra cieczy wewnątrz napędu Disk Drive. Koniec z budowaniem całych hal pełnych zbiorników!"]
+	quest.11DBC70D36451A8D.quest_subtitle: "1x 64b Fluid Storage Disk"
+	quest.11DBC70D36451A8D.title: "Dysk Płynów 64b"
+	quest.1204BCEDBE8D18EE.quest_desc: ["Wydajna, bezobsługowa produkcja obsydianu w mosiężnym ekstruderze – fundament pod masową produkcję Sturdy Sheets i zaawansowanych obudów."]
+	quest.1204BCEDBE8D18EE.quest_subtitle: "64x Obsidian"
+	quest.1204BCEDBE8D18EE.title: "Zaawansowana Ekstruzja: Obsydian"
+	quest.122E6E7CABCB17E7.quest_desc: ["&7Kitty Slippers&r sprawiają, że wszystkie Creepery uciekają przed Tobą w popłochu, a Ty otrzymujesz mniejsze obrażenia od upadku."]
+	quest.122E6E7CABCB17E7.quest_subtitle: "Stopy"
+	quest.122E6E7CABCB17E7.title: "&7Kitty Slippers&r"
+	quest.12449D23295CF9ED.quest_desc: [
+		"Morski relikt odnajdywany w podwodnych ruinach i wrakach."
+		""
+		"• &bAquatic Regeneration&r: Zwiększa maksymalne zdrowie i regenerację podczas przebywania w wodzie lub na deszczu."
+		"• &9Electric Discharge&r: Gromadzi ładunek elektryczny, który przy kontakcie z wrogiem wyzwala łańcuchowy impuls paraliżujący!"
+	]
+	quest.12449D23295CF9ED.quest_subtitle: "Elektryzujący uścisk głębin"
+	quest.12449D23295CF9ED.title: "&9Jellyfish Necklace"
+	quest.13D5F689E6884281.quest_desc: ["&eKobolediator&r to jeden z dwóch mini-bossów piramidy – potężny gladiator wywołujący zmęczenie górnicze i szarżujący na graczy."]
+	quest.13D5F689E6884281.title: "&eKobolediator"
+	quest.1403D677CF2815C3.quest_desc: ["Ulepszony &5&lReforging Table&r przełamuje ograniczenia podstawowego stołu, pozwalając przekuwać przedmioty z użyciem materiałów &5Epic&r oraz &6Mythic&r!"]
+	quest.1403D677CF2815C3.title: "(Ulepszony) &5&lReforging Table&r"
+	quest.145E7D1A88B83DDD.quest_desc: ["Otula właściciela aurą niewidzialności, utrudniając potworom wykrycie Twojej obecności."]
+	quest.145E7D1A88B83DDD.quest_subtitle: "Szalik (Naszyjnik)"
+	quest.145E7D1A88B83DDD.title: "&9Scarf of Invisibility&r"
+	quest.148A33CC36B2563A.quest_desc: ["&dDraconic Endshelf&r wykuta z użyciem &dGłowy Smoka&r to jedyna półka pozwalająca osiągnąć ostateczny pułap &a100 Eterna&r!"]
+	quest.148A33CC36B2563A.title: "&dDraconic Endshelf"
+	quest.152852C93E3A82F4.quest_desc: ["Stacjonarny blok pamięci na płyny o pojemności 64 wiader, gotowy do bezpośredniego wpięcia w sieć Refined Storage."]
+	quest.152852C93E3A82F4.quest_subtitle: "1x 64b Fluid Storage Block"
+	quest.152852C93E3A82F4.title: "Stacjonarny Bank Płynów 64b"
+	quest.158B24939A269D83.quest_desc: ["Okucie końcówki (Tip Upgrade) pozwala podnieść poziom wydobycia gotowego narzędzia – np. nałożenie diamentowej końcówki na żelazny kilof pozwoli nim kopać obsydian!"]
+	quest.158B24939A269D83.quest_subtitle: "Gdy masz tylko 1 diament"
+	quest.158B24939A269D83.title: "Forma: Końcówka (Tip Cast)"
+	quest.158F872A3A2C3650.quest_desc: [
+		"Mając dostęp do &a80 Eterna&r, możesz poddać infuzji &dOddech Smoka (Dragon's Breath)&r!"
+		""
+		"Wymagane parametry (&a80 Eterna&r, &c25% Quanta&r, &5100% Arcana&r) uzyskasz za pomocą: 4x &9Echoing Sculkshelf&r, 4x &9Soul-Touched Sculkshelf&r oraz 6x &6Geode-Encased Bookshelf of Stability&r."
+	]
+	quest.158F872A3A2C3650.title: "&dInfused Dragon's Breath"
+	quest.1617C1935F22FBD1.quest_desc: [
+		"Infuzja mitycznej perły &6Godforged Pearl&r przy pełnych &a100 Eterna&r, &c9,65–11% Quanta&r oraz &558,75–60% Arcana&r."
+		""
+		"Wymagany układ: 1x &dDraconic Endshelf&r, 6x &6Geode-Encased Bookshelf&r, 1x &9Echoing Sculkshelf&r, 5x &9Soul-Touched Sculkshelf&r, 1x &7Stoneshelf&r oraz 1 Świeca."
+	]
+	quest.1617C1935F22FBD1.quest_subtitle: "Alchemia boskich pereł"
+	quest.1617C1935F22FBD1.title: "&6God-Fused Pearl"
+	quest.161A90E134592D0E.quest_desc: ["Przepalenie &cEverlasting Beef&r w piecu daje &4Eternal Steak&r – nieskończony stek odnawiający znacznie więcej punktów głodu i nasycenia!"]
+	quest.161A90E134592D0E.quest_subtitle: "Unikalny"
+	quest.161A90E134592D0E.title: "&4Eternal Steak"
+	quest.16255FB20F35A9D9.quest_desc: ["&3Snorkel&r zapewnia zapas oddychania pod wodą po zanurzeniu, ułatwiając eksplorację podwodnych struktur."]
+	quest.16255FB20F35A9D9.quest_subtitle: "Głowa"
+	quest.16255FB20F35A9D9.title: "&3Snorkel"
+	quest.166B94A48B3625D5.quest_desc: ["Podstawowe paliwo dla Twoich pierwszych pieców i kotłów. Zbierz solidny zapas węgla, zanim przejdziesz na paliwa płynne."]
+	quest.166B94A48B3625D5.quest_subtitle: "32x Węgiel (Coal)"
+	quest.166B94A48B3625D5.title: "Czarne Złoto: Węgiel"
+	quest.166CE4243896A0CD.quest_desc: ["Chcesz zwiększyć moc swoich klejnotów? Na &a&lStole Szlifierskim (Gem Cutting Table)&r połączysz dwa identyczne klejnoty tej samej jakości z pyłem klejnotów i materiałami rzadkości, podnosząc ich czystość aż do rangi &zPerfect&r!"]
+	quest.166CE4243896A0CD.title: "Szlifowanie &aKlejnotów"
+	quest.167E1474644C9908.quest_desc: [
+		"Kwarc pozwala odwrócić działanie dowolnej runy modyfikującej."
+		""
+		"Trzymając Kwarc w drugiej ręce (Offhand), a runę w głównej dłoni, zaaplikujesz odwrotny efekt – np. zmniejszysz zasięg przyzywania zamiast go zwiększać."
+	]
+	quest.167E1474644C9908.title: "Odwrócenie Efektu: Kwarc"
+	quest.1695917695648018.quest_desc: ["&3Abandoned Temple&r to mroźna świątynia strzeżona przez &3Draugrów&r – na jej szczycie znajdziesz skrzynie z cennym łupem."]
+	quest.1695917695648018.title: "&3Abandoned Temple"
+	quest.16C74B5F99AD6724.quest_desc: [
+		"&8Common (Zwykły)&r to najbardziej podstawowa klasa rzadkości, powszechna na poziomie świata &9Haven&r."
+		""
+		"&8Mysterious Scrap Metal&r pozyskasz, rozbierając zwykłe przedmioty na &c&lStole Rozbiórki&r."
+	]
+	quest.16C74B5F99AD6724.quest_subtitle: "&8Common"
+	quest.16C74B5F99AD6724.title: "&8Mysterious Scrap Metal"
+	quest.17410BE15A81DD96.quest_desc: [
+		"&9Wayfarer's Spawner Upgrade Rune&r to drugi poziom ulepszenia spawnera (do jej stworzenia możesz użyć dowolnego jajka przyzywającego):"
+		""
+		"• Minimalne opóźnienie: 100 ticków"
+		"• Maksymalne opóźnienie: 400 ticków"
+		"• Liczba mobów na cykl: 10"
+		"• Limit pobliskich bytów: 18"
+		"• Zasięg aktywacji gracza: 32 kratki"
+	]
+	quest.17410BE15A81DD96.title: "Runa Ulepszenia II: Ascent"
+	quest.1744E700CF742CE2.quest_desc: ["&5Coralssus&r to potężny koralowy kolos strzegący więzień w Zatopionym Mieście. Upuszcza &5Coral Chunk&r wymagany do stworzenia Abyssal Sacrifice."]
+	quest.1744E700CF742CE2.title: "&5Coralssus&r"
+	quest.177D8EE9F636BFB8.quest_desc: [
+		"Fabryka pełna surowców to dopiero połowa sukcesu – prawdziwa potęga przemysłowa zaczyna się tam, gdzie nadwyżki produkcyjne zamieniają się w twardą walutę!"
+		""
+		"W świecie &6AeroStratum&r podstawą ekonomii są monety z systemu &eCreate: Numismatics&r (od drobnych &7Spurs&r i &7Bevels&r, aż po cenne &6Crowns&r oraz &bSuns&r). Zamiast gromadzić tysiące niepotrzebnych przedmiotów w magazynach, możesz wprowadzić je na rynek."
+		""
+		"&lJak zacząć zarabiać?&r"
+		"• &aLokalny Handel i Wendorzy:&r W pierwszej części tego rozdziału nauczysz się zarządzać kontem bankowym, korzystać z kart płatniczych oraz stawiać własne automaty sprzedażowe (&eAndesite&r oraz &6Brass Vendors&r). Pozwolą Ci one bezobsługowo handlować z innymi graczami i czerpać zyski ze swojej oferty 24/7."
+		"• &bKolej i Masowy Eksport:&r Gdy lokalny rynek przestanie Ci wystarczać, w drugiej części drzewka wkroczysz w erę ciężkiej logistyki kolejowej! Zbudujesz własną sieć pociągów towarowych, które umożliwią masowy transport i eksport dóbr na skalę światową."
+		""
+		"Kliknij poniższy znacznik, aby poznać tajniki ekonomii i otworzyć swój pierwszy punkt handlowy!"
+	]
+	quest.177D8EE9F636BFB8.quest_subtitle: "Zwiększenie zarobków na skalę światową"
+	quest.177D8EE9F636BFB8.title: "HANDEL"
+	quest.179A2967D712CE85.quest_desc: ["Nasycenie kwarcu netherowego ogromną ilością czerwonego proszku tworzy kryształ zdolny do przewodzenia i wzmacniania impulsów energetycznych."]
+	quest.179A2967D712CE85.quest_subtitle: "1x Rose Quartz"
+	quest.179A2967D712CE85.title: "Krystaliczna Rezonancja: Różowy Kwarc"
+	quest.17C87EB8ED8A27AB.quest_desc: ["Runy Spawnera stanowią bazowy komponent rzemieślniczy wymagany do wytwarzania podstawowych ulepszeń spawnerów."]
+	quest.17C87EB8ED8A27AB.quest_subtitle: "Podstawowe modyfikacje"
+	quest.17C87EB8ED8A27AB.title: "Runa Spawnera"
+	quest.17CA9D80D8EC3EF7.quest_desc: ["&4&lThe Harbinger&r to latająca machina zagłady napędzana Gwiazdą Netheru. Ostrzeliwuje arenę samonaprowadzającymi rakietami Withera, moździerzami oraz potężnym promieniem lasera (wskazówka: impulsy EMP potrafią go chwilowo ogłuszyć!)."]
+	quest.17CA9D80D8EC3EF7.title: "&4&lThe Harbinger&r"
+	quest.186593EBCE3FE8D8.quest_desc: ["Zwiększa promień wokół spawnera, w którym mogą pojawiać się potwory (lub zmniejsza go, jeśli trzymasz Kwarc w drugiej ręce, co ułatwia budowę ciasnych komór zrzutowych)."]
+	quest.186593EBCE3FE8D8.title: "Zasięg Przyzywania"
+	quest.1873205CF5247E3E.quest_desc: ["&dEndshelves&r tworzone z nasyconego oddechu smoka i cegieł Endu pozwalają podnieść poziom &aEterna&r aż do &a90&r!"]
+	quest.1873205CF5247E3E.title: "&dEndshelves"
+	quest.18A64670D9EE86E8.quest_desc: ["Szara, niepozorna skała, która stanowi fundament całej technologii Create. Wykop pełny stack andezytu – przyda się szybciej, niż myślisz!"]
+	quest.18A64670D9EE86E8.quest_subtitle: "64x Andezyt (Andesite)"
+	quest.18A64670D9EE86E8.title: "Fundament Inżynierii: Andezyt"
+	quest.18AA64DF63F68762.quest_desc: ["Węzeł łączący ścieżkę Hellshelf i Seashelf przed przejściem na poziom Ascent."]
+	quest.18AA64DF63F68762.title: "Kolejna Brama"
+	quest.18B025CA634BFF11.quest_desc: ["Samodzielny blok pamięci 1k, który możesz postawić bezpośrednio w świecie i podpiąć kablem do sieci bez użycia stacji Disk Drive."]
+	quest.18B025CA634BFF11.quest_subtitle: "1x 1k Storage Block"
+	quest.18B025CA634BFF11.title: "Stacjonarny Bank 1k"
+	quest.18DB8C875F2331B2.quest_desc: [
+		"Pas kinetyczny manipulujący grawitacją i pędem."
+		""
+		"• &5Arsenal Expansion&r: Zwiększa liczbę slotów na amulety."
+		"• &bGliding&r: Przytrzymanie Spacji zmniejsza grawitację i pozwala szybować w powietrzu (w połączeniu z &9Jellyfish Necklace&r tworzy synergię &eElectric Arc&r, pozostawiającą w locie elektryczny ślad!)."
+	]
+	quest.18DB8C875F2331B2.quest_subtitle: "Opanuj pęd powietrza"
+	quest.18DB8C875F2331B2.title: "&dKinetic Belt&r"
+	quest.18E0F5A78F696FA3.quest_desc: ["Runa Echa nakłada specjalny efekt na spawner – wszystkie przyzwane przez niego stworzenia upuszczają zwielokrotnioną ilość łupów po śmierci."]
+	quest.18E0F5A78F696FA3.title: "Runa Echa (Echoing)"
+	quest.18EB86F91CBBCCC6.quest_desc: [
+		"Struktury z moda Cataclysm są rozrzucone po całym świecie na ogromnych dystansach."
+		""
+		"Przekucie Oka Endera w dedykowane Oko danego bossa wskaże Ci dokładną drogę do jego siedziby (oczy te bardzo rzadko ulegają zniszczeniu przy rzucie)."
+	]
+	quest.18EB86F91CBBCCC6.title: "Oczy Przeznaczenia"
+	quest.191A7F3C9FBA4C13.quest_desc: [
+		"Ulepszenie &bInfused Seashelf&r kryształami pryzmarynu daje &bCrystalline Seashelf&r (&a+5 Eterna&r, &5+5% Arcana&r, &c+3% Quanta&r)."
+		""
+		"12 takich półek wystarczy, aby nasycić &9Dormant Deepshelf&r!"
+	]
+	quest.191A7F3C9FBA4C13.title: "&bCrystalline Seashelf"
+	quest.196312DF0D2E2CB6.quest_desc: [
+		"&4Najeźdźcy (Invaders)&r to mini-bossowie Apotheosis pojawiający się w każdym wymiarze i upuszczający klejnoty oraz przedmioty z afiksami."
+		""
+		"Ich siła oraz jakość łupów zależą od wybranego &lPoziomu Świata (World Tier)&r! Menu Poziomów Świata otworzysz w każdej chwili skrótem &e[ CTRL + T ]&r."
+	]
+	quest.196312DF0D2E2CB6.title: "&4Najeźdźcy&r i &lPoziomy Świata"
+	quest.19B393433FB0C62F.quest_desc: ["&4Strider Shoes&r pozwalają bezpiecznie chodzić po powierzchni lawy podczas skradania się oraz chronią przed obrażeniami od bloków magmy."]
+	quest.19B393433FB0C62F.quest_subtitle: "Stopy"
+	quest.19B393433FB0C62F.title: "&4Strider Shoes&r"
+	quest.1A52D891F39B3956.quest_desc: ["Specjalistyczny moduł konwertujący ciśnienie cieczy na sygnał cyfrowy. Niezbędny do budowy dysków i bloków magazynowych na płyny."]
+	quest.1A52D891F39B3956.quest_subtitle: "1x Digital Tank"
+	quest.1A52D891F39B3956.title: "Cyfrowy Zbiornik: Digital Tank"
+	quest.1A8F438DB8508276.quest_desc: ["&3Frosted Prison&r to ogromna lodowa forteca w górach skrywająca zbrojownie, cele więzienne oraz Przeklęty Nagrobek (&3Cursed Tombstone&r)."]
+	quest.1A8F438DB8508276.title: "&3Frosted Prison&r: Siedziba &3&lMaledictusa"
+	quest.1B344A2390B3E993.quest_desc: ["Prawdziwa potęga Wieku Pary! Zamontuj silniki parowe na rozgrzanym kotle z Fluid Tanków zasilanym palnikami Blaze Burner, aby wygenerować gigantyczne ilości jednostek naprężeń (SU) dla całej fabryki."]
+	quest.1B344A2390B3E993.quest_subtitle: "4x Steam Engine"
+	quest.1B344A2390B3E993.title: "Serce Elektrowni: Silniki Parowe"
+	quest.1B4ED65C614B102F.quest_desc: ["&bIgnited Revenant&r osłania się wirującymi tarczami – poczekaj, aż uniesie gardę, i pokonaj go, by zdobyć &bBurning Ashes&r."]
+	quest.1B4ED65C614B102F.title: "&bIgnited Revenant&r"
+	quest.1B7A15730657ED30.quest_desc: ["&eDesert Site&r to rozległe wykopaliska pustynne strzeżone przez &eKoboletony&r i &eWadjeta&r – uważaj na ukryte pułapki przy skrzyniach!"]
+	quest.1B7A15730657ED30.title: "&eDesert Site"
+	quest.1B93CC74B13084E5.quest_desc: ["Wysuszone wodorosty po obróbce stanowią zaskakująco elastyczny i wytrzymały surowiec, przypominający gumę przemysłową. Zbierz solidny zapas z dna oceanu – bez niego żadna taśma produkcyjna nie ruszy z miejsca."]
+	quest.1B93CC74B13084E5.quest_subtitle: "32x Kelp"
+	quest.1B93CC74B13084E5.title: "Zbiór z Głębin: Wodorosty"
+	quest.1C22288B92135426.quest_desc: ["Wolnostojąca szafa serwerowa o pojemności 4096 przedmiotów. Świetnie sprawdza się jako dedykowany magazyn podpięty bezpośrednio pod linię produkcyjną."]
+	quest.1C22288B92135426.quest_subtitle: "1x 4k Storage Block"
+	quest.1C22288B92135426.title: "Stacjonarny Bank 4k"
+	quest.1C5EA7D62BAF2108.quest_desc: ["Aby przebudzić &5&lThe Leviathan&r, musisz złożyć w ołtarzu &5Abyssal Sacrifice&r – przedmiot wykuty z bloków metali, ametystu, muszli łodzika, Serca Morza, sztyletu Athame oraz fragmentów koralu."]
+	quest.1C5EA7D62BAF2108.quest_subtitle: "Przebudzenie Lewiatana"
+	quest.1C5EA7D62BAF2108.title: "&5Abyssal Sacrifice"
+	quest.1C83657D7D6B7C2B.quest_desc: ["Wypycha wskazane przedmioty lub płyny z sieci cyfrowej bezpośrednio do podłączonej maszyny, kadzi lub zbiornika."]
+	quest.1C83657D7D6B7C2B.quest_subtitle: "1x Exporter"
+	quest.1C83657D7D6B7C2B.title: "Węzeł Wyjściowy: Exporter"
+	quest.1CD05CB4A3DB112A.quest_desc: ["&c&lStół Rozbiórki (Salvaging Table)&r pozwala przetwarzać niepotrzebne klejnoty w pył oraz rozbierać znaleziony ekwipunek z afiksami na surowce rzemieślnicze odpowiadające jego rzadkości."]
+	quest.1CD05CB4A3DB112A.title: "&c&lSalvaging Table"
+	quest.1D1FAA2F86695781.quest_desc: [
+		"Aby przejść na poziom &e&lAscent&r, cały Twój założony ekwipunek musi być rangi &aUncommon&r (lub wyższej), a ponadto musisz pokonać przynajmniej jednego &4Najeźdźcę (Invader)&r."
+		""
+		"• Premie gracza: +55% XP, +30% Szczęścia, limit &a60 Eterna&r"
+		"• Wzmocnienie potworów: +8 Pancerza, +5 Przebicia Pancerza"
+	]
+	quest.1D1FAA2F86695781.title: "&lWorld Tier: &eAscent"
+	quest.1D415EDA55BC810F.quest_desc: ["Diamentowy Autocrafter jeszcze bardziej przyspiesza pracę i udostępnia ogromną liczbę slotów na wzorce dla rozbudowanych linii produkcyjnych."]
+	quest.1D415EDA55BC810F.quest_subtitle: "1x Diamond Crafter"
+	quest.1D415EDA55BC810F.title: "Diamentowy Autocrafter"
+	quest.1D56D3B444A4B2D4.quest_desc: ["Fuzja &dGauntlet of Guard&r oraz &bBulwark of the Flame&r – odpycha pobliskich wrogów, nakłada na nich ogniste piętno i pozwala wykonać płomienną szarżę!"]
+	quest.1D56D3B444A4B2D4.title: "&dGauntlet of &bBulwark"
+	quest.1E13E3DE5D69B61F.quest_desc: ["Czysta karta pamięci na schematy produkcyjne. Zapisz na niej recepturę rzemieślniczą lub proces przetapiania, a następnie umieść w Autocrafterze."]
+	quest.1E13E3DE5D69B61F.quest_subtitle: "1x Pattern"
+	quest.1E13E3DE5D69B61F.title: "Nośnik Schematu: Pattern"
+	quest.1E2A9446594638E2.quest_desc: [
+		"Kostur wykuty z owoców refrenu."
+		""
+		"• &dTeleportation&r: Pozwala błyskawicznie teleportować się przed siebie na krótki dystans, zużywając wewnętrzne ładunki odnawiające się z czasem."
+	]
+	quest.1E2A9446594638E2.quest_subtitle: "Mignięcie przez przestrzeń"
+	quest.1E2A9446594638E2.title: "&dChorus Staff&r"
+	quest.1E2F1E036716C031.quest_desc: ["Forma do odlewania widełek procy miotającej drobnymi kamykami."]
+	quest.1E2F1E036716C031.title: "Forma: Proca (Slingshot Cast)"
+	quest.1E3C2E5663DE1F3F.quest_desc: [
+		"Szczytowe osiągnięcie mechaniki precyzyjnej! Zestaw rząd Deployerów nad taśmą montażową i zautomatyzuj produkcję Precision Mechanism."
+		""
+		"Opanowanie tego procesu otwiera przed Tobą wrota do zaawansowanej logistyki, maszyn mosiężnych oraz pełnej automatyzacji. Witaj w Erze 2!"
+	]
+	quest.1E3C2E5663DE1F3F.quest_subtitle: "Kamień Milowy Ery 1"
+	quest.1E3C2E5663DE1F3F.title: "Złote Serce Automatyzacji: Precision Mechanism"
+	quest.1E40ACF3E69A4100.quest_desc: ["&6Antidote Vessel&r drastycznie skraca czas trwania negatywnych efektów (takich jak Trucizna czy Wither)."]
+	quest.1E40ACF3E69A4100.quest_subtitle: "Pas"
+	quest.1E40ACF3E69A4100.title: "&6Antidote Vessel&r"
+	quest.1E8357755479E259.quest_desc: ["Forma do odlewania korpusu kuszy o dużej sile przebicia."]
+	quest.1E8357755479E259.title: "Forma: Kusza (Crossbow Cast)"
+	quest.1F748ACA3976A92F.quest_desc: ["Węzeł łączący ścieżkę Hellshelf lub Seashelf z wymogiem odblokowania poziomu świata Frontier."]
+	quest.1F748ACA3976A92F.title: "Wybór Ścieżki"
+	quest.1FAFDB20F504688E.quest_desc: [
+		"&5&lApothic Enchanting&r całkowicie przebudowuje mechanikę zaklinania."
+		""
+		"Zwykłe 15 biblioteczek to dopiero początek – nowe rodzaje półek pozwalają sterować trzema parametrami ołtarza (&aEterna&r, &cQuanta&r, &5Arcana&r) oraz przeprowadzać rytuały &d&lInfuzji&r!"
+	]
+	quest.1FAFDB20F504688E.title: "&5&lApothic Enchanting"
+	quest.1FD7EB7910170E8D.quest_desc: ["Miedź to klucz do opanowania rurociągów, zbiorników ciśnieniowych oraz wytopu mosiądzu w nadchodzących erach."]
+	quest.1FD7EB7910170E8D.quest_subtitle: "16x Sztabka miedzi (Copper Ingot)"
+	quest.1FD7EB7910170E8D.title: "Rudy Przemysłowe: Miedź"
+	quest.2002C7EB13626AE7.quest_desc: [
+		"&6Sigil of Enhancement&r stanowi paliwo dla &6&lStołu Augmentacji&r."
+		""
+		"Każde przelosowanie pojedynczego afiksu kosztuje 1 pieczęć, a jego ulepszenie na wyższy poziom – 2 pieczęcie."
+	]
+	quest.2002C7EB13626AE7.title: "&6Sigil of Enhancement"
+	quest.200DFE86A1BCAE00.quest_desc: ["Automatyczny destruktor (Destructor) niszczy bloki znajdujące się przed nim i przesyła urobek prosto na dyski sieciowe."]
+	quest.200DFE86A1BCAE00.quest_subtitle: "1x Destructor"
+	quest.200DFE86A1BCAE00.title: "Automatyczny Górnik: Destructor"
+	quest.2011638351B67396.quest_desc: ["Włócznia &9Astrape&r wykuta z Essence of the Storm i Lacrima zapewnia duży zasięg w walce wręcz oraz pozwala ciskać piorunami po przytrzymaniu prawego przycisku myszy!"]
+	quest.2011638351B67396.title: "&9Astrape"
+	quest.2098D8BFADB55D2A.quest_desc: ["Szablon wyściółki pancerza dodającej miękką warstwę ochronną wewnątrz zbroi."]
+	quest.2098D8BFADB55D2A.title: "Szablon: Wyściółka (Lining Blueprint)"
+	quest.21234BB40DB05C78.quest_desc: ["Forma do odlewania bransolet wzmacniających statystyki postaci."]
+	quest.21234BB40DB05C78.title: "Forma: Bransoleta (Bracelet Cast)"
+	quest.213EB741245A7B27.quest_desc: ["Pojemny dysk twardy mieszczący 16 384 przedmiotów wewnątrz stacji Disk Drive."]
+	quest.213EB741245A7B27.quest_subtitle: "1x 16k Storage Disk"
+	quest.213EB741245A7B27.title: "Dysk Danych 16k"
+	quest.2156C00E30424844.quest_desc: ["&4Foundry Tank&r to zbiornik paliwowy odlewni – wypełnij go &cLawą&r, aby zasilić grzałki w podłodze pieca."]
+	quest.2156C00E30424844.title: "&l&cFoundry&r &4Tanks"
+	quest.21A0FD474FBB49F7.quest_desc: ["&dRuined Citadel&r to forteca z obsydianu i purpuru na wyspach Endu, strzeżona przez Shulkery, &dEndermaptery&r oraz &dEnder Golemy&r."]
+	quest.21A0FD474FBB49F7.title: "&dRuined Citadel&r: Siedziba &d&lEnder Guardiana&r"
+	quest.21BEE9867796933A.quest_desc: [
+		"Flet nomadów pozwalający bezpiecznie przechowywać we wnętrzu do &c2 oswojonych wierzchowców&r."
+		""
+		"• &6Stable&r: Kliknij PPM na wierzchowca, aby schować go do fletu lub przywołać z powrotem. Przełączaj między zapisanymi wierzchowcami za pomocą Shift + kółko myszy."
+	]
+	quest.21BEE9867796933A.quest_subtitle: "Przechowuj i przywołuj swoje wierzchowce"
+	quest.21BEE9867796933A.title: "&cRider Flute&r"
+	quest.2215FB0777D7029D.quest_desc: ["&7Steadfast Spikes&r chronią przed odrzutem od ciosów, eliminują poślizg na lodzie i pozwalają powoli zsuwać się po pionowych ścianach."]
+	quest.2215FB0777D7029D.quest_subtitle: "Stopy"
+	quest.2215FB0777D7029D.title: "&7Steadfast Spikes&r"
+	quest.221C9EDA651144BA.quest_desc: ["Z &3Charm of Sinking&r poruszasz się po dnie oceanu tak swobodnie, jakby wokół nie było wody (pamiętaj jednak o zapasie tlenu!)."]
+	quest.221C9EDA651144BA.quest_subtitle: "Naszyjnik"
+	quest.221C9EDA651144BA.title: "&3Charm of Sinking&r"
+	quest.222D08F43B995FED.quest_desc: ["Forma do odlewania głowicy modułowego trójzębu z wybranych stopów metali."]
+	quest.222D08F43B995FED.quest_subtitle: "Władca mórz"
+	quest.222D08F43B995FED.title: "Forma: Trójząb (Trident Cast)"
+	quest.223A5BDB5056B781.quest_desc: ["Capturing to zaklęcie na miecze, które daje szansę (0,5% na każdy poziom zaklęcia, aż do poziomu VII) na wypadnięcie jajka przyzywającego z pokonanego potwora."]
+	quest.223A5BDB5056B781.title: "Zaklęcie: Capturing"
+	quest.224716A537F2FFA0.quest_desc: ["&8Armor Tomes&r losują wyłącznie zaklęcia przeznaczone dla konkretnego elementu pancerza (hełmu, napierśnika, nogawic lub butów)."]
+	quest.224716A537F2FFA0.title: "&8Armor Tomes"
+	quest.226FB6C7CF3FEFB3.quest_desc: ["Podczas tej przygody niezbędny do przetrwania będzie plecak. Zrób go tak szybko, jak tylko potrafisz (będziesz potrzebował skóry)."]
+	quest.226FB6C7CF3FEFB3.quest_subtitle: "Największy przyjaciel zbieracza - PLECAK"
+	quest.226FB6C7CF3FEFB3.title: "Najważniejsze akcesorium"
+	quest.22A0A9C81A5C85A1.quest_desc: ["Szablon wiązania spajającego głowicę narzędzia z trzonkiem."]
+	quest.22A0A9C81A5C85A1.quest_subtitle: "Spaja wszystko w całość"
+	quest.22A0A9C81A5C85A1.title: "Szablon: Wiązanie (Binding Blueprint)"
+	quest.22C51025DC42CDE2.quest_desc: ["Forma do odlewania płyt nogawic."]
+	quest.22C51025DC42CDE2.title: "Forma: Nogawice (Leggings Cast)"
+	quest.22E57BF23B9BA2C5.quest_desc: ["Zgromadź zapas pyłu klejnotów potrzebny do zaawansowanego rzemiosła na wyższych poziomach świata."]
+	quest.22E57BF23B9BA2C5.title: "Rezerwy Pyłu Klejnotów"
+	quest.235E3C386E8D36A3.quest_desc: ["Tutaj ścieżki piekielna i morska łączą się w jedną! Wytwórz &9Dormant Deepshelf&r z łupku i książek, a następnie poddaj ją infuzji przy &a60 Eterna&r, &c40% Quanta&r i &540% Arcana&r (12x Crystalline Seashelf lub 13x Glowing Hellshelf)."]
+	quest.235E3C386E8D36A3.title: "&9Deepshelf"
+	quest.236EA8D18ECD5FE8.quest_desc: ["&bIgnited Berserker&r pojawia się w Fortecach Netheru i upuszcza &bDying Embers&r (4 sztuki złożysz w 1 Burning Ashes)."]
+	quest.236EA8D18ECD5FE8.title: "&bIgnited Berserker"
+	quest.24391162F4FF0587.quest_desc: [
+		"Przy 15 półkach &bSeashelf&r wokół stołu przeprowadzisz infuzję tworzącą &bInfused Seashelf&r!"
+		""
+		"Każda daje &a+5 Eterna&r (do limitu &a60&r) oraz &5+5% Arcana&r."
+	]
+	quest.24391162F4FF0587.title: "&bInfused Seashelf"
+	quest.243D55E17CC9B04A.quest_desc: [
+		"Aby ułatwić sobie życie, zapamiętaj te najważniejsze skróty klawiszowe:"
+		""
+		"[ M ] – Otwiera mapę świata (Xaero's lub JourneyMap)."
+		"[ R ] / [ U ] – Najeżdżając myszką na przedmiot w ekwipunku, sprawdzisz jak go stworzyć (R) lub do czego służy (U)."
+		"[ W ] – Objaśnienie za pomocą animacji działania i zastosowania danego komponentu Create."
+		"[ ~ ] (Tylda) – Aktywuje FTB Ultimine. Przytrzymaj ten klawisz podczas kopania, aby wykopać całą żyłę surowców naraz!"
+		"[ B ] – Szybki dostęp do plecaka (Sophisticated Backpacks)."
+	]
+	quest.243D55E17CC9B04A.quest_subtitle: "(Ważne Klawisze)"
+	quest.243D55E17CC9B04A.title: "Podręcznik Przetrwania"
+	quest.24C757B8AA6841F6.quest_desc: ["Wytwórz &3Inert Trident&r i poddaj go &d&lInfuzji&r (min. &a40 Eterna&r, &c20–50% Quanta&r, &535% Arcana&r), aby uzyskać pełnoprawny &3Trójząb&r!"]
+	quest.24C757B8AA6841F6.title: "Tworzenie &3Trójzębu"
+	quest.24D11ED5F4EEDC48.quest_desc: [
+		"Aby osadzić klejnot w broni lub zbroi, przedmiot musi posiadać wolne &9Gniazdo (Socket)&r."
+		""
+		"Połącz swój przedmiot z &9Sigil of Socketing&r w &8&lStole Kowalskim&r, aby odblokować w nim dodatkowe gniazdo na klejnot!"
+	]
+	quest.24D11ED5F4EEDC48.title: "&9Sigil of Socketing"
+	quest.24E0B7BE9E8CAF99.quest_desc: ["Stacja dokująca mieszcząca aż 8 dysków pamięci. Podłącz ją do Kontrolera, włóż dyski i ciesz się scentralizowanym magazynem."]
+	quest.24E0B7BE9E8CAF99.quest_subtitle: "1x Disk Drive"
+	quest.24E0B7BE9E8CAF99.title: "Szafa Serwerowa: Disk Drive"
+	quest.24F68B7E8A51E6FD.quest_desc: ["Specjalistyczny rdzeń obliczeniowy odpowiedzialny za materializację obiektów z postaci cyfrowej."]
+	quest.24F68B7E8A51E6FD.quest_subtitle: "1x Construction Core"
+	quest.24F68B7E8A51E6FD.title: "Rdzeń Budowlany: Construction Core"
+	quest.24FCFF18296ED907.quest_desc: [
+		"Wymaga bloków Sculku, katalizatora Sculku oraz trofeum &9Warden Tendril&r z pokonanego Wardena."
+		""
+		"Zapewnia aż &a+10 Eterna&r, &c+15% Quanta&r, &5+10% Arcana&r oraz podnosi limit Eterna do &a80&r!"
+	]
+	quest.24FCFF18296ED907.title: "&9Soul-Touched Sculkshelf"
+	quest.2542D8A6894816C6.quest_desc: ["&eEye of Desert&r wskaże na pustyni drogę do &eCursed Pyramid&r, w której uśpiony jest &e&lAncient Remnant&r."]
+	quest.2542D8A6894816C6.title: "&eEye of Desert&r"
+	quest.25ACB08E4F12CE79.quest_desc: ["Postaw &cNetherite Effigy&r i nakarm go ogniwem &cLava Power Cell&r, aby ożywić własnego, oswojonego mini-kolosa z 15 slotami ekwipunku!"]
+	quest.25ACB08E4F12CE79.title: "&cNetherite Ministrosity"
+	quest.25DB44EB6E7DA3B0.quest_desc: ["To jest najważniejszy surowiec w całej Erze 0. Połączenie zwykłego andezytu z samorodkami żelaza (lub cynku) daje wyjątkowo plastyczny i wytrzymały stop. Będziesz go potrzebować w setkach, jeśli nie tysiącach sztuk. Zrób zapas!"]
+	quest.25DB44EB6E7DA3B0.quest_subtitle: "8x Andesite Alloy"
+	quest.25DB44EB6E7DA3B0.title: "Magiczne połączenie: Stop Andezytowy"
+	quest.2607F3DC07049785.quest_desc: ["Praktyczny kask z uchwytami na napoje, który wyraźnie skraca czas jedzenia posiłków oraz picia mikstur."]
+	quest.2607F3DC07049785.quest_subtitle: "Głowa"
+	quest.2607F3DC07049785.title: "&6Plastic Drinking Hat"
+	quest.262036FE8E87F50A.quest_desc: ["Forma do odlewania ciężkiego młota górniczego kopiącego skały w obszarze 3x3!"]
+	quest.262036FE8E87F50A.quest_subtitle: "Kopanie 3x3"
+	quest.262036FE8E87F50A.title: "Forma: Młot (Hammer Cast)"
+	quest.267ABF42F9628FEA.quest_desc: ["Serce każdego systemu Refined Storage. Dostarcz mu energię elektryczną (FE), a ożywi wszystkie podłączone terminale, napędy oraz interfejsy."]
+	quest.267ABF42F9628FEA.quest_subtitle: "1x Controller"
+	quest.267ABF42F9628FEA.title: "Mózg Operacji: Kontroler Sieci"
+	quest.269AB30A3588E4CD.quest_desc: ["Każdy wielki inżynier zaczynał od ubrudzenia sobie rąk. Zanim zaczniesz budować fabryki parowe, musisz przetrwać pierwszą noc. Wydobądź trochę kamienia, zrób podstawowe narzędzia i przygotuj się na ciężką pracę."]
+	quest.269AB30A3588E4CD.quest_subtitle: "16x Bruk (Cobblestone)"
+	quest.269AB30A3588E4CD.title: "Podnieś ten kamień"
+	quest.26EB8490366CC44A.quest_desc: ["Zasysa gotowe produkty lub płyny ze skrzyń, zbiorników i maszyn prosto na dyski Twojej sieci Refined Storage."]
+	quest.26EB8490366CC44A.quest_subtitle: "1x Importer"
+	quest.26EB8490366CC44A.title: "Węzeł Wejściowy: Importer"
+	quest.26F9DB31A835B69C.quest_desc: ["Zamontuj &7Foundry Tap&r na bloku odpływu (&bDrain&r), a bezpośrednio pod kranikiem ustaw &8Casting Table&r (do odlewania sztabek i części narzędzi) lub &8Casting Basin&r (do odlewania pełnych bloków metali)."]
+	quest.26F9DB31A835B69C.title: "Stacje Odlewnicze"
+	quest.2790EB2E347D28DE.quest_desc: ["Pokonałeś wszystkich ośmiu pradawnych władców Cataclysm w każdym zakątku świata! Odbierz zasłużoną nagrodę pogromcy."]
+	quest.2790EB2E347D28DE.quest_subtitle: "Pokonaj wszystkich 8 bossów Cataclysm"
+	quest.2790EB2E347D28DE.title: "Pogromca Kataklizmu"
+	quest.27E951F4F4F6F847.quest_desc: ["&cFlame Pendant&r ma szansę podpalić atakującego Cię wroga i jednocześnie obdarzyć Cię odpornością na ogień."]
+	quest.27E951F4F4F6F847.quest_subtitle: "Naszyjnik"
+	quest.27E951F4F4F6F847.title: "&cFlame Pendant&r"
+	quest.28D3A1D0B60D86C5.quest_desc: ["Mosiężny ekstruder pozwala generować Kamień Endu bezpośrednio w Twojej fabryce, bez konieczności ręcznego rozkopywania wysp w Endzie."]
+	quest.28D3A1D0B60D86C5.quest_subtitle: "64x End Stone"
+	quest.28D3A1D0B60D86C5.title: "Zaawansowana Ekstruzja: Kamień Endu"
+	quest.29131C3532610ADF.quest_desc: ["Zwieńczenie filarów 2. poziomu (Tier 2 Pillar Cap) dla struktury Starlight Charger."]
+	quest.29131C3532610ADF.title: "Głowica Filaru II: Azure Electrum"
+	quest.291C76140DE97E3C.quest_desc: ["Sztabki &bIgnitium&r zdobywane z pokonanego Ignisa służą do wykuwania pancerza wyższego tieru niż Netheryt oraz potężnego oręża ognia."]
+	quest.291C76140DE97E3C.quest_subtitle: "Potężniejszy niż Netheryt"
+	quest.291C76140DE97E3C.title: "&bIgnitium"
+	quest.29448D08C8777425.quest_desc: ["&cAngler's Hat&r przyspiesza branie ryb na wędkę oraz zwiększa szansę na wyłowienie rzadkich skarbów."]
+	quest.29448D08C8777425.quest_subtitle: "Głowa"
+	quest.29448D08C8777425.title: "&cAngler's Hat"
+	quest.29EA8E178F8F8FDB.quest_desc: [
+		"&9&lSimple Reforging Table&r pozwala nadawać nowe &eAfiksy&r na dowolną broń, narzędzie lub zbroję!"
+		""
+		"Umieść przedmiot na środku, materiał rzadkości po lewej stronie oraz &dSigil of Rebirth&r po prawej. Ten stół obsługuje materiały aż do rangi &9Rare&r."
+	]
+	quest.29EA8E178F8F8FDB.title: "&9&lSimple Reforging Table"
+	quest.2A02D797F5CABAD6.quest_desc: ["Nieskończone źródło andezytu pod masową produkcję stopu andezytowego (Andesite Alloy)."]
+	quest.2A02D797F5CABAD6.quest_subtitle: "64x Andesite"
+	quest.2A02D797F5CABAD6.title: "Ekstruzja: Andezyt"
+	quest.2A032EC573B5316C.quest_desc: [
+		"Aby odblokować poziom &2&lFrontier&r, załóż pełny zestaw pancerza z afiksami oraz weź do ręki broń lub narzędzie z afiksem, a następnie aktywuj poziom w menu &e[ CTRL + T ]&r."
+		""
+		"• Premie gracza: +35% XP, +20% Szczęścia, limit &a45 Eterna&r"
+		"• Wzmocnienie potworów: +4 Pancerza"
+	]
+	quest.2A032EC573B5316C.title: "&lWorld Tier: &2Frontier"
+	quest.2A196974431FCC42.quest_desc: ["&cInfernal Forge&r to gigantyczny młoto-kilof wypadający z Netherite Monstrosity – kopie na poziomie netherytu, nie ma paska zużycia, a prawym przyciskiem myszy uderza w ziemię falą uderzeniową!"]
+	quest.2A196974431FCC42.title: "&cInfernal Forge"
+	quest.2AD78E22988A92D3.quest_desc: ["Założenie &2Night Vision Goggles&r zapewnia widzenie w ciemności podczas eksploracji jaskiń i podziemi."]
+	quest.2AD78E22988A92D3.quest_subtitle: "Głowa"
+	quest.2AD78E22988A92D3.title: "&2Night Vision Goggles"
+	quest.2B08B19B35EEBCBA.quest_desc: ["Poniższe relikty odnajdziesz w Zrujnowanych Portalach, Fortecach Netheru oraz Bastionach na terenie &cNetheru&r!"]
+	quest.2B08B19B35EEBCBA.quest_subtitle: "Skarby ognistego wymiaru"
+	quest.2B08B19B35EEBCBA.title: "Relikty: &cThe Nether"
+	quest.2B115519A21F9CB7.quest_desc: ["&d&lEnder Guardian&r czeka na samym dole Cytadeli. Przyciąga graczy grawitacją próżni, wyzwala fale runiczne, a po utracie połowy zdrowia rozbija swoją maskę i niszczy podłogę areny!"]
+	quest.2B115519A21F9CB7.title: "&d&lEnder Guardian&r"
+	quest.2B2222D49AE2002C.quest_desc: ["Obróbka termiczna surowego kauczuku daje wulkanizowaną gumę przemysłową. Od teraz możesz uszczelniać miedziane rurociągi i produkować pasy transmisyjne."]
+	quest.2B2222D49AE2002C.quest_subtitle: "1x Cured Rubber"
+	quest.2B2222D49AE2002C.title: "Wulkanizowana Guma: Cured Rubber"
+	quest.2B50E9FC93812730.quest_desc: ["&eDesert Temple&r z moda Cataclysm kryje we wnętrzu mini-bossa &eKobolediatora&r oraz bogate skrzynie ukryte w wieżach."]
+	quest.2B50E9FC93812730.title: "&eDesert Temple"
+	quest.2BCB788924BBD849.quest_desc: ["&bThe Incinerator&r to gigantyczny miecz dwuręczny – naładowanie ataku prawym przyciskiem myszy wyzwala spod ziemi linię eksplodujących słupów ognia!"]
+	quest.2BCB788924BBD849.title: "&bThe Incinerator"
+	quest.2BF119DD5D977409.quest_desc: ["Katalizator 2. poziomu wymagany do gwiezdnego ładowania w Starlight Charger."]
+	quest.2BF119DD5D977409.title: "Katalizator Gwiezdny II: Azure Silver Dust"
+	quest.2C0DF8D6ED259E5F.quest_desc: ["Połączenie młota &cInfernal Forge&r z włócznią &9Astrape&r tworzy &cBron&9tes&r – oręż miotany przyzywający burzę piorunów w miejscu trafienia!"]
+	quest.2C0DF8D6ED259E5F.title: "&cBron&9tes"
+	quest.2C9C4BFF1D89EF82.quest_desc: ["&3Abandoned Village&r to opuszczona osada opanowana przez &3Draugrów&r, pełna skrzyń ukrytych w poszczególnych chatach."]
+	quest.2C9C4BFF1D89EF82.title: "&3Abandoned Village"
+	quest.2CD58FC229BC0C28.quest_desc: ["&dGauntlet of Guard&r to trofeum z Ender Guardiana – przytrzymanie prawego przycisku myszy zasysa wszystkich pobliskich wrogów prosto przed Twoje oblicze!"]
+	quest.2CD58FC229BC0C28.title: "&dGauntlet of Guard"
+	quest.2D69B48F1EFCC9A5.quest_desc: ["&3Sturdy Boots&r pozwalają swobodnie chodzić po powierzchni sypkiego śniegu bez zapadania się."]
+	quest.2D69B48F1EFCC9A5.title: "&3Sturdy Boots"
+	quest.2D8A7065F8CDDDDD.quest_desc: [
+		"Najprostszy sposób na pozyskanie jajek przyzywających dzięki Mob Grinding Utils!"
+		""
+		"Kliknij prawym przyciskiem myszy na wybranego moba za pomocą wymazówki (Mob Swab), połącz ją z nasionami i wiadrem płynnego XP w paszę GM Chicken Feed, a następnie nakarm nią kurczaka, by uzyskać gotowe jajko przyzywające."
+	]
+	quest.2D8A7065F8CDDDDD.title: "Inżynieria Genetyczna: Mob Swab"
+	quest.2E5D835D2B5D7078.quest_desc: ["Andezyt świetnie znosi naprężenia kinetyczne, ale przy kontakcie z cieczami i wysokim ciśnieniem szybko zawodzi. Pokrycie drewna miedzią otwiera drzwi do równoległej gałęzi inżynierii płynów (Era 1.5)!"]
+	quest.2E5D835D2B5D7078.quest_subtitle: "1x Copper Casing"
+	quest.2E5D835D2B5D7078.title: "Szczelna Konstrukcja: Miedziana Obudowa"
+	quest.2E5E129F25707C5D.quest_desc: [
+		"&6Sigil of Supremacy&r to korona kowalstwa Apotheosis!"
+		""
+		"W przeciwieństwie do Sigil of Malice, ta pieczęć wzmacnia JEDNOCZEŚNIE każdy afiks na wybranym przedmiocie i nie resetuje żadnej statystyki w trakcie procesu!"
+	]
+	quest.2E5E129F25707C5D.title: "&6Sigil of Supremacy"
+	quest.2EB96FF06627FD9A.quest_desc: ["&6Salvager&r pozwala rozbierać niepotrzebne narzędzia i pancerze z powrotem na surowce oraz części składowe."]
+	quest.2EB96FF06627FD9A.quest_subtitle: "Odzysk surowców!"
+	quest.2EB96FF06627FD9A.title: "Salvager"
+	quest.2EC2FA680076C07D.quest_desc: ["Druga z potężnych półek ze Sculku i &9Warden Tendril&r – zapewnia &a+10 Eterna&r, &c+10% Quanta&r, &5+15% Arcana&r oraz podnosi limit Eterna do &a80&r!"]
+	quest.2EC2FA680076C07D.title: "&9Echoing Sculkshelf"
+	quest.2F3529FE1972F011.quest_desc: [
+		"Lokalne sklepiki mają ograniczony zasięg, a zwykłe taśmociągi czy rury przestają działać na niezaładowanych terenach. Gdy Twoja produkcja idzie w dziesiątki tysięcy sztuk, nadchodzi czas na &6ciężką logistykę kolejową&r!"
+		""
+		"Pociągi w &6Create&r posiadają unikalną właściwość: &apotrafią podróżować na ogromne odległości nawet przez niezaładowane chunki&r (o ile załadujesz same stacje docelowe), a dodatkowo mogą przejeżdżać przez portale do &cNetheru&r!"
+		""
+		"&lZastosowania sieci kolejowej:&r"
+		"• &eDalekosiężny transport surowców:&r Przywóź rudy, lawę i egzotyczne skały z odległych kopalni prosto do głównej huty bez budowania kilometrowych linii z pasów transmisyjnych."
+		"• &bCentralne Dworce Handlowe:&r Połącz dalekie fabryki ze wspólnym centrum handlowym – pociąg towarowy automatycznie rozładuje nadwyżki przez &ePortable Storage Interface&r prosto do rzędu Twoich Wendorów, zamieniając masową produkcję w nieprzerwany strumień monet!"
+	]
+	quest.2F3529FE1972F011.quest_subtitle: "Kolejowe imperium logistyczne"
+	quest.2F62C290A5CE50F8.quest_desc: ["&eAncient Spear&r ma daleki zasięg i wystrzeliwuje przy atakach niszczycielskie trąby piaskowe!"]
+	quest.2F62C290A5CE50F8.title: "&eAncient Spear"
+	quest.30C5D432C810F904.quest_desc: ["&9Eye of Storm&r wskaże podniebną drogę nad oceanem do &9Acropolis&r, gdzie włada &9&lScylla&r."]
+	quest.30C5D432C810F904.title: "&9Eye of Storm"
+	quest.30EB438C66324213.quest_desc: ["Runa Samotności sprawia, że spawner nie wymaga już obecności gracza w pobliżu. Dopóki chunk ze spawnerem jest załadowany (np. przez FTB Chunks), produkcja trwa bez przerwy!"]
+	quest.30EB438C66324213.title: "Ignorowanie Gracza"
+	quest.310969B8FE0A94DE.quest_desc: [
+		"Dzięki modyfikacji Apothic Spawners możesz wydobyć dowolny spawner w świecie za pomocą kilofa z Jedwabnym Dotykiem (Silk Touch)."
+		""
+		"Wydobyty spawner można następnie ulepszać, klikając na niego prawym przyciskiem myszy z odpowiednimi runami modyfikującymi."
+	]
+	quest.310969B8FE0A94DE.title: "Inżynieria Spawnerów"
+	quest.31AA7117F83F8B86.quest_desc: ["Niestrudzony pracownik Twojej fabryki. Deployer potrafi osadzać podzespoły na taśmie, używać narzędzi i składać wieloetapowe mechanizmy z idealną powtarzalnością."]
+	quest.31AA7117F83F8B86.quest_subtitle: "1x Deployer"
+	quest.31AA7117F83F8B86.title: "Ramię Montażowe: Deployer"
+	quest.31E7F7464D79F881.quest_desc: ["Oprócz samych półek na książki, rytuałowi &d&lInfuzji&r możesz poddać także wiele przydatnych narzędzi, ksiąg i minerałów!"]
+	quest.31E7F7464D79F881.title: "Pozostałe Przedmioty z &d&lInfuzji&r"
+	quest.31FE06D7BD761156.quest_desc: [
+		"W tej paczce pieniądze rządzą światem! Oficjalną walutą są monety z systemu Create Numismatics (od drobnych Spur i Bevel po Sprocket, Cog i Crown)."
+		""
+		"Monety możesz zdobywać wykonując trudniejsze questy, pokonując bossów oraz sprzedając nadmiarowe surowce w specjalnych maszynach. Zarobioną gotówkę możesz wydać w sklepie lub w automatach vendingowych rozstawionych w świecie gry. Schowaj tę monetę głęboko do kieszeni!"
+	]
+	quest.31FE06D7BD761156.quest_subtitle: "(Zarabianie)"
+	quest.31FE06D7BD761156.title: "Ekonomia i Ty"
+	quest.321C15EBBE2D3D30.quest_desc: [
+		"Wysadzenie spawnera za pomocą TNT destabilizuje jego strukturę – przed zniszczeniem wyrzuci on z siebie falę potworów oraz pozostawi od 48 do 57 Łańcuchów Spawnera (Spawner Chains)."
+		""
+		"Łańcuchy te są podstawowym surowcem do wykuwania wszystkich run modyfikujących."
+	]
+	quest.321C15EBBE2D3D30.title: "Demontaż Wybuchowy: Łańcuchy"
+	quest.321F16645640C462.quest_desc: ["&9Warp Drive&r sprawia, że rzucane Perły Endu nie zużywają się i nie zadają obrażeń od upadku, pobierając w zamian niewielką ilość głodu!"]
+	quest.321F16645640C462.quest_subtitle: "Pas"
+	quest.321F16645640C462.title: "&9Warp Drive&r"
+	quest.3311B79A8F6C6ADD.quest_desc: ["&6&lEnchanting Table of the Raven&r to ostateczny stół do zaklinania, w którym możesz swobodnie ustawiać wartości &aEterna&r, &cQuanta&r oraz &5Arcana&r bez konieczności stawiania jakichkolwiek półek wokół!"]
+	quest.3311B79A8F6C6ADD.quest_subtitle: "Rzekł Kruk: Nigdy więcej"
+	quest.3311B79A8F6C6ADD.title: "&6&lEnchanting Table of the Raven"
+	quest.33664C509F66A6E2.quest_desc: ["Wykop krystaliczne bloki ametystu wyścielające wnętrze odkrytej geody."]
+	quest.33664C509F66A6E2.quest_subtitle: "1x Amethyst Block"
+	quest.33664C509F66A6E2.title: "Skarby Geody: Blok Ametystu"
+	quest.33B1D3FD4C0B5514.quest_desc: ["&e&lAncient Remnant&r to kolosalny szkielet prehistorycznego drapieżnika władającego burzami piaskowymi i falami uderzeniowymi."]
+	quest.33B1D3FD4C0B5514.title: "&e&lAncient Remnant&r"
+	quest.33BDEE1D6D8C50A6.quest_desc: ["Szlachetny metal o doskonałym przewodnictwie. Przyda się w zaawansowanych komponentach elektronicznych i stopach specjalnych."]
+	quest.33BDEE1D6D8C50A6.quest_subtitle: "16x Sztabka srebra (Silver Ingot)"
+	quest.33BDEE1D6D8C50A6.title: "Rudy Przemysłowe: Srebro"
+	quest.3446803FB59D8875.quest_desc: ["Działa jak naturalne Ciernie (Thorns) – rani i zatruwa każdego napastnika, który Cię uderzy."]
+	quest.3446803FB59D8875.quest_subtitle: "Naszyjnik"
+	quest.3446803FB59D8875.title: "&aThorn Pendant&r"
+	quest.3459CAEB59CBD60E.quest_desc: ["&4The Prowler&r to ciężki gąsienicowy mini-boss fabryki uzbrojony w piłę tarczową, wyrzutnię rakiet oraz laser."]
+	quest.3459CAEB59CBD60E.title: "&4The Prowler&r"
+	quest.34B798B9DF328A6F.quest_desc: ["Wyszlifuj surowy kryształ papierem ściernym (lub automatycznie za pomocą Deployera), aby wydobyć jego pełne właściwości elektronowe i optyczne."]
+	quest.34B798B9DF328A6F.quest_subtitle: "1x Polished Rose Quartz"
+	quest.34B798B9DF328A6F.title: "Optyczna Gładkość: Szlifowany Kwarc"
+	quest.34D17EBBA4F9CA1F.quest_desc: ["Jasna skała głębinowa, świetna zarówno do budownictwa, jak i dalszego kruszenia w młynach."]
+	quest.34D17EBBA4F9CA1F.quest_subtitle: "64x Diorite"
+	quest.34D17EBBA4F9CA1F.title: "Ekstruzja: Dioryt"
+	quest.34DB788A15B67B4B.quest_desc: ["Rury same z siebie nie przesuną cieczy. Podłącz Pompę Mechaniczną do wału, aby nadać kierunek i ciśnienie w całej instalacji."]
+	quest.34DB788A15B67B4B.quest_subtitle: "1x Mechanical Pump"
+	quest.34DB788A15B67B4B.title: "Serce Rurociągu: Pompa Mechaniczna"
+	quest.3525D5DCC3A534D9.quest_desc: ["&9Digging Claws&r zwiększają ogólną prędkość kopania bloków oraz sprawiają, że Twoje gołe dłonie kopią na poziomie kamiennego kilofa."]
+	quest.3525D5DCC3A534D9.quest_subtitle: "Dłonie"
+	quest.3525D5DCC3A534D9.title: "&9Digging Claws&r"
+	quest.35A0D0350873E798.quest_desc: ["Czterokrotne zwiększenie pojemności względem rdzenia 4k. Pozwala zmagazynować aż 16 384 przedmiotów na jednym nośniku."]
+	quest.35A0D0350873E798.quest_subtitle: "1x 16k Storage Part"
+	quest.35A0D0350873E798.title: "Wyższa Gęstość: Rdzeń 16k"
+	quest.35CB6AFD283E9A43.quest_desc: ["Centralny węzeł dla systemu szuflad Functional Storage. Pozwala jednym kliknięciem deponować setki stacków surowców z całej fabryki do przypisanych szuflad."]
+	quest.35CB6AFD283E9A43.quest_subtitle: "1x Storage Controller"
+	quest.35CB6AFD283E9A43.title: "Mistrz Magazynu: Storage Controller"
+	quest.35E42F7925CA097A.quest_desc: ["&dVoid Core&r pozwala przyzywać z ziemi linię kłów i run próżni oraz służy jako kluczowy komponent w Kowadle Fuzji."]
+	quest.35E42F7925CA097A.title: "&dVoid Core"
+	quest.35E8C65CCA676E76.quest_desc: ["Forma do odlewania płyt napierśnika."]
+	quest.35E8C65CCA676E76.title: "Forma: Napierśnik (Chestplate Cast)"
+	quest.36A5229DB5D4C059.quest_desc: ["Podstawowa forma odlewnicza pozwalająca wylewać płynny metal z powrotem w kształt sztabek."]
+	quest.36A5229DB5D4C059.title: "Forma: Sztabka (Ingot Cast)"
+	quest.36E78F8D9F91A5E0.quest_desc: ["Kamienne narzędzia są dobre do kopania dziur w ziemi, ale nie do budowania maszyn. Znajdź rudę żelaza i przetop ją w piecu. Żelazo będzie podstawą Twoich pierwszych mechanizmów, wałów korbowych i kół zębatych."]
+	quest.36E78F8D9F91A5E0.title: "Epoka Żelaza"
+	quest.3705D303CF423804.quest_desc: ["&ePower Glove&r bezpośrednio zwiększa obrażenia zadawane w walce wręcz."]
+	quest.3705D303CF423804.quest_subtitle: "Dłonie"
+	quest.3705D303CF423804.title: "&ePower Glove&r"
+	quest.3722B43822F80470.quest_desc: ["Forma do odlewania głowni katany – zadaje wyższe obrażenia od zwykłego miecza kosztem nieco wolniejszego zamachu."]
+	quest.3722B43822F80470.quest_subtitle: "Droga samuraja"
+	quest.3722B43822F80470.title: "Forma: Katana (Katana Cast)"
+	quest.377A41499D8218C9.quest_desc: [
+		"Pierwszym poziomem świata jest &9&lHaven&r. Odblokujesz go automatycznie, biorąc do ręki dowolny przedmiot z afiksem."
+		""
+		"• Najczęstsze łupy: &8Common&r oraz &aUncommon&r"
+		"• Maksymalna &aEterna&r: &a30&r"
+		"• Na tym poziomie &4Najeźdźcy&r nie pojawiają się jeszcze naturalnie."
+	]
+	quest.377A41499D8218C9.title: "&lWorld Tier: &9Haven"
+	quest.377D6CF86BC1C64F.quest_desc: ["&8Tome of Superior Scrapping&r odzyskuje 100% zaklęć z przedmiotu w kowadle, choć sam przedmiot wciąż ulega zniszczeniu."]
+	quest.377D6CF86BC1C64F.quest_subtitle: "Wszystkie zaklęcia, niszczy przedmiot"
+	quest.377D6CF86BC1C64F.title: "&8Tome of Superior Scrapping"
+	quest.37E4DECFB6526969.quest_desc: ["&3Soul Render&r pozwala wykonywać błyskawiczne szarże (PPM), pozostawiając za sobą deszcz widmowych halabard spadających z nieba!"]
+	quest.37E4DECFB6526969.title: "&3Soul Render"
+	quest.37E556B4A730E5AA.quest_desc: ["Zauważyłeś, że Twoja &aEterna&r zatrzymuje się na wartości &a30&r? Aby przekroczyć ten próg i osiągnąć &a45 Eterna&r, musisz odblokować poziom świata &2&lFrontier&r w menu &e[ CTRL + T ]&r!"]
+	quest.37E556B4A730E5AA.quest_subtitle: "Dlaczego Eterna staje na 30?"
+	quest.37E556B4A730E5AA.title: "Zew &2&lFrontier&r"
+	quest.3844877F6C1AFE77.quest_desc: ["Forma do odlewania grotów strzał o niestandardowych właściwościach."]
+	quest.3844877F6C1AFE77.title: "Forma: Groty Strzał (Arrow Cast)"
+	quest.38956DC28E317DEF.quest_desc: ["&dSigil of Rebirth&r stanowi katalizator dla wszystkich &9&lStołów Przekuwania (Reforging Tables)&r przy nadawaniu nowych afiksów na ekwipunek."]
+	quest.38956DC28E317DEF.title: "&dSigil of Rebirth"
+	quest.392EAE8BE71510C1.quest_desc: ["Poza Smokiem Endu, w pustce &5The End&r wznosi się zrujnowana cytadela skrywająca strażnika próżni."]
+	quest.392EAE8BE71510C1.title: "&5The End&r: Strażnik Próżni"
+	quest.3930404D5C8B44EB.quest_desc: ["&cAlloy Forge&r służy do wytapiania zaawansowanych stopów Silent Gear – to jedyny sposób na uzyskanie potężnej &5Tyrian Steel&r!"]
+	quest.3930404D5C8B44EB.quest_subtitle: "Kuźnia stopów specjalnych"
+	quest.3930404D5C8B44EB.title: "Alloy Forge"
+	quest.395668FBCB6537AF.quest_desc: [
+		"Kryształowy naszyjnik gromadzący energię otrzymanych ciosów."
+		""
+		"• &6Damage Condensation&r: Otrzymywane obrażenia tworzą wokół Ciebie kule energii, które przy Twoim następnym ataku zostają wystrzelone w stronę wroga!"
+	]
+	quest.395668FBCB6537AF.quest_subtitle: "Obrona przez kontratak"
+	quest.395668FBCB6537AF.title: "&9Reflective Necklace"
+	quest.39B85DB54B1037FE.quest_desc: ["Forma do odlewania maczety – szybsza od miecza i potrafi ścinać roślinność jak sierp."]
+	quest.39B85DB54B1037FE.quest_subtitle: "Ciężkie ostrze"
+	quest.39B85DB54B1037FE.title: "Forma: Maczeta (Machete Cast)"
+	quest.39E822440E7D2E04.quest_desc: [
+		"Entity Spawner z Mob Grinding Utils pozwala masowo przyzywać stworzenia na żądanie!"
+		""
+		"Do pracy wymaga trzech rzeczy: jajka przyzywającego w górnym slocie, paliwa &aSolid XP Baby&r (wytwarzanego z płynnego XP w urządzeniu XP Solidifier z formą Jelly Baby Mould) oraz sygnału Redstone."
+	]
+	quest.39E822440E7D2E04.quest_subtitle: "Spawner z Mob Grinding Utils"
+	quest.39E822440E7D2E04.title: "Entity Spawner i XP Solidifier"
+	quest.3AC03D1FA5C341A7.quest_desc: ["&bRecrystallizer&r pozwala łączyć ze sobą różne kryształy w zaawansowane kompozyty do wyrobu broni, narzędzi i pancerzy."]
+	quest.3AC03D1FA5C341A7.title: "Recrystallizer"
+	quest.3B3BD39BA02DCA13.quest_desc: ["&6Pocket Piston&r znacząco zwiększa siłę odrzutu Twoich ataków wręcz oraz zasięg uderzenia."]
+	quest.3B3BD39BA02DCA13.quest_subtitle: "Dłonie"
+	quest.3B3BD39BA02DCA13.title: "&6Pocket Piston&r"
+	quest.3B560B2ECE331CAF.quest_desc: ["Zwieńczenie filarów 3. poziomu (Tier 3 Pillar Cap) dla struktury Starlight Charger."]
+	quest.3B560B2ECE331CAF.title: "Głowica Filaru III: Tyrian Steel"
+	quest.3B577572FA7A413E.quest_desc: ["Połączenie &3Cursed Bow&r oraz &eSandstorm in a Bottle&r tworzy łuk, który nie wymaga strzał i wystrzeliwuje po trzy przeklęte trąby piaskowe naraz!"]
+	quest.3B577572FA7A413E.title: "&3Wrath of the &eDesert"
+	quest.3BD73FEAE853D350.quest_desc: [
+		"Pas myśliwski wzmacniający więź z oswojonymi towarzyszami."
+		""
+		"• &5Pack&r: Zwiększa obrażenia zadawane przez Twoje oswojone zwierzaki, podnosi ich odporność oraz zapewnia dodatkowe sloty na talizmany."
+	]
+	quest.3BD73FEAE853D350.quest_subtitle: "Wzmocnij swoją watahę!"
+	quest.3BD73FEAE853D350.title: "&2Hunting Belt&r"
+	quest.3BF5B8DE7A1CC4D7.quest_desc: [
+		"Potężny rynsztunek w Apotheosis zaczyna się od &aKlejnotów (Gems)&r!"
+		""
+		"Klejnoty wypadają rzadko ze zwykłych potworów oraz gwarantowanie z bossów zwanych &4Najeźdźcami (Invaders)&r. Po osadzeniu w gniazdach broni lub pancerza zapewniają potężne bonusy."
+	]
+	quest.3BF5B8DE7A1CC4D7.title: "&6&lPrzygoda z Apoteozą"
+	quest.3C0F8EB779E56F2A.quest_desc: ["&9Chitin Claw&r zdobywany z Clawdiana zwiększa zasięg stawiania bloków oraz zasięg ataku wręcz!"]
+	quest.3C0F8EB779E56F2A.title: "&9Chitin Claw"
+	quest.3C31D3F9E8A8F756.quest_desc: ["Złocista skała osadowa, z której po zmieleniu i płukaniu odzyskasz samorodki złota."]
+	quest.3C31D3F9E8A8F756.quest_subtitle: "64x Ochrum"
+	quest.3C31D3F9E8A8F756.title: "Ekstruzja: Ochrum (Złoto)"
+	quest.3D2C6FF462B17205.quest_desc: ["Forma do odlewania sztyletu – bardzo wysoka prędkość ataku i skrócenie czasu nietykalności trafionego celu."]
+	quest.3D2C6FF462B17205.quest_subtitle: "Błyskawiczne pchnięcia"
+	quest.3D2C6FF462B17205.title: "Forma: Sztylet (Dagger Cast)"
+	quest.3D31B94CC42BCE43.quest_desc: ["&8Tome of Extraction&r ściąga wszystkie zaklęcia z przedmiotu na księgę i pozostawia sam przedmiot w nienaruszonym stanie!"]
+	quest.3D31B94CC42BCE43.quest_subtitle: "Wszystkie zaklęcia, zachowuje przedmiot"
+	quest.3D31B94CC42BCE43.title: "&8Tome of Extraction"
+	quest.3D88E2FFB342DE22.quest_desc: ["Podstawowy procesor sterujący przesyłem prostych sygnałów i wyświetlaniem danych w terminalach sieciowych."]
+	quest.3D88E2FFB342DE22.quest_subtitle: "1x Basic Processor"
+	quest.3D88E2FFB342DE22.title: "Układ Logiczny: Basic Processor"
+	quest.3DD71B6C4B80FB44.quest_desc: ["&3Eye of Curse&r poprowadzi Cię w ośnieżone szczyty do &3Frosted Prison&r, gdzie spoczywa &3&lMaledictus&r."]
+	quest.3DD71B6C4B80FB44.title: "&3Eye of Curse"
+	quest.3E0643EA9183CDAE.quest_desc: ["Znacząco przyspiesza spożywanie jedzenia oraz picie mikstur (i wygląda przy tym niezwykle stylowo!)."]
+	quest.3E0643EA9183CDAE.quest_subtitle: "Głowa"
+	quest.3E0643EA9183CDAE.title: "&9Novelty Drinking Hat"
+	quest.3E1A3BC8642390B3.quest_desc: ["&4Umbrella&r trzymana w dłoni pozwala bezpiecznie szybować w dół niczym ze spadochronem, a po przytrzymaniu prawego przycisku myszy działa jak tarcza odbijająca ataki."]
+	quest.3E1A3BC8642390B3.quest_subtitle: "Unikalny"
+	quest.3E1A3BC8642390B3.title: "&4Umbrella&r"
+	quest.3E8BA5E075ABD136.quest_desc: [
+		"Czapka legendarnych kucharzy polowych."
+		""
+		"• &6Meatball Harvest&r: Pokonani wrogowie mają szansę upuścić pożywne klopsiki mięsne, które możesz od razu zjeść lub upiec w trakcie wyprawy."
+	]
+	quest.3E8BA5E075ABD136.quest_subtitle: "Uczta na polu bitwy"
+	quest.3E8BA5E075ABD136.title: "&fChef's Hat&r"
+	quest.3E8C7D92F99496BE.quest_desc: ["&5Eye of Abyss&r poprowadzi Cię w głębiny oceanu do &5Sunken City&r, będącego leżem &5&lThe Leviathan&r."]
+	quest.3E8C7D92F99496BE.title: "&5Eye of Abyss&r"
+	quest.3EC8A0B89788D079.quest_desc: ["&9Flippers&r znacznie zwiększają prędkość pływania i manewrowania pod wodą."]
+	quest.3EC8A0B89788D079.quest_subtitle: "Stopy"
+	quest.3EC8A0B89788D079.title: "&9Flippers&r"
+	quest.3ECDF40CC01FA01E.quest_desc: ["Wzbogacenie żelaza oraz miedzi czystym kwarcem nadaje metalom właściwości półprzewodnikowe. To podstawowy budulec obudów, kabli i podzespołów sieci Refined Storage."]
+	quest.3ECDF40CC01FA01E.quest_subtitle: "Quartz Enriched Iron & Copper"
+	quest.3ECDF40CC01FA01E.title: "Stopy Kwarcowe"
+	quest.3EE5013CCEC66EF8.quest_desc: ["Nieskończone źródło Netherracku prosto z mosiężnego ekstrudera – idealne do przemiału na mączkę popiołową (Cinder Flour) do wyrobu Blaze Cake!"]
+	quest.3EE5013CCEC66EF8.quest_subtitle: "64x Netherrack"
+	quest.3EE5013CCEC66EF8.title: "Zaawansowana Ekstruzja: Netherrack"
+	quest.3F1430ADB648102F.quest_desc: [
+		"&aFrontiersman's Spawner Upgrade Rune&r to pierwszy poziom run ulepszających, które ustawiają wszystkie statystyki spawnera na sztywne wartości:"
+		""
+		"• Minimalne opóźnienie: 150 ticków"
+		"• Maksymalne opóźnienie: 600 ticków"
+		"• Liczba mobów na cykl (Spawn Count): 7"
+		"• Limit pobliskich bytów (Max Entities): 12"
+		"• Zasięg aktywacji gracza: 24 kratki"
+	]
+	quest.3F1430ADB648102F.title: "Runa Ulepszenia I: Frontier"
+	quest.3F39BEB788175CEF.quest_desc: ["Forma do odlewania ciężkiej kopaczki usuwającej ziemię, piasek i żwir w obszarze 3x3!"]
+	quest.3F39BEB788175CEF.quest_subtitle: "Wykopy 3x3!"
+	quest.3F39BEB788175CEF.title: "Forma: Kopaczka (Excavator Cast)"
+	quest.3F56A5253D477B97.quest_desc: ["Szablon do tworzenia lotek stabilizujących strzały z Silent Gear."]
+	quest.3F56A5253D477B97.title: "Szablon: Lotki (Fletching Blueprint)"
+	quest.40096ED0B04C3EC5.quest_desc: ["Sprawia, że spawner ignoruje niemal wszystkie wymogi środowiskowe: poziom światła, rodzaj podłoża oraz biom (nadal wymagana jest jedynie wolna przestrzeń fizyczna na pojawienie się moba)."]
+	quest.40096ED0B04C3EC5.title: "Ignorowanie Warunków"
+	quest.400E5AD3B2378A9F.quest_desc: ["Pozwala zarządzać kartami bezpieczeństwa i określać, którzy gracze mają prawo wglądu, modyfikacji lub rozbudowy Twojej sieci Refined Storage."]
+	quest.400E5AD3B2378A9F.quest_subtitle: "1x Security Manager"
+	quest.400E5AD3B2378A9F.title: "Zapora Sieciowa: Security Manager"
+	quest.405DCD3E36232EEA.quest_desc: ["Forma do odlewania grotu włóczni – mniejsze obrażenia bazowe, ale znacznie większy zasięg ataku."]
+	quest.405DCD3E36232EEA.quest_subtitle: "Zasięg falangi"
+	quest.405DCD3E36232EEA.title: "Forma: Włócznia (Spear Cast)"
+	quest.40AB457E37919ABE.quest_desc: [
+		"Potężny pierścień z Netheru obdarzający właściciela &57 zdolnościami&r odpowiadającymi siedmiu grzechom głównym:"
+		""
+		"• &dPride (Pycha)&r: Większe obrażenia, gdy atakujesz cel znajdujący się niżej od Ciebie."
+		"• &aEnvy (Zazdrość)&r: Większe obrażenia przeciwko wrogom mającym więcej zdrowia niż Ty."
+		"• &4Wrath (Gniew)&r: Krótkie okno ogromnych obrażeń po pierwszym uderzeniu."
+		"• &8Sloth (Lenistwo)&r: Nieśmiertelność podczas stania w bezruchu kosztem większych obrażeń w ruchu."
+		"• &6Greed (Chciwość)&r: Zwiększa szczęście i łupy."
+		"• &2Gluttony (Nieumiarkowanie)&r: Wzmacnia statystyki przy pełnym pasku głodu."
+		"• &5Lust (Nieczystość)&r: Szansa na dodatkowe młode przy rozmnażaniu zwierząt."
+	]
+	quest.40AB457E37919ABE.quest_subtitle: "Siedem błogosławieństw i siedem klątw"
+	quest.40AB457E37919ABE.title: "&cRing of the Seven Deadly Sins"
+	quest.40D92BD3F935D0E8.quest_desc: ["Stałe źródło chłodu i lodu dla procesów termicznych."]
+	quest.40D92BD3F935D0E8.quest_subtitle: "64x Snow Block"
+	quest.40D92BD3F935D0E8.title: "Ekstruzja: Blok Śniegu"
+	quest.40DD894C85D0FC54.quest_desc: [
+		"Noszenie sakiewek pełnych złotych monet podczas wypraw do jaskiń lub lochów to proszenie się o kłopoty. Czas przejść na nowoczesną bankowość elektroniczną!"
+		""
+		"&lNarzędzia finansowe:&r"
+		"• &bBank Terminal:&r[cite: 5] Pozwala bezpiecznie wpłacać i wypłacać zgromadzone monety na Twoje osobiste konto bankowe z dowolnego miejsca na świecie."
+		"• &aBank Card (Karta Płatnicza):&r Po powiązaniu jej ze swoim kontem możesz płacić nią bezpośrednio w Wendorach innych graczy bez wyciągania gotówki. Możesz też włożyć kartę do swojego Wendora, aby utarg ze sprzedaży trafiał automatycznie prosto na konto!"
+		"• &6Blaze Banker:&r Specjalny bankier pozwalający otworzyć wspólne konto firmowe dla całej drużyny i zarządzać uprawnieniami wspólników za pomocą kart identyfikacyjnych (&eID Cards&r)."
+	]
+	quest.40DD894C85D0FC54.quest_subtitle: "Bezpieczny kapitał na karcie"
+	quest.4119E115505036E5.quest_desc: ["Forma pozwalająca odlewać drobne samorodki metali."]
+	quest.4119E115505036E5.title: "Forma: Samorodek (Nugget Cast)"
+	quest.414FE7C3B16B1F76.quest_desc: ["Szczytowe osiągnięcie cyfrowej automatyzacji z moda ExtraStorage – Netherytowy Autocrafter błyskawicznie realizuje najbardziej złożone łańcuchy zamówień."]
+	quest.414FE7C3B16B1F76.quest_subtitle: "1x Netherite Crafter"
+	quest.414FE7C3B16B1F76.title: "Netherytowy Autocrafter"
+	quest.41B05A85F70439BD.quest_desc: ["Połączenie miedzianej obudowy z mechanizmem miedzianym tworzy wodoszczelny korpus bazowy pod budowę aparatury parowej i ciśnieniowej."]
+	quest.41B05A85F70439BD.quest_subtitle: "1x Copper Machine"
+	quest.41B05A85F70439BD.title: "Rdzeń Hydrauliki: Copper Machine"
+	quest.42238D09992C1B0D.quest_desc: ["Ujarzmiony płomień Netheru! Nakarm Płomyka węglem lub płynnym paliwem, aby podgrzać kadzie do wytopu mosiądzu oraz zasilić potężne kotły parowe."]
+	quest.42238D09992C1B0D.quest_subtitle: "1x Blaze Burner"
+	quest.42238D09992C1B0D.title: "Serce Pieca: Palnik Płomyka"
+	quest.427014BDE06DE631.quest_desc: ["&cFire Gauntlet&r sprawia, że każde Twoje uderzenie wręcz staje w płomieniach i podpala przeciwnika!"]
+	quest.427014BDE06DE631.quest_subtitle: "Dłonie"
+	quest.427014BDE06DE631.title: "&cFire Gauntlet&r"
+	quest.42746659C66CF17F.quest_desc: ["&6&oLibrary of Alexandria&r powstaje z infuzji zwykłej Biblioteki Zaklęć i zwiększa pojemność każdego zaklęcia z 32 tysięcy aż do 1,1 miliarda punktów!"]
+	quest.42746659C66CF17F.quest_subtitle: "Gdyby Aleksandria nigdy nie spłonęła..."
+	quest.42746659C66CF17F.title: "&6&oLibrary of Alexandria"
+	quest.427516AA3E8C9442.quest_desc: ["Forma do odlewania motyki ogrodniczej łączącej funkcje motyki, siekiery i łopaty."]
+	quest.427516AA3E8C9442.quest_subtitle: "Uniwersalna motyka"
+	quest.427516AA3E8C9442.title: "Forma: Motyka (Mattock Cast)"
+	quest.4279865600998487.quest_desc: ["Miedziane rury uszczelnione kauczukiem pozwalają przesyłać wodę, parę, lawę i chemikalia między zbiornikami a maszynami."]
+	quest.4279865600998487.quest_subtitle: "1x Fluid Pipe"
+	quest.4279865600998487.title: "Rurociągi Miedziane: Fluid Pipe"
+	quest.42D7C8CD8E6F5CD7.quest_desc: ["Runa Otępienia całkowicie wyłącza sztuczną inteligencję (AI) przyzywanych stworzeń. Moby nie poruszają się, nie teleportują i nie atakują, czekając na transport taśmociągiem."]
+	quest.42D7C8CD8E6F5CD7.title: "Wyłączenie AI (No AI)"
+	quest.42E44B6C8CDF031D.quest_desc: ["Każdy szanujący się inżynier potrzebuje zapasu arkuszy z cynku, andezytu, miedzi, żelaza oraz złota. Ustaw prasę nad taśmą lub zajezdnią i przygotuj partię pod budowę zaawansowanych podzespołów."]
+	quest.42E44B6C8CDF031D.quest_subtitle: "Zestaw Blach Przemysłowych"
+	quest.42E44B6C8CDF031D.title: "Walcownia Pełną Parą"
+	quest.43167C59036E79A7.quest_desc: ["&8Tool & Fishing Tomes&r losują wyłącznie zaklęcia wydobywcze (Wydajność, Szczęście, Jedwabny Dotyk) lub wędkarskie."]
+	quest.43167C59036E79A7.title: "&8Tool Tomes"
+	quest.436E4E3515BCCDE9.quest_desc: ["&bCloud in a Bottle&r pozwala wykonać podwójny skok w powietrzu (naciśnij dwukrotnie Spację) oraz zmniejsza obrażenia od upadku."]
+	quest.436E4E3515BCCDE9.quest_subtitle: "Pas"
+	quest.436E4E3515BCCDE9.title: "&bCloud in a Bottle&r"
+	quest.43A5B83862D9E94C.quest_desc: ["&bEye of Flame&r wskaże drogę w Netherze do &bBurning Arena&r, gdzie czeka &b&lIgnis&r."]
+	quest.43A5B83862D9E94C.title: "&bEye of Flame&r"
+	quest.43B52BE28D14514D.quest_desc: ["Krwioobieg układów logicznych, różowego kwarcu oraz rdzeni pamięci Refined Storage. Im więcej go wykopiesz, tym lepiej."]
+	quest.43B52BE28D14514D.quest_subtitle: "64x Redstone"
+	quest.43B52BE28D14514D.title: "Rudy Przemysłowe: Redstone"
+	quest.43B5BA3A5CE95E7A.quest_desc: ["Ciężki metal izolacyjny, który okaże się bezcenny przy budowie zaawansowanych akumulatorów i osłon reaktorów w późniejszych erach."]
+	quest.43B5BA3A5CE95E7A.quest_subtitle: "16x Sztabka ołowiu (Lead Ingot)"
+	quest.43B5BA3A5CE95E7A.title: "Rudy Przemysłowe: Ołów"
+	quest.43D13FD7FDF29A61.quest_desc: ["Ręczne przenoszenie urobku między maszynami to strata cennego czasu. Połącz stanowiska pasami transmisyjnymi (Belts), zsypami (Chutes) oraz lejami (Funnels), by surowce płynęły same."]
+	quest.43D13FD7FDF29A61.quest_subtitle: "Belt, Chute & Funnel"
+	quest.43D13FD7FDF29A61.title: "Krwioobieg Fabryki: Taśmy i Zsypy"
+	quest.43DA4C62DD1CD392.quest_desc: ["Najtwardszy minerał w świecie gry, niezbędny do zaawansowanych procesorów i najmocniejszych narzędzi."]
+	quest.43DA4C62DD1CD392.quest_subtitle: "16x Diament (Diamond)"
+	quest.43DA4C62DD1CD392.title: "Skarby Głębin: Diamenty"
+	quest.445C9117198936B6.quest_desc: ["Naramienna wyrzutnia rakiet &4W.A.S.W.&r wystrzeliwuje samonaprowadzające pociski (PPM) lub ciężką salwę moździerzową (Shift + PPM)."]
+	quest.445C9117198936B6.title: "&4W.A.S.W. (Wither Assault Shoulder Weapon)"
+	quest.4494D77B49C5F925.quest_desc: ["Zielonkawa skała miedzionośna. Po skruszeniu zasili Twoją fabrykę stałym dopływem miedzi."]
+	quest.4494D77B49C5F925.quest_subtitle: "64x Veridium"
+	quest.4494D77B49C5F925.title: "Ekstruzja: Veridium (Miedź)"
+	quest.45161821C221EF0B.quest_desc: [
+		"Przy 15 półkach &4Hellshelf&r wokół stołu uzyskasz &a45 Eterna&r i &c30% Quanta&r – dokładnie tyle, ile potrzeba do stworzenia &4Infused Hellshelves&r!"
+		""
+		"Każda nasycona półka daje &a+5 Eterna&r (z limitem do &a60&r) oraz &c+5% Quanta&r."
+	]
+	quest.45161821C221EF0B.title: "&4Infused Hellshelves"
+	quest.451788130D250037.quest_desc: ["Modułowe zbiorniki na ciecze. Połącz 16 z nich w wielki kocioł nad palnikami Blaze Burner i doprowadź wodę pompą, aby przygotować bazę pod elektrownię parową!"]
+	quest.451788130D250037.quest_subtitle: "16x Fluid Tank"
+	quest.451788130D250037.title: "Silosy i Kotły: Fluid Tank"
+	quest.45647395169978ED.quest_desc: [
+		"Aby uzyskać &9Pył Klejnotów (Gem Dust)&r, rzuć niepotrzebne klejnoty na ziemię i spuść na nie spadające &7&lKowadło&r!"
+		""
+		"Zdobytą mączkę wykorzystasz do budowy Stołu Rozbiórki, Stołu Przekuwania oraz wytwarzania pieczęci."
+	]
+	quest.45647395169978ED.title: "&9Gem Dust"
+	quest.4564B577CB4EC046.quest_desc: ["&cEverlasting Beef&r to niezwykle rzadki łup z krów – kawałek surowej wołowiny, który nie zużywa się po zjedzeniu (ma jedynie krótki czas odnowienia i działa z modułem karmienia w plecaku!)."]
+	quest.4564B577CB4EC046.quest_subtitle: "Unikalny"
+	quest.4564B577CB4EC046.title: "&cEverlasting Beef&r"
+	quest.45899579D9B92D91.quest_desc: ["&aFoundry Controller&r to serce Twojej wieloblokowej odlewni. W jego interfejsie sprawdzisz temperaturę, poziom płynnych metali oraz włożysz rudy i sztabki do przetopienia."]
+	quest.45899579D9B92D91.title: "&c&lFoundry&r &aController"
+	quest.45FBEABEBA7CC09E.quest_desc: ["&5Sunken City&r to ogromna podwodna metropolia z centralną kopułą mieszczącą &5Altar of the Abyss&r, zamieszkiwana przez rasę &5Deeplingów&r oraz strażników koralowych."]
+	quest.45FBEABEBA7CC09E.title: "&5Sunken City&r: Siedziba &5&lThe Leviathan&r"
+	quest.462C1F75A2FB9F02.quest_desc: ["Forma do odlewania wędki modułowej."]
+	quest.462C1F75A2FB9F02.quest_subtitle: "Na ryby!"
+	quest.462C1F75A2FB9F02.title: "Forma: Wędka (Fishing Rod Cast)"
+	quest.462D173D576A8D91.quest_desc: ["&eAncient Metal&r pozyskiwany ze strażników piramidy pozwala wykuć gadzi pancerz oraz Starożytną Włócznię."]
+	quest.462D173D576A8D91.title: "&eAncient Metal"
+	quest.465B08461B460DAC.quest_desc: ["&dEndermaptera&r to opancerzone insekty Endu zamieszkujące Zrujnowaną Cytadelę. Zabijaj je szybko, zanim zniszczą własne żuwaczki (&dVoid Jaw&r)!"]
+	quest.465B08461B460DAC.quest_subtitle: "Insekty Próżni"
+	quest.465B08461B460DAC.title: "&dEndermaptera"
+	quest.466DCFD1A0975A61.quest_desc: ["Standardowa rama konstrukcyjna dla wszystkich urządzeń cyfrowych Refined Storage. Od teraz Twoje maszyny zyskują dostęp do epoki informacyjnej."]
+	quest.466DCFD1A0975A61.quest_subtitle: "1x Machine Casing"
+	quest.466DCFD1A0975A61.title: "Fundament Sieci: Machine Casing"
+	quest.46C2B6B25AD1ED93.quest_desc: ["Specjalistyczny terminal (Pattern Grid) pozwalający jednym kliknięciem z EMI przenosić receptury na czyste karty wzorców (Patterns)."]
+	quest.46C2B6B25AD1ED93.quest_subtitle: "1x Pattern Grid"
+	quest.46C2B6B25AD1ED93.title: "Programator Schematów: Pattern Grid"
+	quest.46CC8E7ED59F51D2.quest_desc: ["&5Tidal Claws&r to gwarantowany łup z Lewiatana. Lewy przycisk myszy wystrzeliwuje łańcuchowy atak przez maks. 5 celów, a prawy działa jak kotwiczka przyciągająca Cię do bloków i wrogów!"]
+	quest.46CC8E7ED59F51D2.title: "&5Tidal Claws"
+	quest.474AF9F90C8E40A2.quest_desc: ["Szablon do wykucia głowicy buzdyganu zadającego potężne obrażenia z upadku."]
+	quest.474AF9F90C8E40A2.title: "Szablon: Buzdygan (Mace Blueprint)"
+	quest.4768E04E1E7DC172.quest_desc: ["Ekran diagnostyczny pokazujący w czasie rzeczywistym postęp wszystkich zleconych zadań autocraftingu oraz ewentualne brakujące surowce."]
+	quest.4768E04E1E7DC172.quest_subtitle: "1x Autocrafting Monitor"
+	quest.4768E04E1E7DC172.title: "Kontrola Produkcji: Autocrafting Monitor"
+	quest.479018DD12B5D1DD.quest_desc: ["Potężny, wolnostojący blok serwerowy mieszczący aż 65 536 przedmiotów bezpośrednio w sieci."]
+	quest.479018DD12B5D1DD.quest_subtitle: "1x 64k Storage Block"
+	quest.479018DD12B5D1DD.title: "Stacjonarny Bank 64k"
+	quest.48D358470A019E7A.quest_desc: ["Katalizator 1. poziomu wymagany do gwiezdnego ładowania w Starlight Charger."]
+	quest.48D358470A019E7A.title: "Katalizator Gwiezdny I: Blaze Gold Dust"
+	quest.48DB0587E8C58888.quest_desc: [
+		"Własny Wendor (&eAndesite&r lub &6Brass Vendor&r)[cite: 5] to Twój osobisty, w pełni zautomatyzowany sprzedawca, którego nie mogą zniszczyć ani okraść inni gracze."
+		""
+		"&lJak skonfigurować stoisko?&r"
+		"1. Postaw Wendora w wybranym miejscu i kliknij na niego prawym przyciskiem myszy (z &e[ Shift ]&r otworzysz panel właściciela)."
+		"2. Włóż sprzedawany przedmiot jako wzór oferty oraz ustal jego cenę w monetach &eNumismatics&r (możesz też przełączyć automat w tryb skupu towarów od innych graczy!)."
+		"3. Wypełnij wewnętrzny magazyn towarem na sprzedaż."
+		""
+		"&aAutomatyzacja dostaw:&r Wendory możesz zasilać towarami od tyłu lub od dołu za pomocą lejków, zsypów oraz eksporterów z &bRefined Storage&r, dzięki czemu popularny asortyment nigdy się nie wyczerpie!"
+	]
+	quest.48DB0587E8C58888.quest_subtitle: "Zarabiaj nawet wtedy, gdy śpisz"
+	quest.4933CF4675E77D50.quest_desc: ["Po otrzymaniu obrażeń od ognia lub lawy &5Obsidian Skull&r zapewnia tymczasową Odporność na Ogień, dając czas na wyjście z płomieni."]
+	quest.4933CF4675E77D50.quest_subtitle: "Pas"
+	quest.4933CF4675E77D50.title: "&5Obsidian Skull&r"
+	quest.49D9B3C76D4602B9.quest_desc: ["Zaawansowany nośnik danych mieszczący aż 256 wiader płynów na jednym dysku w stacji Disk Drive."]
+	quest.49D9B3C76D4602B9.quest_subtitle: "1x 256b Fluid Storage Disk"
+	quest.49D9B3C76D4602B9.title: "Dysk Płynów 256b"
+	quest.4A7AEBEB87CEC274.quest_desc: ["&cRunning Shoes&r zwiększają prędkość sprintu oraz pozwalają automatycznie wbiegać na bloki o wysokości 1 kratki bez skakania."]
+	quest.4A7AEBEB87CEC274.quest_subtitle: "Stopy"
+	quest.4A7AEBEB87CEC274.title: "&cRunning Shoes&r"
+	quest.4AA48533372994DB.quest_desc: ["Wymieszanie składników organicznych i płynów w kadzi pod mikserem pozwala uzyskać surowy kauczuk gotowy do wulkanizacji."]
+	quest.4AA48533372994DB.quest_subtitle: "1x Rubber"
+	quest.4AA48533372994DB.title: "Synteza Kauczuku: Surowa Guma"
+	quest.4AB3D19BB418DCD7.quest_desc: ["Centralna konsola zarządzająca wszystkimi Autocrafterami w Twojej bazie. Pozwala zdalnie wkładać i porządkować wzorce (Patterns) bez biegania po hali maszyn!"]
+	quest.4AB3D19BB418DCD7.quest_subtitle: "1x Autocrafter Manager"
+	quest.4AB3D19BB418DCD7.title: "Centrum Dowodzenia: Autocrafter Manager"
+	quest.4AF4F5612CE4A30F.quest_desc: ["Złote okucia zapewniają jeszcze więcej slotów na surowce i dodatkowe kieszenie na ulepszenia."]
+	quest.4AF4F5612CE4A30F.quest_subtitle: "Prawie najlepszy"
+	quest.4AF4F5612CE4A30F.title: "Złoty Plecak"
+	quest.4BADD8A0FD85DB33.quest_desc: ["&eGolden Tooth&r wypada z wrogów podczas noszenia Piglin Mask – możesz używać go do handlu z Piglinami lub przetopić na czyste złoto!"]
+	quest.4BADD8A0FD85DB33.quest_subtitle: "Waluta Bastionów"
+	quest.4BADD8A0FD85DB33.title: "&eGolden Tooth"
+	quest.4BD783487E35F8A0.quest_desc: [
+		"Zbudowanie pierwszego pociągu w &6Create&r wymaga zachowania odpowiedniej kolejności. Postępuj według poniższych kroków, aby bezbłędnie złożyć swój skład:"
+		""
+		"&l1. Przygotowanie torowiska:&r Ułóż prosty odcinek torów (&eTrain Track&r) i postaw obok niego Stację Kolejową (&eTrain Station&r), klikając wcześniej PPM stacją bezpośrednio na wybrany tor."
+		"&l2. Tryb budowy:&r Otwórz interfejs stacji i kliknij przycisk &bCreate New Train&r. Na torach pojawią się błękitne znaczniki pod wózki jezdne."
+		"&l3. Budowa wagonów:&r Postaw obudowę kolejową (&6Train Casing&r) na niebieskim znaczniku – zamieni się ona w wózek. Zbuduj na nim konstrukcję lokomotywy, zamontuj stery (&eTrain Controls&r) skierowane do przodu, a także skrzynie lub zbiorniki na towary oraz interfejsy przeładunkowe (&ePortable Storage Interface&r)."
+		"&l4. Klejenie i finalizacja:&r Połącz wszystkie bloki danego wagonu za pomocą kleju (&aSuper Glue&r) (pamiętaj, aby nie skleić pociągu z podłożem!). Wróć do stacji, nadaj pociągowi nazwę i kliknij &aAssemble Train&r."
+		""
+		"&eWskazówka:&r Posadź za sterami dowolnego moba lub Płomyka (&6Blaze Burner&r) i wręcz mu Rozkład Jazdy (&eTrain Schedule&r), aby pociąg kursował całkowicie automatycznie!"
+	]
+	quest.4BD783487E35F8A0.quest_subtitle: "Od pojedynczych bloków do pędzącej lokomotywy"
+	quest.4BF5EB050EC14C80.quest_desc: ["&4The Watchers&r to latające drony strażnicze w Pradawnej Fabryce, atakujące wiązkami laserowymi i ostrzami."]
+	quest.4BF5EB050EC14C80.title: "&4The Watchers&r"
+	quest.4C247BF978FA7AEE.quest_desc: ["Złoty Autocrafter oferuje znacznie większą prędkość przetwarzania oraz więcej miejsca na karty wzorców niż wariant żelazny."]
+	quest.4C247BF978FA7AEE.quest_subtitle: "1x Gold Crafter"
+	quest.4C247BF978FA7AEE.title: "Złoty Autocrafter"
+	quest.4CA9892CF7949738.quest_desc: ["Najtwardsze szkliwo wulkaniczne produkowane automatycznie – idealne pod pył obsydianowy i wytrzymałe blachy (Sturdy Sheets)!"]
+	quest.4CA9892CF7949738.quest_subtitle: "64x Obsidian"
+	quest.4CA9892CF7949738.title: "Ekstruzja: Obsydian"
+	quest.4CCEC13CC5A5772D.quest_desc: ["Wszystkie trzy oswojone mini-stworzenia z Cataclysm (Modern Remnant, Baby Leviathan oraz Netherite Ministrosity) możesz wygodnie przenosić w wiadrze!"]
+	quest.4CCEC13CC5A5772D.title: "Kieszonkowe Bestie"
+	quest.4D3379D38237F830.quest_desc: ["&bAqua-Dashers&r pozwalają biec po powierzchni wody niczym po twardym lądzie, dopóki utrzymujesz sprint!"]
+	quest.4D3379D38237F830.quest_subtitle: "Stopy"
+	quest.4D3379D38237F830.title: "&bAqua-Dashers&r"
+	quest.4D644A9829C240CB.quest_desc: ["&bBulwark of the Flame&r to tarcza Ignisa – przytrzymanie Shift + PPM i puszczenie wyzwala ognistą szarżę taranującą i ogłuszającą wrogów!"]
+	quest.4D644A9829C240CB.title: "&bBulwark of the Flame"
+	quest.4D822D92492E1F53.quest_desc: ["&3Aptrgangr&r to potężny mini-boss Mroźnego Więzienia dzierżący olbrzymi topór. Pokonaj go, aby zdobyć klucz do komnaty głównego bossa!"]
+	quest.4D822D92492E1F53.title: "&3Aptrgangr"
+	quest.4DA40DA3D1519118.quest_desc: ["Gęsty łupek z najniższych warstw świata, gotowy do obróbki na powierzchni."]
+	quest.4DA40DA3D1519118.quest_subtitle: "64x Deepslate"
+	quest.4DA40DA3D1519118.title: "Ekstruzja: Łupek Głębinowy"
+	quest.4DF90C1AA6BF4543.quest_desc: ["Gotowy dysk twardy 1k przeznaczony do montażu w stacji dysków (Disk Drive). Jeden mały kartridż zastępuje cały rząd drewnianych skrzyń."]
+	quest.4DF90C1AA6BF4543.quest_subtitle: "1x 1k Storage Disk"
+	quest.4DF90C1AA6BF4543.title: "Dysk Danych 1k"
+	quest.4E2C589C7638390F.quest_desc: ["&3Cursed Bow&r wystrzeliwuje salwę kilku strzał jednocześnie bez zużywania dodatkowej amunicji."]
+	quest.4E2C589C7638390F.title: "&3Cursed Bow"
+	quest.4E895C54651A3CB3.quest_desc: ["&8Księgi Specjalistyczne (Tomes)&r można zaklinać na stole tak jak zwykłe książki, ale przyjmują one wyłącznie zaklęcia z wybranej kategorii (np. tylko na napierśnik lub tylko na kilof)."]
+	quest.4E895C54651A3CB3.title: "&8&lKsięgi Specjalistyczne (Tomes)"
+	quest.4E9DDDBD8263D0E3.quest_desc: ["Jeśli Twój przedmiot z afiksami ma zbyt długą i nieczytelną nazwę, połącz go z &7Sigil of Unnaming&r w &8&lStole Kowalskim&r – usunie to przydomki afiksów, zostawiając sam kolor rzadkości i nazwę bazową."]
+	quest.4E9DDDBD8263D0E3.title: "&7Sigil of Unnaming"
+	quest.4EE6824A970EEB35.quest_desc: ["Nasycanie run spawnerowych przy &a70 Eterna&r, &c30% Quanta&r oraz &550% Arcana&r na potrzeby zaawansowanych ulepszeń spawnerów."]
+	quest.4EE6824A970EEB35.title: "&d&lInfuzja&r Run Spawnera"
+	quest.4F7F8F4ED1CA0550.quest_desc: ["Runa Podpalenia sprawia, że wszystkie przyzywane przez spawner stworzenia pojawiają się od razu w płomieniach."]
+	quest.4F7F8F4ED1CA0550.title: "Runa Podpalenia"
+	quest.4FA156C383C9C438.quest_desc: ["&eKoboletony&r to szkieletowi strażnicy piramidy uzbrojeni w zakrzywione miecze Khopesh."]
+	quest.4FA156C383C9C438.quest_subtitle: "Strażnicy pustyni"
+	quest.4FA156C383C9C438.title: "&eKoboletons"
+	quest.4FA7774D89171BB3.quest_desc: ["&eRemnant Skull&r przyzywa małego Modern Remnanta, którego możesz oswoić za pomocą Jajka Niuchacza (Sniffer Egg) i leczyć kośćmi Koboletonów!"]
+	quest.4FA7774D89171BB3.title: "&eRemnant Skull"
+	quest.503AC506720FC59E.quest_desc: [
+		"Zaawansowane modyfikacje spawnerów wymagają &d&lInfuzji&r zwykłych run w Stole do Zaklinania."
+		""
+		"Wymagane parametry ołtarza: min. &a70 Eterna&r, &c30% Quanta&r oraz &550% Arcana&r."
+		""
+		"Osiągniesz je za pomocą jednego z poniższych układów:"
+		"• 14x &9Deepshelf&r (aktywnych)"
+		"• 13x &4Glowing Hellshelf&r + 2x &9Deepshelf&r"
+		"• 12x &bCrystalline Seashelf&r + 2x &9Deepshelf&r"
+	]
+	quest.503AC506720FC59E.quest_subtitle: "Zaawansowane modyfikacje"
+	quest.503AC506720FC59E.title: "Nasycona Runa Spawnera"
+	quest.5040B3D29F238BC0.quest_desc: ["&dBunny Hoppers&r podwajają wysokość skoku oraz redukują otrzymywane obrażenia od upadku."]
+	quest.5040B3D29F238BC0.quest_subtitle: "Stopy"
+	quest.5040B3D29F238BC0.title: "&dBunny Hoppers&r"
+	quest.5052424165D93DE0.quest_desc: ["Młot kowalski odchodzi do lamusa. Podłącz Mechanical Press do wału napędowego, aby błyskawicznie kuć sztabki metali w cienkie i wytrzymałe arkusze blachy."]
+	quest.5052424165D93DE0.quest_subtitle: "1x Mechanical Press"
+	quest.5052424165D93DE0.title: "Siła Nacisku: Prasa Mechaniczna"
+	quest.50A32AC6EDBC5854.quest_desc: ["Z założonym &6Onion Ring&r każde zjedzone jedzenie zapewnia tymczasowy bonus do prędkości kopania (Haste)."]
+	quest.50A32AC6EDBC5854.quest_subtitle: "Dłonie"
+	quest.50A32AC6EDBC5854.title: "&6Onion Ring&r"
+	quest.50C9CB8FB16E453D.quest_desc: ["&bBurning Arena&r to gigantyczny koloseum w Netherze. Na drugim piętrze pokonaj strażników &bIgnited Revenant&r, aby zdobyć popioły do wywołania bossa na szczycie areny!"]
+	quest.50C9CB8FB16E453D.title: "&bBurning Arena&r: Siedziba &b&lIgnisa&r"
+	quest.516E66BE01EE5B31.quest_desc: ["&8Weapon & Bow Tomes&r losują wyłącznie zaklęcia bojowe dla mieczy i toporów lub broni dystansowej."]
+	quest.516E66BE01EE5B31.title: "&8Weapon Tomes"
+	quest.51D3919CC88C4DC9.quest_desc: ["Podstawowa matryca pamięci zdolna zapisać strukturę 1024 przedmiotów w postaci czystych impulsów energetycznych."]
+	quest.51D3919CC88C4DC9.quest_subtitle: "1x 1k Storage Part"
+	quest.51D3919CC88C4DC9.title: "Pierwszy Kilobajt: Rdzeń 1k"
+	quest.51E554305FFEBA1D.quest_desc: ["&4Blazing Hellshelf&r zapewnia solidny przyrost &aEterna&r oraz &cQuanta&r, choć do dalszych infuzji bardziej przyda się wariant świecący (Glowing)."]
+	quest.51E554305FFEBA1D.title: "&4Blazing Hellshelf"
+	quest.51F6702B4F6B62C7.quest_desc: ["Karmazynowa ruda bogata w żelazo. Zautomatyzuj jej kruszenie, a nigdy więcej nie zabraknie Ci stali i żelaza."]
+	quest.51F6702B4F6B62C7.quest_subtitle: "64x Crimsite"
+	quest.51F6702B4F6B62C7.title: "Ekstruzja: Crimsite (Żelazo)"
+	quest.523DC411241B470A.quest_desc: [
+		"&6Geode-Encased Bookshelf of Stability&r całkowicie usuwa negatywne skutki wysokiego parametru &cQuanta&r – od teraz Quanta może jedynie podnosić siłę zaklęć!"
+		""
+		"Do jej stworzenia potrzebujesz biblioteczki, kalcytu oraz &5Budding Amethyst&r (który wytworzysz przez infuzję bloku ametystu)."
+	]
+	quest.523DC411241B470A.title: "&6Stabilizacja Quanta"
+	quest.52773B62C578E4EF.quest_desc: ["Jasny wapień niezastąpiony w procesach hutniczych, chemicznych i architekturze przemysłowej."]
+	quest.52773B62C578E4EF.quest_subtitle: "64x Limestone"
+	quest.52773B62C578E4EF.title: "Ekstruzja: Wapień (Limestone)"
+	quest.52CDB46F6CBF007B.quest_desc: ["Forma do odlewania głowicy łopaty."]
+	quest.52CDB46F6CBF007B.quest_subtitle: "Szybkie kopanie"
+	quest.52CDB46F6CBF007B.title: "Forma: Łopata (Shovel Cast)"
+	quest.53154550397E9704.quest_desc: ["&c&lNetherite Monstrosity&r to ważący setki ton kolos z netherytu i lawy. Wywołuje trzęsienia ziemi, zasysa lawę do regeneracji i ostrzeliwuje arenę kulami magmy!"]
+	quest.53154550397E9704.title: "&c&lNetherite Monstrosity&r"
+	quest.54822638CC243004.quest_desc: [
+		"Kula zamieniająca własną krew w długofalowe przetrwanie."
+		""
+		"• &4Sacrifice&r: Po użyciu poświęca część Twojego aktualnego zdrowia, zamieniając je w potężną, kumulującą się regenerację trwającą przez dłuższy czas."
+	]
+	quest.54822638CC243004.quest_subtitle: "Siła za cenę krwi"
+	quest.54822638CC243004.title: "&cSphere of Self-Sacrifice&r"
+	quest.54A9CBBFC0236AC9.quest_desc: ["Zbierz 32 Odłamki Ametystu – będą kluczowym surowcem do kalibracji kryształów i zaawansowanej optyki w kolejnych etapach."]
+	quest.54A9CBBFC0236AC9.quest_subtitle: "32x Amethyst Shard"
+	quest.54A9CBBFC0236AC9.title: "Krystaliczny Urobek: Odłamki Ametystu"
+	quest.54BC4B2395B82D1B.quest_desc: ["Komplet narzędzi do inteligentnego zarządzania fabryką: Smart Chute filtruje zrzucane przedmioty, Content Observer i Stockpile Switch badają stan zapasów, a Sequenced Gearshift programuje precyzyjne ruchy maszyn!"]
+	quest.54BC4B2395B82D1B.quest_subtitle: "Zestaw Automatyki Mosiężnej"
+	quest.54BC4B2395B82D1B.title: "Inteligentna Logistyka Create"
+	quest.54E3834447E5148B.quest_desc: ["Magistrala przesyłowa łącząca odległe maszyny, interfejsy i terminale z głównym Kontrolerem sieci."]
+	quest.54E3834447E5148B.quest_subtitle: "1x Cable"
+	quest.54E3834447E5148B.title: "Światłowody i Przewody: Cable"
+	quest.55278DDC31951DA5.quest_desc: ["&3Strange Key&r zdobyty z Aptrgangra otwiera zapieczętowane wrota prowadzące do nagrobka Maledictusa."]
+	quest.55278DDC31951DA5.quest_subtitle: "Otwarcie wrót do Maledictusa"
+	quest.55278DDC31951DA5.title: "&3Strange Key"
+	quest.552BA5E6FA987256.quest_desc: [
+		"&cSigil of Malice&r to tajemnicza pieczęć zdobywana z pokonanych &4Najeźdźców&r."
+		""
+		"Użyta w &8&lStole Kowalskim&r przeciąża losowy afiks na przedmiocie ponad normalny limit, ale w zamian całkowicie zeruje inny losowy afiks (który możesz później uratować na Stole Augmentacji)."
+	]
+	quest.552BA5E6FA987256.title: "&cSigil of Malice"
+	quest.5535D36DB16F11D3.quest_desc: ["Żeliwna kadź (Basin) to naczynie reakcyjne Twojej fabryki. Tutaj odbywa się mieszanie składników, wyciskanie kauczuku i wytop mosiądzu."]
+	quest.5535D36DB16F11D3.quest_subtitle: "1x Basin"
+	quest.5535D36DB16F11D3.title: "Tygiel Przemysłowy: Kadź"
+	quest.55F156D969DFF910.quest_desc: ["W życiu inżyniera na samym początku nie myśli się o zasobach – w tym przypadku warto zabezpieczyć się na przyszłość już od pierwszej wizyty w kopalni (zacząłeś od żelaza – zbieraj wszystko jak leci!)."]
+	quest.55F156D969DFF910.quest_subtitle: "Zacznij zbierać rudy już teraz (nie pożałujesz)"
+	quest.55F156D969DFF910.title: "Bogactwa Podziemi"
+	quest.565376084F05ED6E.quest_desc: ["Piekielne głębiny &4Netheru&r są domem dla dwóch niszczycielskich władców ognia i netherytu."]
+	quest.565376084F05ED6E.title: "&4Nether&r: Kraina 2 Bossów"
+	quest.567698BFB097C64A.quest_desc: ["Rdzeń konwertujący rozbijane bloki i przedmioty bezpośrednio na zapis cyfrowy."]
+	quest.567698BFB097C64A.quest_subtitle: "1x Destruction Core"
+	quest.567698BFB097C64A.title: "Rdzeń Demontażu: Destruction Core"
+	quest.573DD5834B321D0A.quest_desc: ["&9Acropolis&r to monumentalne greckie miasto zawieszone w chmurach wysoko nad oceanem, zbudowane z Azure Seastone oraz pryzmarynu."]
+	quest.573DD5834B321D0A.title: "&9Acropolis&f: Siedziba &9&lScylli"
+	quest.574A358ADA1BC26D.quest_desc: ["Połączenie zwykłego terminala ze stołem rzemieślniczym! Pozwala tworzyć przedmioty bezpośrednio z surowców zgromadzonych na dyskach sieci Refined Storage."]
+	quest.574A358ADA1BC26D.quest_subtitle: "1x Crafting Grid"
+	quest.574A358ADA1BC26D.title: "Wygodne Rzemiosło: Crafting Grid"
+	quest.57BB2CC6D9D2AE87.quest_desc: [
+		"&6&lAugmenting Table&r to narzędzie do tworzenia perfekcyjnego rynsztunku!"
+		""
+		"Zasilany za pomocą &6Sigils of Enhancement&r, pozwala oglądać każdy afiks z osobna, wymieniać pojedyncze statystyki lub podnosić ich moc do maksimum."
+	]
+	quest.57BB2CC6D9D2AE87.title: "&6&lAugmenting Table"
+	quest.586D5DE28EEC8014.quest_desc: [
+		"&cQuanta&r (domyślnie 15%, maks. 100%) określa losowe wahania końcowego poziomu zaklinania."
+		""
+		"Bez stabilizacji wysoka Quanta może zarówno mocno podbić, jak i obniżyć poziom zaklęcia. Po ustawieniu &6Geode-Encased Bookshelf of Stability&r negatywne wahania znikają, a Quanta działa wyłącznie na Twoją korzyść!"
+	]
+	quest.586D5DE28EEC8014.title: "Parametr: &cQuanta"
+	quest.589F1D502F680075.quest_desc: ["&dHelium Flamingo&r pozwala przez chwilę dosłownie pływać w powietrzu po naciśnięciu klawisza sprintu w trakcie skoku!"]
+	quest.589F1D502F680075.quest_subtitle: "Pas"
+	quest.589F1D502F680075.title: "&dHelium Flamingo&r"
+	quest.5AB8651FCB1E2F72.quest_desc: ["Szablon pozwalający stworzyć modułową Elytrę zapewniającą jednocześnie punkty pancerza!"]
+	quest.5AB8651FCB1E2F72.title: "Szablon: Elytra (Elytra Blueprint)"
+	quest.5B35AA2B52B7EE5F.quest_desc: ["Cenne kryształy poszukiwane zarówno przez kupców, jak i twórców precyzyjnej optyki."]
+	quest.5B35AA2B52B7EE5F.quest_subtitle: "16x Szmaragd (Emerald)"
+	quest.5B35AA2B52B7EE5F.title: "Skarby Głębin: Szmaragdy"
+	quest.5B56BCBD12170E53.quest_desc: ["Koniec z ręcznym składaniem podzespołów! Włóż zaprogramowany wzorzec (Pattern) do Autocraftera, aby sieć sama produkowała potrzebne przedmioty na żądanie lub zasilała zewnętrzne maszyny."]
+	quest.5B56BCBD12170E53.quest_subtitle: "1x Autocrafter"
+	quest.5B56BCBD12170E53.title: "Produkcja na Żądanie: Autocrafter"
+	quest.5BD22081ED81BCC6.quest_desc: ["&9Urchinkin&r to małe, kolczaste stworzenia toczące się w stronę intruzów i wystrzeliwujące kolce na wszystkie strony."]
+	quest.5BD22081ED81BCC6.title: "&9Urchinkin"
+	quest.5C6C4AD0F60BECCA.quest_desc: ["&eKhopesh&r to zakrzywiony miecz pustynnych szkieletów, wykorzystywany również do dalszego rzemiosła."]
+	quest.5C6C4AD0F60BECCA.title: "&eKhopesh"
+	quest.5C73247A48E72FB3.quest_desc: ["Chcesz wykluczyć konkretne zaklęcie z losowania? Włóż księgę z niechcianym zaklęciem do &bFiltering Shelf&r ustawionej przy stole, a to zaklęcie nigdy więcej się nie pojawi!"]
+	quest.5C73247A48E72FB3.title: "Filtrowanie Puli Zaklęć"
+	quest.5CE44C58A470E48E.quest_desc: [
+		"Modyfikacja &3&lArtifacts&r dodaje unikalne akcesoria ukryte w podziemnych obozowiskach i ruinach."
+		""
+		"Strzegą ich &cMimiki&r – potwory podszywające się pod zwykłe drewniane skrzynie. Pokonanie Mimika gwarantuje zdobycie losowego artefaktu!"
+	]
+	quest.5CE44C58A470E48E.title: "&l&3Artifacts: Polowanie na Mimika"
+	quest.5D74D73092ACD2F2.quest_desc: ["&5Coral Golem&r to mniejszy koralowy strażnik Zatopionego Miasta, z którego zdobędziesz &5Crystallized Coral Fragments&r."]
+	quest.5D74D73092ACD2F2.title: "&5Coral Golem"
+	quest.5D82340E9BED9C79.quest_desc: ["Poniższe relikty odnajdziesz w Miastach Endu (End Cities) oraz na Statkach Endu w wymiarze &dThe End&r!"]
+	quest.5D82340E9BED9C79.title: "Relikty: &dThe End"
+	quest.5DB9B7305AF04186.quest_desc: ["Wolnostojący blok serwerowy mieszczący 256 wiader dowolnego płynu bezpośrednio w sieci cyfrowej."]
+	quest.5DB9B7305AF04186.quest_subtitle: "1x 256b Fluid Storage Block"
+	quest.5DB9B7305AF04186.title: "Stacjonarny Bank Płynów 256b"
+	quest.5DE45BC0258D1B0B.quest_desc: ["Wariant półki Endu wzmocniony prętami Endu i perłami, zapewniający wysoki przyrost statystyk do pułapu &a90 Eterna&r."]
+	quest.5DE45BC0258D1B0B.title: "&dPearlescent Endshelf"
+	quest.5DE7C4FD5FA29236.quest_desc: ["&5Chorus Totem&r ratuje Ci życie przed śmiertelnym uderzeniem, teleportując Cię w bezpieczne miejsce i nadając regenerację."]
+	quest.5DE7C4FD5FA29236.quest_subtitle: "Pas"
+	quest.5DE7C4FD5FA29236.title: "&5Chorus Totem&r"
+	quest.5E3263ACE170A8E3.quest_desc: ["Fuzja &dGauntlet of Guard&r oraz &eSandstorm in a Bottle&r – pozwala tworzyć w miejscu celowania wir próżni zasysający wrogów i eksplodujący po kilku sekundach!"]
+	quest.5E3263ACE170A8E3.title: "&dGauntlet of &eMaelstrom"
+	quest.5EB7CE3A1DCD3E9B.quest_desc: ["&cUniversal Attractor&r działa jak potężny magnes przyciągający leżące w pobliżu przedmioty oraz kule doświadczenia."]
+	quest.5EB7CE3A1DCD3E9B.quest_subtitle: "Pas"
+	quest.5EB7CE3A1DCD3E9B.title: "&cUniversal Attractor&r"
+	quest.5EB87CE5F6DEFAAA.quest_desc: [
+		"Maska z Bastionów pozwalająca wtopić się w społeczność Piglinów."
+		""
+		"• &eNeutrality&r: Pigliny traktują Cię neutralnie bez konieczności noszenia złotej zbroi."
+		"• &6Barter&r: Szansa na dodatkowe przedmioty podczas handlu wymiennego."
+		"• &cLooting&r: Pokonani wrogowie mogą upuszczać Złote Zęby (&eGolden Teeth&r)."
+	]
+	quest.5EB87CE5F6DEFAAA.quest_subtitle: "Swój wśród Piglinów"
+	quest.5EB87CE5F6DEFAAA.title: "&cPiglin Mask&r"
+	quest.5EDB5A2D744CE415.quest_desc: ["&4Laser Gatling&r to szybkostrzelne działko obrotowe zasilane proszkiem Redstone z ekwipunku (1 Redstone wystarcza na 50 strzałów laserowych)."]
+	quest.5EDB5A2D744CE415.quest_subtitle: "Technologia laserowa"
+	quest.5EDB5A2D744CE415.title: "&4Laser Gatling"
+	quest.5F5E43B3F51CAE9E.quest_desc: ["&aSuperstitious Hat&r zapewnia dodatkowy poziom Grabieży (Looting) przy zabijaniu potworów – kumuluje się z zaklęciem na broni!"]
+	quest.5F5E43B3F51CAE9E.quest_subtitle: "Głowa"
+	quest.5F5E43B3F51CAE9E.title: "&aSuperstitious Hat"
+	quest.5FBA199E0B7F1585.quest_desc: ["&9Octohost&r to symbiotyczny duet: ośmiornica &9Symbiocto&r oślepiająca atramentem z góry oraz kontrolowany przez nią utopiec &9Drowned Host&r atakujący wręcz."]
+	quest.5FBA199E0B7F1585.title: "&9Octohost"
+	quest.60850E717C747A78.quest_desc: ["Półki &9Sightshelf&r zwiększają liczbę widocznych zaklęć na liście podglądu przed zaklęciem przedmiotu."]
+	quest.60850E717C747A78.title: "&3Wskazówki Zaklęć: Sightshelf"
+	quest.60CECAAE2D43EC6E.quest_desc: [
+		"Odłamek zatrzymanego czasu odnajdywany w ruinach Endu."
+		""
+		"• &dTransgression&r: Przytrzymanie klawisza aktywacji cofa Cię w czasie po Twojej własnej ścieżce sprzed kilku ostatnich sekund!"
+	]
+	quest.60CECAAE2D43EC6E.quest_subtitle: "Cofnij swoje ostatnie kroki"
+	quest.60CECAAE2D43EC6E.title: "&5Clot of Time&r"
+	quest.61217D80BFF8A858.quest_desc: ["Trzeci, ostateczny wariant smyczy (&a75 Eterna&r, &c85% Quanta&r, &560–85% Arcana&r ze schwytaną Wiedźmą w środku). Jest całkowicie niezniszczalna i potrafi bezpośrednio przepisywać schwytane moby do spawnerów!"]
+	quest.61217D80BFF8A858.quest_subtitle: "Bezpośredni zapis mobów do spawnera"
+	quest.61217D80BFF8A858.title: "&5Occult Ender Lead"
+	quest.61C0DE1432691045.quest_desc: ["Podstawowy urobek z połączenia wody i lawy. Fundament pod mielenie na żwir, piasek oraz żelazo."]
+	quest.61C0DE1432691045.quest_subtitle: "64x Cobblestone"
+	quest.61C0DE1432691045.title: "Ekstruzja: Bruk"
+	quest.62089E9E6D596DA7.quest_desc: ["Przekucie młota &3The Annihilator&r ze sztabką &bIgnitium&r tworzy &3The &bImmolator&r – broń zadającą ogromne obrażenia celom naznaczonym płomieniem i wywołującą eksplozje ognia!"]
+	quest.62089E9E6D596DA7.title: "&3The &bImmolator"
+	quest.6220EDE42C813C1B.quest_desc: ["Masz dość zużywających się amuletów mikstur (&eCharms&r)? Przeprowadź ich &d&lInfuzję&r przy &a100 Eterna&r, &c8,5–13,5% Quanta&r oraz &532,5–37,5% Arcana&r, aby stały się całkowicie niezniszczalne!"]
+	quest.6220EDE42C813C1B.title: "Niezniszczalne &eAmulety"
+	quest.623796B1D7981E59.quest_desc: ["&4Crystal Heart&r na stałe zwiększa Twoje maksymalne zdrowie o dodatkowe serca, dopóki masz je założone."]
+	quest.623796B1D7981E59.quest_subtitle: "Pas"
+	quest.623796B1D7981E59.title: "&4Crystal Heart&r"
+	quest.62622137648A4F56.quest_desc: ["Podczas noszenia &7Pickaxe Heater&r wykopywane rudy metali są automatycznie przetapiane na sztabki!"]
+	quest.62622137648A4F56.quest_subtitle: "Dłonie"
+	quest.62622137648A4F56.title: "&7Pickaxe Heater&r"
+	quest.62C32905C33E2D88.quest_desc: ["&dEye of Void&r zaprowadzi Cię w pustce Endu do &dRuined Citadel&r, której strzeże &d&lEnder Guardian&r."]
+	quest.62C32905C33E2D88.title: "&dEye of Void&r"
+	quest.62D39F68DE6E44A4.quest_desc: ["&5Arcana&r (domyślnie 0%, maks. 100%) zwiększa liczbę otrzymywanych naraz zaklęć oraz sprawia, że rzadkie zaklęcia (takie jak Grabież czy Szczęście) pojawiają się znacznie częściej."]
+	quest.62D39F68DE6E44A4.title: "Parametr: &5Arcana"
+	quest.62DF58D36B739EA0.quest_desc: ["&eWadjet&r to drugi mini-boss piramidy, ciskający burzami piaskowymi i zrzucający bloki piasku ze stropu."]
+	quest.62DF58D36B739EA0.title: "&eWadjet"
+	quest.6313CA2B81D9D8A3.quest_desc: ["Pojemny nośnik 4k do stacji dysków. Zapewnia solidny bufor magazynowy dla rozrastającej się fabryki."]
+	quest.6313CA2B81D9D8A3.quest_subtitle: "1x 4k Storage Disk"
+	quest.6313CA2B81D9D8A3.title: "Dysk Danych 4k"
+	quest.631796E7615C04FA.quest_desc: ["&2Amethyst Crab&r to neutralny mini-boss z Bujnych Jaskiń. Po pokonaniu upuszcza mięso (które można pobłogosławić na ołtarzu ametystu) oraz skorupę do wykucia naramienników Bloom Stone Pauldrons."]
+	quest.631796E7615C04FA.title: "&2Amethyst Crab&r"
+	quest.63CAD77A4488F2CE.quest_desc: ["Forma do odlewania głowicy Paxela – uniwersalnego narzędzia łączącego kilof, siekierę oraz łopatę w jednym!"]
+	quest.63CAD77A4488F2CE.quest_subtitle: "Kilof + Siekiera + Łopata"
+	quest.63CAD77A4488F2CE.title: "Forma: Paxel (Paxel Cast)"
+	quest.63CB5961BE31AA90.quest_desc: ["Połączenie mosiężnej obudowy z precyzyjnymi mechanizmami tworzy Brass Machine – fundament pod ciężkie maszyny montażowe, kruszarki oraz zaawansowaną logistykę Ery 2."]
+	quest.63CB5961BE31AA90.quest_subtitle: "1x Brass Machine"
+	quest.63CB5961BE31AA90.title: "Mosiężny Fundament: Brass Machine"
+	quest.64141B720662B652.quest_desc: [
+		"Modyfikacja &6&lRelics&r wprowadza potężne artefakty rozwijające się wraz z Twoją postacią!"
+		""
+		"Przytrzymaj klawisz &e[ Shift ]&r na znalezionym relikcie, aby otworzyć &6Okno Badań (Research Window)&r. Możesz w nim odblokowywać umiejętności, przelosowywać ich początkową jakość za zwykłe XP oraz podnosić ich poziomy dzięki punktom doświadczenia reliktu!"
+	]
+	quest.64141B720662B652.title: "&l&6Relics: System Rozwoju"
+	quest.6416431155E7BCAB.quest_desc: ["Po co ryć pod ziemią, skoro możesz wytwarzać skały na powierzchni? Odpowiednie połączenie cieczy i bloków sąsiadujących z Ekstruderem pozwala generować niezliczone odmiany kamienia i rud mineralnych bez kiwnięcia kilofem!"]
+	quest.6416431155E7BCAB.quest_subtitle: "Nieskończone Źródła Skał"
+	quest.6416431155E7BCAB.title: "Kuźnia Geologiczna: Mechanical Extruder"
+	quest.648E38F45D52F906.quest_desc: ["Napędzana obrotami głowica miksująca. W połączeniu z kadzią (Basin) oraz palnikiem Płomyka pozwala wytwarzać kauczuk i wytapiać mosiądz."]
+	quest.648E38F45D52F906.quest_subtitle: "1x Mechanical Mixer"
+	quest.648E38F45D52F906.title: "Alchemia Obrotów: Mikser Mechaniczny"
+	quest.655FF7295B688354.quest_desc: ["&9Clawdian&r to potężny mini-boss Akropolu – gigantyczny homar dzierżący wielki topór i wywołujący fale uderzeniowe."]
+	quest.655FF7295B688354.title: "&9Clawdian"
+	quest.657B3116A6419420.quest_desc: ["Forma do odlewania metalowych trzonków narzędziowych zastępujących zwykłe patyki."]
+	quest.657B3116A6419420.quest_subtitle: "Solidny trzonek!"
+	quest.657B3116A6419420.title: "Forma: Trzonek (Tool Rod Cast)"
+	quest.6667638252DB9C74.quest_desc: ["&8Pieczęcie (Sigils)&r służą do modyfikowania ekwipunku z afiksami – pozwalają dodawać gniazda, wyciągać klejnoty oraz ulepszać statystyki w Stole Kowalskim, Stole Przekuwania lub Stole Augmentacji."]
+	quest.6667638252DB9C74.quest_subtitle: "Baza pod pieczęcie"
+	quest.6667638252DB9C74.title: "&8Gem-Fused Slate i Pieczęcie"
+	quest.67216EC5274F08B9.quest_desc: ["Forma do odlewania wytrzymałych nożyc modułowych."]
+	quest.67216EC5274F08B9.quest_subtitle: "Strzyżenie i zbiory"
+	quest.67216EC5274F08B9.title: "Forma: Nożyce (Shears Cast)"
+	quest.677A701E06422CF3.quest_desc: [
+		"Płaszcz utkany z żywego listowia, spotykany w leśnych i tropikalnych biomach."
+		""
+		"• &aCamouflage&r: Pozwala przenikać przez bloki liści, niweluje na nich obrażenia od upadku i regeneruje zdrowie."
+		"• &2Gift of the Grove&r: W obliczu śmiertelnego ciosu pochłania pobliskie liście, ratując Ci życie!"
+	]
+	quest.677A701E06422CF3.quest_subtitle: "Ochrona lasu"
+	quest.677A701E06422CF3.title: "&2Leafy Mantle"
+	quest.680D49E2B3929322.quest_desc: ["&eVitality Ankh&r wzmacnia naturalną regenerację i leczenie podczas starć z bossami."]
+	quest.680D49E2B3929322.title: "&eVitality Ankh"
+	quest.683C260C854C5AA3.quest_desc: ["&4Mechanical Fusion Anvil&r to niezniszczalne kowadło pozwalające łączyć ze sobą trofea i bronie z różnych bossów Cataclysm w ostateczny oręż hybrydowy!"]
+	quest.683C260C854C5AA3.title: "&4Mechanical Fusion Anvil"
+	quest.6842600FC1293062.quest_desc: ["Zejdź pod ziemię, odnajdź naturalną geodę ametystową i spójrz bezpośrednio na blok Kiełkującego Ametystu (Budding Amethyst) znajdujący się w jej wnętrzu."]
+	quest.6842600FC1293062.quest_subtitle: "Spójrz na Budding Amethyst"
+	quest.6842600FC1293062.title: "Poszukiwacz Geod"
+	quest.6852BEFDD4DE4E4B.quest_desc: ["Połączenie &9Deepshelf&r z latarnią dusz i blokami Sculku daje &9Soul-Touched Deepshelf&r (&c+15% Quanta&r oraz limit &a75 Eterna&r)."]
+	quest.6852BEFDD4DE4E4B.title: "&9Soul-Touched Deepshelf"
+	quest.6884E25641A1020C.quest_desc: [
+		"&5Enchantment Library&r to najlepsze archiwum na zaklęte księgi!"
+		""
+		"Wrzucaj do niej wszystkie znalezione księgi – biblioteka zamieni je na punkty i pozwoli jednym kliknięciem wyciągać gotowe kombinacje zaklęć aż do najwyższego odkrytego przez Ciebie poziomu (mieści do 32 768 punktów na każde zaklęcie)."
+	]
+	quest.6884E25641A1020C.title: "&5Enchantment Library"
+	quest.689F32883C4E9502.quest_desc: [
+		"&4&lCataclysm&r wprowadza potężnych bossów, rozbudowane lochy oraz legendarny ekwipunek bojowy."
+		""
+		"Nie ma sztywnej kolejności pokonywania bossów, jednak niektórzy są znacznie groźniejsi od pozostałych. Wykorzystaj specjalne Oczy, aby zlokalizować ukryte w świecie fortece i świątynie!"
+	]
+	quest.689F32883C4E9502.title: "&4&lCataclysm"
+	quest.6912C0E3D092DD27.quest_desc: ["Forma do odlewania płyt butów."]
+	quest.6912C0E3D092DD27.title: "Forma: Buty (Boots Cast)"
+	quest.69383DA579901E7E.quest_desc: ["Forma do odlewania głowicy siekiery."]
+	quest.69383DA579901E7E.quest_subtitle: "Drwal i wojownik"
+	quest.69383DA579901E7E.title: "Forma: Siekiera (Axe Cast)"
+	quest.69439426534EBDC4.quest_desc: ["&bBlazing Grips&r nakładają na trafionych wrogów efekt &bBlazing Brand&r, który osłabia ich pancerz i wytrzymałość."]
+	quest.69439426534EBDC4.title: "&bBlazing Grips"
+	quest.695889817162EFC7.quest_desc: ["Poddając &6Butelki Miodu&r rytuałowi &d&lInfuzji&r, przekształcisz je bezpośrednio w &aZaklęte Butelki z Doświadczeniem (Bottles o' Enchanting)&r!"]
+	quest.695889817162EFC7.title: "Wytwarzanie &aEXP&r?"
+	quest.696A33E7D91A487E.quest_desc: ["&9Cindaria&r to strażniczki Akropolu ciskające odbijającymi się od ścian włóczniami piorunów. Po śmierci upuszczają cenny surowiec &9Lacrima&r."]
+	quest.696A33E7D91A487E.title: "&9Cindaria"
+	quest.6996F3F5F20CC47C.quest_desc: ["Drugi obok miedzi najważniejszy metal Ery 1. Niezbędny do odlewania mosiądzu, cynkowych obudów oraz mechanicznych dłoni."]
+	quest.6996F3F5F20CC47C.quest_subtitle: "16x Sztabka cynku (Zinc Ingot)"
+	quest.6996F3F5F20CC47C.title: "Rudy Przemysłowe: Cynk"
+	quest.69EA17CEB4203C96.quest_desc: ["&3Berserker Soul Amulet&r zwiększa zadawane przez Ciebie obrażenia o 10%, ale jednocześnie obniża Twój pancerz o 25%."]
+	quest.69EA17CEB4203C96.title: "&3Berserker Soul Amulet"
+	quest.69ECE13A6E5503CD.quest_desc: [
+		"W świecie możesz natknąć się również na pomniejsze struktury powiązane z &eCursed Pyramid&r oraz &3Frosted Prison&r."
+		""
+		"Skrywają one unikalne akcesoria bojowe – część z nich wymaga założenia pasa &6Belt of Beginner&r, aby odblokować dodatkowe sloty ekwipunku!"
+	]
+	quest.69ECE13A6E5503CD.title: "Mniejsze Struktury i Akcesoria"
+	quest.6A07D09831428CB9.quest_desc: [
+		"Alternatywa dla ścieżki piekielnej! &bSeashelves&r wprowadzają parametr &5Arcana&r – każda daje &a+3 Eterna&r oraz &5+3% Arcana&r."
+		""
+		"Ustaw 15 sztuk wokół stołu, aby przygotować ołtarz do ich infuzji."
+	]
+	quest.6A07D09831428CB9.title: "&bSeashelves"
+	quest.6A3841EB4433E273.quest_desc: ["Dysk pamięci masowej mieszczący aż 65 536 przedmiotów w pojedynczym slocie stacji Disk Drive."]
+	quest.6A3841EB4433E273.quest_subtitle: "1x 64k Storage Disk"
+	quest.6A3841EB4433E273.title: "Dysk Danych 64k"
+	quest.6A393C7A24899E3E.quest_desc: [
+		"Umieszczenie surowca w &aMaterial Grader&r wraz z proszkiem katalitycznym nadaje materiałowi klasę jakości (od E aż do &6MAX&r)."
+		""
+		"Im wyższa klasa materiału, tym lepsze statystyki będzie miało wykute z niego narzędzie!"
+	]
+	quest.6A393C7A24899E3E.quest_subtitle: "Klasyfikator jakości surowców"
+	quest.6A393C7A24899E3E.title: "Material Grader"
+	quest.6A3A70C8DA59AFCF.quest_desc: ["Twarda skała magmowa pozyskiwana automatycznie bez niszczenia krajobrazu."]
+	quest.6A3A70C8DA59AFCF.quest_subtitle: "64x Granite"
+	quest.6A3A70C8DA59AFCF.title: "Ekstruzja: Granit"
+	quest.6A452BFC8A967C39.quest_desc: ["&aFeral Claws&r zwiększają prędkość wyprowadzania ciosów każdą bronią oraz gołymi pięściami."]
+	quest.6A452BFC8A967C39.quest_subtitle: "Dłonie"
+	quest.6A452BFC8A967C39.title: "&aFeral Claws&r"
+	quest.6A715F4AE22D2439.quest_desc: [
+		"Widmowy płaszcz z pogranicza światów."
+		""
+		"• &7Grave Mist&r: Pozostawia za Tobą duszącą mgłę raniącą pościg."
+		"• &bFrozen Gaze&r: Nakłada Osłabienie na wrogów, którzy patrzą prosto na Ciebie."
+		"• &7Spectral Escape&r: Neguje śmiertelne uderzenie, wprowadzając Cię na kilka sekund w niematerialną formę!"
+	]
+	quest.6A715F4AE22D2439.quest_subtitle: "Pomiędzy światem żywych i umarłych"
+	quest.6A715F4AE22D2439.title: "Ghostly Mantle"
+	quest.6B1B13C942556064.quest_desc: ["Potężny rdzeń pamięci zdolny pomieścić aż 65 536 przedmiotów."]
+	quest.6B1B13C942556064.quest_subtitle: "1x 64k Storage Part"
+	quest.6B1B13C942556064.title: "Masowa Pamięć: Rdzeń 64k"
+	quest.6B40AF49F505A551.quest_desc: [
+		"Rolki zamieniające ciągły bieg w niepowstrzymany pęd."
+		""
+		"• &bAcceleration&r: Podczas nieprzerwanego sprintu stopniowo zwiększa prędkość ruchu oraz pozwala automatycznie pokonywać stopnie."
+	]
+	quest.6B40AF49F505A551.quest_subtitle: "Nabierz rozpędu!"
+	quest.6B40AF49F505A551.title: "&cRoller Skate"
+	quest.6B5B01C612951BAF.quest_desc: ["Wykuj mityczne perły &6Godforged Pearl&r oraz łupki &8Gem-Fused Slate&r, przygotowując się do stworzenia ostatecznej pieczęci."]
+	quest.6B5B01C612951BAF.title: "Mistrzowskie Zasoby Apoteozy"
+	quest.6B5BC33667C782EC.quest_desc: ["&dEnder Golem&r to mini-boss strzegący Cytadeli, wywołujący z ziemi runy próżni. Koniecznie go pokonaj, aby zdobyć cenny &dVoid Core&r!"]
+	quest.6B5BC33667C782EC.title: "&dEnder Golem&r"
+	quest.6B78378BC8036227.quest_desc: ["Katalizator 1. poziomu do urządzenia Material Grader."]
+	quest.6B78378BC8036227.title: "Katalizator Gradera I: Glowing Dust"
+	quest.6BBC440BD0AD0E93.quest_desc: [
+		"W tej paczce modułowe narzędzia &9&lSilent Gear&r zostały połączone z wieloblokową odlewnią &c&lProductive Metalworks&r!"
+		""
+		"Zamiast wycinać części z papierowych szablonów, będziesz odlewać je z płynnych metali za pomocą stalowych form (&8Casts&r). Rozpocznij budowę odlewni od wytworzenia gliny ogniotrwałej (&cFire Clay&r)."
+	]
+	quest.6BBC440BD0AD0E93.title: "&9&lSilent Gear&r i &c&lProductive Metalworks"
+	quest.6BC3CF8937DEDE89.quest_desc: ["Połączenie &cInfernal Forge&r z &dVoid Core&r tworzy &dVoid &cForge&r – młoto-kilof wywołujący wachlarz run próżni przy uderzeniu w ziemię!"]
+	quest.6BC3CF8937DEDE89.title: "&dVoid &cForge"
+	quest.6BD6050862596B7F.quest_desc: ["Wzmocnienie plecaka żelaznymi płytami znacząco powiększa jego pojemność podczas długich wypraw górniczych."]
+	quest.6BD6050862596B7F.quest_subtitle: "Ulepszenie"
+	quest.6BD6050862596B7F.title: "Żelazny Plecak"
+	quest.6BFD7854F078BF16.quest_desc: ["Szablon owijki na rękojeść zwiększającej wygodę i prędkość pracy narzędziem."]
+	quest.6BFD7854F078BF16.quest_subtitle: "Pewny chwyt"
+	quest.6BFD7854F078BF16.title: "Szablon: Owijka (Grip Blueprint)"
+	quest.6C2C135B9B7B9402.quest_desc: [
+		"&d&lInfuzja (Infusion)&r to specjalny rytuał wykonywany w Stole do Zaklinania."
+		""
+		"Gdy ustawisz wokół stołu półki dające odpowiednią kombinację &aEterna&r, &cQuanta&r oraz &5Arcana&r, włożony przedmiot przekształci się w nową, potężniejszą formę (dokładne wymagania zawsze sprawdzisz w EMI)."
+	]
+	quest.6C2C135B9B7B9402.title: "&l&dRytuał Infuzji"
+	quest.6C57D64518FF22C0.quest_desc: ["Księga przeznaczona na ogólne zaklęcia użytkowe, takie jak Niezniszczalność (Unbreaking)."]
+	quest.6C57D64518FF22C0.title: "&8Other Tome"
+	quest.6CB8D3919B16784B.quest_desc: ["&9Ceraunus&r to potężna kotwica samej Scylli – pozwala rzucać kotwicą w przeciwników lub wyzwalać niszczycielskie fale uderzeniowe."]
+	quest.6CB8D3919B16784B.title: "&9Ceraunus"
+	quest.6D9CDB4D81DC164D.quest_desc: ["Forma do odlewania ramion łuku z elastycznych stopów metali."]
+	quest.6D9CDB4D81DC164D.title: "Forma: Łuk (Bow Cast)"
+	quest.6DB8129C82669E9C.quest_desc: ["Pierwszy sprawdzian Twojej linii montażowej. Połączenie miedzianych elementów za pomocą Deployera daje uszczelniony mechanizm niezbędny do budowy zaawansowanej aparatury płynowej."]
+	quest.6DB8129C82669E9C.quest_subtitle: "1x Copper Mechanism"
+	quest.6DB8129C82669E9C.title: "Miedziana Zębatka: Copper Mechanism"
+	quest.6DC633B4D09185A5.quest_desc: ["Sztabki &3Cursium&r zdobyte z Maledictusa pozwalają przekuć netherytowy rynsztunek w przeklętą zbroję i broń duchową."]
+	quest.6DC633B4D09185A5.title: "&3Cursium Ingot"
+	quest.6E08D4E6BC3FB99F.quest_desc: ["&5Deeplingi&r to podwodni strażnicy Zatopionego Miasta dzielący się na kasty: zwykłych wojowników z włóczniami, wędkarzy (Anglers), berserkerów (Brutes) oraz kapłanów i czarnoksiężników upuszczających sztylet &5Athame&r."]
+	quest.6E08D4E6BC3FB99F.title: "&5Deeplings&r"
+	quest.6E12C5DDF81DE88F.quest_desc: ["&eUnbreakable Skull&r chroni Cię przed efektami ogłuszenia (Stun) nakładanymi przez potężne ataki bossów."]
+	quest.6E12C5DDF81DE88F.title: "&eUnbreakable Skull"
+	quest.6E2806D8DC61C46F.quest_desc: ["Forma do odlewania płyt hełmu z wybranego stopu."]
+	quest.6E2806D8DC61C46F.title: "Forma: Hełm (Helmet Cast)"
+	quest.6ED61438A8A1EAA4.quest_desc: ["&4Witherite&r zdobywany z Harbingera służy do budowy zaawansowanego uzbrojenia maszynowego oraz &4Mechanical Fusion Anvil&r."]
+	quest.6ED61438A8A1EAA4.quest_subtitle: "= Witherite"
+	quest.6ED61438A8A1EAA4.title: "Wither + Netheryt = ...?"
+	quest.6EF206A0BD5BAC0A.quest_desc: [
+		"&5Epic (Epicki)&r to wysoka klasa rzadkości, pojawiająca się od poziomu &2Frontier&r i powszechna na poziomach &6Summit&r oraz &4Pinnacle&r."
+		""
+		"&5Arcane Sands&r pozyskasz z rozbiórki epickich przedmiotów na &c&lStole Rozbiórki&r."
+	]
+	quest.6EF206A0BD5BAC0A.quest_subtitle: "&5Epic"
+	quest.6EF206A0BD5BAC0A.title: "&5Arcane Sands"
+	quest.6F71FD826C29C31A.quest_desc: ["Runa Młodości sprawia, że spawner przyzywa wyłącznie młode warianty stworzeń (działa z podstawowymi mobami z gry, które posiadają dziecięcą formę)."]
+	quest.6F71FD826C29C31A.title: "Runa Młodości"
+	quest.6FBE5B5D5027B32C.quest_desc: ["&7Cowboy Hat&r zwiększa prędkość i skoczność każdego wierzchowca, którego dosiadasz."]
+	quest.6FBE5B5D5027B32C.quest_subtitle: "Głowa"
+	quest.6FBE5B5D5027B32C.title: "&7Cowboy Hat"
+	quest.6FC4146E534C51DA.quest_desc: ["&cMonstrous Helm&r wykuty z rogu bossa odrzuca pobliskich wrogów i wzmacnia Twoją obronę, gdy Twoje zdrowie spadnie poniżej połowy."]
+	quest.6FC4146E534C51DA.title: "&cMonstrous Helm"
+	quest.7098F24BC8FAC749.quest_desc: ["Forma do odlewania naszyjników biżuteryjnych zapewniających pasywne premie."]
+	quest.7098F24BC8FAC749.title: "Forma: Naszyjnik (Necklace Cast)"
+	quest.70C7D92844089DEB.quest_desc: ["&bShock Pendant&r ma szansę porazić napastnika piorunem oraz całkowicie uodparnia Cię na wyładowania burzowe."]
+	quest.70C7D92844089DEB.quest_subtitle: "Naszyjnik"
+	quest.70C7D92844089DEB.title: "&bShock Pendant&r"
+	quest.70CDA5F1593DB4B2.quest_desc: ["&eCursed Pyramid&r to gigantyczna piramida na pustyni pełna pułapek, podejrzanego piasku oraz starożytnych strażników."]
+	quest.70CDA5F1593DB4B2.title: "&eCursed Pyramid&r: Siedziba &e&lAncient Remnant&r"
+	quest.70D2C5FAC661E01A.quest_desc: ["&bHeart-Forged Seashelf&r zapewnia ogromny przyrost parametru &5Arcana&r, niezwykle przydatny przy zaawansowanych infuzjach."]
+	quest.70D2C5FAC661E01A.title: "&bHeart-Forged Seashelf"
+	quest.70DF0552174AC3AB.quest_desc: ["Najwydajniejsza jednostka obliczeniowa, niezbędna do koordynowania całej sieci magazynowej i zarządzania jej zasilaniem."]
+	quest.70DF0552174AC3AB.quest_subtitle: "1x Advanced Processor"
+	quest.70DF0552174AC3AB.title: "Diamentowe Obliczenia: Advanced Processor"
+	quest.71055E7BBB337C4D.quest_desc: ["Kliknij na Przeklęty Nagrobek, aby wezwać &3&lMaledictusa&r – uskrzydlonego upiora północy władającego na przemian dwoma młotami Annihilator, halabardą Soul Render oraz Przeklętym Łukiem!"]
+	quest.71055E7BBB337C4D.title: "&3&lMaledictus"
+	quest.711826BBCA832EE2.quest_desc: [
+		"Wszystkie formy odlewnicze (&8Casts&r) wykonuje się poprzez wylanie płynnej &8Stali (Steel)&r na wzorcowy przedmiot położony na &8Casting Table&r."
+		""
+		"Płynną Stal uzyskasz w rozgrzanej odlewni, stapiając ze sobą &7Żelazo&r oraz &0Węgiel&r!"
+	]
+	quest.711826BBCA832EE2.title: "Wytop Stali i &8Formy Odlewnicze"
+	quest.711EF94B2C4CA981.quest_desc: ["Błękitna skała bogata w drobiny cynku. Przepuść ją przez młyny (Crushing Wheels), aby zyskać pasywne źródło cynku!"]
+	quest.711EF94B2C4CA981.quest_subtitle: "64x Asurine"
+	quest.711EF94B2C4CA981.title: "Ekstruzja: Asurine (Cynk)"
+	quest.713006AB89E43C6D.quest_desc: ["Na samym szczycie Akropolu czeka &9&lScylla&r – władczyni sztormu dzierżąca kotwicę &9Ceraunus&r, ciskająca gromami i falami oceanicznymi. Po pokonaniu upuszcza &9Essence of the Storm&r oraz &9Lacrima&r."]
+	quest.713006AB89E43C6D.title: "&9&lScylla"
+	quest.7188DC06A28AE30E.quest_desc: ["&eGolden Hook&r zwiększa ilość punktów doświadczenia wypadających z pokonanych potworów."]
+	quest.7188DC06A28AE30E.quest_subtitle: "Dłonie"
+	quest.7188DC06A28AE30E.title: "&eGolden Hook&r"
+	quest.7270FA5C48AF7280.quest_desc: ["&3Cursium Armor&r pozwala podświetlać wrogów przez ściany (klawisz C), zapewnia wbudowany efekt Totemu Nieśmiertelności na napierśniku oraz odrzutowy odskok na butach (klawisz V)!"]
+	quest.7270FA5C48AF7280.title: "&3Cursium Armor"
+	quest.7292BDEC4D72AF07.quest_desc: ["Ulepszona, mosiężna wersja ekstrudera mechanicznego. Wytrzymuje wyższe ciśnienia i pozwala generować egzotyczne skały z innych wymiarów!"]
+	quest.7292BDEC4D72AF07.quest_subtitle: "1x Mechanical Brass Extruder"
+	quest.7292BDEC4D72AF07.title: "Mosiężna Kuźnia Skał: Brass Extruder"
+	quest.72B909D63ED0D8E0.quest_desc: ["Maszyny potrzebują ruchu, a w Create ruchem jest rotacja. Wały przenoszą moc na odległość, a koła zębate pozwalają zmieniać kierunek obrotu i jego prędkość. Stwórz te dwa podstawowe elementy ze stopu andezytowego i patyków."]
+	quest.72B909D63ED0D8E0.quest_subtitle: "16x Wał korbowy (Shaft), 2x Małe koło zębate (Cogwheel), 2x Duże koło zębate (Large Cogwheel)"
+	quest.72B909D63ED0D8E0.title: "Niech to się kręci!"
+	quest.72D6265E35814927.quest_desc: ["&eCross Necklace&r wydłuża czas nietykalności bezpośrednio po otrzymaniu ciosu, dając Ci czas na kontratak lub odwrót."]
+	quest.72D6265E35814927.quest_subtitle: "Naszyjnik"
+	quest.72D6265E35814927.title: "&eCross Necklace&r"
+	quest.730130CCF1CF5119.quest_desc: ["Poniższe relikty odnajdziesz w skrzyniach ukrytych w strukturach &2Overworldu&r (wioskach, kopalniach, wrakach statków i twierdzach)!"]
+	quest.730130CCF1CF5119.title: "Relikty: &2Overworld"
+	quest.73A56DD4AC1B9590.quest_desc: ["Noszenie &3Ring of Grudged&r znacząco zwiększa obrażenia zadawane podczas ataków krytycznych (z wyskoku)."]
+	quest.73A56DD4AC1B9590.title: "&3Ring of Grudged"
+	quest.73B73870B29DFAD9.quest_desc: ["&eVillager Hat&r sprawia, że osadnicy traktują Cię jak swojego i oferują znaczne zniżki podczas handlu."]
+	quest.73B73870B29DFAD9.quest_subtitle: "Głowa"
+	quest.73B73870B29DFAD9.title: "&eVillager Hat"
+	quest.73E09ED46A94B812.quest_desc: ["Ostatni poziom świata – &4&lPinnacle&r – odblokowuje maksymalny możliwy pułap &a100 Eterna&r na Twoim ołtarzu zaklinania!"]
+	quest.73E09ED46A94B812.quest_subtitle: "Max Eterna: 100"
+	quest.73E09ED46A94B812.title: "Szczyt Możliwości: &4&lPinnacle"
+	quest.73FC51144FC2DA52.quest_desc: ["&7Vampiric Glove&r wykrada życie z trafionych przeciwników, lecząc Cię przy każdym ataku wręcz."]
+	quest.73FC51144FC2DA52.quest_subtitle: "Dłonie"
+	quest.73FC51144FC2DA52.title: "&7Vampiric Glove&r"
+	quest.746DE905D45A396C.quest_desc: [
+		"&5&lThe Leviathan&r to gigantyczny morski drapieżnik władający głębinami!"
+		""
+		"Tworzy podwodne miny, wiry wodne zasysające graczy oraz niszczycielskie promienie próżni. Pamiętaj, że poza wodą staje się niewrażliwy na obrażenia!"
+	]
+	quest.746DE905D45A396C.title: "&5&lThe Leviathan&r"
+	quest.747B62A955D0C629.quest_desc: ["&4Ancient Factory&r to podziemny kompleks przemysłowy pełen mechanizmów redstone, impulsatorów EMP oraz bojowych automatów (&4The Watchers&r i &4The Prowler&r)."]
+	quest.747B62A955D0C629.title: "&4Ancient Factory&r: Siedziba &4&lThe Harbinger&r"
+	quest.748A01B5607C475B.quest_desc: [
+		"But ze sprężynami odnajdywany w górskich biomach."
+		""
+		"• &bSpring Dash&r: Skok podczas kucania wystrzeliwuje Cię z ogromną siłą, a każde kolejne lądowanie odbija Cię od ziemi, całkowicie negując obrażenia od upadku!"
+	]
+	quest.748A01B5607C475B.quest_subtitle: "Każdy krok to wybicie"
+	quest.748A01B5607C475B.title: "&aSpringy Boot"
+	quest.7490FF6AFDB54922.quest_desc: ["Odporna na korozję obudowa cynkowa to idealny fundament pod hybrydowe moduły magazynowe łączące mechanikę z cyfrowym zapisem danych."]
+	quest.7490FF6AFDB54922.quest_subtitle: "1x Zinc Casing"
+	quest.7490FF6AFDB54922.title: "Przemysłowa Rama: Obudowa Cynkowa"
+	quest.74ACCEB6DC9EF6F7.quest_desc: ["Połączenie wyrzutni &4W.A.S.W.&r z &dVoid Core&r tworzy &dV.&4A.S.W.&r, wystrzeliwującą pociski próżniowe wywołujące erupcję run pod stopami wrogów!"]
+	quest.74ACCEB6DC9EF6F7.title: "&dV.&4A.S.W. &d(Void &4Assault Shoulder Weapon)"
+	quest.74B352457BF1541B.quest_desc: ["&fSnowshoes&r pozwalają chodzić po sypkim śniegu bez zapadania się oraz zapewniają premię do prędkości na zaśnieżonych biomach."]
+	quest.74B352457BF1541B.quest_subtitle: "Stopy"
+	quest.74B352457BF1541B.title: "&fSnowshoes&r"
+	quest.74C78BDDFC275D0D.quest_desc: ["Stacjonarny blok pamięci o pojemności 16 384 przedmiotów, gotowy do postawienia i podpięcia kablem do sieci."]
+	quest.74C78BDDFC275D0D.quest_subtitle: "1x 16k Storage Block"
+	quest.74C78BDDFC275D0D.title: "Stacjonarny Bank 16k"
+	quest.74FA25B2E087BEC4.quest_desc: ["Forma do odlewania pierścieni z metali szlachetnych i klejnotów."]
+	quest.74FA25B2E087BEC4.title: "Forma: Pierścień (Ring Cast)"
+	quest.7503823ACDDB0491.quest_desc: ["&2Lucky Scarf&r zapewnia dodatkowy poziom Szczęścia (Fortune) do wszystkich wykopanych przez Ciebie rud!"]
+	quest.7503823ACDDB0491.quest_subtitle: "Szalik (Naszyjnik)"
+	quest.7503823ACDDB0491.title: "&2Lucky Scarf&r"
+	quest.751FD398A3CEFA87.quest_desc: ["Ulepszenie podstawowego Autocraftera za pomocą żelaza zwiększa liczbę slotów na wzorce oraz przyspiesza wykonywanie zadań."]
+	quest.751FD398A3CEFA87.quest_subtitle: "1x Iron Crafter"
+	quest.751FD398A3CEFA87.title: "Żelazny Autocrafter"
+	quest.752F142C980DF1DA.quest_desc: ["Układ o podwyższonej przepustowości, zdolny do równoczesnej obsługi wielu nośników pamięci w napędach dyskowych."]
+	quest.752F142C980DF1DA.quest_subtitle: "1x Improved Processor"
+	quest.752F142C980DF1DA.title: "Złota Architektura: Improved Processor"
+	quest.75DA0A46E41E6690.quest_desc: [
+		"Niezwykle rzadki relikt, który można znaleźć w dowolnym wymiarze."
+		""
+		"• &aExperience Dispersion&r: Za każdym razem, gdy jeden z Twoich założonych reliktów zdobywa doświadczenie, część tego doświadczenia trafia również do wszystkich pozostałych reliktów!"
+	]
+	quest.75DA0A46E41E6690.quest_subtitle: "Wspólny rozwój"
+	quest.75DA0A46E41E6690.title: "&aExperience Disperser"
+	quest.75EE2123753062B8.quest_desc: ["Forma do odlewania arkuszy blach bezpośrednio z płynnego metalu."]
+	quest.75EE2123753062B8.title: "Forma: Płyta (Plate Cast)"
+	quest.76297780BCB4FB60.quest_desc: ["Twój pulpit dowodzenia zasobami. Pozwala jednym rzutem oka przeszukiwać, wkładać i wyciągać dowolne przedmioty zgromadzone na dyskach sieci."]
+	quest.76297780BCB4FB60.quest_subtitle: "1x Grid"
+	quest.76297780BCB4FB60.title: "Okno na Magazyn: Terminal (Grid)"
+	quest.766C80E5D7B7A916.quest_desc: ["Forma do odlewania głowicy kilofa modułowego."]
+	quest.766C80E5D7B7A916.quest_subtitle: "Wybierz swój stop!"
+	quest.766C80E5D7B7A916.title: "Forma: Kilof (Pickaxe Cast)"
+	quest.775AB10F8196F27B.quest_desc: ["&4Eye of Mech&r poprowadzi Cię pod ziemię do &4Ancient Factory&r, gdzie spoczywa &4&lThe Harbinger&r."]
+	quest.775AB10F8196F27B.title: "&4Eye of Mech&r"
+	quest.77A8E8122870BBCE.quest_desc: ["Niezniszczalna smycz z Apothic Enchanting. Choć nie jest jajkiem przyzywającym, pozwala schwytać żywego moba i bezpośrednio przypisać go do spawnera!"]
+	quest.77A8E8122870BBCE.quest_subtitle: "Bezpośredni transfer moba"
+	quest.77A8E8122870BBCE.title: "Okultystyczna Smycz Endu"
+	quest.784466C3813AA506.quest_desc: ["&5Flimsy Ender Lead&r pozwala złapać i przenieść w ekwipunku dowolne pasywne zwierzę (wytrzymuje 8 użyć)."]
+	quest.784466C3813AA506.title: "&5Flimsy Ender Lead"
+	quest.789AF6D0A6321945.quest_desc: ["&dWhoopee Cushion&r przy kucaniu wydaje charakterystyczny dźwięk i potrafi odepchnąć oraz sparaliżować pobliskie potwory."]
+	quest.789AF6D0A6321945.quest_subtitle: "Unikalny"
+	quest.789AF6D0A6321945.title: "&dWhoopee Cushion&r"
+	quest.78BFDD3A9B996655.quest_desc: ["Wzmocniona smycz &5Ender Lead&r powstała przez infuzję (&a45 Eterna&r, &c25% Quanta&r, &540% Arcana&r) pozwala przenosić również wrogie potwory i wytrzymuje 64 użycia."]
+	quest.78BFDD3A9B996655.title: "&5Ender Lead"
+	quest.78C112170E17FBF4.quest_desc: ["Forma do odlewania płyt wzmacniających tarczę modułową."]
+	quest.78C112170E17FBF4.title: "Forma: Tarcza (Shield Cast)"
+	quest.78E66F1DE42C747A.quest_desc: ["Zamiast przeszukiwać kolejne Pradawne Miasta, użyj &d&lInfuzji&r (przy &a70 Eterna&r, &c50% Quanta&r, &550% Arcana&r), aby przemienić 1 &9Echo Shard&r w 4 sztuki!"]
+	quest.78E66F1DE42C747A.title: "Nieskończone &9Echo Shards&r?"
+	quest.78E94C386B1E7359.quest_desc: ["Zdobycie jajka przyzywającego (Spawn Egg) pozwala w dowolnym momencie zmienić typ potwora w spawnerze – wystarczy kliknąć jajkiem prawym przyciskiem myszy na blok spawnera."]
+	quest.78E94C386B1E7359.title: "Zmiana Zawartości: Jajka Przyzywające"
+	quest.78EE55CCF4235510.quest_desc: ["Niezbędny do zaklinania oraz zaawansowanych procesów alchemicznych i optycznych."]
+	quest.78EE55CCF4235510.quest_subtitle: "64x Lazuryt (Lapis Lazuli)"
+	quest.78EE55CCF4235510.title: "Rudy Przemysłowe: Lazuryt"
+	quest.78FEDE6FA4845585.quest_desc: ["Niektóre rytuały &d&lInfuzji&r wymagają utrzymania parametrów w bardzo wąskim przedziale. Te trzy półki obniżają poszczególne wartości, pozwalając precyzyjnie dostroić ołtarz."]
+	quest.78FEDE6FA4845585.title: "&4Redukcja&r Parametrów"
+	quest.793CC4C42DE82B09.quest_desc: ["Ostatni krok dzieli Cię przed dotarciem do najważniejszego komponentu, który pozwoli Ci zbudować Twoją własną fabrykę. Tak trzymaj!"]
+	quest.793CC4C42DE82B09.quest_subtitle: "2x Andesite Mechanism"
+	quest.793CC4C42DE82B09.title: "Pierwszy mechanizm"
+	quest.7965E2CBF3FF9B65.quest_desc: ["Forma do bezpośredniego odlewania kół zębatych z płynnego metalu."]
+	quest.7965E2CBF3FF9B65.title: "Forma: Koło Zębate (Gear Cast)"
+	quest.79AF63E77AD70A93.quest_desc: ["Zwykłe biblioteczki (&7Basic Bookshelves&r) pozwalają podnieść parametr &aEterna&r jedynie do wartości 15 (lub 30 przy większej ich liczbie). Czas poznać zaawansowane parametry stołu!"]
+	quest.79AF63E77AD70A93.title: "&2&lPodstawowe Biblioteczki&r to dopiero start"
+	quest.79ECF0D064F99464.quest_desc: ["Doskonałe źródło piasku i kwarcu po przepuszczeniu przez młyny kruszące."]
+	quest.79ECF0D064F99464.quest_subtitle: "64x Sandstone"
+	quest.79ECF0D064F99464.title: "Ekstruzja: Piaskowiec"
+	quest.7AC6A958936636D9.quest_desc: [
+		"&5Mountaineer's Spawner Upgrade Rune&r to trzeci poziom ulepszenia spawnera, wymagający trofeum z Wardena:"
+		""
+		"• Minimalne opóźnienie: 50 ticków"
+		"• Maksymalne opóźnienie: 200 ticków"
+		"• Liczba mobów na cykl: 13"
+		"• Limit pobliskich bytów: 24"
+		"• Zasięg aktywacji gracza: 40 kratek"
+	]
+	quest.7AC6A958936636D9.title: "Runa Ulepszenia III: Summit"
+	quest.7AED8FD7FB023AD8.quest_desc: ["Aby uruchomić głównego bossa fabryki – &4&lThe Harbinger&r – musisz zasilić jego rdzeń za pomocą &fGwiazdy Netheru (Nether Star)&r!"]
+	quest.7AED8FD7FB023AD8.quest_subtitle: "Zasilenie Harbingera"
+	quest.7AED8FD7FB023AD8.title: "Nether Star"
+	quest.7AEE4BE3AB41ED3E.quest_desc: ["Połączenie &bIgnitium Chestplate&r z Elytrą w Kowadle Fuzji daje pełną ochronę pancerza połączoną ze swobodnym lotem!"]
+	quest.7AEE4BE3AB41ED3E.title: "&bIgnitium Elytra Chestplate"
+	quest.7C2AADE731F3CA8F.quest_desc: ["Aby zbudować obudowę maszyny, potrzebujesz gładkiego, obrobionego drewna. Użyj topora na postawionym drzewie, aby ściągnąć z niego korę. Tak przygotowane bale będą idealnym korpusem dla andezytowej obudowy."]
+	quest.7C2AADE731F3CA8F.quest_subtitle: "8x Ociosana kłoda (Stripped Log)"
+	quest.7C2AADE731F3CA8F.title: "Kora precz!"
+	quest.7C34541A2380C127.quest_desc: ["Złożony na taśmie mechanizm cynkowy stanowi pomost między prostą kinetyką a systemami magazynowymi wysokiej gęstości i pierwszymi układami cyfrowymi."]
+	quest.7C34541A2380C127.quest_subtitle: "1x Zinc Mechanism"
+	quest.7C34541A2380C127.title: "Cynkowy Rdzeń: Zinc Mechanism"
+	quest.7C3D763CF22D167A.quest_desc: [
+		"&dStarlight Charger&r nasyca materiały energią gwiezdną w nocy (cecha &dStar Charged&r)."
+		""
+		"Ustaw go na środku struktury 7x7 z bezpośrednim dostępem do nocnego nieba i wznieś w czterech rogach filary zakończone blokami &ePillar Cap&r."
+	]
+	quest.7C3D763CF22D167A.quest_subtitle: "Gwiezdne ładowanie materiałów"
+	quest.7C3D763CF22D167A.title: "&dStarlight Charger"
+	quest.7C3F65B5DAC7E57B.quest_desc: [
+		"Płaszcz utkanego z nocnego nieba."
+		""
+		"• &dLunar Phase&r: Zwiększa obrażenia i prędkość ataku w zależności od fazy Księżyca."
+		"• &8Shadow&r: Zapewnia niewidzialność w słabo oświetlonych miejscach."
+		"• &7Constellation&r & &eStarfall&r: Przywołuje eksplodujące konstelacje oraz spadające gwiazdy ogłuszające wrogów!"
+	]
+	quest.7C3F65B5DAC7E57B.quest_subtitle: "Potęga nocnego nieba"
+	quest.7C3F65B5DAC7E57B.title: "&5Midnight Mantle"
+	quest.7C758209D06ED0E3.quest_desc: [
+		"Połączenie &4Infused Hellshelf&r z jasnopyłem daje &4Glowing Hellshelf&r, która oprócz Eterna i Quanta zapewnia również &5+3,33% Arcana&r."
+		""
+		"Ustawienie 13 sztuk pozwoli Ci nasycić &9Dormant Deepshelf&r!"
+	]
+	quest.7C758209D06ED0E3.title: "&4Glowing Hellshelf"
+	quest.7C848C7011726470.quest_desc: ["&cEye of Monstrous&r wskaże lokalizację &cSoul Blacksmith&r w Netherze, gdzie przebywa &c&lNetherite Monstrosity&r."]
+	quest.7C848C7011726470.title: "&cEye of Monstrous&r"
+	quest.7C90008081DEBECA.quest_desc: ["Gdy masz już narzędzie z wolnym &9Gniazdem (Socket)&r oraz odpowiedni &aKlejnot (Gem)&r, połącz je ze sobą w zwykłym &8&lStole Kowalskim&r!"]
+	quest.7C90008081DEBECA.title: "Osadzanie &aKlejnotów"
+	quest.7C9D9D1C054874A7.quest_desc: [
+		"Kompletna konfiguracja dająca maksymalne &a100 Eterna&r, &c100% Quanta&r (bez negatywnych wahań) oraz &5100% Arcana&r:"
+		""
+		"• 5x &9Soul-Touched Sculkshelf&r"
+		"• 5x &9Echoing Sculkshelf&r"
+		"• 1x &dDraconic Endshelf&r"
+		"• 1x &6Geode-Encased Bookshelf of Stability&r"
+		"• 1x &6Treasure Shelf&r (odblokowuje zaklęcia skarbów, np. Mending)"
+	]
+	quest.7C9D9D1C054874A7.quest_subtitle: "Perfekcyjny ołtarz zaklęć"
+	quest.7C9D9D1C054874A7.title: "&6&lNajlepszy Układ Półek"
+	quest.7CB03F92F9ECEFFB.quest_desc: ["Koniec z wyborem między ratowaniem narzędzia a klejnotu! Połącz przedmiot z &aSigil of Withdrawal&r w &8&lStole Kowalskim&r, aby bezpiecznie wyjąć osadzone w nim klejnoty i zachować oba elementy."]
+	quest.7CB03F92F9ECEFFB.title: "&aSigil of Withdrawal"
+	quest.7CBEBBCB9D95D11A.quest_desc: ["Postaw &5Abyssal Egg&r i poczekaj, aż wykluje się z niego młody Lewiatan, którego możesz oswoić za pomocą Tropikalnych Ryb!"]
+	quest.7CBEBBCB9D95D11A.title: "Abyssal Egg"
+	quest.7D0A62106E356F04.quest_desc: ["Dwukierunkowy pomost łączący konwencjonalną logistykę (leje, taśmociągi, rury) z siecią cyfrową. Utrzymuje zadaną liczbę przedmiotów w buforze i przyjmuje urobek z zewnątrz."]
+	quest.7D0A62106E356F04.quest_subtitle: "1x Interface"
+	quest.7D0A62106E356F04.title: "Pomost Logistyczny: Interface"
+	quest.7D57A14810BC0CBE.quest_desc: ["&b&lIgnis&r to mistrzowsko opancerzony rycerz płomieni dzierżący gigantyczny miecz i tarczę. W drugiej fazie walki jego ogień zmienia barwę na błękitną, a jego ataki przebijają blok i kradną zdrowie!"]
+	quest.7D57A14810BC0CBE.title: "&b&lIgnis&r"
+	quest.7D690A7D0FF6E328.quest_desc: ["Katalizator 3. poziomu do urządzenia Material Grader, dający najwyższą szansę na ocenę MAX."]
+	quest.7D690A7D0FF6E328.title: "Katalizator Gradera III: Glittery Dust"
+	quest.7D906E6F59EF726B.quest_desc: ["Złote blachy są podstawą dla mechanizmów precyzyjnych (Precision Mechanism) oraz procesorów sieciowych."]
+	quest.7D906E6F59EF726B.quest_subtitle: "16x Sztabka złota (Gold Ingot)"
+	quest.7D906E6F59EF726B.title: "Rudy Przemysłowe: Złoto"
+	quest.7E13007340A818C5.quest_desc: ["Zwieńczenie filarów 1. poziomu (Tier 1 Pillar Cap) dla struktury Starlight Charger."]
+	quest.7E13007340A818C5.title: "Głowica Filaru I: Crimson Steel"
+	quest.7EB9D1C19D161DF8.quest_desc: ["Indywidualna karta dostępu przypisywana konkretnemu inżynierowi w Menedżerze Bezpieczeństwa."]
+	quest.7EB9D1C19D161DF8.quest_subtitle: "1x Security Card"
+	quest.7EB9D1C19D161DF8.title: "Autoryzacja: Security Card"
+	quest.7ED4C6E89007F931.quest_desc: [
+		"Cieszymy się, że tu jesteś! Ta paczka modów została stworzona z myślą o płynnej rozgrywce, automatyzacji i eksploracji. Questy, które tu znajdziesz, nie są obowiązkowe, ale poprowadzą Cię przez najważniejsze etapy rozwoju – od rzemiosła, przez mechanikę Create, aż po starcia z potężnymi bossami."
+		""
+		"Kliknij przycisk poniżej, aby odebrać swój pakiet startowy i oficjalnie rozpocząć przygodę!"
+	]
+	quest.7ED4C6E89007F931.title: "Witaj w świecie przygody!"
+	quest.7EF873DCEB3B9D48.quest_desc: [
+		"Ostateczny poziom świata – &4&lPinnacle&r! Wymaga pokonania &d&lSmoka Endu&r oraz założenia pełnego ekwipunku rangi &5Epic&r lub &6Mythic&r."
+		""
+		"• Premie gracza: +125% XP, +100% Szczęścia, maksymalny limit &a100 Eterna&r!"
+		"• Wzmocnienie potworów: +16 Pancerza, +20 Wytrzymałości Zbroi, +25 Przebicia"
+	]
+	quest.7EF873DCEB3B9D48.title: "&lWorld Tier: &4Pinnacle"
+	quest.7F007C888C23EC42.quest_desc: ["&5Gem Case&r mieści do 32 768 sztuk każdego rodzaju i czystości klejnotu Apotheosis oraz pozwala ulepszać klejnoty bezpośrednio w swoim oknie za pomocą pyłu i materiałów rzadkości!"]
+	quest.7F007C888C23EC42.title: "&5Gem Case"
+	quest.7F2D696AC9F4C4E4.quest_desc: [
+		"Szklany but z wewnętrznym zbiornikiem na ciecze."
+		""
+		"• &f&lGlass&r: Przechowuje pobrane płyny w wewnętrznym buforze i pozwala chodzić po powierzchni każdej cieczy (wody, lawy itp.), której zapas znajduje się obecnie w bucie!"
+	]
+	quest.7F2D696AC9F4C4E4.quest_subtitle: "Stąpaj po każdej cieczy"
+	quest.7F2D696AC9F4C4E4.title: "&bCut Glass Boot"
+	quest.7F4963FCAE5337EC.quest_desc: ["Użyj &bBurning Ashes&r na Ołtarzu Ognia (Altar of Fire) na najwyższym piętrze Płonącej Areny, aby wezwać &b&lIgnisa&r!"]
+	quest.7F4963FCAE5337EC.quest_subtitle: "Rozpalenie ołtarza"
+	quest.7F4963FCAE5337EC.title: "&bBurning Ashes"
+	quest.7F6B66566C211735.quest_desc: ["Runa Osłabienia obniża początkowe zdrowie przyzywanych mobów (nawet do 20% ich maksymalnego HP), co znacznie przyspiesza pracę automatycznych mobfarm."]
+	quest.7F6B66566C211735.title: "Redukcja Zdrowia"
+	quest.7FF173A78D72F662.quest_desc: [
+		"Stało się. Połączyłeś obudowę, koła zębate i stop andezytowy w jedną, działającą całość. Ta maszyna to Twój bilet do automatyzacji. Pozwoli Ci ona na bezwysiłkowe prasowanie żelaza na płyty, robienie blach i przetwarzanie surowców z wydajnością, o jakiej zwykły górnik może tylko pomarzyć."
+		""
+		"Era 0 oficjalnie zakończona. Witaj w Erze Pary i Żelaza!"
+	]
+	quest.7FF173A78D72F662.quest_subtitle: "Kamień Milowy Ery 0"
+	quest.7FF173A78D72F662.title: "Andesite Machine"
+	task.01063DC98BCE5A91.title: "Pogromca Kataklizmu"
+	task.074B307481A475B0.title: "Spójrz na blok Budding Amethyst"
+	task.1F073FD0F4A296A3.title: "Pył Klejnotów"
+	task.1F513901CB4DE7E7.title: "Montarz pierwszego składu"
+	task.2AE89914A34BF3AD.title: "Cegły Ogniotrwałe lub Okna Odlewni"
+	task.3A1A32971FD8B4A0.title: "Pierwszy sklep"
+	task.3B23E744D3B72AE8.title: "Cegły Ogniotrwałe lub Okna Odlewni"
+	task.3D62C020980A2DEC.title: "Biblioteczki"
+	task.432FCFECDAA542F1.title: "Biblioteczki"
+	task.45250DA4433007C6.title: "Księgi Capturing"
+	task.4644C76CEC129AA4.title: "Trwałe Amulety"
+	task.4C61E8C784B3943D.title: "Płatności bezgotówkowe"
+	task.4E778C5E06A9AD7F.title: "EKSPORT NA MASOWĄ SKALĘ"
+	task.511ECEA2E9BD1F71.title: "Dowolny #productivemetalworks:foundry_drains"
+	task.51297F6E0D9BB58C.title: "Dowolny #productivemetalworks:foundry_tanks"
+	task.524CBF7058496E7F.title: "Inne Spawnery"
+	task.52C6DC68BF096122.title: "Księgi Broni"
+	task.55587BA32D30318C.title: "Jajka Przyzywające"
+	task.57CBE8CA24F97E1B.title: "handel"
+	task.598F1FCB5B5ED8FC.title: "Księgi Narzędzi"
+	task.5AB4C41B6800D7FA.title: "Księgi Pancerza"
+	task.67D884FA6DD22065.title: "Dowolny Klejnot Apotheosis"
+	task.68DC39876E14FC1B.title: "Pokonaj 1x Mimic"
+	task.76E296A2AD3EFE92.title: "Dowolny #productivemetalworks:foundry_controllers"
+	task.79FB7E7194336B30.title: "Stoły do Zaklinania"
+	quest.0FE2DBCBDD761DD0.quest_desc: [
+		"Stacja Kolejowa (&eTrain Station&r) to serce każdej sieci logistycznej. Pozwala nadawać pociągom nazwy, zarządzać ich montażem oraz tworzyć rozkłady jazdy, dzięki którym składy będą kursować całkowicie autonomicznie między Twoimi fabrykami."
+	]
+	quest.0FE2DBCBDD761DD0.quest_subtitle: "1x Train Station"
+	quest.0FE2DBCBDD761DD0.title: "Przystanek Logistyczny: Train Station"
+
+	quest.26171E29A87D7516.quest_desc: [
+		"Sterowniki pociągu (&eTrain Controls&r) montowane na lokomotywie pozwalają na ręczne prowadzenie składu, a także służą jako punkt zakotwiczenia dla maszynisty lub automatycznego rozkładu jazdy."
+	]
+	quest.26171E29A87D7516.quest_subtitle: "1x Train Controls"
+	quest.26171E29A87D7516.title: "Pulpit Maszynisty: Train Controls"
+
+	quest.5EB09EFC237E5F98.quest_desc: [
+		"Standardowe tory kolejowe (&eTrain Track&r) oznaczają koniec ograniczeń taśmociągów. Buduj tory na ziemi, w tunelach, na estakadach, a nawet przeprowadź je przez portale do innych wymiarów!"
+	]
+	quest.5EB09EFC237E5F98.quest_subtitle: "16x Train Track"
+	quest.5EB09EFC237E5F98.title: "Infrastruktura Torowa: Train Track"
+
+	quest.5562CBEDFDFDCF1E.quest_desc: [
+		"Sygnalizator torowy (&eTrack Signal&r) to klucz do bezpiecznego zarządzania ruchem wielu pociągów na jednej sieci. Dzieli tory na bloki, zapobijając czołowym zderzeniom i kolizjom składów."
+	]
+	quest.5562CBEDFDFDCF1E.quest_subtitle: "1x Track Signal"
+	quest.5562CBEDFDFDCF1E.title: "Kontrola Ruchu: Track Signal"
+
+	quest.61561E89EAFA3A4E.quest_desc: [
+		"Sprzęg liniowy (&eTrack Coupler&r) pozwala na automatyczne łączenie i rozczepianie wagonów na wyznaczonych stacjach bez konieczności ręcznego manewrowania."
+	]
+	quest.61561E89EAFA3A4E.quest_subtitle: "1x Track Coupler"
+	quest.61561E89EAFA3A4E.title: "Automatyczny Sprzęg: Track Coupler"
+
+	quest.0864368D14D8B122.quest_desc: [
+		"Czujnik torowy (&eTrack Observer&r) wysyła impuls Redstone, gdy przejeżdża nad nim pociąg, co pozwala w pełni zautomatyzować przejazdy, zwrotnice i automatykę stacyjną."
+	]
+	quest.0864368D14D8B122.quest_subtitle: "1x Track Observer"
+	quest.0864368D14D8B122.title: "Sygnalizator Przejazdu: Track Observer"
+
+	quest.3223B14E53AACFB5.quest_desc: [
+		"Semafory z rozszerzenia *Steam 'n' Rails* dodają klimatyczne, klasyczne sygnalizatory świetlne i mechaniczne, które ułatwiają organizację ruchu w dużych węzłach kolejowych."
+	]
+	quest.3223B14E53AACFB5.quest_subtitle: "1x Semaphore"
+	quest.3223B14E53AACFB5.title: "Kolejowa Semaforyka: Semaphore"
+
+	quest.55856C6C83B373C8.quest_desc: [
+		"Terminal Bankowy (&eBank Terminal&r) to cyfrowy punkt dostępu do Twojego konta. Pozwala wpłacać i wypłacać zarobione monety Numismatics z dowolnego miejsca w bazie."
+	]
+	quest.55856C6C83B373C8.quest_subtitle: "1x Bank Terminal"
+	quest.55856C6C83B373C8.title: "Terminal Finansowy: Bank Terminal"
+
+	quest.4AFA8BFE92464E0B.quest_desc: [
+		"Superklej pozwala spoić ze sobą bloki tworzące ruchome struktury pociągów, statków lub maszyn kopalnianych. Pamiętaj: klej łączy tylko elementy ze sobą – upewnij się, że konstrukcja nie dotyka statycznego podłoża świata przed montażem!"
+	]
+	quest.4AFA8BFE92464E0B.quest_subtitle: "1x Super Glue"
+	quest.4AFA8BFE92464E0B.title: "Spoiwo Konstrukcyjne: Super Glue"
+
+	quest.5321B27210EC7889.quest_desc: [
+		"Przenośny interfejs magazynowy (&ePortable Storage Interface&r) to klucz do bezobsługowego handlu i logistyki! Zamontuj jedną część na pociągu, a drugą na stacji – gdy pociąg zatrzyma się w zasięgu, interfejsy automatycznie opróżnią lub napełnią skrzynie wagonów."
+	]
+	quest.5321B27210EC7889.quest_subtitle: "1x Portable Storage Interface"
+	quest.5321B27210EC7889.title: "Przeładunek Towarów: Portable Storage Interface"
+
+	quest.330DC46048D1DD2C.quest_desc: [
+		"Miedziany wariant interfejsu przeładunkowego. Służy do bezprzewodowego wypompowywania i wpompowywania płynów (np. lawy lub oleju) z cystern pociągu w trakcie postoju na stacji."
+	]
+	quest.330DC46048D1DD2C.quest_subtitle: "1x Portable Fluid Interface"
+	quest.330DC46048D1DD2C.title: "Przeładunek Płynów: Portable Fluid Interface"
+
+	quest.157C30BEA13822AD.quest_desc: [
+		"Drobne monety miedziane (Spurs) – podstawowa waluta rozliczeniowa w najprostszych transakcjach handlowych."
+	]
+	quest.157C30BEA13822AD.quest_subtitle: "128x Spur"
+	quest.157C30BEA13822AD.title: "Waluta: Miedziane Spurs"
+
+	quest.512F63EFDDECC3BA.quest_desc: [
+		"Brązowe monety (Bevels) stosowane w standardowym handlu i automatycznych wendorach."
+	]
+	quest.512F63EFDDECC3BA.quest_subtitle: "128x Bevel"
+	quest.512F63EFDDECC3BA.title: "Waluta: Brązowe Bevels"
+
+	quest.2DFE2B76C12BB770.quest_desc: [
+		"Monety zębate (Sprockets) o wyższej wartości nominalnej, używane przy transakcjach o większej skali."
+	]
+	quest.2DFE2B76C12BB770.quest_subtitle: "128x Sprocket"
+	quest.2DFE2B76C12BB770.title: "Waluta: Zębate Sprockets"
+
+	quest.616551AAD11A8F3E.quest_desc: [
+		"Cenne monety z brązu maszynowego (Cogs) dla zaawansowanych inwestorów i fabryk."
+	]
+	quest.616551AAD11A8F3E.quest_subtitle: "128x Cog"
+	quest.616551AAD11A8F3E.title: "Waluta: Mosiężne Cogs"
+
+	quest.71FF1146DC4CC8BF.quest_desc: [
+		"Złote korony (Crowns) – elitarne środki płatnicze dla największych potentatów przemysłowych."
+	]
+	quest.71FF1146DC4CC8BF.quest_subtitle: "128x Crown"
+	quest.71FF1146DC4CC8BF.title: "Waluta: Złote Crowns"
+
+	quest.610A4F6E9A271976.quest_desc: [
+		"Słoneczne monety (Suns) – najwyższa i najbardziej legendarna waluta w świecie AeroStratum."
+	]
+	quest.610A4F6E9A271976.quest_subtitle: "128x Sun"
+	quest.610A4F6E9A271976.title: "Waluta: Słoneczne Suns"
+
+	quest.10630E102680BE46.quest_desc: [
+		"Cyfrowa karta bankowa powiązana z Twoim kontem. Umożliwia dokonywanie płatności w automatach bez noszenia fizycznej gotówki w ekwipunku."
+	]
+	quest.10630E102680BE46.quest_subtitle: "1x Bank Card"
+	quest.10630E102680BE46.title: "Karta Płatnicza: Bank Card"
+
+	quest.54AED5CB96719AEF.quest_desc: [
+		"Dowód tożsamości (ID Card) niezbędny do autoryzacji transakcji oraz zarządzania wspólnymi kontami firmowymi i uprawnieniami w systemie bankowym."
+	]
+	quest.54AED5CB96719AEF.quest_subtitle: "1x ID Card"
+	quest.54AED5CB96719AEF.title: "Identyfikator: ID Card"
+	quest.2E5D835D2B5D7078.quest_desc: ["Andezyt świetnie znosi naprężenia kinetyczne, ale przy kontakcie z cieczami i wysokim ciśnieniem szybko zawodzi. Pokrycie drewna miedzią otwiera drzwi do równoległej gałęzi inżynierii płynów (Era 1.5)!"]
+	quest.2E5D835D2B5D7078.quest_subtitle: "1x Copper Casing"
+	quest.2E5D835D2B5D7078.title: "Szczelna Konstrukcja: Miedziana Obudowa"
+	quest.33938479111093D4.quest_desc: ["Polewaczka (Spout) pozwala precyzyjnie oblewać przepływające pod nią przedmioty płynami, co jest kluczowe w alchemii i obróbce zaawansowanych materiałów termicznych."]
+	quest.33938479111093D4.quest_subtitle: "1x Spout"
+	quest.33938479111093D4.title: "Precyzyjne Polewanie: Spout"
+
+	quest.39DCA7A982DE8844.quest_desc: ["Krystaliczna lawa kwarcowa to zaawansowany materiał przewodzący ciepło, pozwalający na budowę wydajniejszych motorów i instalacji wysokotemperaturowych."]
+	quest.39DCA7A982DE8844.quest_subtitle: "1x Lava Quartz"
+	quest.39DCA7A982DE8844.title: "Krystaliczny Żar: Lava Quartz"
+
+	quest.2620887DD91A83FA.quest_desc: ["Wyszlifowany kwarc lawowy stabilizuje przepływy termiczne, stanowiąc kluczowy komponent do budowy nowoczesnych przewodów napędowych."]
+	quest.2620887DD91A83FA.quest_subtitle: "1x Polished Lava Quartz"
+	quest.2620887DD91A83FA.title: "Wyszlifowany Kwarc Lawowy"
+
+	quest.290B16E2D899BB92.quest_desc: ["Zaawansowany przewód lawowy (Lava Tube) z modyfikacji silników to potężny komponent przesyłowy, odporny na ekstremalne temperatury roztopionych surowców."]
+	quest.290B16E2D899BB92.quest_subtitle: "1x Lava Tube"
+	quest.290B16E2D899BB92.title: "Magistrala Termiczna: Lava Tube"
+	quest.624F528C7A37B331.quest_desc: ["Skalibrowany, dostrojony kryształ (Tuned Crystal) – niezwykle precyzyjny komponent łączący zaawansowaną optykę z czystą energią rezonansową kryształów ametystu."]
+	quest.624F528C7A37B331.quest_subtitle: "1x Tuned Crystal"
+	quest.624F528C7A37B331.title: "Rezonator Kwarcowy: Tuned Crystal"
+
+	quest.55D2E65AE3E743B8.quest_desc: ["Mechanizm częstotliwościowy (Frequency Mechanism) to zaawansowany podzespół sterujący falami energii i przesyłem danych na odległość w najnowszych systemach logistycznych."]
+	quest.55D2E65AE3E743B8.quest_subtitle: "1x Frequency Mechanism"
+	quest.55D2E65AE3E743B8.title: "Moduł Częstotliwości: Frequency Mechanism"
+	quest.4EF90C7524A7BF7B.quest_desc: ["Zaawansowany układ obliczeniowy z moda ExtraStorage łączący procesy budowania i demontażu. Niezbędny do wykuwania wieloslotowych Autocrafterów ze złota, diamentu oraz netherytu."]
+	quest.4EF90C7524A7BF7B.quest_subtitle: "1x Neural Processor"
+	quest.4EF90C7524A7BF7B.title: "Procesor Neuralny: Neural Processor"
+
+	quest.10407EB6CEA8C111.quest_desc: ["Przepuszczenie twardego obsydianu przez Koła Kruszące (Crushing Wheels) rozbija go na drobny pył obsydianowy – kluczowy półprodukt do wyrobu płyt kolejowych."]
+	quest.10407EB6CEA8C111.quest_subtitle: "1x Powdered Obsidian"
+	quest.10407EB6CEA8C111.title: "Pył Wulkaniczny: Powdered Obsidian"
+
+	quest.2289860C15742201.quest_desc: ["Nasączenie pyłu obsydianowego lawą i sprasowanie go prasą mechaniczną tworzy niezwykle odporny arkusz Sturdy Sheet, zdolny wytrzymać ogromne obciążenia składów kolejowych."]
+	quest.2289860C15742201.quest_subtitle: "1x Sturdy Sheet"
+	quest.2289860C15742201.title: "Pancerna Blacha: Sturdy Sheet"
+
+	quest.58A47CC6FA0623C7.quest_desc: ["Połączenie mosiężnej obudowy z pancernym arkuszem Sturdy Sheet daje Obudowę Kolejową (Train Casing) – fundament pod budowę stacji, zwrotnic, semaforów oraz potężnych lokomotyw w Erze 2.5!"]
+	quest.58A47CC6FA0623C7.quest_subtitle: "1x Train Casing"
+	quest.58A47CC6FA0623C7.title: "Fundament Kolei: Train Casing"
+
+	quest.7673A2276567637C.quest_desc: ["Pokrycie ociosanego drewna szlachetnym mosiądzem tworzy obudowę wyższej klasy, wymaganą zarówno do zaawansowanych maszyn Create, jak i terminali handlowych."]
+	quest.7673A2276567637C.quest_subtitle: "1x Brass Casing"
+	quest.7673A2276567637C.title: "Szlachetna Rama: Mosiężna Obudowa"
+
+	quest.7B78185CC8524651.quest_desc: ["Automat sprzedażowy (Vendor) z systemu Create: Numismatics pozwala wystawiać wyprodukowane w fabryce towary na sprzedaż lub skupować surowce. Odblokowuje gałąź handlu i bankowości w Erze 2.5!"]
+	quest.7B78185CC8524651.quest_subtitle: "1x Vendor"
+	quest.7B78185CC8524651.title: "Automat Handlowy: Vendor"
+
+	quest.2F3529FE1972F011.title: "EKSPORT NA MASOWĄ SKALĘ"
+	quest.40DD894C85D0FC54.title: "Płatności bezgotówkowe"
+	quest.48DB0587E8C58888.title: "Pierwszy sklep"
+	quest.4BD783487E35F8A0.title: "Montaż pierwszego składu"
+}

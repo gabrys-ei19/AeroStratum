@@ -1,0 +1,199 @@
+{
+	quest.002D65E4D7E8F62B.quest_desc: ["Tier 2 Grader Catalyst for higher material grades."]
+	quest.002D65E4D7E8F62B.title: "Grader Catalyst II: Blazing Dust"
+	quest.00A1223DAAEB28BD.quest_desc: ["Cast for metal rods."]
+	quest.00A1223DAAEB28BD.title: "Cast: Rod"
+	quest.0251715AB65D8151.quest_desc: ["Cast for gems and crystals."]
+	quest.0251715AB65D8151.title: "Cast: Gem"
+	quest.036D5767E07005BC.quest_desc: ["&bFoundry Drain&r extracts molten metal from the smelter. Attach a &7Foundry Tap&r or fluid pipes!"]
+	quest.036D5767E07005BC.title: "&c&lFoundry&r &bDrains"
+	quest.047F3F99035CE623.quest_desc: ["Cast for a prospector hammer detecting ore veins."]
+	quest.047F3F99035CE623.quest_subtitle: "Ore finder"
+	quest.047F3F99035CE623.title: "Cast: Prospector Hammer"
+	quest.061A51A0EC13CA0F.quest_desc: [
+		"To seal your Foundry multiblock:"
+		"1. Lay a floor of &6Liquid Heating Coils&r."
+		"2. Build 4 walls out of &cFire Bricks&r or &cFoundry Windows&r (corners can be empty)."
+		"3. Install the &aController&r, &4Tank&r, and &bDrain&r."
+		"When correct, the controller lights up and coils glow orange!"
+	]
+	quest.061A51A0EC13CA0F.title: "Building the &c&lFoundry"
+	quest.083ABBA1C45FF960.quest_desc: ["Cast for a sickle clearing crops and grass in a wide radius."]
+	quest.083ABBA1C45FF960.quest_subtitle: "Mass harvesting"
+	quest.083ABBA1C45FF960.title: "Cast: Sickle"
+	quest.0947B4ED95B0267E.quest_desc: ["Protective coating applied over completed weapons or tools."]
+	quest.0947B4ED95B0267E.quest_subtitle: "Outer protective layer"
+	quest.0947B4ED95B0267E.title: "Blueprint: Coating"
+	quest.0D26E5EF6CFCFDBF.quest_desc: ["Knife blade cast – high durability, rapid slashes."]
+	quest.0D26E5EF6CFCFDBF.quest_subtitle: "Short blade"
+	quest.0D26E5EF6CFCFDBF.title: "Cast: Knife"
+	quest.0DF4B01CC5B49E4E.quest_desc: ["Standard sword blade cast – reliable damage and speed."]
+	quest.0DF4B01CC5B49E4E.quest_subtitle: "Reliable classic"
+	quest.0DF4B01CC5B49E4E.title: "Cast: Sword"
+	quest.0EF9F10A2178451F.quest_desc: ["All foundry bricks and windows can be dyed any color and mixed freely!"]
+	quest.0EF9F10A2178451F.title: "&zDyeable &c&lFoundry&r &zParts"
+	quest.0FEAD3CA2CC4A8B1.quest_desc: ["Tier 3 catalyst for max starlight charge."]
+	quest.0FEAD3CA2CC4A8B1.title: "Starlight Catalyst III: Starmetal Dust"
+	quest.11B0B93D725ABE43.quest_desc: [
+		"Repair Silent Gear tools on the go without an anvil using a &9Repair Kit&r!"
+		""
+		"Fill the kit with crafting materials, then combine it with your damaged tool in a grid."
+	]
+	quest.11B0B93D725ABE43.quest_subtitle: "Field repairs without anvils"
+	quest.11B0B93D725ABE43.title: "Repair Kit"
+	quest.158B24939A269D83.quest_desc: ["Tip Upgrade raises tool mining levels (e.g. adding a diamond tip to an iron pickaxe lets it mine obsidian)."]
+	quest.158B24939A269D83.quest_subtitle: "When you lack 3 diamonds"
+	quest.158B24939A269D83.title: "Cast: Tip"
+	quest.1E2F1E036716C031.quest_desc: ["Cast for a slingshot frame."]
+	quest.1E2F1E036716C031.title: "Cast: Slingshot"
+	quest.1E8357755479E259.quest_desc: ["Cast for a high-tension crossbow body."]
+	quest.1E8357755479E259.title: "Cast: Crossbow"
+	quest.2098D8BFADB55D2A.quest_desc: ["Blueprint for armor lining adding protective layers."]
+	quest.2098D8BFADB55D2A.title: "Blueprint: Lining"
+	quest.21234BB40DB05C78.quest_desc: ["Cast for stat-boosting bracelets."]
+	quest.21234BB40DB05C78.title: "Cast: Bracelet"
+	quest.2156C00E30424844.quest_desc: ["&4Foundry Tank&r stores fuel – fill it with &cLava&r to heat the foundry floor."]
+	quest.2156C00E30424844.title: "&l&cFoundry&r &4Tanks"
+	quest.222D08F43B995FED.quest_desc: ["Cast for a modular trident head."]
+	quest.222D08F43B995FED.quest_subtitle: "Lord of the seas"
+	quest.222D08F43B995FED.title: "Cast: Trident"
+	quest.22A0A9C81A5C85A1.quest_desc: ["Binding blueprint holding tool heads to handles."]
+	quest.22A0A9C81A5C85A1.quest_subtitle: "Holding everything together"
+	quest.22A0A9C81A5C85A1.title: "Blueprint: Binding"
+	quest.22C51025DC42CDE2.quest_desc: ["Cast for leggings plates."]
+	quest.22C51025DC42CDE2.title: "Cast: Leggings"
+	quest.262036FE8E87F50A.quest_desc: ["Cast for a heavy mining hammer excavating 3x3 areas!"]
+	quest.262036FE8E87F50A.quest_subtitle: "3x3 Mining"
+	quest.262036FE8E87F50A.title: "Cast: Hammer"
+	quest.26F9DB31A835B69C.quest_desc: ["Attach a &7Foundry Tap&r to a &bDrain&r, then place a &8Casting Table&r or &8Casting Basin&r underneath to pour ingots, blocks, or tool parts."]
+	quest.26F9DB31A835B69C.title: "Casting Stations"
+	quest.29131C3532610ADF.quest_desc: ["Tier 2 Pillar Cap for the Starlight Charger."]
+	quest.29131C3532610ADF.title: "Pillar Cap II: Azure Electrum"
+	quest.2BF119DD5D977409.quest_desc: ["Tier 2 catalyst for the Starlight Charger."]
+	quest.2BF119DD5D977409.title: "Starlight Catalyst II: Azure Silver Dust"
+	quest.2EB96FF06627FD9A.quest_desc: ["The &6Salvager&r breaks down unwanted gear back into raw materials and parts."]
+	quest.2EB96FF06627FD9A.quest_subtitle: "Resource recovery!"
+	quest.2EB96FF06627FD9A.title: "Salvager"
+	quest.35E8C65CCA676E76.quest_desc: ["Cast for chestplate plates."]
+	quest.35E8C65CCA676E76.title: "Cast: Chestplate"
+	quest.36A5229DB5D4C059.quest_desc: ["Basic cast for pouring molten metal back into ingots."]
+	quest.36A5229DB5D4C059.title: "Cast: Ingot"
+	quest.3722B43822F80470.quest_desc: ["Katana blade cast – higher damage than a sword at the cost of swing speed."]
+	quest.3722B43822F80470.quest_subtitle: "Samurai path"
+	quest.3722B43822F80470.title: "Cast: Katana"
+	quest.3844877F6C1AFE77.quest_desc: ["Cast for custom arrow heads."]
+	quest.3844877F6C1AFE77.title: "Cast: Arrow Head"
+	quest.3930404D5C8B44EB.quest_desc: ["&cAlloy Forge&r smelts advanced Silent Gear alloys – essential for crafting powerful &5Tyrian Steel&r!"]
+	quest.3930404D5C8B44EB.quest_subtitle: "Specialty alloy forge"
+	quest.3930404D5C8B44EB.title: "Alloy Forge"
+	quest.39B85DB54B1037FE.quest_desc: ["Machete cast – faster than a sword, capable of clearing foliage."]
+	quest.39B85DB54B1037FE.quest_subtitle: "Heavy blade"
+	quest.39B85DB54B1037FE.title: "Cast: Machete"
+	quest.3AC03D1FA5C341A7.quest_desc: ["&bRecrystallizer&r fuses different crystals into advanced composite materials for gear crafting."]
+	quest.3AC03D1FA5C341A7.title: "Recrystallizer"
+	quest.3B560B2ECE331CAF.quest_desc: ["Tier 3 Pillar Cap for the Starlight Charger."]
+	quest.3B560B2ECE331CAF.title: "Pillar Cap III: Tyrian Steel"
+	quest.3D2C6FF462B17205.quest_desc: ["Dagger cast – extremely fast attack speed, short target invincibility frames."]
+	quest.3D2C6FF462B17205.quest_subtitle: "Lightning stabs"
+	quest.3D2C6FF462B17205.title: "Cast: Dagger"
+	quest.3F39BEB788175CEF.quest_desc: ["Cast for a heavy excavator clearing dirt and gravel in 3x3 areas!"]
+	quest.3F39BEB788175CEF.quest_subtitle: "3x3 Digging!"
+	quest.3F39BEB788175CEF.title: "Cast: Excavator"
+	quest.3F56A5253D477B97.quest_desc: ["Blueprint for fletching arrow stabilizers."]
+	quest.3F56A5253D477B97.title: "Blueprint: Fletching"
+	quest.405DCD3E36232EEA.quest_desc: ["Spear tip cast – lower base damage, extended reach."]
+	quest.405DCD3E36232EEA.quest_subtitle: "Phalanx reach"
+	quest.405DCD3E36232EEA.title: "Cast: Spear"
+	quest.4119E115505036E5.quest_desc: ["Cast for metal nuggets."]
+	quest.4119E115505036E5.title: "Cast: Nugget"
+	quest.427516AA3E8C9442.quest_desc: ["Cast for a mattock combining hoe, axe, and shovel."]
+	quest.427516AA3E8C9442.quest_subtitle: "Versatile hoe"
+	quest.427516AA3E8C9442.title: "Cast: Mattock"
+	quest.45899579D9B92D91.quest_desc: ["&aFoundry Controller&r is the core of your multiblock foundry. Inspect temperature, liquid metal levels, and insert ores to smelt."]
+	quest.45899579D9B92D91.title: "&c&lFoundry&r &aController"
+	quest.462C1F75A2FB9F02.quest_desc: ["Cast for a modular fishing rod."]
+	quest.462C1F75A2FB9F02.quest_subtitle: "Time to fish!"
+	quest.462C1F75A2FB9F02.title: "Cast: Fishing Rod"
+	quest.474AF9F90C8E40A2.quest_desc: ["Blueprint for forging a heavy mace head."]
+	quest.474AF9F90C8E40A2.title: "Blueprint: Mace"
+	quest.48D358470A019E7A.quest_desc: ["Tier 1 catalyst for the Starlight Charger."]
+	quest.48D358470A019E7A.title: "Starlight Catalyst I: Blaze Gold Dust"
+	quest.52CDB46F6CBF007B.quest_desc: ["Cast for a shovel head."]
+	quest.52CDB46F6CBF007B.quest_subtitle: "Fast digging"
+	quest.52CDB46F6CBF007B.title: "Cast: Shovel"
+	quest.5AB8651FCB1E2F72.quest_desc: ["Blueprint for crafting a modular Elytra with armor points!"]
+	quest.5AB8651FCB1E2F72.title: "Blueprint: Elytra"
+	quest.63CAD77A4488F2CE.quest_desc: ["Cast for a paxel head – combining pickaxe, axe, and shovel into one!"]
+	quest.63CAD77A4488F2CE.quest_subtitle: "Pickaxe + Axe + Shovel"
+	quest.63CAD77A4488F2CE.title: "Cast: Paxel"
+	quest.657B3116A6419420.quest_desc: ["Cast for metal tool rods replacing wooden sticks."]
+	quest.657B3116A6419420.quest_subtitle: "Solid handle!"
+	quest.657B3116A6419420.title: "Cast: Tool Rod"
+	quest.67216EC5274F08B9.quest_desc: ["Cast for durable modular shears."]
+	quest.67216EC5274F08B9.quest_subtitle: "Shearing & harvesting"
+	quest.67216EC5274F08B9.title: "Cast: Shears"
+	quest.6912C0E3D092DD27.quest_desc: ["Cast for boot plates."]
+	quest.6912C0E3D092DD27.title: "Cast: Boots"
+	quest.69383DA579901E7E.quest_desc: ["Cast for an axe head."]
+	quest.69383DA579901E7E.quest_subtitle: "Lumberjack & warrior"
+	quest.69383DA579901E7E.title: "Cast: Axe"
+	quest.6A393C7A24899E3E.quest_desc: [
+		"Grades ingots with catalytic powders to assign material quality (from E up to &6MAX&r)."
+		""
+		"Higher material grades result in better gear stats!"
+	]
+	quest.6A393C7A24899E3E.quest_subtitle: "Material quality grader"
+	quest.6A393C7A24899E3E.title: "Material Grader"
+	quest.6B78378BC8036227.quest_desc: ["Tier 1 Grader Catalyst."]
+	quest.6B78378BC8036227.title: "Grader Catalyst I: Glowing Dust"
+	quest.6BBC440BD0AD0E93.quest_desc: [
+		"In this pack, modular &9&lSilent Gear&r tools are paired with the multiblock &c&lProductive Metalworks&r foundry!"
+		""
+		"Instead of paper templates, cast parts out of molten metals using steel &8Casts&r. Start by crafting &cFire Clay&r."
+	]
+	quest.6BBC440BD0AD0E93.title: "&9&lSilent Gear&r & &c&lProductive Metalworks"
+	quest.6BFD7854F078BF16.quest_desc: ["Grip blueprint improving tool ergonomics and speed."]
+	quest.6BFD7854F078BF16.quest_subtitle: "Firm grip"
+	quest.6BFD7854F078BF16.title: "Blueprint: Grip"
+	quest.6D9CDB4D81DC164D.quest_desc: ["Cast for flexible alloy bow limbs."]
+	quest.6D9CDB4D81DC164D.title: "Cast: Bow"
+	quest.6E2806D8DC61C46F.quest_desc: ["Cast for helmet plates."]
+	quest.6E2806D8DC61C46F.title: "Cast: Helmet"
+	quest.7098F24BC8FAC749.quest_desc: ["Cast for jewelry necklaces providing passive bonuses."]
+	quest.7098F24BC8FAC749.title: "Cast: Necklace"
+	quest.711826BBCA832EE2.quest_desc: [
+		"All &8Casts&r are made by pouring molten &8Steel&r over a master item on a &8Casting Table&r."
+		""
+		"Produce Steel by alloying &7Iron&r and &0Coal&r inside a heated Foundry!"
+	]
+	quest.711826BBCA832EE2.title: "Steel Smelting & &8Casts"
+	quest.74FA25B2E087BEC4.quest_desc: ["Cast for precious metal and gem rings."]
+	quest.74FA25B2E087BEC4.title: "Cast: Ring"
+	quest.75EE2123753062B8.quest_desc: ["Cast for metal sheet plates."]
+	quest.75EE2123753062B8.quest_desc: ["Cast for metal sheet plates."]
+	quest.75EE2123753062B8.title: "Cast: Plate"
+	quest.766C80E5D7B7A916.quest_desc: ["Cast for a modular pickaxe head."]
+	quest.766C80E5D7B7A916.quest_subtitle: "Pick your alloy!"
+	quest.766C80E5D7B7A916.title: "Cast: Pickaxe"
+	quest.78C112170E17FBF4.quest_desc: ["Cast for shield reinforcement plates."]
+	quest.78C112170E17FBF4.quest_desc: ["Cast for shield reinforcement plates."]
+	quest.78C112170E17FBF4.title: "Cast: Shield"
+	quest.7965E2CBF3FF9B65.quest_desc: ["Cast for cogwheels."]
+	quest.7965E2CBF3FF9B65.title: "Cast: Gear"
+	quest.7C3D763CF22D167A.quest_desc: [
+		"&dStarlight Charger&r infuses materials with starlight energy at night (&dStar Charged&r trait)."
+		""
+		"Place in the middle of a 7x7 open-sky structure with Pillar Caps on each corner."
+	]
+	quest.7C3D763CF22D167A.quest_subtitle: "Starlight material charging"
+	quest.7C3D763CF22D167A.title: "&dStarlight Charger"
+	quest.7D690A7D0FF6E328.quest_desc: ["Tier 3 Grader Catalyst with the highest chance for MAX grade."]
+	quest.7D690A7D0FF6E328.title: "Grader Catalyst III: Glittery Dust"
+	quest.7E13007340A818C5.quest_desc: ["Tier 1 Pillar Cap for the Starlight Charger."]
+	quest.7E13007340A818C5.title: "Pillar Cap I: Crimson Steel"
+	task.2AE89914A34BF3AD.title: "Fire Bricks or Foundry Windows"
+	task.3B23E744D3B72AE8.title: "Fire Bricks or Foundry Windows"
+	task.511ECEA2E9BD1F71.title: "Any #productivemetalworks:foundry_drains"
+	task.51297F6E0D9BB58C.title: "Any #productivemetalworks:foundry_tanks"
+	task.76E296A2AD3EFE92.title: "Any #productivemetalworks:foundry_controllers"
+}

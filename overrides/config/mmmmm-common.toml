@@ -1,0 +1,8 @@
+#Port number for the file server to run on
+#Default: 8080
+fileServerPort = 8080
+#If true, server-only mods will be excluded from the zip.
+#This trys to decrease download time for clients.
+#Disable this if server is crashing on client join due to missing mods.
+#Default: false
+filterServerMods = false

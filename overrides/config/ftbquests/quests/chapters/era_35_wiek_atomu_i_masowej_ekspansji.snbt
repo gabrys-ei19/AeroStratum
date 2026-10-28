@@ -1,0 +1,17 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "era_35_wiek_atomu_i_masowej_ekspansji"
+	group: "5177702D2E2E75BA"
+	icon: {
+		components: {
+			"ftbquests:icon": "createnuclear:block/reactor/controller/controller_panel"
+		}
+		id: "ftbquests:custom_icon"
+	}
+	id: "0AA5151D88D1BD3C"
+	images: [ ]
+	order_index: 6
+	quest_links: [ ]
+	quests: [ ]
+}

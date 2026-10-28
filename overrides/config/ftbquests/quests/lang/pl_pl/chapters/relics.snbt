@@ -1,0 +1,185 @@
+{
+	image.09D9B906D64EEC0C.title: "Forteca Netheru"
+	image.0F50CB9DB3CC94EF.title: "Statek Endu"
+	image.1FFF2C2FAFC33232.title: "Twierdza (Stronghold)"
+	image.2CA16137DBB87580.title: "Bastion"
+	image.31A75754D07F903D.title: "Wrak Statku"
+	image.3E2A18876931DED5.title: "Opuszczona Kopalnia"
+	image.406A39A037D0C241.title: "Wioska"
+	image.4E5BC7C1274B7182.title: "Miasto Endu"
+	image.6569C0513FF60AFB.title: "Podwodne Ruiny"
+	image.791EFC83C44C2F16.title: "Zrujnowany Portal"
+	quest.073D0D41BA5F219B.quest_desc: [
+		"Tarcza wymagająca idealnego wyczucia czasu."
+		""
+		"• &4Retaliation&r: Aktywowana w ostatniej chwili całkowicie paruje nadchodzące uderzenie i kontratakuje napastnika (nieudana parada na chwilę zwiększa podatność na obrażenia)."
+	]
+	quest.073D0D41BA5F219B.quest_subtitle: "+ PAROWANIE"
+	quest.073D0D41BA5F219B.title: "&cShield of Retaliation"
+	quest.11A6D020D6F411A8.quest_desc: [
+		"Płaszcz zakrzywiający rzeczywistość i percepcję wrogów."
+		""
+		"• &2Perception Glitch&r: Daje szansę na całkowite uniknięcie ciosu."
+		"• &9Glitchy Copy&r: Tworzy iluzorycznego klona, który ogłusza wrogów przy kontakcie."
+		"• &bSurface Tear&r: Pozwala chodzić w powietrzu niczym po rusztowaniu (dopóki pozostajesz w ruchu)."
+	]
+	quest.11A6D020D6F411A8.quest_subtitle: "Zakrzywienie rzeczywistości"
+	quest.11A6D020D6F411A8.title: "&2Glitchy Mantle"
+	quest.12449D23295CF9ED.quest_desc: [
+		"Morski relikt odnajdywany w podwodnych ruinach i wrakach."
+		""
+		"• &bAquatic Regeneration&r: Zwiększa maksymalne zdrowie i regenerację podczas przebywania w wodzie lub na deszczu."
+		"• &9Electric Discharge&r: Gromadzi ładunek elektryczny, który przy kontakcie z wrogiem wyzwala łańcuchowy impuls paraliżujący!"
+	]
+	quest.12449D23295CF9ED.quest_subtitle: "Elektryzujący uścisk głębin"
+	quest.12449D23295CF9ED.title: "&9Jellyfish Necklace"
+	quest.18DB8C875F2331B2.quest_desc: [
+		"Pas kinetyczny manipulujący grawitacją i pędem."
+		""
+		"• &5Arsenal Expansion&r: Zwiększa liczbę slotów na amulety."
+		"• &bGliding&r: Przytrzymanie Spacji zmniejsza grawitację i pozwala szybować w powietrzu (w połączeniu z &9Jellyfish Necklace&r tworzy synergię &eElectric Arc&r, pozostawiającą w locie elektryczny ślad!)."
+	]
+	quest.18DB8C875F2331B2.quest_subtitle: "Opanuj pęd powietrza"
+	quest.18DB8C875F2331B2.title: "&dKinetic Belt&r"
+	quest.1E2A9446594638E2.quest_desc: [
+		"Kostur wykuty z owoców refrenu."
+		""
+		"• &dTeleportation&r: Pozwala błyskawicznie teleportować się przed siebie na krótki dystans, zużywając wewnętrzne ładunki odnawiające się z czasem."
+	]
+	quest.1E2A9446594638E2.quest_subtitle: "Mignięcie przez przestrzeń"
+	quest.1E2A9446594638E2.title: "&dChorus Staff&r"
+	quest.21BEE9867796933A.quest_desc: [
+		"Flet nomadów pozwalający bezpiecznie przechowywać we wnętrzu do &c2 oswojonych wierzchowców&r."
+		""
+		"• &6Stable&r: Kliknij PPM na wierzchowca, aby schować go do fletu lub przywołać z powrotem. Przełączaj między zapisanymi wierzchowcami za pomocą Shift + kółko myszy."
+	]
+	quest.21BEE9867796933A.quest_subtitle: "Przechowuj i przywołuj swoje wierzchowce"
+	quest.21BEE9867796933A.title: "&cRider Flute&r"
+	quest.2B08B19B35EEBCBA.quest_desc: ["Poniższe relikty odnajdziesz w Zrujnowanych Portalach, Fortecach Netheru oraz Bastionach na terenie &cNetheru&r!"]
+	quest.2B08B19B35EEBCBA.quest_subtitle: "Skarby ognistego wymiaru"
+	quest.2B08B19B35EEBCBA.title: "Relikty: &cThe Nether"
+	quest.395668FBCB6537AF.quest_desc: [
+		"Kryształowy naszyjnik gromadzący energię otrzymanych ciosów."
+		""
+		"• &6Damage Condensation&r: Otrzymywane obrażenia tworzą wokół Ciebie kule energii, które przy Twoim następnym ataku zostają wystrzelone w stronę wroga!"
+	]
+	quest.395668FBCB6537AF.quest_subtitle: "Obrona przez kontratak"
+	quest.395668FBCB6537AF.title: "&9Reflective Necklace"
+	quest.3BD73FEAE853D350.quest_desc: [
+		"Pas myśliwski wzmacniający więź z oswojonymi towarzyszami."
+		""
+		"• &5Pack&r: Zwiększa obrażenia zadawane przez Twoje oswojone zwierzaki, podnosi ich odporność oraz zapewnia dodatkowe sloty na talizmany."
+	]
+	quest.3BD73FEAE853D350.quest_subtitle: "Wzmocnij swoją watahę!"
+	quest.3BD73FEAE853D350.title: "&2Hunting Belt&r"
+	quest.3E8BA5E075ABD136.quest_desc: [
+		"Czapka legendarnych kucharzy polowych."
+		""
+		"• &6Meatball Harvest&r: Pokonani wrogowie mają szansę upuścić pożywne klopsiki mięsne, które możesz od razu zjeść lub upiec w trakcie wyprawy."
+	]
+	quest.3E8BA5E075ABD136.quest_subtitle: "Uczta na polu bitwy"
+	quest.3E8BA5E075ABD136.title: "&fChef's Hat&r"
+	quest.40AB457E37919ABE.quest_desc: [
+		"Potężny pierścień z Netheru obdarzający właściciela &57 zdolnościami&r odpowiadającymi siedmiu grzechom głównym:"
+		""
+		"• &dPride (Pycha)&r: Większe obrażenia, gdy atakujesz cel znajdujący się niżej od Ciebie."
+		"• &aEnvy (Zazdrość)&r: Większe obrażenia przeciwko wrogom mającym więcej zdrowia niż Ty."
+		"• &4Wrath (Gniew)&r: Krótkie okno ogromnych obrażeń po pierwszym uderzeniu."
+		"• &8Sloth (Lenistwo)&r: Nieśmiertelność podczas stania w bezruchu kosztem większych obrażeń w ruchu."
+		"• &6Greed (Chciwość)&r: Zwiększa szczęście i łupy."
+		"• &2Gluttony (Nieumiarkowanie)&r: Wzmacnia statystyki przy pełnym pasku głodu."
+		"• &5Lust (Nieczystość)&r: Szansa na dodatkowe młode przy rozmnażaniu zwierząt."
+	]
+	quest.40AB457E37919ABE.quest_subtitle: "Siedem błogosławieństw i siedem klątw"
+	quest.40AB457E37919ABE.title: "&cRing of the Seven Deadly Sins"
+	quest.4BADD8A0FD85DB33.quest_desc: ["&eGolden Tooth&r wypada z wrogów podczas noszenia Piglin Mask – możesz używać go do handlu z Piglinami lub przetopić na czyste złoto!"]
+	quest.4BADD8A0FD85DB33.quest_subtitle: "Waluta Bastionów"
+	quest.4BADD8A0FD85DB33.title: "&eGolden Tooth"
+	quest.54822638CC243004.quest_desc: [
+		"Kula zamieniająca własną krew w długofalowe przetrwanie."
+		""
+		"• &4Sacrifice&r: Po użyciu poświęca część Twojego aktualnego zdrowia, zamieniając je w potężną, kumulującą się regenerację trwającą przez dłuższy czas."
+	]
+	quest.54822638CC243004.quest_subtitle: "Siła za cenę krwi"
+	quest.54822638CC243004.title: "&cSphere of Self-Sacrifice&r"
+	quest.5D82340E9BED9C79.quest_desc: ["Poniższe relikty odnajdziesz w Miastach Endu (End Cities) oraz na Statkach Endu w wymiarze &dThe End&r!"]
+	quest.5D82340E9BED9C79.title: "Relikty: &dThe End"
+	quest.5EB87CE5F6DEFAAA.quest_desc: [
+		"Maska z Bastionów pozwalająca wtopić się w społeczność Piglinów."
+		""
+		"• &eNeutrality&r: Pigliny traktują Cię neutralnie bez konieczności noszenia złotej zbroi."
+		"• &6Barter&r: Szansa na dodatkowe przedmioty podczas handlu wymiennego."
+		"• &cLooting&r: Pokonani wrogowie mogą upuszczać Złote Zęby (&eGolden Teeth&r)."
+	]
+	quest.5EB87CE5F6DEFAAA.quest_subtitle: "Swój wśród Piglinów"
+	quest.5EB87CE5F6DEFAAA.title: "&cPiglin Mask&r"
+	quest.60CECAAE2D43EC6E.quest_desc: [
+		"Odłamek zatrzymanego czasu odnajdywany w ruinach Endu."
+		""
+		"• &dTransgression&r: Przytrzymanie klawisza aktywacji cofa Cię w czasie po Twojej własnej ścieżce sprzed kilku ostatnich sekund!"
+	]
+	quest.60CECAAE2D43EC6E.quest_subtitle: "Cofnij swoje ostatnie kroki"
+	quest.60CECAAE2D43EC6E.title: "&5Clot of Time&r"
+	quest.64141B720662B652.quest_desc: [
+		"Modyfikacja &6&lRelics&r wprowadza potężne artefakty rozwijające się wraz z Twoją postacią!"
+		""
+		"Przytrzymaj klawisz &e[ Shift ]&r na znalezionym relikcie, aby otworzyć &6Okno Badań (Research Window)&r. Możesz w nim odblokowywać umiejętności, przelosowywać ich początkową jakość za zwykłe XP oraz podnosić ich poziomy dzięki punktom doświadczenia reliktu!"
+	]
+	quest.64141B720662B652.title: "&l&6Relics: System Rozwoju"
+	quest.677A701E06422CF3.quest_desc: [
+		"Płaszcz utkany z żywego listowia, spotykany w leśnych i tropikalnych biomach."
+		""
+		"• &aCamouflage&r: Pozwala przenikać przez bloki liści, niweluje na nich obrażenia od upadku i regeneruje zdrowie."
+		"• &2Gift of the Grove&r: W obliczu śmiertelnego ciosu pochłania pobliskie liście, ratując Ci życie!"
+	]
+	quest.677A701E06422CF3.quest_subtitle: "Ochrona lasu"
+	quest.677A701E06422CF3.title: "&2Leafy Mantle"
+	quest.6A715F4AE22D2439.quest_desc: [
+		"Widmowy płaszcz z pogranicza światów."
+		""
+		"• &7Grave Mist&r: Pozostawia za Tobą duszącą mgłę raniącą pościg."
+		"• &bFrozen Gaze&r: Nakłada Osłabienie na wrogów, którzy patrzą prosto na Ciebie."
+		"• &7Spectral Escape&r: Neguje śmiertelne uderzenie, wprowadzając Cię na kilka sekund w niematerialną formę!"
+	]
+	quest.6A715F4AE22D2439.quest_subtitle: "Pomiędzy światem żywych i umarłych"
+	quest.6A715F4AE22D2439.title: "Ghostly Mantle"
+	quest.6B40AF49F505A551.quest_desc: [
+		"Rolki zamieniające ciągły bieg w niepowstrzymany pęd."
+		""
+		"• &bAcceleration&r: Podczas nieprzerwanego sprintu stopniowo zwiększa prędkość ruchu oraz pozwala automatycznie pokonywać stopnie."
+	]
+	quest.6B40AF49F505A551.quest_subtitle: "Nabierz rozpędu!"
+	quest.6B40AF49F505A551.title: "&cRoller Skate"
+	quest.730130CCF1CF5119.quest_desc: ["Poniższe relikty odnajdziesz w skrzyniach ukrytych w strukturach &2Overworldu&r (wioskach, kopalniach, wrakach statków i twierdzach)!"]
+	quest.730130CCF1CF5119.title: "Relikty: &2Overworld"
+	quest.748A01B5607C475B.quest_desc: [
+		"But ze sprężynami odnajdywany w górskich biomach."
+		""
+		"• &bSpring Dash&r: Skok podczas kucania wystrzeliwuje Cię z ogromną siłą, a każde kolejne lądowanie odbija Cię od ziemi, całkowicie negując obrażenia od upadku!"
+	]
+	quest.748A01B5607C475B.quest_subtitle: "Każdy krok to wybicie"
+	quest.748A01B5607C475B.title: "&aSpringy Boot"
+	quest.75DA0A46E41E6690.quest_desc: [
+		"Niezwykle rzadki relikt, który można znaleźć w dowolnym wymiarze."
+		""
+		"• &aExperience Dispersion&r: Za każdym razem, gdy jeden z Twoich założonych reliktów zdobywa doświadczenie, część tego doświadczenia trafia również do wszystkich pozostałych reliktów!"
+	]
+	quest.75DA0A46E41E6690.quest_subtitle: "Wspólny rozwój"
+	quest.75DA0A46E41E6690.title: "&aExperience Disperser"
+	quest.7C3F65B5DAC7E57B.quest_desc: [
+		"Płaszcz utkanego z nocnego nieba."
+		""
+		"• &dLunar Phase&r: Zwiększa obrażenia i prędkość ataku w zależności od fazy Księżyca."
+		"• &8Shadow&r: Zapewnia niewidzialność w słabo oświetlonych miejscach."
+		"• &7Constellation&r & &eStarfall&r: Przywołuje eksplodujące konstelacje oraz spadające gwiazdy ogłuszające wrogów!"
+	]
+	quest.7C3F65B5DAC7E57B.quest_subtitle: "Potęga nocnego nieba"
+	quest.7C3F65B5DAC7E57B.title: "&5Midnight Mantle"
+	quest.7F2D696AC9F4C4E4.quest_desc: [
+		"Szklany but z wewnętrznym zbiornikiem na ciecze."
+		""
+		"• &f&lGlass&r: Przechowuje pobrane płyny w wewnętrznym buforze i pozwala chodzić po powierzchni każdej cieczy (wody, lawy itp.), której zapas znajduje się obecnie w bucie!"
+	]
+	quest.7F2D696AC9F4C4E4.quest_subtitle: "Stąpaj po każdej cieczy"
+	quest.7F2D696AC9F4C4E4.title: "&bCut Glass Boot"
+}
