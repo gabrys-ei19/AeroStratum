@@ -37,6 +37,12 @@
 			x: 10.0d
 			y: -0.5d
 		}
+		{
+			id: "500D80C7A66F7C93"
+			linked_quest: "7F85B2BF7D561259"
+			x: -3.5d
+			y: 1.0d
+		}
 	]
 	quests: [
 		{
@@ -641,6 +647,7 @@
 				"33938479111093D4"
 				"4D90653836A796A7"
 			]
+			hide_until_deps_visible: true
 			id: "39DCA7A982DE8844"
 			rewards: [
 				{
@@ -719,6 +726,161 @@
 			}]
 			x: 5.0d
 			y: -0.5d
+		}
+		{
+			hide_dependency_lines: true
+			id: "7E5F21B48CC36C5F"
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				count: 64L
+				id: "47058D1CB60EF6F0"
+				item: { count: 1, id: "tfmg:fireclay" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["43F91487B5B6FD41"]
+			id: "4DCA741704032BC8"
+			tasks: [{
+				count: 64L
+				id: "1E7C284685B9A33C"
+				item: { count: 1, id: "tfmg:fireproof_brick" }
+				type: "item"
+			}]
+			x: -3.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["7E5F21B48CC36C5F"]
+			id: "43F91487B5B6FD41"
+			tasks: [{
+				count: 64L
+				id: "0D89B409DA6D84D7"
+				item: { count: 1, id: "tfmg:fireclay_ball" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["7F85B2BF7D561259"]
+			id: "09B4714399F4EB9E"
+			tasks: [{
+				id: "67FD4329FBFA0B2D"
+				item: { count: 1, id: "tfmg:cast_iron_block" }
+				type: "item"
+			}]
+			x: -4.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["7F85B2BF7D561259"]
+			id: "28D87E55181358DF"
+			tasks: [{
+				id: "5F8ADA2330CA0EF2"
+				item: { count: 1, id: "tfmg:cast_iron_pipe" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["7F85B2BF7D561259"]
+			id: "26BC21D45C12461D"
+			tasks: [{
+				count: 9L
+				id: "3FB7991184E8B0F8"
+				item: { count: 1, id: "tfmg:coke_oven" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["26BC21D45C12461D"]
+			id: "30B16FF343C668A4"
+			tasks: [{
+				count: 64L
+				id: "3E083C0CAC3E73F6"
+				item: { count: 1, id: "tfmg:coal_coke" }
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"4DCA741704032BC8"
+				"28D87E55181358DF"
+				"09B4714399F4EB9E"
+			]
+			id: "1C8C0210803B74A2"
+			tasks: [
+				{
+					id: "20184BE308B0D3DE"
+					item: { count: 1, id: "tfmg:blast_furnace_output" }
+					type: "item"
+				}
+				{
+					count: 20L
+					id: "27AFAB9FDAD6A5BE"
+					item: { count: 1, id: "tfmg:fireproof_brick_reinforcement" }
+					type: "item"
+				}
+				{
+					count: 19L
+					id: "458E0EE2E286242B"
+					item: { count: 1, id: "tfmg:fireproof_bricks" }
+					type: "item"
+				}
+				{
+					id: "1DF6D5457868B6B5"
+					item: { count: 1, id: "tfmg:blast_furnace_hatch" }
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["35C47439CB7C5661"]
+			id: "12D103672723A875"
+			tasks: [{
+				id: "20444FB3CB2E1A2C"
+				item: { count: 1, id: "tfmg:silicon_ingot" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"28D87E55181358DF"
+				"4DCA741704032BC8"
+				"1C8C0210803B74A2"
+			]
+			id: "35C47439CB7C5661"
+			tasks: [{
+				id: "2DD70EFCB673C94F"
+				item: { count: 1, id: "tfmg:casting_basin" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["35C47439CB7C5661"]
+			id: "6756594AA23028AA"
+			tasks: [{
+				id: "0A07BD05FA02CC1D"
+				item: { count: 1, id: "tfmg:steel_ingot" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: 5.5d
 		}
 	]
 }

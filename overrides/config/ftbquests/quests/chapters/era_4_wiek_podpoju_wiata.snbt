@@ -9,6 +9,61 @@
 	id: "0A24069F4A6D554B"
 	images: [ ]
 	order_index: 7
-	quest_links: [ ]
+	quest_links: [
+		{
+			id: "39486CE906A5FD08"
+			linked_quest: "522FEED183C8A336"
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			id: "03A4B86B4904FC01"
+			linked_quest: "30C5D432C810F904"
+			x: -3.0d
+			y: 4.0d
+		}
+		{
+			id: "5D3E063BD7A04F65"
+			linked_quest: "775AB10F8196F27B"
+			x: -2.0d
+			y: 4.0d
+		}
+		{
+			id: "354236310B7E69D3"
+			linked_quest: "7C848C7011726470"
+			x: -1.0d
+			y: 4.0d
+		}
+		{
+			id: "1103666CA53093CD"
+			linked_quest: "43A5B83862D9E94C"
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			id: "2EF516A7AE76CF1C"
+			linked_quest: "2542D8A6894816C6"
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			id: "7066014F7ECDF02D"
+			linked_quest: "3DD71B6C4B80FB44"
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			id: "4EA10AEB86D09655"
+			linked_quest: "3E8C7D92F99496BE"
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			id: "51D36F33A79EFC2C"
+			linked_quest: "62C32905C33E2D88"
+			x: 4.0d
+			y: 4.0d
+		}
+	]
 	quests: [ ]
 }

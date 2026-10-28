@@ -157,6 +157,9 @@
 	quest.083ED9A55CB6F690.title: "Moje na zawsze!"
 	quest.0853917693A259C2.quest_desc: ["&3The Annihilator&r to ciężki młot bojowy – trzymając po jednym w każdej dłoni i przytrzymując PPM, wykonasz potężne uderzenie sejsmiczne w ziemię!"]
 	quest.0853917693A259C2.title: "&3The Annihilator"
+	quest.0864368D14D8B122.quest_desc: ["Czujnik torowy (&eTrack Observer&r) wysyła impuls Redstone, gdy przejeżdża nad nim pociąg, co pozwala w pełni zautomatyzować przejazdy, zwrotnice i automatykę stacyjną."]
+	quest.0864368D14D8B122.quest_subtitle: "1x Track Observer"
+	quest.0864368D14D8B122.title: "Sygnalizator Przejazdu: Track Observer"
 	quest.0894EB1F3FCFCECA.quest_desc: ["&3Draugrowie&r (zwykli, Royal oraz Elite) to nieumarli wojownicy północy posługujący się orężem i tarczami z Czarnej Stali (Black Steel)."]
 	quest.0894EB1F3FCFCECA.title: "&3Draugrs"
 	quest.091957223C32B094.quest_desc: ["Aby wejść w etap półek głębinowych (Deepshelves), podnieś limit &aMax Eterna&r do &a60&r, aktywując poziom świata &e&lAscent&r."]
@@ -264,11 +267,20 @@
 	quest.0F89BFD4A3F63A48.title: "Ignorowanie Światła"
 	quest.0F8F0F7880235BA2.quest_desc: ["&cSoul Blacksmith&r to monumentalna kuźnia w Netherze pełna złota i czernitu, której pilnuje kolosalny &c&lNetherite Monstrosity&r."]
 	quest.0F8F0F7880235BA2.title: "&cSoul Blacksmith&f: Siedziba &c&lNetherite Monstrosity&r"
+	quest.0FE2DBCBDD761DD0.quest_desc: ["Stacja Kolejowa (&eTrain Station&r) to serce każdej sieci logistycznej. Pozwala nadawać pociągom nazwy, zarządzać ich montażem oraz tworzyć rozkłady jazdy, dzięki którym składy będą kursować całkowicie autonomicznie między Twoimi fabrykami."]
+	quest.0FE2DBCBDD761DD0.quest_subtitle: "1x Train Station"
+	quest.0FE2DBCBDD761DD0.title: "Przystanek Logistyczny: Train Station"
 	quest.0FEAD3CA2CC4A8B1.quest_desc: ["Katalizator 3. poziomu pozwalający nałożyć najwyższy stopień gwiezdnego naładowania."]
 	quest.0FEAD3CA2CC4A8B1.title: "Katalizator Gwiezdny III: Starmetal Dust"
+	quest.10407EB6CEA8C111.quest_desc: ["Przepuszczenie twardego obsydianu przez Koła Kruszące (Crushing Wheels) rozbija go na drobny pył obsydianowy – kluczowy półprodukt do wyrobu płyt kolejowych."]
+	quest.10407EB6CEA8C111.quest_subtitle: "1x Powdered Obsidian"
+	quest.10407EB6CEA8C111.title: "Pył Wulkaniczny: Powdered Obsidian"
 	quest.105442DA79829777.quest_desc: ["Połączenie przedmiotu z &8Tome of Scrapping&r w kowadle pozwala odzyskać połowę jego zaklęć na księgę, niszcząc przy tym sam przedmiot."]
 	quest.105442DA79829777.quest_subtitle: "Połowa zaklęć, niszczy przedmiot"
 	quest.105442DA79829777.title: "&8Tome of Scrapping"
+	quest.10630E102680BE46.quest_desc: ["Cyfrowa karta bankowa powiązana z Twoim kontem. Umożliwia dokonywanie płatności w automatach bez noszenia fizycznej gotówki w ekwipunku."]
+	quest.10630E102680BE46.quest_subtitle: "1x Bank Card"
+	quest.10630E102680BE46.title: "Karta Płatnicza: Bank Card"
 	quest.1102B27CBF564127.quest_desc: ["Dodatkowy moduł nakładany na spawner, który zapobiega znikaniu (despawnowaniu) przyzwanych mobów, gdy oddalisz się od swojej fabryki."]
 	quest.1102B27CBF564127.quest_subtitle: "Nie znikajcie mi stąd!"
 	quest.1102B27CBF564127.title: "Agitator Spawnera"
@@ -328,6 +340,9 @@
 	quest.152852C93E3A82F4.quest_desc: ["Stacjonarny blok pamięci na płyny o pojemności 64 wiader, gotowy do bezpośredniego wpięcia w sieć Refined Storage."]
 	quest.152852C93E3A82F4.quest_subtitle: "1x 64b Fluid Storage Block"
 	quest.152852C93E3A82F4.title: "Stacjonarny Bank Płynów 64b"
+	quest.157C30BEA13822AD.quest_desc: ["Drobne monety miedziane (Spurs) – podstawowa waluta rozliczeniowa w najprostszych transakcjach handlowych."]
+	quest.157C30BEA13822AD.quest_subtitle: "128x Spur"
+	quest.157C30BEA13822AD.title: "Waluta: Miedziane Spurs"
 	quest.158B24939A269D83.quest_desc: ["Okucie końcówki (Tip Upgrade) pozwala podnieść poziom wydobycia gotowego narzędzia – np. nałożenie diamentowej końcówki na żelazny kilof pozwoli nim kopać obsydian!"]
 	quest.158B24939A269D83.quest_subtitle: "Gdy masz tylko 1 diament"
 	quest.158B24939A269D83.title: "Forma: Końcówka (Tip Cast)"
@@ -425,12 +440,6 @@
 	quest.18DB8C875F2331B2.title: "&dKinetic Belt&r"
 	quest.18E0F5A78F696FA3.quest_desc: ["Runa Echa nakłada specjalny efekt na spawner – wszystkie przyzwane przez niego stworzenia upuszczają zwielokrotnioną ilość łupów po śmierci."]
 	quest.18E0F5A78F696FA3.title: "Runa Echa (Echoing)"
-	quest.18EB86F91CBBCCC6.quest_desc: [
-		"Struktury z moda Cataclysm są rozrzucone po całym świecie na ogromnych dystansach."
-		""
-		"Przekucie Oka Endera w dedykowane Oko danego bossa wskaże Ci dokładną drogę do jego siedziby (oczy te bardzo rzadko ulegają zniszczeniu przy rzucie)."
-	]
-	quest.18EB86F91CBBCCC6.title: "Oczy Przeznaczenia"
 	quest.191A7F3C9FBA4C13.quest_desc: [
 		"Ulepszenie &bInfused Seashelf&r kryształami pryzmarynu daje &bCrystalline Seashelf&r (&a+5 Eterna&r, &5+5% Arcana&r, &c+3% Quanta&r)."
 		""
@@ -470,6 +479,7 @@
 	quest.1C83657D7D6B7C2B.quest_desc: ["Wypycha wskazane przedmioty lub płyny z sieci cyfrowej bezpośrednio do podłączonej maszyny, kadzi lub zbiornika."]
 	quest.1C83657D7D6B7C2B.quest_subtitle: "1x Exporter"
 	quest.1C83657D7D6B7C2B.title: "Węzeł Wyjściowy: Exporter"
+	quest.1C8C0210803B74A2.title: "Blast Furnace"
 	quest.1CD05CB4A3DB112A.quest_desc: ["&c&lStół Rozbiórki (Salvaging Table)&r pozwala przetwarzać niepotrzebne klejnoty w pył oraz rozbierać znaleziony ekwipunek z afiksami na surowce rzemieślnicze odpowiadające jego rzadkości."]
 	quest.1CD05CB4A3DB112A.title: "&c&lSalvaging Table"
 	quest.1D1FAA2F86695781.quest_desc: [
@@ -564,6 +574,9 @@
 	quest.226FB6C7CF3FEFB3.quest_desc: ["Podczas tej przygody niezbędny do przetrwania będzie plecak. Zrób go tak szybko, jak tylko potrafisz (będziesz potrzebował skóry)."]
 	quest.226FB6C7CF3FEFB3.quest_subtitle: "Największy przyjaciel zbieracza - PLECAK"
 	quest.226FB6C7CF3FEFB3.title: "Najważniejsze akcesorium"
+	quest.2289860C15742201.quest_desc: ["Nasączenie pyłu obsydianowego lawą i sprasowanie go prasą mechaniczną tworzy niezwykle odporny arkusz Sturdy Sheet, zdolny wytrzymać ogromne obciążenia składów kolejowych."]
+	quest.2289860C15742201.quest_subtitle: "1x Sturdy Sheet"
+	quest.2289860C15742201.title: "Pancerna Blacha: Sturdy Sheet"
 	quest.22A0A9C81A5C85A1.quest_desc: ["Szablon wiązania spajającego głowicę narzędzia z trzonkiem."]
 	quest.22A0A9C81A5C85A1.quest_subtitle: "Spaja wszystko w całość"
 	quest.22A0A9C81A5C85A1.title: "Szablon: Wiązanie (Binding Blueprint)"
@@ -622,9 +635,15 @@
 	quest.2607F3DC07049785.quest_desc: ["Praktyczny kask z uchwytami na napoje, który wyraźnie skraca czas jedzenia posiłków oraz picia mikstur."]
 	quest.2607F3DC07049785.quest_subtitle: "Głowa"
 	quest.2607F3DC07049785.title: "&6Plastic Drinking Hat"
+	quest.26171E29A87D7516.quest_desc: ["Sterowniki pociągu (&eTrain Controls&r) montowane na lokomotywie pozwalają na ręczne prowadzenie składu, a także służą jako punkt zakotwiczenia dla maszynisty lub automatycznego rozkładu jazdy."]
+	quest.26171E29A87D7516.quest_subtitle: "1x Train Controls"
+	quest.26171E29A87D7516.title: "Pulpit Maszynisty: Train Controls"
 	quest.262036FE8E87F50A.quest_desc: ["Forma do odlewania ciężkiego młota górniczego kopiącego skały w obszarze 3x3!"]
 	quest.262036FE8E87F50A.quest_subtitle: "Kopanie 3x3"
 	quest.262036FE8E87F50A.title: "Forma: Młot (Hammer Cast)"
+	quest.2620887DD91A83FA.quest_desc: ["Wyszlifowany kwarc lawowy stabilizuje przepływy termiczne, stanowiąc kluczowy komponent do budowy nowoczesnych przewodów napędowych."]
+	quest.2620887DD91A83FA.quest_subtitle: "1x Polished Lava Quartz"
+	quest.2620887DD91A83FA.title: "Wyszlifowany Kwarc Lawowy"
 	quest.267ABF42F9628FEA.quest_desc: ["Serce każdego systemu Refined Storage. Dostarcz mu energię elektryczną (FE), a ożywi wszystkie podłączone terminale, napędy oraz interfejsy."]
 	quest.267ABF42F9628FEA.quest_subtitle: "1x Controller"
 	quest.267ABF42F9628FEA.title: "Mózg Operacji: Kontroler Sieci"
@@ -645,6 +664,9 @@
 	quest.28D3A1D0B60D86C5.quest_desc: ["Mosiężny ekstruder pozwala generować Kamień Endu bezpośrednio w Twojej fabryce, bez konieczności ręcznego rozkopywania wysp w Endzie."]
 	quest.28D3A1D0B60D86C5.quest_subtitle: "64x End Stone"
 	quest.28D3A1D0B60D86C5.title: "Zaawansowana Ekstruzja: Kamień Endu"
+	quest.290B16E2D899BB92.quest_desc: ["Zaawansowany przewód lawowy (Lava Tube) z modyfikacji silników to potężny komponent przesyłowy, odporny na ekstremalne temperatury roztopionych surowców."]
+	quest.290B16E2D899BB92.quest_subtitle: "1x Lava Tube"
+	quest.290B16E2D899BB92.title: "Magistrala Termiczna: Lava Tube"
 	quest.29131C3532610ADF.quest_desc: ["Zwieńczenie filarów 2. poziomu (Tier 2 Pillar Cap) dla struktury Starlight Charger."]
 	quest.29131C3532610ADF.title: "Głowica Filaru II: Azure Electrum"
 	quest.291C76140DE97E3C.quest_desc: ["Sztabki &bIgnitium&r zdobywane z pokonanego Ignisa służą do wykuwania pancerza wyższego tieru niż Netheryt oraz potężnego oręża ognia."]
@@ -702,6 +724,9 @@
 		"Kliknij prawym przyciskiem myszy na wybranego moba za pomocą wymazówki (Mob Swab), połącz ją z nasionami i wiadrem płynnego XP w paszę GM Chicken Feed, a następnie nakarm nią kurczaka, by uzyskać gotowe jajko przyzywające."
 	]
 	quest.2D8A7065F8CDDDDD.title: "Inżynieria Genetyczna: Mob Swab"
+	quest.2DFE2B76C12BB770.quest_desc: ["Monety zębate (Sprockets) o wyższej wartości nominalnej, używane przy transakcjach o większej skali."]
+	quest.2DFE2B76C12BB770.quest_subtitle: "128x Sprocket"
+	quest.2DFE2B76C12BB770.title: "Waluta: Zębate Sprockets"
 	quest.2E5D835D2B5D7078.quest_desc: ["Andezyt świetnie znosi naprężenia kinetyczne, ale przy kontakcie z cieczami i wysokim ciśnieniem szybko zawodzi. Pokrycie drewna miedzią otwiera drzwi do równoległej gałęzi inżynierii płynów (Era 1.5)!"]
 	quest.2E5D835D2B5D7078.quest_subtitle: "1x Copper Casing"
 	quest.2E5D835D2B5D7078.title: "Szczelna Konstrukcja: Miedziana Obudowa"
@@ -726,6 +751,7 @@
 		"• &bCentralne Dworce Handlowe:&r Połącz dalekie fabryki ze wspólnym centrum handlowym – pociąg towarowy automatycznie rozładuje nadwyżki przez &ePortable Storage Interface&r prosto do rzędu Twoich Wendorów, zamieniając masową produkcję w nieprzerwany strumień monet!"
 	]
 	quest.2F3529FE1972F011.quest_subtitle: "Kolejowe imperium logistyczne"
+	quest.2F3529FE1972F011.title: "EKSPORT NA MASOWĄ SKALĘ"
 	quest.2F62C290A5CE50F8.quest_desc: ["&eAncient Spear&r ma daleki zasięg i wystrzeliwuje przy atakach niszczycielskie trąby piaskowe!"]
 	quest.2F62C290A5CE50F8.title: "&eAncient Spear"
 	quest.30C5D432C810F904.quest_desc: ["&9Eye of Storm&r wskaże podniebną drogę nad oceanem do &9Acropolis&r, gdzie włada &9&lScylla&r."]
@@ -759,12 +785,21 @@
 	quest.321F16645640C462.quest_desc: ["&9Warp Drive&r sprawia, że rzucane Perły Endu nie zużywają się i nie zadają obrażeń od upadku, pobierając w zamian niewielką ilość głodu!"]
 	quest.321F16645640C462.quest_subtitle: "Pas"
 	quest.321F16645640C462.title: "&9Warp Drive&r"
+	quest.3223B14E53AACFB5.quest_desc: ["Semafory z rozszerzenia *Steam 'n' Rails* dodają klimatyczne, klasyczne sygnalizatory świetlne i mechaniczne, które ułatwiają organizację ruchu w dużych węzłach kolejowych."]
+	quest.3223B14E53AACFB5.quest_subtitle: "1x Semaphore"
+	quest.3223B14E53AACFB5.title: "Kolejowa Semaforyka: Semaphore"
+	quest.330DC46048D1DD2C.quest_desc: ["Miedziany wariant interfejsu przeładunkowego. Służy do bezprzewodowego wypompowywania i wpompowywania płynów (np. lawy lub oleju) z cystern pociągu w trakcie postoju na stacji."]
+	quest.330DC46048D1DD2C.quest_subtitle: "1x Portable Fluid Interface"
+	quest.330DC46048D1DD2C.title: "Przeładunek Płynów: Portable Fluid Interface"
 	quest.3311B79A8F6C6ADD.quest_desc: ["&6&lEnchanting Table of the Raven&r to ostateczny stół do zaklinania, w którym możesz swobodnie ustawiać wartości &aEterna&r, &cQuanta&r oraz &5Arcana&r bez konieczności stawiania jakichkolwiek półek wokół!"]
 	quest.3311B79A8F6C6ADD.quest_subtitle: "Rzekł Kruk: Nigdy więcej"
 	quest.3311B79A8F6C6ADD.title: "&6&lEnchanting Table of the Raven"
 	quest.33664C509F66A6E2.quest_desc: ["Wykop krystaliczne bloki ametystu wyścielające wnętrze odkrytej geody."]
 	quest.33664C509F66A6E2.quest_subtitle: "1x Amethyst Block"
 	quest.33664C509F66A6E2.title: "Skarby Geody: Blok Ametystu"
+	quest.33938479111093D4.quest_desc: ["Polewaczka (Spout) pozwala precyzyjnie oblewać przepływające pod nią przedmioty płynami, co jest kluczowe w alchemii i obróbce zaawansowanych materiałów termicznych."]
+	quest.33938479111093D4.quest_subtitle: "1x Spout"
+	quest.33938479111093D4.title: "Precyzyjne Polewanie: Spout"
 	quest.33B1D3FD4C0B5514.quest_desc: ["&e&lAncient Remnant&r to kolosalny szkielet prehistorycznego drapieżnika władającego burzami piaskowymi i falami uderzeniowymi."]
 	quest.33B1D3FD4C0B5514.title: "&e&lAncient Remnant&r"
 	quest.33BDEE1D6D8C50A6.quest_desc: ["Szlachetny metal o doskonałym przewodnictwie. Przyda się w zaawansowanych komponentach elektronicznych i stopach specjalnych."]
@@ -842,6 +877,9 @@
 	quest.39B85DB54B1037FE.quest_desc: ["Forma do odlewania maczety – szybsza od miecza i potrafi ścinać roślinność jak sierp."]
 	quest.39B85DB54B1037FE.quest_subtitle: "Ciężkie ostrze"
 	quest.39B85DB54B1037FE.title: "Forma: Maczeta (Machete Cast)"
+	quest.39DCA7A982DE8844.quest_desc: ["Krystaliczna lawa kwarcowa to zaawansowany materiał przewodzący ciepło, pozwalający na budowę wydajniejszych motorów i instalacji wysokotemperaturowych."]
+	quest.39DCA7A982DE8844.quest_subtitle: "1x Lava Quartz"
+	quest.39DCA7A982DE8844.title: "Krystaliczny Żar: Lava Quartz"
 	quest.39E822440E7D2E04.quest_desc: [
 		"Entity Spawner z Mob Grinding Utils pozwala masowo przyzywać stworzenia na żądanie!"
 		""
@@ -959,6 +997,7 @@
 		"• &6Blaze Banker:&r Specjalny bankier pozwalający otworzyć wspólne konto firmowe dla całej drużyny i zarządzać uprawnieniami wspólników za pomocą kart identyfikacyjnych (&eID Cards&r)."
 	]
 	quest.40DD894C85D0FC54.quest_subtitle: "Bezpieczny kapitał na karcie"
+	quest.40DD894C85D0FC54.title: "Płatności bezgotówkowe"
 	quest.4119E115505036E5.quest_desc: ["Forma pozwalająca odlewać drobne samorodki metali."]
 	quest.4119E115505036E5.title: "Forma: Samorodek (Nugget Cast)"
 	quest.414FE7C3B16B1F76.quest_desc: ["Szczytowe osiągnięcie cyfrowej automatyzacji z moda ExtraStorage – Netherytowy Autocrafter błyskawicznie realizuje najbardziej złożone łańcuchy zamówień."]
@@ -987,7 +1026,7 @@
 	quest.42E44B6C8CDF031D.quest_desc: ["Każdy szanujący się inżynier potrzebuje zapasu arkuszy z cynku, andezytu, miedzi, żelaza oraz złota. Ustaw prasę nad taśmą lub zajezdnią i przygotuj partię pod budowę zaawansowanych podzespołów."]
 	quest.42E44B6C8CDF031D.quest_subtitle: "Zestaw Blach Przemysłowych"
 	quest.42E44B6C8CDF031D.title: "Walcownia Pełną Parą"
-	quest.43167C59036E79A7.quest_desc: ["&8Tool & Fishing Tomes&r losują wyłącznie zaklęcia wydobywcze (Wydajność, Szczęście, Jedwabny Dotyk) lub wędkarskie."]
+	quest.43167C59036E79A7.quest_desc: ["&8Tool \\& Fishing Tomes&r losują wyłącznie zaklęcia wydobywcze (Wydajność, Szczęście, Jedwabny Dotyk) lub wędkarskie."]
 	quest.43167C59036E79A7.title: "&8Tool Tomes"
 	quest.436E4E3515BCCDE9.quest_desc: ["&bCloud in a Bottle&r pozwala wykonać podwójny skok w powietrzu (naciśnij dwukrotnie Spację) oraz zmniejsza obrażenia od upadku."]
 	quest.436E4E3515BCCDE9.quest_subtitle: "Pas"
@@ -1070,6 +1109,7 @@
 		"&aAutomatyzacja dostaw:&r Wendory możesz zasilać towarami od tyłu lub od dołu za pomocą lejków, zsypów oraz eksporterów z &bRefined Storage&r, dzięki czemu popularny asortyment nigdy się nie wyczerpie!"
 	]
 	quest.48DB0587E8C58888.quest_subtitle: "Zarabiaj nawet wtedy, gdy śpisz"
+	quest.48DB0587E8C58888.title: "Pierwszy sklep"
 	quest.4933CF4675E77D50.quest_desc: ["Po otrzymaniu obrażeń od ognia lub lawy &5Obsidian Skull&r zapewnia tymczasową Odporność na Ogień, dając czas na wyjście z płomieni."]
 	quest.4933CF4675E77D50.quest_subtitle: "Pas"
 	quest.4933CF4675E77D50.title: "&5Obsidian Skull&r"
@@ -1088,6 +1128,9 @@
 	quest.4AF4F5612CE4A30F.quest_desc: ["Złote okucia zapewniają jeszcze więcej slotów na surowce i dodatkowe kieszenie na ulepszenia."]
 	quest.4AF4F5612CE4A30F.quest_subtitle: "Prawie najlepszy"
 	quest.4AF4F5612CE4A30F.title: "Złoty Plecak"
+	quest.4AFA8BFE92464E0B.quest_desc: ["Superklej pozwala spoić ze sobą bloki tworzące ruchome struktury pociągów, statków lub maszyn kopalnianych. Pamiętaj: klej łączy tylko elementy ze sobą – upewnij się, że konstrukcja nie dotyka statycznego podłoża świata przed montażem!"]
+	quest.4AFA8BFE92464E0B.quest_subtitle: "1x Super Glue"
+	quest.4AFA8BFE92464E0B.title: "Spoiwo Konstrukcyjne: Super Glue"
 	quest.4BADD8A0FD85DB33.quest_desc: ["&eGolden Tooth&r wypada z wrogów podczas noszenia Piglin Mask – możesz używać go do handlu z Piglinami lub przetopić na czyste złoto!"]
 	quest.4BADD8A0FD85DB33.quest_subtitle: "Waluta Bastionów"
 	quest.4BADD8A0FD85DB33.title: "&eGolden Tooth"
@@ -1102,6 +1145,7 @@
 		"&eWskazówka:&r Posadź za sterami dowolnego moba lub Płomyka (&6Blaze Burner&r) i wręcz mu Rozkład Jazdy (&eTrain Schedule&r), aby pociąg kursował całkowicie automatycznie!"
 	]
 	quest.4BD783487E35F8A0.quest_subtitle: "Od pojedynczych bloków do pędzącej lokomotywy"
+	quest.4BD783487E35F8A0.title: "Montaż pierwszego składu"
 	quest.4BF5EB050EC14C80.quest_desc: ["&4The Watchers&r to latające drony strażnicze w Pradawnej Fabryce, atakujące wiązkami laserowymi i ostrzami."]
 	quest.4BF5EB050EC14C80.title: "&4The Watchers&r"
 	quest.4C247BF978FA7AEE.quest_desc: ["Złoty Autocrafter oferuje znacznie większą prędkość przetwarzania oraz więcej miejsca na karty wzorców niż wariant żelazny."]
@@ -1133,6 +1177,9 @@
 	quest.4E9DDDBD8263D0E3.title: "&7Sigil of Unnaming"
 	quest.4EE6824A970EEB35.quest_desc: ["Nasycanie run spawnerowych przy &a70 Eterna&r, &c30% Quanta&r oraz &550% Arcana&r na potrzeby zaawansowanych ulepszeń spawnerów."]
 	quest.4EE6824A970EEB35.title: "&d&lInfuzja&r Run Spawnera"
+	quest.4EF90C7524A7BF7B.quest_desc: ["Zaawansowany układ obliczeniowy z moda ExtraStorage łączący procesy budowania i demontażu. Niezbędny do wykuwania wieloslotowych Autocrafterów ze złota, diamentu oraz netherytu."]
+	quest.4EF90C7524A7BF7B.quest_subtitle: "1x Neural Processor"
+	quest.4EF90C7524A7BF7B.title: "Procesor Neuralny: Neural Processor"
 	quest.4F7F8F4ED1CA0550.quest_desc: ["Runa Podpalenia sprawia, że wszystkie przyzywane przez spawner stworzenia pojawiają się od razu w płomieniach."]
 	quest.4F7F8F4ED1CA0550.title: "Runa Podpalenia"
 	quest.4FA156C383C9C438.quest_desc: ["&eKoboletony&r to szkieletowi strażnicy piramidy uzbrojeni w zakrzywione miecze Khopesh."]
@@ -1163,7 +1210,10 @@
 	quest.50A32AC6EDBC5854.title: "&6Onion Ring&r"
 	quest.50C9CB8FB16E453D.quest_desc: ["&bBurning Arena&r to gigantyczny koloseum w Netherze. Na drugim piętrze pokonaj strażników &bIgnited Revenant&r, aby zdobyć popioły do wywołania bossa na szczycie areny!"]
 	quest.50C9CB8FB16E453D.title: "&bBurning Arena&r: Siedziba &b&lIgnisa&r"
-	quest.516E66BE01EE5B31.quest_desc: ["&8Weapon & Bow Tomes&r losują wyłącznie zaklęcia bojowe dla mieczy i toporów lub broni dystansowej."]
+	quest.512F63EFDDECC3BA.quest_desc: ["Brązowe monety (Bevels) stosowane w standardowym handlu i automatycznych wendorach."]
+	quest.512F63EFDDECC3BA.quest_subtitle: "128x Bevel"
+	quest.512F63EFDDECC3BA.title: "Waluta: Brązowe Bevels"
+	quest.516E66BE01EE5B31.quest_desc: ["&8Weapon \\& Bow Tomes&r losują wyłącznie zaklęcia bojowe dla mieczy i toporów lub broni dystansowej."]
 	quest.516E66BE01EE5B31.title: "&8Weapon Tomes"
 	quest.51D3919CC88C4DC9.quest_desc: ["Podstawowa matryca pamięci zdolna zapisać strukturę 1024 przedmiotów w postaci czystych impulsów energetycznych."]
 	quest.51D3919CC88C4DC9.quest_subtitle: "1x 1k Storage Part"
@@ -1187,6 +1237,9 @@
 	quest.52CDB46F6CBF007B.title: "Forma: Łopata (Shovel Cast)"
 	quest.53154550397E9704.quest_desc: ["&c&lNetherite Monstrosity&r to ważący setki ton kolos z netherytu i lawy. Wywołuje trzęsienia ziemi, zasysa lawę do regeneracji i ostrzeliwuje arenę kulami magmy!"]
 	quest.53154550397E9704.title: "&c&lNetherite Monstrosity&r"
+	quest.5321B27210EC7889.quest_desc: ["Przenośny interfejs magazynowy (&ePortable Storage Interface&r) to klucz do bezobsługowego handlu i logistyki! Zamontuj jedną część na pociągu, a drugą na stacji – gdy pociąg zatrzyma się w zasięgu, interfejsy automatycznie opróżnią lub napełnią skrzynie wagonów."]
+	quest.5321B27210EC7889.quest_subtitle: "1x Portable Storage Interface"
+	quest.5321B27210EC7889.title: "Przeładunek Towarów: Portable Storage Interface"
 	quest.54822638CC243004.quest_desc: [
 		"Kula zamieniająca własną krew w długofalowe przetrwanie."
 		""
@@ -1197,6 +1250,9 @@
 	quest.54A9CBBFC0236AC9.quest_desc: ["Zbierz 32 Odłamki Ametystu – będą kluczowym surowcem do kalibracji kryształów i zaawansowanej optyki w kolejnych etapach."]
 	quest.54A9CBBFC0236AC9.quest_subtitle: "32x Amethyst Shard"
 	quest.54A9CBBFC0236AC9.title: "Krystaliczny Urobek: Odłamki Ametystu"
+	quest.54AED5CB96719AEF.quest_desc: ["Dowód tożsamości (ID Card) niezbędny do autoryzacji transakcji oraz zarządzania wspólnymi kontami firmowymi i uprawnieniami w systemie bankowym."]
+	quest.54AED5CB96719AEF.quest_subtitle: "1x ID Card"
+	quest.54AED5CB96719AEF.title: "Identyfikator: ID Card"
 	quest.54BC4B2395B82D1B.quest_desc: ["Komplet narzędzi do inteligentnego zarządzania fabryką: Smart Chute filtruje zrzucane przedmioty, Content Observer i Stockpile Switch badają stan zapasów, a Sequenced Gearshift programuje precyzyjne ruchy maszyn!"]
 	quest.54BC4B2395B82D1B.quest_subtitle: "Zestaw Automatyki Mosiężnej"
 	quest.54BC4B2395B82D1B.title: "Inteligentna Logistyka Create"
@@ -1215,6 +1271,15 @@
 	quest.5535D36DB16F11D3.quest_desc: ["Żeliwna kadź (Basin) to naczynie reakcyjne Twojej fabryki. Tutaj odbywa się mieszanie składników, wyciskanie kauczuku i wytop mosiądzu."]
 	quest.5535D36DB16F11D3.quest_subtitle: "1x Basin"
 	quest.5535D36DB16F11D3.title: "Tygiel Przemysłowy: Kadź"
+	quest.5562CBEDFDFDCF1E.quest_desc: ["Sygnalizator torowy (&eTrack Signal&r) to klucz do bezpiecznego zarządzania ruchem wielu pociągów na jednej sieci. Dzieli tory na bloki, zapobijając czołowym zderzeniom i kolizjom składów."]
+	quest.5562CBEDFDFDCF1E.quest_subtitle: "1x Track Signal"
+	quest.5562CBEDFDFDCF1E.title: "Kontrola Ruchu: Track Signal"
+	quest.55856C6C83B373C8.quest_desc: ["Terminal Bankowy (&eBank Terminal&r) to cyfrowy punkt dostępu do Twojego konta. Pozwala wpłacać i wypłacać zarobione monety Numismatics z dowolnego miejsca w bazie."]
+	quest.55856C6C83B373C8.quest_subtitle: "1x Bank Terminal"
+	quest.55856C6C83B373C8.title: "Terminal Finansowy: Bank Terminal"
+	quest.55D2E65AE3E743B8.quest_desc: ["Mechanizm częstotliwościowy (Frequency Mechanism) to zaawansowany podzespół sterujący falami energii i przesyłem danych na odległość w najnowszych systemach logistycznych."]
+	quest.55D2E65AE3E743B8.quest_subtitle: "1x Frequency Mechanism"
+	quest.55D2E65AE3E743B8.title: "Moduł Częstotliwości: Frequency Mechanism"
 	quest.55F156D969DFF910.quest_desc: ["W życiu inżyniera na samym początku nie myśli się o zasobach – w tym przypadku warto zabezpieczyć się na przyszłość już od pierwszej wizyty w kopalni (zacząłeś od żelaza – zbieraj wszystko jak leci!)."]
 	quest.55F156D969DFF910.quest_subtitle: "Zacznij zbierać rudy już teraz (nie pożałujesz)"
 	quest.55F156D969DFF910.title: "Bogactwa Podziemi"
@@ -1243,6 +1308,9 @@
 	quest.589F1D502F680075.quest_desc: ["&dHelium Flamingo&r pozwala przez chwilę dosłownie pływać w powietrzu po naciśnięciu klawisza sprintu w trakcie skoku!"]
 	quest.589F1D502F680075.quest_subtitle: "Pas"
 	quest.589F1D502F680075.title: "&dHelium Flamingo&r"
+	quest.58A47CC6FA0623C7.quest_desc: ["Połączenie mosiężnej obudowy z pancernym arkuszem Sturdy Sheet daje Obudowę Kolejową (Train Casing) – fundament pod budowę stacji, zwrotnic, semaforów oraz potężnych lokomotyw w Erze 2.5!"]
+	quest.58A47CC6FA0623C7.quest_subtitle: "1x Train Casing"
+	quest.58A47CC6FA0623C7.title: "Fundament Kolei: Train Casing"
 	quest.5AB8651FCB1E2F72.quest_desc: ["Szablon pozwalający stworzyć modułową Elytrę zapewniającą jednocześnie punkty pancerza!"]
 	quest.5AB8651FCB1E2F72.title: "Szablon: Elytra (Elytra Blueprint)"
 	quest.5B35AA2B52B7EE5F.quest_desc: ["Cenne kryształy poszukiwane zarówno przez kupców, jak i twórców precyzyjnej optyki."]
@@ -1277,6 +1345,9 @@
 	quest.5DE7C4FD5FA29236.title: "&5Chorus Totem&r"
 	quest.5E3263ACE170A8E3.quest_desc: ["Fuzja &dGauntlet of Guard&r oraz &eSandstorm in a Bottle&r – pozwala tworzyć w miejscu celowania wir próżni zasysający wrogów i eksplodujący po kilku sekundach!"]
 	quest.5E3263ACE170A8E3.title: "&dGauntlet of &eMaelstrom"
+	quest.5EB09EFC237E5F98.quest_desc: ["Standardowe tory kolejowe (&eTrain Track&r) oznaczają koniec ograniczeń taśmociągów. Buduj tory na ziemi, w tunelach, na estakadach, a nawet przeprowadź je przez portale do innych wymiarów!"]
+	quest.5EB09EFC237E5F98.quest_subtitle: "16x Train Track"
+	quest.5EB09EFC237E5F98.title: "Infrastruktura Torowa: Train Track"
 	quest.5EB7CE3A1DCD3E9B.quest_desc: ["&cUniversal Attractor&r działa jak potężny magnes przyciągający leżące w pobliżu przedmioty oraz kule doświadczenia."]
 	quest.5EB7CE3A1DCD3E9B.quest_subtitle: "Pas"
 	quest.5EB7CE3A1DCD3E9B.title: "&cUniversal Attractor&r"
@@ -1306,9 +1377,18 @@
 	]
 	quest.60CECAAE2D43EC6E.quest_subtitle: "Cofnij swoje ostatnie kroki"
 	quest.60CECAAE2D43EC6E.title: "&5Clot of Time&r"
+	quest.610A4F6E9A271976.quest_desc: ["Słoneczne monety (Suns) – najwyższa i najbardziej legendarna waluta w świecie AeroStratum."]
+	quest.610A4F6E9A271976.quest_subtitle: "128x Sun"
+	quest.610A4F6E9A271976.title: "Waluta: Słoneczne Suns"
 	quest.61217D80BFF8A858.quest_desc: ["Trzeci, ostateczny wariant smyczy (&a75 Eterna&r, &c85% Quanta&r, &560–85% Arcana&r ze schwytaną Wiedźmą w środku). Jest całkowicie niezniszczalna i potrafi bezpośrednio przepisywać schwytane moby do spawnerów!"]
 	quest.61217D80BFF8A858.quest_subtitle: "Bezpośredni zapis mobów do spawnera"
 	quest.61217D80BFF8A858.title: "&5Occult Ender Lead"
+	quest.61561E89EAFA3A4E.quest_desc: ["Sprzęg liniowy (&eTrack Coupler&r) pozwala na automatyczne łączenie i rozczepianie wagonów na wyznaczonych stacjach bez konieczności ręcznego manewrowania."]
+	quest.61561E89EAFA3A4E.quest_subtitle: "1x Track Coupler"
+	quest.61561E89EAFA3A4E.title: "Automatyczny Sprzęg: Track Coupler"
+	quest.616551AAD11A8F3E.quest_desc: ["Cenne monety z brązu maszynowego (Cogs) dla zaawansowanych inwestorów i fabryk."]
+	quest.616551AAD11A8F3E.quest_subtitle: "128x Cog"
+	quest.616551AAD11A8F3E.title: "Waluta: Mosiężne Cogs"
 	quest.61C0DE1432691045.quest_desc: ["Podstawowy urobek z połączenia wody i lawy. Fundament pod mielenie na żwir, piasek oraz żelazo."]
 	quest.61C0DE1432691045.quest_subtitle: "64x Cobblestone"
 	quest.61C0DE1432691045.title: "Ekstruzja: Bruk"
@@ -1319,6 +1399,9 @@
 	quest.623796B1D7981E59.quest_desc: ["&4Crystal Heart&r na stałe zwiększa Twoje maksymalne zdrowie o dodatkowe serca, dopóki masz je założone."]
 	quest.623796B1D7981E59.quest_subtitle: "Pas"
 	quest.623796B1D7981E59.title: "&4Crystal Heart&r"
+	quest.624F528C7A37B331.quest_desc: ["Skalibrowany, dostrojony kryształ (Tuned Crystal) – niezwykle precyzyjny komponent łączący zaawansowaną optykę z czystą energią rezonansową kryształów ametystu."]
+	quest.624F528C7A37B331.quest_subtitle: "1x Tuned Crystal"
+	quest.624F528C7A37B331.title: "Rezonator Kwarcowy: Tuned Crystal"
 	quest.62622137648A4F56.quest_desc: ["Podczas noszenia &7Pickaxe Heater&r wykopywane rudy metali są automatycznie przetapiane na sztabki!"]
 	quest.62622137648A4F56.quest_subtitle: "Dłonie"
 	quest.62622137648A4F56.title: "&7Pickaxe Heater&r"
@@ -1542,6 +1625,9 @@
 	quest.7188DC06A28AE30E.quest_desc: ["&eGolden Hook&r zwiększa ilość punktów doświadczenia wypadających z pokonanych potworów."]
 	quest.7188DC06A28AE30E.quest_subtitle: "Dłonie"
 	quest.7188DC06A28AE30E.title: "&eGolden Hook&r"
+	quest.71FF1146DC4CC8BF.quest_desc: ["Złote korony (Crowns) – elitarne środki płatnicze dla największych potentatów przemysłowych."]
+	quest.71FF1146DC4CC8BF.quest_subtitle: "128x Crown"
+	quest.71FF1146DC4CC8BF.title: "Waluta: Złote Crowns"
 	quest.7270FA5C48AF7280.quest_desc: ["&3Cursium Armor&r pozwala podświetlać wrogów przez ściany (klawisz C), zapewnia wbudowany efekt Totemu Nieśmiertelności na napierśniku oraz odrzutowy odskok na butach (klawisz V)!"]
 	quest.7270FA5C48AF7280.title: "&3Cursium Armor"
 	quest.7292BDEC4D72AF07.quest_desc: ["Ulepszona, mosiężna wersja ekstrudera mechanicznego. Wytrzymuje wyższe ciśnienia i pozwala generować egzotyczne skały z innych wymiarów!"]
@@ -1618,6 +1704,9 @@
 	quest.766C80E5D7B7A916.quest_desc: ["Forma do odlewania głowicy kilofa modułowego."]
 	quest.766C80E5D7B7A916.quest_subtitle: "Wybierz swój stop!"
 	quest.766C80E5D7B7A916.title: "Forma: Kilof (Pickaxe Cast)"
+	quest.7673A2276567637C.quest_desc: ["Pokrycie ociosanego drewna szlachetnym mosiądzem tworzy obudowę wyższej klasy, wymaganą zarówno do zaawansowanych maszyn Create, jak i terminali handlowych."]
+	quest.7673A2276567637C.quest_subtitle: "1x Brass Casing"
+	quest.7673A2276567637C.title: "Szlachetna Rama: Mosiężna Obudowa"
 	quest.775AB10F8196F27B.quest_desc: ["&4Eye of Mech&r poprowadzi Cię pod ziemię do &4Ancient Factory&r, gdzie spoczywa &4&lThe Harbinger&r."]
 	quest.775AB10F8196F27B.title: "&4Eye of Mech&r"
 	quest.77A8E8122870BBCE.quest_desc: ["Niezniszczalna smycz z Apothic Enchanting. Choć nie jest jajkiem przyzywającym, pozwala schwytać żywego moba i bezpośrednio przypisać go do spawnera!"]
@@ -1666,6 +1755,9 @@
 	quest.7AED8FD7FB023AD8.title: "Nether Star"
 	quest.7AEE4BE3AB41ED3E.quest_desc: ["Połączenie &bIgnitium Chestplate&r z Elytrą w Kowadle Fuzji daje pełną ochronę pancerza połączoną ze swobodnym lotem!"]
 	quest.7AEE4BE3AB41ED3E.title: "&bIgnitium Elytra Chestplate"
+	quest.7B78185CC8524651.quest_desc: ["Automat sprzedażowy (Vendor) z systemu Create: Numismatics pozwala wystawiać wyprodukowane w fabryce towary na sprzedaż lub skupować surowce. Odblokowuje gałąź handlu i bankowości w Erze 2.5!"]
+	quest.7B78185CC8524651.quest_subtitle: "1x Vendor"
+	quest.7B78185CC8524651.title: "Automat Handlowy: Vendor"
 	quest.7C2AADE731F3CA8F.quest_desc: ["Aby zbudować obudowę maszyny, potrzebujesz gładkiego, obrobionego drewna. Użyj topora na postawionym drzewie, aby ściągnąć z niego korę. Tak przygotowane bale będą idealnym korpusem dla andezytowej obudowy."]
 	quest.7C2AADE731F3CA8F.quest_subtitle: "8x Ociosana kłoda (Stripped Log)"
 	quest.7C2AADE731F3CA8F.title: "Kora precz!"
@@ -1787,170 +1879,4 @@
 	task.68DC39876E14FC1B.title: "Pokonaj 1x Mimic"
 	task.76E296A2AD3EFE92.title: "Dowolny #productivemetalworks:foundry_controllers"
 	task.79FB7E7194336B30.title: "Stoły do Zaklinania"
-	quest.0FE2DBCBDD761DD0.quest_desc: [
-		"Stacja Kolejowa (&eTrain Station&r) to serce każdej sieci logistycznej. Pozwala nadawać pociągom nazwy, zarządzać ich montażem oraz tworzyć rozkłady jazdy, dzięki którym składy będą kursować całkowicie autonomicznie między Twoimi fabrykami."
-	]
-	quest.0FE2DBCBDD761DD0.quest_subtitle: "1x Train Station"
-	quest.0FE2DBCBDD761DD0.title: "Przystanek Logistyczny: Train Station"
-
-	quest.26171E29A87D7516.quest_desc: [
-		"Sterowniki pociągu (&eTrain Controls&r) montowane na lokomotywie pozwalają na ręczne prowadzenie składu, a także służą jako punkt zakotwiczenia dla maszynisty lub automatycznego rozkładu jazdy."
-	]
-	quest.26171E29A87D7516.quest_subtitle: "1x Train Controls"
-	quest.26171E29A87D7516.title: "Pulpit Maszynisty: Train Controls"
-
-	quest.5EB09EFC237E5F98.quest_desc: [
-		"Standardowe tory kolejowe (&eTrain Track&r) oznaczają koniec ograniczeń taśmociągów. Buduj tory na ziemi, w tunelach, na estakadach, a nawet przeprowadź je przez portale do innych wymiarów!"
-	]
-	quest.5EB09EFC237E5F98.quest_subtitle: "16x Train Track"
-	quest.5EB09EFC237E5F98.title: "Infrastruktura Torowa: Train Track"
-
-	quest.5562CBEDFDFDCF1E.quest_desc: [
-		"Sygnalizator torowy (&eTrack Signal&r) to klucz do bezpiecznego zarządzania ruchem wielu pociągów na jednej sieci. Dzieli tory na bloki, zapobijając czołowym zderzeniom i kolizjom składów."
-	]
-	quest.5562CBEDFDFDCF1E.quest_subtitle: "1x Track Signal"
-	quest.5562CBEDFDFDCF1E.title: "Kontrola Ruchu: Track Signal"
-
-	quest.61561E89EAFA3A4E.quest_desc: [
-		"Sprzęg liniowy (&eTrack Coupler&r) pozwala na automatyczne łączenie i rozczepianie wagonów na wyznaczonych stacjach bez konieczności ręcznego manewrowania."
-	]
-	quest.61561E89EAFA3A4E.quest_subtitle: "1x Track Coupler"
-	quest.61561E89EAFA3A4E.title: "Automatyczny Sprzęg: Track Coupler"
-
-	quest.0864368D14D8B122.quest_desc: [
-		"Czujnik torowy (&eTrack Observer&r) wysyła impuls Redstone, gdy przejeżdża nad nim pociąg, co pozwala w pełni zautomatyzować przejazdy, zwrotnice i automatykę stacyjną."
-	]
-	quest.0864368D14D8B122.quest_subtitle: "1x Track Observer"
-	quest.0864368D14D8B122.title: "Sygnalizator Przejazdu: Track Observer"
-
-	quest.3223B14E53AACFB5.quest_desc: [
-		"Semafory z rozszerzenia *Steam 'n' Rails* dodają klimatyczne, klasyczne sygnalizatory świetlne i mechaniczne, które ułatwiają organizację ruchu w dużych węzłach kolejowych."
-	]
-	quest.3223B14E53AACFB5.quest_subtitle: "1x Semaphore"
-	quest.3223B14E53AACFB5.title: "Kolejowa Semaforyka: Semaphore"
-
-	quest.55856C6C83B373C8.quest_desc: [
-		"Terminal Bankowy (&eBank Terminal&r) to cyfrowy punkt dostępu do Twojego konta. Pozwala wpłacać i wypłacać zarobione monety Numismatics z dowolnego miejsca w bazie."
-	]
-	quest.55856C6C83B373C8.quest_subtitle: "1x Bank Terminal"
-	quest.55856C6C83B373C8.title: "Terminal Finansowy: Bank Terminal"
-
-	quest.4AFA8BFE92464E0B.quest_desc: [
-		"Superklej pozwala spoić ze sobą bloki tworzące ruchome struktury pociągów, statków lub maszyn kopalnianych. Pamiętaj: klej łączy tylko elementy ze sobą – upewnij się, że konstrukcja nie dotyka statycznego podłoża świata przed montażem!"
-	]
-	quest.4AFA8BFE92464E0B.quest_subtitle: "1x Super Glue"
-	quest.4AFA8BFE92464E0B.title: "Spoiwo Konstrukcyjne: Super Glue"
-
-	quest.5321B27210EC7889.quest_desc: [
-		"Przenośny interfejs magazynowy (&ePortable Storage Interface&r) to klucz do bezobsługowego handlu i logistyki! Zamontuj jedną część na pociągu, a drugą na stacji – gdy pociąg zatrzyma się w zasięgu, interfejsy automatycznie opróżnią lub napełnią skrzynie wagonów."
-	]
-	quest.5321B27210EC7889.quest_subtitle: "1x Portable Storage Interface"
-	quest.5321B27210EC7889.title: "Przeładunek Towarów: Portable Storage Interface"
-
-	quest.330DC46048D1DD2C.quest_desc: [
-		"Miedziany wariant interfejsu przeładunkowego. Służy do bezprzewodowego wypompowywania i wpompowywania płynów (np. lawy lub oleju) z cystern pociągu w trakcie postoju na stacji."
-	]
-	quest.330DC46048D1DD2C.quest_subtitle: "1x Portable Fluid Interface"
-	quest.330DC46048D1DD2C.title: "Przeładunek Płynów: Portable Fluid Interface"
-
-	quest.157C30BEA13822AD.quest_desc: [
-		"Drobne monety miedziane (Spurs) – podstawowa waluta rozliczeniowa w najprostszych transakcjach handlowych."
-	]
-	quest.157C30BEA13822AD.quest_subtitle: "128x Spur"
-	quest.157C30BEA13822AD.title: "Waluta: Miedziane Spurs"
-
-	quest.512F63EFDDECC3BA.quest_desc: [
-		"Brązowe monety (Bevels) stosowane w standardowym handlu i automatycznych wendorach."
-	]
-	quest.512F63EFDDECC3BA.quest_subtitle: "128x Bevel"
-	quest.512F63EFDDECC3BA.title: "Waluta: Brązowe Bevels"
-
-	quest.2DFE2B76C12BB770.quest_desc: [
-		"Monety zębate (Sprockets) o wyższej wartości nominalnej, używane przy transakcjach o większej skali."
-	]
-	quest.2DFE2B76C12BB770.quest_subtitle: "128x Sprocket"
-	quest.2DFE2B76C12BB770.title: "Waluta: Zębate Sprockets"
-
-	quest.616551AAD11A8F3E.quest_desc: [
-		"Cenne monety z brązu maszynowego (Cogs) dla zaawansowanych inwestorów i fabryk."
-	]
-	quest.616551AAD11A8F3E.quest_subtitle: "128x Cog"
-	quest.616551AAD11A8F3E.title: "Waluta: Mosiężne Cogs"
-
-	quest.71FF1146DC4CC8BF.quest_desc: [
-		"Złote korony (Crowns) – elitarne środki płatnicze dla największych potentatów przemysłowych."
-	]
-	quest.71FF1146DC4CC8BF.quest_subtitle: "128x Crown"
-	quest.71FF1146DC4CC8BF.title: "Waluta: Złote Crowns"
-
-	quest.610A4F6E9A271976.quest_desc: [
-		"Słoneczne monety (Suns) – najwyższa i najbardziej legendarna waluta w świecie AeroStratum."
-	]
-	quest.610A4F6E9A271976.quest_subtitle: "128x Sun"
-	quest.610A4F6E9A271976.title: "Waluta: Słoneczne Suns"
-
-	quest.10630E102680BE46.quest_desc: [
-		"Cyfrowa karta bankowa powiązana z Twoim kontem. Umożliwia dokonywanie płatności w automatach bez noszenia fizycznej gotówki w ekwipunku."
-	]
-	quest.10630E102680BE46.quest_subtitle: "1x Bank Card"
-	quest.10630E102680BE46.title: "Karta Płatnicza: Bank Card"
-
-	quest.54AED5CB96719AEF.quest_desc: [
-		"Dowód tożsamości (ID Card) niezbędny do autoryzacji transakcji oraz zarządzania wspólnymi kontami firmowymi i uprawnieniami w systemie bankowym."
-	]
-	quest.54AED5CB96719AEF.quest_subtitle: "1x ID Card"
-	quest.54AED5CB96719AEF.title: "Identyfikator: ID Card"
-	quest.2E5D835D2B5D7078.quest_desc: ["Andezyt świetnie znosi naprężenia kinetyczne, ale przy kontakcie z cieczami i wysokim ciśnieniem szybko zawodzi. Pokrycie drewna miedzią otwiera drzwi do równoległej gałęzi inżynierii płynów (Era 1.5)!"]
-	quest.2E5D835D2B5D7078.quest_subtitle: "1x Copper Casing"
-	quest.2E5D835D2B5D7078.title: "Szczelna Konstrukcja: Miedziana Obudowa"
-	quest.33938479111093D4.quest_desc: ["Polewaczka (Spout) pozwala precyzyjnie oblewać przepływające pod nią przedmioty płynami, co jest kluczowe w alchemii i obróbce zaawansowanych materiałów termicznych."]
-	quest.33938479111093D4.quest_subtitle: "1x Spout"
-	quest.33938479111093D4.title: "Precyzyjne Polewanie: Spout"
-
-	quest.39DCA7A982DE8844.quest_desc: ["Krystaliczna lawa kwarcowa to zaawansowany materiał przewodzący ciepło, pozwalający na budowę wydajniejszych motorów i instalacji wysokotemperaturowych."]
-	quest.39DCA7A982DE8844.quest_subtitle: "1x Lava Quartz"
-	quest.39DCA7A982DE8844.title: "Krystaliczny Żar: Lava Quartz"
-
-	quest.2620887DD91A83FA.quest_desc: ["Wyszlifowany kwarc lawowy stabilizuje przepływy termiczne, stanowiąc kluczowy komponent do budowy nowoczesnych przewodów napędowych."]
-	quest.2620887DD91A83FA.quest_subtitle: "1x Polished Lava Quartz"
-	quest.2620887DD91A83FA.title: "Wyszlifowany Kwarc Lawowy"
-
-	quest.290B16E2D899BB92.quest_desc: ["Zaawansowany przewód lawowy (Lava Tube) z modyfikacji silników to potężny komponent przesyłowy, odporny na ekstremalne temperatury roztopionych surowców."]
-	quest.290B16E2D899BB92.quest_subtitle: "1x Lava Tube"
-	quest.290B16E2D899BB92.title: "Magistrala Termiczna: Lava Tube"
-	quest.624F528C7A37B331.quest_desc: ["Skalibrowany, dostrojony kryształ (Tuned Crystal) – niezwykle precyzyjny komponent łączący zaawansowaną optykę z czystą energią rezonansową kryształów ametystu."]
-	quest.624F528C7A37B331.quest_subtitle: "1x Tuned Crystal"
-	quest.624F528C7A37B331.title: "Rezonator Kwarcowy: Tuned Crystal"
-
-	quest.55D2E65AE3E743B8.quest_desc: ["Mechanizm częstotliwościowy (Frequency Mechanism) to zaawansowany podzespół sterujący falami energii i przesyłem danych na odległość w najnowszych systemach logistycznych."]
-	quest.55D2E65AE3E743B8.quest_subtitle: "1x Frequency Mechanism"
-	quest.55D2E65AE3E743B8.title: "Moduł Częstotliwości: Frequency Mechanism"
-	quest.4EF90C7524A7BF7B.quest_desc: ["Zaawansowany układ obliczeniowy z moda ExtraStorage łączący procesy budowania i demontażu. Niezbędny do wykuwania wieloslotowych Autocrafterów ze złota, diamentu oraz netherytu."]
-	quest.4EF90C7524A7BF7B.quest_subtitle: "1x Neural Processor"
-	quest.4EF90C7524A7BF7B.title: "Procesor Neuralny: Neural Processor"
-
-	quest.10407EB6CEA8C111.quest_desc: ["Przepuszczenie twardego obsydianu przez Koła Kruszące (Crushing Wheels) rozbija go na drobny pył obsydianowy – kluczowy półprodukt do wyrobu płyt kolejowych."]
-	quest.10407EB6CEA8C111.quest_subtitle: "1x Powdered Obsidian"
-	quest.10407EB6CEA8C111.title: "Pył Wulkaniczny: Powdered Obsidian"
-
-	quest.2289860C15742201.quest_desc: ["Nasączenie pyłu obsydianowego lawą i sprasowanie go prasą mechaniczną tworzy niezwykle odporny arkusz Sturdy Sheet, zdolny wytrzymać ogromne obciążenia składów kolejowych."]
-	quest.2289860C15742201.quest_subtitle: "1x Sturdy Sheet"
-	quest.2289860C15742201.title: "Pancerna Blacha: Sturdy Sheet"
-
-	quest.58A47CC6FA0623C7.quest_desc: ["Połączenie mosiężnej obudowy z pancernym arkuszem Sturdy Sheet daje Obudowę Kolejową (Train Casing) – fundament pod budowę stacji, zwrotnic, semaforów oraz potężnych lokomotyw w Erze 2.5!"]
-	quest.58A47CC6FA0623C7.quest_subtitle: "1x Train Casing"
-	quest.58A47CC6FA0623C7.title: "Fundament Kolei: Train Casing"
-
-	quest.7673A2276567637C.quest_desc: ["Pokrycie ociosanego drewna szlachetnym mosiądzem tworzy obudowę wyższej klasy, wymaganą zarówno do zaawansowanych maszyn Create, jak i terminali handlowych."]
-	quest.7673A2276567637C.quest_subtitle: "1x Brass Casing"
-	quest.7673A2276567637C.title: "Szlachetna Rama: Mosiężna Obudowa"
-
-	quest.7B78185CC8524651.quest_desc: ["Automat sprzedażowy (Vendor) z systemu Create: Numismatics pozwala wystawiać wyprodukowane w fabryce towary na sprzedaż lub skupować surowce. Odblokowuje gałąź handlu i bankowości w Erze 2.5!"]
-	quest.7B78185CC8524651.quest_subtitle: "1x Vendor"
-	quest.7B78185CC8524651.title: "Automat Handlowy: Vendor"
-
-	quest.2F3529FE1972F011.title: "EKSPORT NA MASOWĄ SKALĘ"
-	quest.40DD894C85D0FC54.title: "Płatności bezgotówkowe"
-	quest.48DB0587E8C58888.title: "Pierwszy sklep"
-	quest.4BD783487E35F8A0.title: "Montaż pierwszego składu"
 }

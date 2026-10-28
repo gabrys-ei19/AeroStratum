@@ -6,8 +6,8 @@
     "animal_owner": true,
     "harvest_tool.effective_tool": true,
     "energy_storage.style": "PROGRESS_BAR",
-    "item_storage.normal_amount": 9,
     "item_storage": true,
+    "item_storage.normal_amount": 9,
     "harvest_tool": true,
     "armor_stand": true,
     "fluid_storage.detailed": false,
@@ -82,14 +82,15 @@
   "apotheosis": {
     "adventure": true
   },
+  "apothic_enchanting": {
+    "ench": true
+  },
   "stockbridge": {
+    "colony_demand_terminal": true,
     "network_interface": true
   },
   "balm": {
     "jade": true
-  },
-  "apothic_enchanting": {
-    "ench": true
   },
   "functionalstorage": {
     "armory": true,
@@ -113,9 +114,9 @@
     "grave": true
   },
   "createfood": {
-    "ration_box": true,
     "small_bowl": true,
     "consumable_block": true,
+    "ration_box": true,
     "generic_display": true,
     "empty_display": true,
     "cloth_sack": true,

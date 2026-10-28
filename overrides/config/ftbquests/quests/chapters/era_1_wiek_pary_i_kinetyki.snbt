@@ -1778,5 +1778,19 @@
 			x: 15.0d
 			y: 4.0d
 		}
+		{
+			dependencies: ["5052424165D93DE0"]
+			id: "7F85B2BF7D561259"
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				count: 16L
+				id: "50B2BAF00D896CDB"
+				item: { count: 1, id: "tfmg:cast_iron_ingot" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -5.0d
+		}
 	]
 }

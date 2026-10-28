@@ -1,0 +1,10 @@
+#Energy consumption (FE/t) for the Network Interface block.
+#Comparison: Cable=0, Importer=1, Detector=2, Constructor=3, Pattern Grid=5
+#Set to 0 to work without a controller.
+# Default: 2
+# Range: 0 ~ 100
+networkInterfaceEnergy = 2
+#How long (milliseconds) to cache virtual slot counts for performance.
+# Default: 1000
+# Range: 100 ~ 10000
+slotCacheMs = 1000

@@ -15,5 +15,116 @@
 		x: -2.5d
 		y: -2.0d
 	}]
-	quests: [ ]
+	quests: [
+		{
+			id: "522FEED183C8A336"
+			tasks: [{
+				id: "3D54847540C33A12"
+				item: { count: 1, id: "kubejs:calibrated_eye" }
+				type: "item"
+			}]
+			x: 7.0d
+			y: 1.0d
+		}
+		{
+			id: "0E95E4B31FAAA302"
+			tasks: [{
+				id: "1CFEDA0BA23B098E"
+				item: { count: 1, id: "refinedstorage:wireless_transmitter" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -4.0d
+		}
+		{
+			id: "4A24DA33BEE3A811"
+			tasks: [{
+				id: "7A12E607A0E4CB88"
+				item: { count: 1, id: "refinedstorage:wireless_grid" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -4.0d
+		}
+		{
+			id: "6E658B90C461B780"
+			tasks: [{
+				id: "0B72729B791A9FC5"
+				item: { count: 1, id: "refinedstorage_quartz_arsenal:wireless_crafting_grid" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -4.0d
+		}
+		{
+			id: "3B0B66B63CBC2B95"
+			tasks: [{
+				id: "3BBE3B3B7EBFE185"
+				item: { count: 1, id: "refinedstorage:wireless_autocrafting_monitor" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			id: "2A06B565FA164BA6"
+			tasks: [{
+				id: "0769E3065FCA44F5"
+				item: { count: 1, id: "universalgrid:wireless_universal_grid" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -5.0d
+		}
+		{
+			id: "6B1BE47AD392F691"
+			tasks: [{
+				id: "68F6AF7E2A58413A"
+				item: { count: 1, id: "refinedstorage:range_upgrade" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -5.0d
+		}
+		{
+			id: "6B9C2FA763FBFEE9"
+			tasks: [{
+				id: "5240A315B4474939"
+				item: { count: 1, id: "rsinfinitybooster:infinity_card" }
+				type: "item"
+			}]
+			x: -3.0d
+			y: -6.0d
+		}
+		{
+			id: "7416DF97ADE75B5B"
+			tasks: [{
+				id: "0F105648BBC1F705"
+				item: { count: 1, id: "refinedstorage:network_transmitter" }
+				type: "item"
+			}]
+			x: 1.0d
+			y: -4.0d
+		}
+		{
+			id: "546F46CDDD7635D1"
+			tasks: [{
+				id: "418BA603B5FC9322"
+				item: { count: 1, id: "refinedstorage:network_receiver" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -4.0d
+		}
+		{
+			id: "03926625AD63F168"
+			tasks: [{
+				id: "5AD930024FB65484"
+				item: { count: 1, id: "refinedstorage:network_card" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -5.0d
+		}
+	]
 }

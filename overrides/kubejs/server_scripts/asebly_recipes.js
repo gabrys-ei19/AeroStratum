@@ -98,7 +98,7 @@ ServerEvents.recipes(event => {
         ]
     ).transitionalItem('kubejs:incomplete_tuned_crystal').loops(2).id('kubejs:assembly/tuned_crystal_v2')
 
-    // 7. CALIBRATED MECHANISM
+    // 7. FREQUENCY MECHANISM
     event.recipes.create.sequenced_assembly(
         ['kubejs:frequency_mechanism'],
         'create:sturdy_sheet',
@@ -111,6 +111,8 @@ ServerEvents.recipes(event => {
             event.recipes.create.deploying('kubejs:incomplete_frequency_mechanism', ['kubejs:incomplete_frequency_mechanism', 'kubejs:tuned_crystal'])
         ]
     ).transitionalItem('kubejs:incomplete_frequency_mechanism').loops(2).id('kubejs:assembly/frequency_mechanism_v2')
+
+    // 8. CALIBRATED EYE
 
     // ==========================================
     // 1. GYROSCOPIC MECHANISM (Create Simulated)
@@ -142,4 +144,32 @@ ServerEvents.recipes(event => {
             event.recipes.create.deploying('tfmg:unfinished_steel_mechanism', ['tfmg:unfinished_steel_mechanism', 'tfmg:screwdriver'])
         ]
     ).transitionalItem('tfmg:unfinished_steel_mechanism').loops(2).id('kubejs:assembly/custom_steel_mechanism_v2'); // Nasze własne ID dla nowej receptury
+
+    event.recipes.create.sequenced_assembly(
+        ['rsinfinitybooster:infinity_card'],
+        'refinedstorage:upgrade',
+        [
+            event.recipes.create.deploying('refinedstorage:upgrade', ['refinedstorage:upgrade', 'refinedstorage:range_upgrade']),
+            event.recipes.create.deploying('refinedstorage:upgrade', ['refinedstorage:upgrade', 'kubejs:tuned_crystal']),
+            event.recipes.create.deploying('refinedstorage:upgrade', ['refinedstorage:upgrade', 'refinedstorage:range_upgrade']),
+            event.recipes.create.filling('refinedstorage:upgrade', ['refinedstorage:upgrade', Fluid.of('create_deep_dark:molten_echo', 100)]),
+            event.recipes.create.deploying('refinedstorage:upgrade', ['refinedstorage:upgrade', 'refinedstorage:range_upgrade']),
+            event.recipes.create.deploying('refinedstorage:upgrade', ['refinedstorage:upgrade', 'kubejs:frequency_mechanism']),
+            event.recipes.create.deploying('refinedstorage:upgrade', ['refinedstorage:upgrade', 'refinedstorage:range_upgrade'])
+        ]
+    ).transitionalItem('refinedstorage:upgrade').loops(2).id('kubejs:assembly/custom_infinity_card'); // Nasze własne ID dla nowej receptury
+
+    event.recipes.create.sequenced_assembly(
+        ['rsinfinitybooster:dimension_card'],
+        'refinedstorage:range_upgrade',
+        [
+            event.recipes.create.deploying('refinedstorage:range_upgrade', ['refinedstorage:range_upgrade', 'rsinfinitybooster:infinity_card']),
+            event.recipes.create.deploying('refinedstorage:range_upgrade', ['refinedstorage:range_upgrade', 'kubejs:calibrated_eye']),
+            event.recipes.create.deploying('refinedstorage:range_upgrade', ['refinedstorage:range_upgrade', 'rsinfinitybooster:infinity_card']),
+            event.recipes.create.filling('refinedstorage:range_upgrade', ['refinedstorage:range_upgrade', Fluid.of('productivemetalworks:molten_enderium', 108)]),
+            event.recipes.create.deploying('refinedstorage:range_upgrade', ['refinedstorage:range_upgrade', 'rsinfinitybooster:infinity_card']),
+            event.recipes.create.deploying('refinedstorage:range_upgrade', ['refinedstorage:range_upgrade', 'kubejs:frequency_mechanism']),
+            event.recipes.create.deploying('refinedstorage:range_upgrade', ['refinedstorage:range_upgrade', 'rsinfinitybooster:infinity_card'])
+        ]
+    ).transitionalItem('refinedstorage:range_upgrade').loops(2).id('kubejs:assembly/custom_dimension_card'); // Nasze własne ID dla nowej receptury
 })

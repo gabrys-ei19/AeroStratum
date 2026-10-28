@@ -107,6 +107,15 @@ const shapedRecipes = [
         ]
     },
 
+        {
+        output: 'kubejs:zinc_redstone_machine',
+        input: [
+            ' ', 'minecraft:redstone', ' ',
+            'minecraft:redstone', 'createages:zinc_machine', 'minecraft:redstone',
+            ' ', 'minecraft:redstone', ' '
+        ]
+    },
+
    //// 2x2 Recipe
    //{
    //    output: '5x minecraft:flint',
@@ -326,6 +335,13 @@ ServerEvents.recipes(event => {
     ).id('kubejs:machine_casing_to_rs_wireless_transmitter')
 
     event.smithing(
+        'create:transmitter',
+        'minecraft:lightning_rod',
+        'kubejs:frequency_mechanism',
+        'create:electron_tube'
+    ).id('kubejs:machine_casing_to_create_transmitter')
+
+    event.smithing(
         'kubejs:digital_tank',
         'createages:zinc_machine',
         'createages:zinc_mechanism',
@@ -339,6 +355,90 @@ ServerEvents.recipes(event => {
         'minecraft:crafting_table'
     ).id('kubejs:brass_machine_to_rs_crafting_monitor')
 
+    event.smithing(
+        'create:counter_gauge',
+        'create:precision_mechanism',
+        'createages:zinc_mechanism',
+        'create:electron_tube'
+    ).id('kubejs:zinc_machine_to_create_counter_gauge')
+
+    event.smithing(
+        'create:linked_controller',
+        'create:electron_tube',
+        'kubejs:frequency_mechanism',
+        '#minecraft:wooden_slabs'
+    ).id('kubejs:zinc_machine_to_create_linked_controller')
+
+    event.smithing(
+        'universalgrid:wireless_universal_grid',
+        'refinedstorage:wireless_autocrafting_monitor',
+        'refinedstorage:wireless_grid',
+        'refinedstorage_quartz_arsenal:wireless_crafting_grid'
+    ).id('kubejs:grids_wireless_universal_grid')
+
+    event.smithing(
+        'refinedstorage:wireless_grid',
+        'kubejs:frequency_mechanism',
+        'refinedstorage:grid',
+        'extrastorage:neural_processor'
+    ).id('kubejs:grids_wireless_grid')
+
+    event.smithing(
+        'refinedstorage:wireless_autocrafting_monitor',
+        'kubejs:frequency_mechanism',
+        'refinedstorage:autocrafting_monitor',
+        'extrastorage:neural_processor'
+    ).id('kubejs:grids_wireless_autocrafting_monitor')
+
+    event.smithing(
+        'refinedstorage_quartz_arsenal:wireless_crafting_grid',
+        'kubejs:frequency_mechanism',
+        'refinedstorage:crafting_grid',
+        'extrastorage:neural_processor'
+    ).id('kubejs:grids_wireless_crafting_grid')
+
+    event.smithing(
+        'refinedstorage:network_card',
+        "minecraft:paper",
+        'kubejs:frequency_mechanism',
+        'extrastorage:neural_processor'
+    ).id('kubejs:grids_wireless_fluid_grid')
+
+    event.smithing(
+        'kubejs:digital_accumulator',
+        'createages:zinc_machine',
+        'createages:zinc_mechanism',
+        'tfmg:accumulator'
+    ).id('kubejs:zinc_mechanism_to_rs_digital_accumulator')
+
+    event.smithing(
+        'refinedstorage:network_transmitter',
+        'kubejs:frequency_mechanism',
+        'refinedstorage:machine_casing',
+        'create:transmitter'
+    ).id('kubejs:casing_to_rs_transmitter')
+
+    event.smithing(
+        'refinedstorage:network_receiver',
+        'create:transmitter',
+        'refinedstorage:machine_casing',
+        'kubejs:frequency_mechanism'   
+    ).id('kubejs:casing_to_rs_receiver')
+
+    event.smithing(
+        'refinedstorage:storage_monitor',
+        'refinedstorage:machine_casing',
+        'kubejs:brass_redstone_machine',
+        'create:display_link'
+    ).id('kubejs:casing_to_rs_monitor2')
+
+    event.smithing(
+        'refinedstorage:relay',
+        'refinedstorage:machine_casing',
+        'kubejs:brass_redstone_machine',
+        'create:powered_toggle_latch',
+    ).id('kubejs:casing_to_rs_relay')
+
     // Stonecutting Recipes
 
     // It takes the output item and the input item (source block/item)
@@ -347,6 +447,11 @@ ServerEvents.recipes(event => {
     }
 
     stonecut('3x create:stockpile_switch', 'createages:brass_machine');
+    stonecut('create:stock_link', 'createages:zinc_redstone_machine');
+    stonecut('2x create:redstone_link', 'kubejs:zinc_redstone_machine');
+    stonecut('4x create:display_link', 'kubejs:zinc_redstone_machine');
+    stonecut('4x create:packager', 'kubejs:zinc_redstone_machine');
+    stonecut('4x create:redstone_requester', 'kubejs:zinc_redstone_machine');
     stonecut('refinedstorage:autocrafting_monitor', 'refinedstorage:autocrafter_manager');
     stonecut('refinedstorage:autocrafter_manager', 'refinedstorage:autocrafting_monitor');
     stonecut('5x create:clutch', 'kubejs:andesite_redstone_machine');
@@ -397,9 +502,30 @@ ServerEvents.recipes(event => {
     });
 });
 
-// ServerEvents.recipes(event => {
-//   const colors = [
-//     'white', 'orange', 'magenta', 'light_blue', 'yellow', 'lime', 'pink', 'gray',
-//     'light_gray', 'cyan', 'purple', 'blue', 'brown', 'green', 'red', 'black'
-//   ]
-// });
+ServerEvents.recipes(event => {
+    const colors = [
+        'white', 'orange', 'magenta', 'light_blue', 'yellow', 'lime', 'pink', 'gray',
+        'light_gray', 'cyan', 'purple', 'blue', 'brown', 'green', 'red', 'black'
+    ]
+
+    // Usuwamy stare receptury stock_linków z kolorowych vaultów
+    event.remove({ id: /create_vibrant_vaults:.*_stock_link.*/ })
+
+    // Lista wszystkich wariantów (zwykły + kolorowe), aby można było przemalować każdy na każdy
+    const allStockLinks = ['create:stock_link'].concat(
+        colors.map(c => `create_vibrant_vaults:${c}_stock_link`)
+    )
+
+    colors.forEach(color => {
+        event.custom({
+            type: 'create_dragons_plus:coloring',
+            color: color,
+            ingredients: [
+                Ingredient.of(allStockLinks).toJson()
+            ],
+            results: [
+                { id: `create_vibrant_vaults:${color}_stock_link`, count: 1 }
+            ]
+        }).id(`kubejs:bulk_coloring/${color}_stock_link`)
+    })
+});

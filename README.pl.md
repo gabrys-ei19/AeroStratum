@@ -78,7 +78,7 @@ Paczka zawiera **wbudowaną, autorską mapę świata** dołączoną bezpośredni
 * `manifest.json` & `modlist.html` – Pliki manifestu paczki dla aplikacji CurseForge oraz Prism Launcher.
 
 ### Jak Zagrać:
-1. Pobierz paczkę przez **CurseForge App** lub **Prism Launcher** ze [strony projektu na CurseForge](https://www.curseforge.com/minecraft/modpacks/aerostratum-integrated-engineering).
+1. Pobierz paczkę przez **CurseForge App** lub **Prism Launcher** ze [strony projektu na CurseForge](https://www.curseforge.com/minecraft/modpacks/aerostratum-integrated-engineering), lub zrób to ręcznie z pliku .zip dostępnego w zakładce **Releases**.
 2. Przypisz **6 GB – 8 GB RAM** w ustawieniach swojego launchera.
 3. Rozpocznij nową grę — wbudowany szablon świata automatycznie umieści Cię w samym sercu **Centralnego Spawnu Handlowego**!
 

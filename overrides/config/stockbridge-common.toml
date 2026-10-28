@@ -1,10 +1,44 @@
-#Energy consumption (FE/t) for the Network Interface block.
-#Comparison: Cable=0, Importer=1, Detector=2, Constructor=3, Pattern Grid=5
-#Set to 0 to work without a controller.
-# Default: 2
-# Range: 0 ~ 100
+#stockbridge.configuration.networkInterfaceEnergy.tooltip
+# Default: 5
+# Range: 0 ~ 2000
 networkInterfaceEnergy = 2
-#How long (milliseconds) to cache virtual slot counts for performance.
-# Default: 1000
-# Range: 100 ~ 10000
+#stockbridge.configuration.slotCacheMs.tooltip
+# Default: 2000
+# Range: 250 ~ 30000
 slotCacheMs = 1000
+#stockbridge.configuration.maxExposedItemSlots.tooltip
+# Default: 512
+# Range: 16 ~ 4096
+maxExposedItemSlots = 512
+#stockbridge.configuration.maxExposedFluidTanks.tooltip
+# Default: 64
+# Range: 8 ~ 1024
+maxExposedFluidTanks = 64
+#stockbridge.configuration.comparatorFullAmount.tooltip
+# Default: 64
+# Range: 1 ~ 2000000000
+comparatorFullAmount = 64
+#stockbridge.configuration.colonyScanRadius.tooltip
+# Default: 256
+# Range: 16 ~ 1024
+colonyScanRadius = 256
+#stockbridge.configuration.colonyRefreshTicks.tooltip
+# Default: 40
+# Range: 5 ~ 600
+colonyRefreshTicks = 40
+#stockbridge.configuration.colonyTerminalEnergy.tooltip
+# Default: 5
+# Range: 0 ~ 2000
+colonyTerminalEnergy = 5
+#stockbridge.configuration.colonyMaxDisplayEntries.tooltip
+# Default: 50
+# Range: 5 ~ 200
+colonyMaxDisplayEntries = 50
+#stockbridge.configuration.wirelessTerminalRange.tooltip
+# Default: 8
+# Range: 2 ~ 16
+wirelessTerminalRange = 8
+#stockbridge.configuration.wirelessTerminalEnergy.tooltip
+# Default: 5
+# Range: 0 ~ 2000
+wirelessTerminalEnergy = 5

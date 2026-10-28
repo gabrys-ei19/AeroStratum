@@ -14,6 +14,7 @@
 	quests: [
 		{
 			dependencies: ["0961A1F2AC4E3A5B"]
+			hide_until_deps_visible: true
 			icon: {
 				id: "minecraft:spawner"
 			}
@@ -333,6 +334,7 @@
 		}
 		{
 			dependencies: ["310969B8FE0A94DE"]
+			hide_until_deps_visible: true
 			icon: {
 				id: "minecraft:creeper_spawn_egg"
 			}
@@ -347,6 +349,7 @@
 		}
 		{
 			dependencies: ["78E94C386B1E7359"]
+			hide_until_deps_visible: true
 			id: "2D8A7065F8CDDDDD"
 			rewards: [
 				{

@@ -1105,5 +1105,30 @@
 			x: 10.0d
 			y: 6.5d
 		}
+		{
+			dependencies: ["0223CC1700D49B6C"]
+			id: "69B7E06793B75BAA"
+			tasks: [{
+				id: "2F8A4CFC2C6770C3"
+				item: { count: 1, id: "refinedstorage:relay" }
+				type: "item"
+			}]
+			x: -4.5d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"0223CC1700D49B6C"
+				"7D0A62106E356F04"
+			]
+			id: "7EA09E5F90FC82E0"
+			tasks: [{
+				id: "53F9E0FAF7B56B02"
+				item: { count: 1, id: "stockbridge:network_interface" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -2.5d
+		}
 	]
 }

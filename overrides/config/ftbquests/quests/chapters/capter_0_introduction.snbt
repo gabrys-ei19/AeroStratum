@@ -336,7 +336,6 @@
 		}
 		{
 			dependencies: ["793CC4C42DE82B09"]
-			hide_until_deps_complete: true
 			id: "7FF173A78D72F662"
 			progression_mode: "linear"
 			rewards: [

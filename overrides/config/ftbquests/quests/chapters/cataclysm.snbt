@@ -19,44 +19,19 @@
 	}]
 	order_index: 3
 	progression_mode: "flexible"
-	quest_links: [ ]
+	quest_links: [{
+		icon: {
+			id: "kubejs:calibrated_eye"
+		}
+		id: "225AB6D5E8BB0CA6"
+		linked_quest: "522FEED183C8A336"
+		size: 1.5d
+		x: 3.0d
+		y: -17.0d
+	}]
 	quests: [
 		{
-			dependencies: ["689F32883C4E9502"]
-			hide_dependency_lines: true
-			icon_scale: 2.0d
-			id: "18EB86F91CBBCCC6"
-			rewards: [
-				{
-					count: 3
-					id: "57DE78815E832C1D"
-					item: {
-						count: 1
-						id: "kubejs:calibrated_eye"
-					}
-					type: "item"
-				}
-				{
-					id: "78D7F3338245FB1A"
-					item: {
-						count: 1
-						id: "numismatics:bevel"
-					}
-					type: "item"
-				}
-			]
-			shape: "none"
-			size: 1.5d
-			tasks: [{
-				id: "783DC38AB4F4EE60"
-				item: { count: 1, id: "kubejs:calibrated_eye" }
-				type: "item"
-			}]
-			x: 3.0d
-			y: -17.0d
-		}
-		{
-			dependencies: ["18EB86F91CBBCCC6"]
+			dependencies: ["522FEED183C8A336"]
 			id: "775AB10F8196F27B"
 			optional: true
 			rewards: [
@@ -99,7 +74,7 @@
 			y: -15.5d
 		}
 		{
-			dependencies: ["18EB86F91CBBCCC6"]
+			dependencies: ["522FEED183C8A336"]
 			id: "43A5B83862D9E94C"
 			optional: true
 			rewards: [
@@ -142,7 +117,7 @@
 			y: -17.5d
 		}
 		{
-			dependencies: ["18EB86F91CBBCCC6"]
+			dependencies: ["522FEED183C8A336"]
 			id: "62C32905C33E2D88"
 			optional: true
 			rewards: [
@@ -185,7 +160,7 @@
 			y: -18.5d
 		}
 		{
-			dependencies: ["18EB86F91CBBCCC6"]
+			dependencies: ["522FEED183C8A336"]
 			id: "7C848C7011726470"
 			optional: true
 			rewards: [
@@ -228,7 +203,7 @@
 			y: -16.5d
 		}
 		{
-			dependencies: ["18EB86F91CBBCCC6"]
+			dependencies: ["522FEED183C8A336"]
 			id: "3E8C7D92F99496BE"
 			optional: true
 			rewards: [
@@ -271,7 +246,7 @@
 			y: -18.5d
 		}
 		{
-			dependencies: ["18EB86F91CBBCCC6"]
+			dependencies: ["522FEED183C8A336"]
 			id: "2542D8A6894816C6"
 			optional: true
 			rewards: [
@@ -2134,7 +2109,7 @@
 			y: -0.5d
 		}
 		{
-			dependencies: ["18EB86F91CBBCCC6"]
+			dependencies: ["522FEED183C8A336"]
 			id: "3DD71B6C4B80FB44"
 			optional: true
 			rewards: [
@@ -3162,7 +3137,7 @@
 			y: -0.5d
 		}
 		{
-			dependencies: ["18EB86F91CBBCCC6"]
+			dependencies: ["522FEED183C8A336"]
 			id: "30C5D432C810F904"
 			optional: true
 			rewards: [

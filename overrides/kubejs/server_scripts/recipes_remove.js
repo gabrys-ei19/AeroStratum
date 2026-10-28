@@ -75,6 +75,8 @@ const byOutput = [
 	/refinedstorage:raw_.*_processor.*/,
 	// /extradisks:.*processor.*/,
 	/extrastorage:.*processor.*/,
+	/create_vibrant_vaults:.*_stock_link.*/,
+	'create:linked_controller',
 	'refinedstorage:autocrafting_monitor',
 	'refinedstorage:autocrafter_manager',
 	'refinedstorage:autocrafter',
@@ -94,6 +96,15 @@ const byOutput = [
 	'uniwersalgrid:wireless_universal_grid',
 	'tfmg:steel_mechanism',
 	'simulated:gyroscopic_mechanism',
+	'create:transmitter',
+	'create:redstone_link',
+	'create:stock_link',
+	'create:packager',
+	'create:display_link',
+	'create:redstone_requester',
+	'create:counter_gauge',
+	'universalgrid:wireless_universal_grid',
+	'stockbridge:network_interface'
 ];
 
 // Remove by ID
