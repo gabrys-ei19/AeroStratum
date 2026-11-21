@@ -1,0 +1,14 @@
+{
+  "parent": "createages:block/andesite_machine",
+  "textures": {
+    "0": "createages:block/axis",
+    "3": "createages:block/axis_top",
+    "4": "createages:block/andesite_casing_short",
+    "5": "createages:block/andesite_funnel_plating",
+    "6": "createages:block/andesite_casing",
+    "7": "createages:block/andesite_casing_very_short",
+    "cogwheel": "createages:block/cogwheel",
+    "particle": "createages:block/andesite_casing",
+    "mechanical_press_pole": "createages:block/mechanical_press_pole"
+  }
+}

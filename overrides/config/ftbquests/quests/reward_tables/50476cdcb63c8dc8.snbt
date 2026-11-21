@@ -1,0 +1,127 @@
+{
+	id: "50476CDCB63C8DC8"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{
+			count: 5
+			id: "21EEDD8387C890D8"
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+		}
+		{
+			count: 5
+			id: "4FB2B9AC7491E440"
+			item: {
+				count: 1
+				id: "minecraft:copper_ingot"
+			}
+		}
+		{
+			count: 5
+			id: "538BB2756A747465"
+			item: {
+				count: 1
+				id: "minecraft:gold_ingot"
+			}
+		}
+		{
+			count: 5
+			id: "7B8FE5CE8FA81365"
+			item: {
+				count: 1
+				id: "silentgear:bronze_ingot"
+			}
+		}
+		{
+			count: 5
+			id: "00DF2DA61D7FB47A"
+			item: {
+				count: 1
+				id: "ftbmaterials:aluminum_ingot"
+			}
+		}
+		{
+			count: 5
+			id: "7BDA52046BA96300"
+			item: {
+				count: 1
+				id: "ftbmaterials:silver_ingot"
+			}
+		}
+		{
+			count: 5
+			id: "46E6BF6ED2104B4E"
+			item: {
+				count: 1
+				id: "ftbmaterials:zinc_ingot"
+			}
+		}
+		{
+			count: 5
+			id: "7D1CB00F21DC64AE"
+			item: {
+				count: 1
+				id: "ftbmaterials:titanium_ingot"
+			}
+		}
+		{
+			count: 5
+			id: "2D7E1673ACB4387D"
+			item: {
+				count: 1
+				id: "ftbmaterials:platinum_ingot"
+			}
+		}
+		{
+			count: 5
+			id: "316D838E2265152B"
+			item: {
+				count: 1
+				id: "ftbmaterials:tin_ingot"
+			}
+		}
+		{
+			count: 5
+			id: "3C4338CA8BEB0738"
+			item: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+		}
+		{
+			count: 5
+			id: "4F6B97CB1C90AFD3"
+			item: {
+				count: 1
+				id: "minecraft:emerald"
+			}
+		}
+		{
+			count: 15
+			id: "39ECCC73C2021DAF"
+			item: {
+				count: 1
+				id: "minecraft:redstone"
+			}
+		}
+		{
+			count: 15
+			id: "1D77326F84450F64"
+			item: {
+				count: 1
+				id: "minecraft:lapis_lazuli"
+			}
+		}
+		{
+			count: 15
+			id: "41B9BADDEF4F0B97"
+			item: {
+				count: 1
+				id: "minecraft:coal"
+			}
+		}
+	]
+}

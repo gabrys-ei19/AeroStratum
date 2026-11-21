@@ -1,0 +1,12 @@
+{
+  "parent": "createages:block/brass_machine",
+  "textures": {
+		"0": "createages:block/nixie_tube",
+		"1": "createages:block/brass_casing",
+		"3": "createages:block/brass_casing_belt",
+		"4": "createages:block/axis",
+		"5": "createages:block/mechanical_arm",
+		"6": "createages:block/axis_top",
+		"particle": "createages:block/brass_casing"
+  }
+}

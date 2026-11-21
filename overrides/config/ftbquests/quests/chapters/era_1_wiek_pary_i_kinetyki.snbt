@@ -1,0 +1,19 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "era_1_wiek_pary_i_kinetyki"
+	group: "5177702D2E2E75BA"
+	hide_quest_details_until_startable: true
+	hide_quest_until_deps_complete: true
+	id: "1F32960D0FC09E75"
+	images: [ ]
+	order_index: 1
+	quest_links: [{
+		disable_toast: true
+		id: "5E9E603BBFB8950E"
+		linked_quest: "7FF173A78D72F662"
+		x: 0.5d
+		y: 0.0d
+	}]
+	quests: [ ]
+}
