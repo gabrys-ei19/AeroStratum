@@ -1,25 +1,98 @@
 {
-	chapter.0731FA8830F28280.title: "Apotheosis: Gems \\& Equipment"
-	chapter.0A24069F4A6D554B.title: "ERA 4: Age of World Conquest"
-	chapter.0AA5151D88D1BD3C.title: "ERA 3.5: Age of Atom and Mass Expansion"
-	chapter.0E81CBCD6B1D1895.chapter_subtitle: ["And Mob Grinding Utils"]
-	chapter.0E81CBCD6B1D1895.title: "Apotheosis: Spawner Modification"
-	chapter.11919EBB416B2BD0.title: "Relics: Magical Relics"
-	chapter.12AD9789D962B179.title: "Apotheosis: Enchanting \\& Libraries"
-	chapter.1354FE99817DA6E3.title: "ERA 0: Engineer's Beginnings"
-	chapter.1D42B373285DEF81.chapter_subtitle: ["And Productive Metalworks"]
-	chapter.1D42B373285DEF81.title: "Silent Gear: Foundry \\& Smithing"
-	chapter.1F32960D0FC09E75.title: "ERA 1: Age of Steam and Kinetics"
-	chapter.2DF7703CAD82D903.title: "ERA 2: Age of Advanced Logistics"
-	chapter.322E83C0A9E18059.title: "ERA 3: Age of Balloons and Aviation"
-	chapter.59395B6806F2A98A.title: "Cataclysm: Ancient Bosses"
-	chapter.621CD037410FA95E.title: "ERA 2.5: Age of Railways and Export"
-	chapter.68C8841E131FBF2F.title: "ERA 1.5: Age of Fluids and Flames"
-	chapter.78F4F7FE4BE6E101.title: "WELCOME TO AeroStratum"
-	chapter.7AF827D2D101D343.title: "Artifacts: Ancient Artifacts"
-	chapter_group.02FE661031A105D8.title: "Meet the AeroStratum World"
-	chapter_group.3990CFC104D28511.title: "Meet the AeroStratum World"
-	chapter_group.40B7CC202ACD7077.title: "The Greatest Factory in the World"
-	chapter_group.5177702D2E2E75BA.title: "The Greatest Factory in the World"
-	file.0000000000000001.title: "AeroStratum - Integrated Engineering"
+	chapter.0A24069F4A6D554B.title: "ERA 4: Wiek podpoju świata"
+	chapter.0AA5151D88D1BD3C.title: "ERA 3.5: Wiek atomu i masowej ekspansji"
+	chapter.1354FE99817DA6E3.title: "ERA 0: Początki inżyniera"
+	chapter.1F32960D0FC09E75.title: "ERA 1: Wiek Pary i Kinetyki"
+	chapter.2DF7703CAD82D903.title: "ERA 2: Wiek zaawansowanej logistyki"
+	chapter.322E83C0A9E18059.title: "ERA 3: Wiek balonów i lotnictwa"
+	chapter.621CD037410FA95E.title: "ERA 2.5: Wiek kolei i exportu"
+	chapter.68C8841E131FBF2F.title: "ERA 1.5: Wiek płynów i płomieni"
+	chapter.78F4F7FE4BE6E101.title: "WITAJ W AeroStratum"
+	chapter_group.3990CFC104D28511.title: "Poznaj świat AeroStratum"
+	chapter_group.40B7CC202ACD7077.title: "Największa fabryka na świecie"
+	chapter_group.5177702D2E2E75BA.title: "Największa fabryka na świecie"
+	quest.05DD778297C6611B.quest_subtitle: "Najsilniejsszy tragarz w ekipie"
+	quest.0794B19AAB6261EF.quest_desc: ["Połącz ociosane drewno ze Stopem Andezytowym (Andesite Alloy), klikając stopem na postawione drewno lub łącząc je w stole rzemieślniczym. Gratulacje – masz oficjalny korpus, który potrafi utrzymać w miejscu koła zębate i tłoki bez rozpadania się konstrukcji."]
+	quest.0794B19AAB6261EF.quest_subtitle: "5x Andesite Casing"
+	quest.0794B19AAB6261EF.title: "Andezytowa Obudowa"
+	quest.083ED9A55CB6F690.quest_desc: [
+		"Nie pozwól, aby Creepery zniszczyły Twoje ciężko zarobione maszyny i skrzynki. Może to też uchronić Cię przed kradzieżą, jeśli grasz ze znajomymi!"
+		""
+		"Otwórz mapę świata klawiszem [ M ]."
+		""
+		"Kliknij ikonę trzech nakładających się kwadratów w lewym górnym rogu (Claimed Chunks)."
+		""
+		"Klikaj lewym przyciskiem myszy na kwadraty (chunki), aby je zająć. Staną się bezpieczne."
+		""
+		"Przytrzymaj [ Shift ] + kliknij LPM na zajęty chunk, aby go załadować na stałe (Force Load). Dzięki temu Twoje farmy i maszyny będą działać, nawet gdy pójdziesz na daleką wyprawę!"
+	]
+	quest.083ED9A55CB6F690.quest_subtitle: "(Zabezpiecz bazę)"
+	quest.083ED9A55CB6F690.title: "Moje na zawsze!"
+	quest.0961A1F2AC4E3A5B.quest_desc: [
+		"Świat, w którym się znalazłeś, skrywa mroczne tajemnice. Pradawne, monstrualne bestie (z moda Cataclysm) śpią głęboko w gigantycznych strukturach – w ruinach na dnie oceanów, w płonących zamkach w Netherze czy w pustkach Endu."
+		""
+		"Nie próbuj z nimi walczyć na początku gry. Bez pełnego netherytowego pancerza, potężnych mieczy i zapasu mikstur, te potwory zniszczą Cię jednym uderzeniem. Eksploruj ostrożnie, przygotuj się dobrze i dopiero wtedy ruszaj po ich legendarne dropy!"
+	]
+	quest.0961A1F2AC4E3A5B.title: "Ostrzeżenie: Cienie w ciemności"
+	quest.226FB6C7CF3FEFB3.quest_desc: ["Podczas tej przygody niezbędny do przetrwania będzie plecak, zrób go tak szybko jak tylko potrafisz (będziesz potrzebował skóry)"]
+	quest.226FB6C7CF3FEFB3.quest_subtitle: "Największy przyjaciel zbieracza - PLECAK"
+	quest.226FB6C7CF3FEFB3.title: "Najważniejsze akcesorium"
+	quest.243D55E17CC9B04A.quest_desc: [
+		"Aby ułatwić sobie życie, zapamiętaj te cztery najważniejsze skróty klawiszowe:"
+		""
+		"[ M ] – Otwiera mapę świata (Xaero's lub JourneyMap)."
+		"[ R ] / [ U ] – Najeżdżając myszką na przedmiot w ekwipunku, sprawdzisz jak go stworzyć (R) lub do czego służy (U)."
+		"[ W ] - Objaśnienie za pomocą animacji działania i zastosowania danego komponentu create;"
+		"[ ~ ] (Tylda) – Aktywuje FTB Ultimine. Przytrzymaj ten klawisz podczas kopania, aby wykopać całą żyłę surowców naraz!"
+		"[ B ] – Szybki dostęp do plecaka (Sophisticated backpack)."
+	]
+	quest.243D55E17CC9B04A.quest_subtitle: "(Ważne Klawisze)"
+	quest.243D55E17CC9B04A.title: "Podręcznik Przetrwania"
+	quest.25DB44EB6E7DA3B0.quest_desc: ["To jest najważniejszy surowiec w całej Erze 0. Połączenie zwykłego andezytu z samorodkami żelaza (lub cynku) daje wyjątkowo plastyczny i wytrzymały stop. Będziesz go potrzebować w setkach, jeśli nie tysiącach sztuk. Zrób zapas!"]
+	quest.25DB44EB6E7DA3B0.quest_subtitle: "8x Andesite Alloy"
+	quest.25DB44EB6E7DA3B0.title: "Magiczne połączenie: Stop Andezytowy"
+	quest.269AB30A3588E4CD.quest_desc: ["Każdy wielki inżynier zaczynał od ubrudzenia sobie rąk. Zanim zaczniesz budować fabryki parowe, musisz przetrwać pierwszą noc. Wydobądź trochę kamienia, zrób podstawowe narzędzia i przygotuj się na ciężką pracę."]
+	quest.269AB30A3588E4CD.quest_subtitle: "16x Bruk (Cobblestone)"
+	quest.269AB30A3588E4CD.title: "Podnieś ten kamień"
+	quest.31FE06D7BD761156.quest_desc: [
+		"W tej paczce pieniądze rządzą światem! Oficjalną walutą są monety z systemu Create Numismatics (te z nietypowymi nazwami, jak Shilling czy Crown)."
+		""
+		"Monety możesz zdobywać wykonując trudniejsze questy, pokonując bossów oraz sprzedając nadmiarowe surowce w specjalnych maszynach. Zarobioną gotówkę możesz wydać w sklepie questowym (zakładka Sklep, jeśli ją dodasz) lub w automatach vendingowych rozstawionych w świecie gry. Schowaj tę monetę głęboko do kieszeni!"
+	]
+	quest.31FE06D7BD761156.quest_subtitle: "(Zarabianie)"
+	quest.31FE06D7BD761156.title: "Ekonomia i Ty"
+	quest.36E78F8D9F91A5E0.quest_desc: ["Kamienne narzędzia są dobre do kopania dziur w ziemi, ale nie do budowania maszyn. Znajdź rudę żelaza i przetop ją w piecu. Żelazo będzie podstawą Twoich pierwszych mechanizmów, wałów korbowych i kół zębatych."]
+	quest.36E78F8D9F91A5E0.quest_subtitle: "32x Sztabka żelaza (Iron Ingot)"
+	quest.36E78F8D9F91A5E0.title: "Epoka Żelaza"
+	quest.4AF4F5612CE4A30F.quest_subtitle: "Prawie najlepszy"
+	quest.55F156D969DFF910.quest_desc: ["W życiu inżyniera n samamym początku nie myśli się o zasobach, w tym przypadku warto to zbroić i zabezpieczyć się na przyszłość już odpierszej wizyty w kopalni (zacząłeś od żelaza - zbierraj wszystko jak leci)"]
+	quest.55F156D969DFF910.quest_subtitle: "Zacznij zbierać rudy już teraz (nie pożałujesz)"
+	quest.6BD6050862596B7F.quest_subtitle: "Ulepszenie"
+	quest.72B909D63ED0D8E0.quest_desc: ["Maszyny potrzebują ruchu, a w Create ruchem jest rotacja. Wały przenoszą moc na odległość, a koła zębate pozwalają zmieniać kierunek obrotu i jego prędkość. Stwórz te dwa podstawowe elementy ze stopu andezytowego i patyków."]
+	quest.72B909D63ED0D8E0.quest_subtitle: "16x Wał korbowy (Shaft), 2x Małe koło zębate (Cogwheel), 2x Duże koło zębate (large Cogweel)"
+	quest.72B909D63ED0D8E0.title: "Niech to się kręci!"
+	quest.793CC4C42DE82B09.quest_desc: ["Ostatni krok dzieli cię przed dotarciem do najważniejszego komponentu, który pozwoli ci zbudować twoją własną fabrykę. Tak trzymaj!"]
+	quest.793CC4C42DE82B09.quest_subtitle: "2x andesite mechanism"
+	quest.793CC4C42DE82B09.title: "Pierwszy mechanizm"
+	quest.7C2AADE731F3CA8F.quest_desc: ["Aby zbudować obudowę maszyny, potrzebujesz gładkiego, obrobionego drewna. Użyj topora na postawionym drzewie, aby ściągnąć z niego korę. Tak przygotowane bale będą idealnym korpusem dla andezytowej obudowy."]
+	quest.7C2AADE731F3CA8F.quest_subtitle: "8x Ociosana kłoda (Stripped Log)"
+	quest.7C2AADE731F3CA8F.title: "Kora precz!"
+	quest.7ED4C6E89007F931.quest_desc: [
+		"Cieszymy się, że tu jesteś! Ta paczka modów została stworzona z myślą o płynnej rozgrywce, automatyzacji i eksploracji. Questy, które tu znajdziesz, nie są obowiązkowe, ale poprowadzą Cię przez najważniejsze etapy rozwoju – od rzemiosła, przez mechanikę Create, aż po starcia z potężnymi bossami."
+		""
+		"Kliknij przycisk poniżej, aby odebrać swój pakiet startowy i oficjalnie rozpocząć przygodę!"
+	]
+	quest.7ED4C6E89007F931.title: "Witaj w świecie przygody!"
+	quest.7FF173A78D72F662.quest_desc: [
+		"Stało się. Połączyłeś obudowę, koła zębate i stop andezytowy w jedną, działającą całość. Ta maszyna to Twój bilet do automatyzacji. Pozwoli Ci ona na bezwysiłkowe prasowanie żelaza na płyty, robienie blach i przetwarzanie surowców z wydajnością, o jakiej zwykły górnik może tylko pomarzyć."
+		""
+		"Era 0 oficjalnie zakończona. Witaj w Erze Pary i Żelaza!"
+	]
+	reward_table.05175241E52AD9A5.title: "spiwor"
+	reward_table.4D95639F76398203.title: "jedzonko"
+	reward_table.50476CDCB63C8DC8.title: "rudy"
+	task.12C479DA474A2170.title: "Any #c:stripped_logs"
+	task.22AAE0284AAFCBB7.title: "Przygoda w kopalni"
+	task.3A189D302BC31CE0.title: "Podatawowe rudy"
+	task.6F66D6F998C291D1.title: "Any #accessories:back"
 }

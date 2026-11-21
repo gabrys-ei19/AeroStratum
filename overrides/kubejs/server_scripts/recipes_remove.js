@@ -33,6 +33,7 @@ const byOutput = [
 	'createages:andesite_template',
 	'createages:brass_template',
 	'createages:copper_template',
+	'createages:zinc_machine',
 	'create_connected:item_silo',
 	'create:directional_gearshift',
 	'create:overstress_clutch',
@@ -75,8 +76,6 @@ const byOutput = [
 	/refinedstorage:raw_.*_processor.*/,
 	// /extradisks:.*processor.*/,
 	/extrastorage:.*processor.*/,
-	/create_vibrant_vaults:.*_stock_link.*/,
-	'create:linked_controller',
 	'refinedstorage:autocrafting_monitor',
 	'refinedstorage:autocrafter_manager',
 	'refinedstorage:autocrafter',
@@ -90,22 +89,7 @@ const byOutput = [
 	'refinedstorage:storage_monitor',
 	'create:belt_connector',
 	'create:basin',
-	'refinedstorage:quartz_enriched_iron',
-	'refinedstorage:quartz_enriched_copper',
-	'refinedstorage:wireless_autocrafting_monitor',
-	'uniwersalgrid:wireless_universal_grid',
-	'tfmg:steel_mechanism',
-	'simulated:gyroscopic_mechanism',
-	'create:transmitter',
-	'create:redstone_link',
-	'create:stock_link',
-	'create:packager',
-	'create:display_link',
-	'create:redstone_requester',
-	'create:counter_gauge',
-	'universalgrid:wireless_universal_grid',
-	'stockbridge:network_interface'
-];
+]
 
 // Remove by ID
 // - Add the recipe id for the recipe to remove
@@ -143,10 +127,11 @@ const byId = [
 	"createcasing:crafting/chain_conveyors/refined_radiance",
 	"createcasing:crafting/chain_conveyors/shadow_steel",
 	"minecraft:lodestone",
+	"createages:copper_age/crafting/kinetics/copper_machine",
 	"create:crafting/tree_fertilizer",
 	"sophisticatedstorage:chest",
 	"sophisticatedstorage:barrel",
-];
+]
 
 // Advance Remove
 // - Provide multiple options to target the removal
@@ -156,7 +141,7 @@ const advRemoval = [
 	// This is a fix for a crash when opening the 'Automated Shaped Crafting' for the Ender Storage recipes	
 	// Fixes the Alkahestry Tome with Create
 	// { input: "reliquary:alkahestry_tome", manual: true }
-];
+]
 
 //---[CODE]---------------------------------------------------------------------------------------------------------------------------------------
 
@@ -197,4 +182,4 @@ ServerEvents.recipes(event => {
   event.remove({ output: generalEquipment })
   event.remove({ output: mechanicalTools })
 
-});
+})

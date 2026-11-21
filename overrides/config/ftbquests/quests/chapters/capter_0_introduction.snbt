@@ -3,19 +3,9 @@
 	default_quest_shape: ""
 	filename: "capter_0_introduction"
 	group: "5177702D2E2E75BA"
-	icon: {
-		components: {
-			"sophisticatedcore:accent_color": -10585066
-			"sophisticatedcore:main_color": -10585066
-			"sophisticatedcore:number_of_inventory_slots": 27
-			"sophisticatedcore:number_of_upgrade_slots": 1
-		}
-		id: "sophisticatedbackpacks:backpack"
-	}
 	id: "1354FE99817DA6E3"
 	images: [
 		{
-			click_action: "none:"
 			height: 2.0d
 			id: "2097B9E6AE9DEDC6"
 			image: "minecraft:block/cave_vines_lit"
@@ -25,7 +15,6 @@
 			y: -3.0d
 		}
 		{
-			click_action: "none:"
 			height: 2.0d
 			id: "54D58D147723DC84"
 			image: "minecraft:block/cave_vines_plant_lit"
@@ -35,7 +24,6 @@
 			y: -6.0d
 		}
 		{
-			click_action: "none:"
 			height: 2.0d
 			id: "37B3A2E68BC0A74D"
 			image: "minecraft:block/cave_vines_plant"
@@ -43,16 +31,6 @@
 			width: 2.0d
 			x: -1.0d
 			y: -4.5d
-		}
-		{
-			click_action: "none:"
-			height: 3.0d
-			id: "2A186DC020BEC91D"
-			image: "createages:block/andesite_machine/andesite_casing"
-			rotation: 0.0d
-			width: 3.0d
-			x: 10.5d
-			y: -1.0d
 		}
 	]
 	order_index: 0
@@ -336,6 +314,7 @@
 		}
 		{
 			dependencies: ["793CC4C42DE82B09"]
+			hide_until_deps_complete: true
 			id: "7FF173A78D72F662"
 			progression_mode: "linear"
 			rewards: [
@@ -352,17 +331,11 @@
 					type: "xp"
 					xp: 1111
 				}
-				{
-					auto: "invisible"
-					id: "1DAE325738C796E6"
-					stage: "Koniec Ery 0"
-					type: "gamestage"
-				}
 			]
 			shape: "rsquare"
-			size: 2.0d
+			size: 1.5d
 			tasks: [{
-				id: "28D9908D16A0AF08"
+				id: "0C1C62B1FDCE4C04"
 				item: { count: 1, id: "createages:andesite_machine" }
 				type: "item"
 			}]
@@ -604,7 +577,6 @@
 				type: "xp"
 				xp: 250
 			}]
-			size: 1.5d
 			tasks: [{
 				id: "3A189D302BC31CE0"
 				type: "checkmark"

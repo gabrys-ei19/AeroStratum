@@ -80,14 +80,14 @@ const shapedRecipes = [
         ]
     },
 
-    // {
-    //     output: 'createages:copper_machine',
-    //     input: [
-    //         ' ', 'createages:copper_mechanism', ' ', 
-    //         'createages:copper_mechanism', 'create:copper_casing', 'createages:copper_mechanism', 
-    //         ' ', 'createages:copper_mechanism', ' '
-    //     ]
-    // },
+    {
+        output: 'createages:copper_machine',
+        input: [
+            'createages:copper_mechanism', 'createages:copper_mechanism', 'createages:copper_mechanism', 
+            'createages:copper_mechanism', 'create:copper_casing', 'createages:copper_mechanism', 
+            'createages:copper_mechanism', 'createages:copper_mechanism', 'createages:copper_mechanism'
+        ]
+    },
 
     {
         output: 'kubejs:andesite_redstone_machine',
@@ -103,15 +103,6 @@ const shapedRecipes = [
         input: [
             ' ', 'minecraft:redstone', ' ',
             'minecraft:redstone', 'createages:brass_machine', 'minecraft:redstone',
-            ' ', 'minecraft:redstone', ' '
-        ]
-    },
-
-        {
-        output: 'kubejs:zinc_redstone_machine',
-        input: [
-            ' ', 'minecraft:redstone', ' ',
-            'minecraft:redstone', 'createages:zinc_machine', 'minecraft:redstone',
             ' ', 'minecraft:redstone', ' '
         ]
     },
@@ -165,34 +156,6 @@ const shapelessRecipes = [
     }
 ];
 
-const mixingRecipes_h = [
-    //Mixing Recipes
-    {
-        output: '4x refinedstorage:quartz_enriched_copper',
-        input: [
-            'minecraft:quartz',
-            'minecraft:copper_ingot',
-            'minecraft:copper_ingot',
-            'minecraft:copper_ingot'
-
-        ]
-    },
-        {
-        output: '4x refinedstorage:quartz_enriched_iron',
-        input: [
-            'minecraft:quartz',
-            'minecraft:iron_ingot',
-            'minecraft:iron_ingot',
-            'minecraft:iron_ingot'
-
-        ]
-    },
-];
-
-const mixingRecipes = [
-    //Mixing Recipes
-    
-];
 
 ServerEvents.recipes(event => {
 
@@ -237,13 +200,6 @@ ServerEvents.recipes(event => {
     ).id('kubejs:andesite_machine_to_rs_disk_drive')
 
     event.smithing(
-        'refinedstorage:autocrafter',
-        'refinedstorage:machine_casing',
-        'kubejs:brass_redstone_machine',
-        'create:mechanical_crafter'
-    ).id('kubejs:machine_casing_to_rs_autocrafter')
-
-    event.smithing(
         'refinedstorage:grid',
         'refinedstorage:machine_casing',
         'kubejs:andesite_redstone_machine',
@@ -262,182 +218,14 @@ ServerEvents.recipes(event => {
         'refinedstorage:grid',
         'kubejs:brass_redstone_machine',
         'minecraft:crafting_table'
-    ).id('kubejs:grid_to_rs_crafting_grid')
-
-    event.smithing(
-        'refinedstorage:autocrafter_manager',
-        'refinedstorage:grid',
-        'kubejs:brass_redstone_machine',
-        'create:mechanical_crafter'
-    ).id('kubejs:brass_machine_to_rs_autocrafter_manager')
-
-    event.smithing(
-        'kubejs:digital_drawer',
-        'createages:zinc_machine',
-        'createages:zinc_mechanism',
-        'minecraft:chest'
-    ).id('kubejs:zinc_mechanism_to_rs_digital_drawer')
-
-    event.smithing(
-        'refinedstorage:interface',
-        'kubejs:digital_drawer',
-        'refinedstorage:machine_casing',
-        'kubejs:digital_tank'
-    ).id('kubejs:machine_casing_to_rs_interface')
-
-    event.smithing(
-        'refinedstorage:importer',
-        'refinedstorage:cable',
-        'create:mechanical_pump',
-        'refinedstorage:machine_casing'
-    ).id('kubejs:machine_casing_to_rs_importer')
-
-    event.smithing(
-        'refinedstorage:exporter',
-        'refinedstorage:cable',
-        'refinedstorage:machine_casing',
-        'create:mechanical_pump'
-    ).id('kubejs:machine_casing_to_rs_exporter')
-
-    event.smithing(
-        'refinedstorage:constructor',
-        'refinedstorage:cable',
-        'refinedstorage:machine_casing',
-        'refinedstorage:construction_core'
-    ).id('kubejs:machine_casing_to_rs_constructor')
-
-    event.smithing(
-        'refinedstorage:detector',
-        'refinedstorage:machine_casing',
-        'create:smart_observer',
-        'create:electron_tube'
-    ).id('kubejs:machine_casing_to_rs_detector')
+    ).id('kubejs:brass_machine_to_rs_crafting_grid')
 
     event.smithing(
         'refinedstorage:pattern_grid',
         'refinedstorage:grid',
         'kubejs:brass_redstone_machine',
         'refinedstorage:pattern'
-    ).id('kubejs:grid_to_rs_pattern_grid')
-
-    event.smithing(
-        'refinedstorage:destructor',
-        'refinedstorage:cable',
-        'refinedstorage:machine_casing',
-        'refinedstorage:destruction_core'
-    ).id('kubejs:machine_casing_to_rs_destructor')
-
-    event.smithing(
-        'refinedstorage:wireless_transmitter',
-        'refinedstorage:cable',
-        'kubejs:tuned_crystal',
-        'create:electron_tube'
-    ).id('kubejs:machine_casing_to_rs_wireless_transmitter')
-
-    event.smithing(
-        'create:transmitter',
-        'minecraft:lightning_rod',
-        'kubejs:frequency_mechanism',
-        'create:electron_tube'
-    ).id('kubejs:machine_casing_to_create_transmitter')
-
-    event.smithing(
-        'kubejs:digital_tank',
-        'createages:zinc_machine',
-        'createages:zinc_mechanism',
-        'create:fluid_tank'
-    ).id('kubejs:zinc_mechanism_to_rs_digital_tank')
-
-    event.smithing(
-        'refinedstorage:crafting_monitor',
-        'refinedstorage:grid',
-        'kubejs:brass_redstone_machine',
-        'minecraft:crafting_table'
-    ).id('kubejs:brass_machine_to_rs_crafting_monitor')
-
-    event.smithing(
-        'create:counter_gauge',
-        'create:precision_mechanism',
-        'createages:zinc_mechanism',
-        'create:electron_tube'
-    ).id('kubejs:zinc_machine_to_create_counter_gauge')
-
-    event.smithing(
-        'create:linked_controller',
-        'create:electron_tube',
-        'kubejs:frequency_mechanism',
-        '#minecraft:wooden_slabs'
-    ).id('kubejs:zinc_machine_to_create_linked_controller')
-
-    event.smithing(
-        'universalgrid:wireless_universal_grid',
-        'refinedstorage:wireless_autocrafting_monitor',
-        'refinedstorage:wireless_grid',
-        'refinedstorage_quartz_arsenal:wireless_crafting_grid'
-    ).id('kubejs:grids_wireless_universal_grid')
-
-    event.smithing(
-        'refinedstorage:wireless_grid',
-        'kubejs:frequency_mechanism',
-        'refinedstorage:grid',
-        'extrastorage:neural_processor'
-    ).id('kubejs:grids_wireless_grid')
-
-    event.smithing(
-        'refinedstorage:wireless_autocrafting_monitor',
-        'kubejs:frequency_mechanism',
-        'refinedstorage:autocrafting_monitor',
-        'extrastorage:neural_processor'
-    ).id('kubejs:grids_wireless_autocrafting_monitor')
-
-    event.smithing(
-        'refinedstorage_quartz_arsenal:wireless_crafting_grid',
-        'kubejs:frequency_mechanism',
-        'refinedstorage:crafting_grid',
-        'extrastorage:neural_processor'
-    ).id('kubejs:grids_wireless_crafting_grid')
-
-    event.smithing(
-        'refinedstorage:network_card',
-        "minecraft:paper",
-        'kubejs:frequency_mechanism',
-        'extrastorage:neural_processor'
-    ).id('kubejs:grids_wireless_fluid_grid')
-
-    event.smithing(
-        'kubejs:digital_accumulator',
-        'createages:zinc_machine',
-        'createages:zinc_mechanism',
-        'tfmg:accumulator'
-    ).id('kubejs:zinc_mechanism_to_rs_digital_accumulator')
-
-    event.smithing(
-        'refinedstorage:network_transmitter',
-        'kubejs:frequency_mechanism',
-        'refinedstorage:machine_casing',
-        'create:transmitter'
-    ).id('kubejs:casing_to_rs_transmitter')
-
-    event.smithing(
-        'refinedstorage:network_receiver',
-        'create:transmitter',
-        'refinedstorage:machine_casing',
-        'kubejs:frequency_mechanism'   
-    ).id('kubejs:casing_to_rs_receiver')
-
-    event.smithing(
-        'refinedstorage:storage_monitor',
-        'refinedstorage:machine_casing',
-        'kubejs:brass_redstone_machine',
-        'create:display_link'
-    ).id('kubejs:casing_to_rs_monitor2')
-
-    event.smithing(
-        'refinedstorage:relay',
-        'refinedstorage:machine_casing',
-        'kubejs:brass_redstone_machine',
-        'create:powered_toggle_latch',
-    ).id('kubejs:casing_to_rs_relay')
+    ).id('kubejs:brass_machine_to_rs_pattern_grid')
 
     // Stonecutting Recipes
 
@@ -447,13 +235,7 @@ ServerEvents.recipes(event => {
     }
 
     stonecut('3x create:stockpile_switch', 'createages:brass_machine');
-    stonecut('create:stock_link', 'createages:zinc_redstone_machine');
-    stonecut('2x create:redstone_link', 'kubejs:zinc_redstone_machine');
-    stonecut('4x create:display_link', 'kubejs:zinc_redstone_machine');
-    stonecut('4x create:packager', 'kubejs:zinc_redstone_machine');
-    stonecut('4x create:redstone_requester', 'kubejs:zinc_redstone_machine');
-    stonecut('refinedstorage:autocrafting_monitor', 'refinedstorage:autocrafter_manager');
-    stonecut('refinedstorage:autocrafter_manager', 'refinedstorage:autocrafting_monitor');
+
     stonecut('5x create:clutch', 'kubejs:andesite_redstone_machine');
     stonecut('3x create:adjustable_chain_gearshift', 'kubejs:andesite_redstone_machine');
     stonecut('2x create:directional_gearshift', 'kubejs:andesite_redstone_machine');
@@ -466,7 +248,7 @@ ServerEvents.recipes(event => {
     stonecut('3x create:content_observer', 'kubejs:brass_redstone_machine');
     stonecut('3x create:stockpile_switch', 'kubejs:brass_redstone_machine');
     stonecut('2x create:smart_chute', 'kubejs:brass_redstone_machine');
-    stonecut('1x refinedstorage:cable', 'ftbmaterials:silicon_ingot');
+    stonecut('8x refinedstorage:cable', 'refinedstorage:machine_casing');
     stonecut('4x refinedstorage:pattern', 'refinedstorage:machine_casing');
 });
 
@@ -480,10 +262,6 @@ ServerEvents.recipes(event => {
 
     shapelessRecipes.forEach(recipe => {
         event.shapeless(recipe.output, recipe.input);
-    });
-
-    mixingRecipes_h.forEach(recipe => {
-        event.recipes.create.mixing(recipe.output, recipe.input).heated();
     });
 
 });
@@ -502,30 +280,9 @@ ServerEvents.recipes(event => {
     });
 });
 
-ServerEvents.recipes(event => {
-    const colors = [
-        'white', 'orange', 'magenta', 'light_blue', 'yellow', 'lime', 'pink', 'gray',
-        'light_gray', 'cyan', 'purple', 'blue', 'brown', 'green', 'red', 'black'
-    ]
-
-    // Usuwamy stare receptury stock_linków z kolorowych vaultów
-    event.remove({ id: /create_vibrant_vaults:.*_stock_link.*/ })
-
-    // Lista wszystkich wariantów (zwykły + kolorowe), aby można było przemalować każdy na każdy
-    const allStockLinks = ['create:stock_link'].concat(
-        colors.map(c => `create_vibrant_vaults:${c}_stock_link`)
-    )
-
-    colors.forEach(color => {
-        event.custom({
-            type: 'create_dragons_plus:coloring',
-            color: color,
-            ingredients: [
-                Ingredient.of(allStockLinks).toJson()
-            ],
-            results: [
-                { id: `create_vibrant_vaults:${color}_stock_link`, count: 1 }
-            ]
-        }).id(`kubejs:bulk_coloring/${color}_stock_link`)
-    })
-});
+// ServerEvents.recipes(event => {
+//   const colors = [
+//     'white', 'orange', 'magenta', 'light_blue', 'yellow', 'lime', 'pink', 'gray',
+//     'light_gray', 'cyan', 'purple', 'blue', 'brown', 'green', 'red', 'black'
+//   ]
+// });

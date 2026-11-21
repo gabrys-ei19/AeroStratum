@@ -70,7 +70,7 @@
 	}
 	xlate: {
 		# Default: ""
-		editing_locale: "pl_pl"
+		editing_locale: ""
 		
 		# Default: ""
 		fallback_locale: ""

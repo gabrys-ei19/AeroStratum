@@ -138,55 +138,48 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"alexsmobs:skunk": true
-			"minecraft:squid": true
-			"minecraft:glow_squid": true
-			"minecraft:wandering_trader": true
-			"minecraft:dolphin": true
+			"minecraft:wolf": true
+			"minecraft:drowned": true
+			"alexsmobs:tasmanian_devil": true
+			"alexsmobs:sunbird": true
 			"alexsmobs:crow": true
-			"minecraft:creeper": true
-			"minecraft:cow": true
-			"minecraft:zombified_piglin": true
-			"minecraft:skeleton": true
-			"minecraft:enderman": true
-			"minecraft:salmon": false
-			"minecraft:allay": true
-			"yungscavebiomes:sand_snapper": true
-			"minecraft:armadillo": true
-			"minecraft:bee": true
-			"minecraft:phantom": true
-			"minecraft:horse": true
+			"minecraft:wandering_trader": true
+			"alexsmobs:grizzly_bear": true
+			"minecraft:squid": true
+			"minecraft:trader_llama": true
+			"alexsmobs:skunk": true
 			"minecraft:cave_spider": true
 			"minecraft:zombie": true
-			"minecraft:trader_llama": true
+			"minecraft:spider": true
+			"minecraft:horse": true
+			"minecraft:witch": true
+			"cataclysm:the_harbinger": true
+			"alexsmobs:seal": true
+			"minecraft:cow": true
+			"minecraft:fox": true
+			"minecraft:creeper": true
+			"minecraft:salmon": false
+			"minecraft:skeleton": true
+			"minecraft:axolotl": true
+			"minecraft:bee": true
+			"minecraft:iron_golem": true
 			"alexsmobs:cockroach": true
-			"minecraft:pufferfish": false
+			"yungscavebiomes:sand_snapper": true
+			"minecraft:allay": true
+			"minecraft:chicken": true
 			"artifacts:mimic": true
+			"alexsmobs:blue_jay": true
+			"minecraft:enderman": true
+			"minecraft:glow_squid": true
+			"minecraft:zombified_piglin": true
+			"minecraft:pig": true
+			"alexsmobs:rocky_roller": true
 			"minecraft:sheep": true
+			"minecraft:pillager": true
+			"alexsmobs:banana_slug": true
+			"alexsmobs:raccoon": true
 			"minecraft:bat": true
 			"minecraft:zombie_villager": true
-			"alexsmobs:banana_slug": true
-			"alexsmobs:sunbird": true
-			"minecraft:tropical_fish": false
-			"minecraft:witch": true
-			"minecraft:pig": true
-			"minecraft:drowned": true
-			"cataclysm:the_harbinger": true
-			"alexsmobs:tasmanian_devil": true
-			"minecraft:pillager": true
-			"minecraft:chicken": true
-			"alexsmobs:grizzly_bear": true
-			"alexsmobs:blue_jay": true
-			"minecraft:axolotl": true
-			"minecraft:spider": true
-			"minecraft:wolf": true
-			"minecraft:turtle": true
-			"alexsmobs:seal": true
-			"alexsmobs:raccoon": true
-			"minecraft:iron_golem": true
-			"minecraft:cod": false
-			"alexsmobs:rocky_roller": true
-			"minecraft:fox": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)
