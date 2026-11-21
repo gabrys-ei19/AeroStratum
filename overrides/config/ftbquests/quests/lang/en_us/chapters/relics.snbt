@@ -1,0 +1,184 @@
+{
+	image.09D9B906D64EEC0C.title: "Nether Fortress"
+	image.0F50CB9DB3CC94EF.title: "End Ship"
+	image.1FFF2C2FAFC33232.title: "Stronghold"
+	image.2CA16137DBB87580.title: "Bastion"
+	image.31A75754D07F903D.title: "Shipwreck"
+	image.3E2A18876931DED5.title: "Mineshaft"
+	image.406A39A037D0C241.title: "Village"
+	image.4E5BC7C1274B7182.title: "End City"
+	image.6569C0513FF60AFB.title: "Ocean Ruin"
+	image.791EFC83C44C2F16.title: "Ruined Portal"
+	quest.073D0D41BA5F219B.quest_desc: [
+		"A shield requiring precise timing."
+		""
+		"• &4Retaliation&r: Parries incoming damage when activated at the exact right moment, counterattacking the attacker."
+	]
+	quest.073D0D41BA5F219B.quest_subtitle: "+ PARRY"
+	quest.073D0D41BA5F219B.title: "&cShield of Retaliation"
+	quest.11A6D020D6F411A8.quest_desc: [
+		"A mantle warping reality and perception."
+		""
+		"• &2Perception Glitch&r: Chance for enemy attacks to miss."
+		"• &9Glitchy Copy&r: Spawns decoy clones stunning enemies."
+		"• &bSurface Tear&r: Walk on mid-air like scaffolding."
+	]
+	quest.11A6D020D6F411A8.quest_subtitle: "Bending reality"
+	quest.11A6D020D6F411A8.title: "&2Glitchy Mantle"
+	quest.12449D23295CF9ED.quest_desc: [
+		"An aquatic relic found in ocean ruins and shipwrecks."
+		""
+		"• &bAquatic Regeneration&r: Boosts health and regeneration underwater or in rain."
+		"• &9Electric Discharge&r: Stores electrical energy and unleashes a paralyzing shock wave on enemies!"
+	]
+	quest.12449D23295CF9ED.quest_subtitle: "Electrifying grasp of the deep"
+	quest.12449D23295CF9ED.title: "&9Jellyfish Necklace"
+	quest.18DB8C875F2331B2.quest_desc: [
+		"A kinetic belt manipulating gravity and momentum."
+		""
+		"• &5Arsenal Expansion&r: Adds amulet slots."
+		"• &bGliding&r: Hold Jump to glide through the air (synergizes with Jellyfish Necklace for &eElectric Arc&r trails!)."
+	]
+	quest.18DB8C875F2331B2.quest_subtitle: "Master aerial momentum"
+	quest.18DB8C875F2331B2.title: "&dKinetic Belt&r"
+	quest.1E2A9446594638E2.quest_desc: [
+		"A staff forged from unstable chorus plants."
+		""
+		"• &dTeleportation&r: Instantly teleports you forward, consuming internal regenerating charges."
+	]
+	quest.1E2A9446594638E2.quest_subtitle: "Blink through space"
+	quest.1E2A9446594638E2.title: "&dChorus Staff&r"
+	quest.21BEE9867796933A.quest_desc: [
+		"A nomad flute storing up to &c2 tamed mounts&r inside."
+		""
+		"• &6Stable&r: Right-click a mount to store it or release it. Switch active mounts using Shift + scroll wheel."
+	]
+	quest.21BEE9867796933A.quest_subtitle: "Store and recall your mounts"
+	quest.21BEE9867796933A.title: "&cRider Flute"
+	quest.2B08B19B35EEBCBA.quest_desc: ["Find these relics inside Ruined Portals, Nether Fortresses, and Bastions across &cThe Nether&r!"]
+	quest.2B08B19B35EEBCBA.quest_subtitle: "Treasures of the fiery dimension"
+	quest.2B08B19B35EEBCBA.title: "Relics: &cThe Nether"
+	quest.395668FBCB6537AF.quest_desc: [
+		"A crystal necklace storing incoming damage force."
+		""
+		"• &6Damage Condensation&r: Incoming damage creates energy orbs that launch toward targets upon attacking!"
+	]
+	quest.395668FBCB6537AF.quest_subtitle: "Defense into counterattack"
+	quest.395668FBCB6537AF.title: "&9Reflective Necklace"
+	quest.3BD73FEAE853D350.quest_desc: [
+		"A hunting belt empowering your tamed companions."
+		""
+		"• &5Pack&r: Increases damage dealt by your pets and provides talisman charm slots."
+	]
+	quest.3BD73FEAE853D350.quest_subtitle: "Empower your pack!"
+	quest.3BD73FEAE853D350.title: "&2Hunting Belt&r"
+	quest.3E8BA5E075ABD136.quest_desc: [
+		"A legendary chef's hat."
+		""
+		"• &6Meatball Harvest&r: Defeated enemies have a chance to drop hearty meatballs for sustenance in battle."
+	]
+	quest.3E8BA5E075ABD136.quest_subtitle: "Feast on the battlefield"
+	quest.3E8BA5E075ABD136.title: "&fChef's Hat&r"
+	quest.40AB457E37919ABE.quest_desc: [
+		"A powerful nether ring granting &57 abilities&r tied to the seven deadly sins:"
+		"• &dPride&r: Bonus damage striking from above."
+		"• &aEnvy&r: Bonus damage against healthier targets."
+		"• &4Wrath&r: Short damage surge window."
+		"• &8Sloth&r: Immortality while standing still."
+		"• &6Greed&r: Increased luck and loot."
+		"• &2Gluttony&r: Buffs stats when well-fed."
+		"• &5Lust&r: Extra animal breeding offspring."
+	]
+	quest.40AB457E37919ABE.quest_subtitle: "Seven blessings and seven curses"
+	quest.40AB457E37919ABE.title: "&cRing of the Seven Deadly Sins"
+	quest.4BADD8A0FD85DB33.quest_desc: ["&eGolden Tooth&r drops from enemies while wearing the Piglin Mask – use for bartering or smelting into gold!"]
+	quest.4BADD8A0FD85DB33.quest_subtitle: "Bastion currency"
+	quest.4BADD8A0FD85DB33.title: "&eGolden Tooth"
+	quest.54822638CC243004.quest_desc: [
+		"A sphere converting your vitality into long-term regeneration."
+		""
+		"• &4Sacrifice&r: Consumes a portion of max health to grant powerful stacking regeneration over time."
+	]
+	quest.54822638CC243004.quest_subtitle: "Power at the cost of blood"
+	quest.54822638CC243004.title: "&cSphere of Self-Sacrifice&r"
+	quest.5D82340E9BED9C79.quest_desc: ["Find these relics inside End Cities and End Ships across &dThe End&r!"]
+	quest.5D82340E9BED9C79.title: "Relics: &dThe End"
+	quest.5EB87CE5F6DEFAAA.quest_desc: [
+		"A mask from Bastions allowing you to blend in with Piglins."
+		""
+		"• &eNeutrality&r: Piglins ignore you on sight."
+		"• &6Barter&r: Chance for extra bartering rewards."
+		"• &cLooting&r: Defeated foes drop &eGolden Teeth&r."
+	]
+	quest.5EB87CE5F6DEFAAA.quest_subtitle: "One of the Piglins"
+	quest.5EB87CE5F6DEFAAA.title: "&cPiglin Mask&r"
+	quest.60CECAAE2D43EC6E.quest_desc: [
+		"A shard of broken time found in End ruins."
+		""
+		"• &dTransgression&r: Rewinds your movement along your recent path for a few seconds!"
+	]
+	quest.60CECAAE2D43EC6E.quest_subtitle: "Rewind your steps"
+	quest.60CECAAE2D43EC6E.title: "&5Clot of Time&r"
+	quest.64141B720662B652.quest_desc: [
+		"The &6&lRelics&r mod introduces powerful artifacts leveling up alongside you!"
+		""
+		"Hold &e[ Shift ]&r on any relic to open its &6Research Window&r. Spend vanilla XP to reroll stats, check Relic XP, and level up abilities!"
+	]
+	quest.64141B720662B652.title: "&l&6Relics: Progression System"
+	quest.677A701E06422CF3.quest_desc: [
+		"A cloak woven from living foliage found in forest biomes."
+		""
+		"• &aCamouflage&r: Move through leaves silently, take no fall damage on leaves, and regenerate health in foliage."
+		"• &2Gift of the Grove&r: Absorbs fatal blows by consuming surrounding leaves!"
+	]
+	quest.677A701E06422CF3.quest_subtitle: "Forest protection"
+	quest.677A701E06422CF3.title: "&2Leafy Mantle"
+	quest.6A715F4AE22D2439.quest_desc: [
+		"A ghostly cloak bridging the physical and spiritual worlds."
+		""
+		"• &7Grave Mist&r: Leaves a suffocating mist behind you."
+		"• &bFrozen Gaze&r: Inflicts Weakness on enemies looking at you."
+		"• &7Spectral Escape&r: Negates fatal hits by entering spectral form!"
+	]
+	quest.6A715F4AE22D2439.quest_subtitle: "Walk between worlds"
+	quest.6A715F4AE22D2439.title: "Ghostly Mantle"
+	quest.6B40AF49F505A551.quest_desc: [
+		"Roller skates turning continuous running into unstoppable momentum."
+		""
+		"• &bAcceleration&r: Gradually increases movement speed during prolonged sprinting."
+	]
+	quest.6B40AF49F505A551.quest_subtitle: "Build up momentum!"
+	quest.6B40AF49F505A551.title: "&cRoller Skate"
+	quest.730130CCF1CF5119.quest_desc: ["Find these relics inside chests across &2Overworld&r structures (villages, mineshafts, shipwrecks, strongholds)!"]
+	quest.730130CCF1CF5119.title: "Relics: &2Overworld"
+	quest.748A01B5607C475B.quest_desc: [
+		"Spring-loaded boots found in mountain biomes."
+		""
+		"• &bSpring Dash&r: Crouch-jumping launches you forward with massive force and completely negates fall damage!"
+	]
+	quest.748A01B5607C475B.quest_subtitle: "Every step is a leap"
+	quest.748A01B5607C475B.title: "&aSpringy Boot"
+	quest.75DA0A46E41E6690.quest_desc: [
+		"An extremely rare relic found in any dimension."
+		""
+		"• &aExperience Dispersion&r: Whenever any equipped relic gains experience, a portion of it is shared with all other equipped relics!"
+	]
+	quest.75DA0A46E41E6690.quest_subtitle: "Shared growth"
+	quest.75DA0A46E41E6690.title: "&aExperience Disperser"
+	quest.7C3F65B5DAC7E57B.quest_desc: [
+		"A mantle woven from the night sky."
+		""
+		"• &dLunar Phase&r: Buffs damage and attack speed based on moon phases."
+		"• &8Shadow&r: Grants invisibility in low light."
+		"• &7Constellation&r & &eStarfall&r: Summons exploding stars and constellations!"
+	]
+	quest.7C3F65B5DAC7E57B.quest_subtitle: "Power of the night sky"
+	quest.7C3F65B5DAC7E57B.title: "&5Midnight Mantle"
+	quest.7F2D696AC9F4C4E4.quest_desc: [
+		"Glass boot with an internal fluid buffer."
+		""
+		"• &f&lGlass&r: Stores liquids in an internal buffer, letting you walk across any liquid stored inside!"
+	]
+	quest.7F2D696AC9F4C4E4.quest_subtitle: "Walk across any liquid"
+	quest.7F2D696AC9F4C4E4.title: "&bCut Glass Boot"
+}

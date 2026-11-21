@@ -3,9 +3,400 @@
 	default_quest_shape: ""
 	filename: "era_4_wiek_podpoju_wiata"
 	group: "5177702D2E2E75BA"
+	icon: {
+		id: "kubejs:calibrated_eye"
+	}
 	id: "0A24069F4A6D554B"
 	images: [ ]
 	order_index: 7
-	quest_links: [ ]
-	quests: [ ]
+	quest_links: [
+		{
+			id: "39486CE906A5FD08"
+			linked_quest: "522FEED183C8A336"
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			id: "03A4B86B4904FC01"
+			linked_quest: "30C5D432C810F904"
+			x: -3.0d
+			y: 4.0d
+		}
+		{
+			id: "5D3E063BD7A04F65"
+			linked_quest: "775AB10F8196F27B"
+			x: -2.0d
+			y: 4.0d
+		}
+		{
+			id: "354236310B7E69D3"
+			linked_quest: "7C848C7011726470"
+			x: -1.0d
+			y: 4.0d
+		}
+		{
+			id: "1103666CA53093CD"
+			linked_quest: "43A5B83862D9E94C"
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			id: "2EF516A7AE76CF1C"
+			linked_quest: "2542D8A6894816C6"
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			id: "7066014F7ECDF02D"
+			linked_quest: "3DD71B6C4B80FB44"
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			id: "4EA10AEB86D09655"
+			linked_quest: "3E8C7D92F99496BE"
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			id: "51D36F33A79EFC2C"
+			linked_quest: "62C32905C33E2D88"
+			x: 4.0d
+			y: 4.0d
+		}
+	]
+	quests: [
+		{
+			dependencies: ["522FEED183C8A336"]
+			id: "41D3439D7E8184D2"
+			rewards: [
+				{
+					id: "4E02439D7E818401"
+					item: {
+						count: 1
+						id: "numismatics:crown"
+					}
+					type: "item"
+				}
+				{
+					id: "4E02439D7E818402"
+					type: "xp"
+					xp: 1500
+				}
+			]
+			shape: "gear"
+			size: 1.25d
+			tasks: [{
+				id: "488788FD30FB0D5B"
+				item: { count: 1, id: "rsinfinitybooster:dimension_card" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["522FEED183C8A336"]
+			id: "02EB7BAD11591BC3"
+			rewards: [
+				{
+					id: "4E037BAD11591B01"
+					item: {
+						count: 1
+						id: "numismatics:cog"
+					}
+					type: "item"
+				}
+				{
+					id: "4E037BAD11591B02"
+					type: "xp"
+					xp: 1000
+				}
+			]
+			tasks: [{
+				id: "0168081A186FE8F2"
+				item: { count: 1, id: "kubejs:infinity_endstone_drive" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["522FEED183C8A336"]
+			id: "661A1235E0C89214"
+			rewards: [
+				{
+					id: "4E041235E0C89201"
+					item: {
+						count: 1
+						id: "numismatics:cog"
+					}
+					type: "item"
+				}
+				{
+					id: "4E041235E0C89202"
+					type: "xp"
+					xp: 1200
+				}
+			]
+			tasks: [{
+				id: "4EB1C9B4AC7D8741"
+				item: { count: 1, id: "kubejs:infinity_dragon_breath_drive" }
+				type: "item"
+			}]
+			x: -2.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["433893AF906A8DBF"]
+			id: "646EF888C6D39B09"
+			rewards: [
+				{
+					id: "4E05F888C6D39B01"
+					item: {
+						count: 1
+						id: "numismatics:cog"
+					}
+					type: "item"
+				}
+				{
+					id: "4E05F888C6D39B02"
+					type: "xp"
+					xp: 800
+				}
+			]
+			tasks: [
+				{
+					id: "13D9E20FA7149091"
+					item: { count: 1, id: "create_deep_dark:echo_ingot" }
+					type: "item"
+				}
+				{
+					id: "585C88705FBBF71D"
+					item: { count: 1, id: "create_deep_dark:echo_upgrade_smithing_template" }
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["646EF888C6D39B09"]
+			id: "0D16D3E2CE3AD444"
+			rewards: [
+				{
+					id: "4E06D3E2CE3AD401"
+					item: {
+						count: 1
+						id: "numismatics:cog"
+					}
+					type: "item"
+				}
+				{
+					id: "4E06D3E2CE3AD402"
+					type: "xp"
+					xp: 900
+				}
+			]
+			tasks: [{
+				id: "24F721FE002734B8"
+				item: { count: 1, id: "create_deep_dark:echo_armor_helmet" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["646EF888C6D39B09"]
+			id: "5DCE15A8D3869361"
+			rewards: [
+				{
+					id: "4E0715A8D3869301"
+					item: {
+						count: 1
+						id: "numismatics:cog"
+					}
+					type: "item"
+				}
+				{
+					id: "4E0715A8D3869302"
+					type: "xp"
+					xp: 1000
+				}
+			]
+			tasks: [{
+				id: "10E36F22498F9D01"
+				item: { count: 1, id: "create_deep_dark:echo_armor_chestplate" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["646EF888C6D39B09"]
+			id: "404FC96FD774299D"
+			rewards: [
+				{
+					id: "4E08C96FD7742901"
+					item: {
+						count: 1
+						id: "numismatics:cog"
+					}
+					type: "item"
+				}
+				{
+					id: "4E08C96FD7742902"
+					type: "xp"
+					xp: 950
+				}
+			]
+			tasks: [{
+				id: "30EA4A93D5B33241"
+				item: { count: 1, id: "create_deep_dark:echo_armor_leggings" }
+				type: "item"
+			}]
+			x: 4.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["646EF888C6D39B09"]
+			id: "455738F7FC2E8490"
+			rewards: [
+				{
+					id: "4E0938F7FC2E8401"
+					item: {
+						count: 1
+						id: "numismatics:cog"
+					}
+					type: "item"
+				}
+				{
+					id: "4E0938F7FC2E8402"
+					type: "xp"
+					xp: 900
+				}
+			]
+			tasks: [{
+				id: "6A39EAAEC3E0E7C8"
+				item: { count: 1, id: "create_deep_dark:echo_armor_boots" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["646EF888C6D39B09"]
+			id: "7852E718281B2AA2"
+			rewards: [
+				{
+					id: "4E10E718281B2A01"
+					item: {
+						count: 1
+						id: "numismatics:cog"
+					}
+					type: "item"
+				}
+				{
+					id: "4E10E718281B2A02"
+					type: "xp"
+					xp: 1000
+				}
+			]
+			tasks: [{
+				id: "372EEFF115A04F2E"
+				item: { count: 1, id: "create_deep_dark:echo_sword" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["522FEED183C8A336"]
+			hide_dependency_lines: true
+			id: "433893AF906A8DBF"
+			rewards: [
+				{
+					id: "4E1193AF906A8D01"
+					item: {
+						count: 1
+						id: "numismatics:sprocket"
+					}
+					type: "item"
+				}
+				{
+					id: "4E1193AF906A8D02"
+					type: "xp"
+					xp: 400
+				}
+			]
+			tasks: [{
+				id: "532247A98A6AB3F9"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -2.5d
+		}
+		{
+			dependencies: [
+				"41D3439D7E8184D2"
+				"02EB7BAD11591BC3"
+				"661A1235E0C89214"
+				"0D16D3E2CE3AD444"
+				"5DCE15A8D3869361"
+				"404FC96FD774299D"
+				"455738F7FC2E8490"
+				"7852E718281B2AA2"
+				"30C5D432C810F904"
+				"775AB10F8196F27B"
+				"7C848C7011726470"
+				"43A5B83862D9E94C"
+				"2542D8A6894816C6"
+				"3DD71B6C4B80FB44"
+				"3E8C7D92F99496BE"
+				"62C32905C33E2D88"
+			]
+			hide_dependency_lines: true
+			icon: {
+				id: "numismatics:crown"
+			}
+			id: "7F1A8E4B9C2D0001"
+			rewards: [
+				{
+					count: 2
+					id: "4E128E4B9C2D0001"
+					item: {
+						count: 1
+						id: "numismatics:crown"
+					}
+					type: "item"
+				}
+				{
+					id: "4E128E4B9C2D0002"
+					type: "xp"
+					xp: 5000
+				}
+				{
+					auto: "invisible"
+					id: "4E128E4B9C2D0003"
+					stage: "Koniec Gry"
+					type: "gamestage"
+				}
+				{
+					auto: "invisible"
+					command: "/playsound minecraft:ui.toast.challenge_complete master @a ~ ~ ~ 1 1"
+					id: "4E128E4B9C2D0005"
+					permission_level: 2
+					silent: true
+					type: "command"
+				}
+			]
+			shape: "octagon"
+			size: 2.5d
+			tasks: [{
+				id: "7F1A8E4B9C2D0002"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: -4.5d
+		}
+	]
 }

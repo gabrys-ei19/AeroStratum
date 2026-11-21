@@ -4,11 +4,13 @@ StartupEvents.registry('item', event => {
     // Rejestracja przedmiotu przejściowego (płytki drukowanej)
     event.create('incomplete_printed_circuit', 'create:sequenced_assembly')
          .displayName('Incomplete Printed Circuit')
-         .texture('extradisks:item/raw_withering_processor')
 
     // Rejestracja maszyn redstonowych (Andesite i Brass)
     event.create('andesite_redstone_machine')
          .displayName('Andesite Redstone Machine')
+
+    event.create('zinc_redstone_machine')
+         .displayName('Zinc Redstone Machine')
 
     event.create('brass_redstone_machine')
          .displayName('Brass Redstone Machine')
@@ -43,4 +45,10 @@ StartupEvents.registry('item', event => {
 
      event.create('digital_tank')
          .displayName('Digital Tank')
+
+     event.create('digital_accumulator')
+         .displayName('Digital accumulator')
+
+     event.create('frequency_calibrator')
+          .displayName('Frequency calibrator')
 })

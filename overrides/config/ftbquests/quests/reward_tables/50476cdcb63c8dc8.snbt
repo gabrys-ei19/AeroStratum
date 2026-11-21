@@ -39,48 +39,66 @@
 			count: 5
 			id: "00DF2DA61D7FB47A"
 			item: {
+				components: {
+					"ftbquests:missing_item": "ftbmaterials:aluminum_ingot"
+				}
 				count: 1
-				id: "ftbmaterials:aluminum_ingot"
+				id: "ftbquests:missing_item"
 			}
 		}
 		{
 			count: 5
 			id: "7BDA52046BA96300"
 			item: {
+				components: {
+					"ftbquests:missing_item": "ftbmaterials:silver_ingot"
+				}
 				count: 1
-				id: "ftbmaterials:silver_ingot"
+				id: "ftbquests:missing_item"
 			}
 		}
 		{
 			count: 5
 			id: "46E6BF6ED2104B4E"
 			item: {
+				components: {
+					"ftbquests:missing_item": "ftbmaterials:zinc_ingot"
+				}
 				count: 1
-				id: "ftbmaterials:zinc_ingot"
+				id: "ftbquests:missing_item"
 			}
 		}
 		{
 			count: 5
 			id: "7D1CB00F21DC64AE"
 			item: {
+				components: {
+					"ftbquests:missing_item": "ftbmaterials:titanium_ingot"
+				}
 				count: 1
-				id: "ftbmaterials:titanium_ingot"
+				id: "ftbquests:missing_item"
 			}
 		}
 		{
 			count: 5
 			id: "2D7E1673ACB4387D"
 			item: {
+				components: {
+					"ftbquests:missing_item": "ftbmaterials:platinum_ingot"
+				}
 				count: 1
-				id: "ftbmaterials:platinum_ingot"
+				id: "ftbquests:missing_item"
 			}
 		}
 		{
 			count: 5
 			id: "316D838E2265152B"
 			item: {
+				components: {
+					"ftbquests:missing_item": "ftbmaterials:tin_ingot"
+				}
 				count: 1
-				id: "ftbmaterials:tin_ingot"
+				id: "ftbquests:missing_item"
 			}
 		}
 		{

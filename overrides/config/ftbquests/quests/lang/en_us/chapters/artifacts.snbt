@@ -1,0 +1,153 @@
+{
+	quest.010607466D565B53.quest_desc: ["Regenerates health and hunger when standing on grass."]
+	quest.010607466D565B53.quest_subtitle: "Feet"
+	quest.010607466D565B53.title: "&aRooted Boots"
+	quest.0A1D4228271DECA3.quest_desc: ["Halves your body size to fit through 1-block gaps."]
+	quest.0A1D4228271DECA3.quest_subtitle: "Necklace"
+	quest.0A1D4228271DECA3.title: "&5Charm of Shrinking"
+	quest.0E716B90E60C486B.quest_desc: ["Grants a speed boost immediately upon taking damage."]
+	quest.0E716B90E60C486B.quest_subtitle: "Necklace"
+	quest.0E716B90E60C486B.title: "&4Panic Necklace"
+	quest.11C5F17C6BB1237B.quest_desc: ["Melee attacks have a chance to inflict Wither."]
+	quest.11C5F17C6BB1237B.quest_subtitle: "Wrists (Hands)"
+	quest.11C5F17C6BB1237B.title: "&5Withered Bracelet"
+	quest.122E6E7CABCB17E7.quest_desc: ["Scare away Creepers and reduce fall damage."]
+	quest.122E6E7CABCB17E7.quest_subtitle: "Feet"
+	quest.122E6E7CABCB17E7.title: "&7Kitty Slippers"
+	quest.145E7D1A88B83DDD.quest_desc: ["Wraps you in an aura of invisibility to avoid mobs."]
+	quest.145E7D1A88B83DDD.quest_subtitle: "Scarf (Necklace)"
+	quest.145E7D1A88B83DDD.title: "&9Scarf of Invisibility"
+	quest.161A90E134592D0E.quest_desc: ["Smelt Everlasting Beef to get Eternal Steak – restoring more food and saturation."]
+	quest.161A90E134592D0E.quest_subtitle: "Unique"
+	quest.161A90E134592D0E.title: "&4Eternal Steak"
+	quest.16255FB20F35A9D9.quest_desc: ["Provides water breathing when submerged."]
+	quest.16255FB20F35A9D9.quest_subtitle: "Head"
+	quest.16255FB20F35A9D9.title: "&3Snorkel"
+	quest.19B393433FB0C62F.quest_desc: ["Walk safely on lava while sneaking and resist magma damage."]
+	quest.19B393433FB0C62F.quest_subtitle: "Feet"
+	quest.19B393433FB0C62F.title: "&4Strider Shoes"
+	quest.1E40ACF3E69A4100.quest_desc: ["Drastically reduces negative status effect durations."]
+	quest.1E40ACF3E69A4100.quest_subtitle: "Belt"
+	quest.1E40ACF3E69A4100.title: "&6Antidote Vessel"
+	quest.2215FB0777D7029D.quest_desc: ["Grants knockback immunity, eliminates ice slipping, and lets you slide down walls."]
+	quest.2215FB0777D7029D.quest_subtitle: "Feet"
+	quest.2215FB0777D7029D.title: "&7Steadfast Spikes"
+	quest.221C9EDA651144BA.quest_desc: ["Allows you to walk freely along the ocean floor as if unimpeded by water."]
+	quest.221C9EDA651144BA.quest_subtitle: "Necklace"
+	quest.221C9EDA651144BA.title: "&3Charm of Sinking"
+	quest.2607F3DC07049785.quest_desc: ["Speeds up eating food and consuming potions."]
+	quest.2607F3DC07049785.quest_subtitle: "Head"
+	quest.2607F3DC07049785.title: "&6Plastic Drinking Hat"
+	quest.27E951F4F4F6F847.quest_desc: ["Ignites attackers and grants fire resistance."]
+	quest.27E951F4F4F6F847.quest_subtitle: "Necklace"
+	quest.27E951F4F4F6F847.title: "&cFlame Pendant"
+	quest.29448D08C8777425.quest_desc: ["Improves fishing lure speed and treasure catch rates."]
+	quest.29448D08C8777425.quest_subtitle: "Head"
+	quest.29448D08C8777425.title: "&cAngler's Hat"
+	quest.2AD78E22988A92D3.quest_desc: ["Grants night vision for exploring caves and dark dungeons."]
+	quest.2AD78E22988A92D3.quest_subtitle: "Head"
+	quest.2AD78E22988A92D3.title: "&2Night Vision Goggles"
+	quest.321F16645640C462.quest_desc: ["Ender pearls cost hunger instead of being consumed and deal no fall damage."]
+	quest.321F16645640C462.quest_subtitle: "Belt"
+	quest.321F16645640C462.title: "&9Warp Drive"
+	quest.3446803FB59D8875.quest_desc: ["Acts as natural Thorns, damaging and poisoning attackers."]
+	quest.3446803FB59D8875.quest_subtitle: "Necklace"
+	quest.3446803FB59D8875.title: "&aThorn Pendant"
+	quest.3525D5DCC3A534D9.quest_desc: ["Increases mining speed and lets bare hands mine like stone pickaxes."]
+	quest.3525D5DCC3A534D9.quest_subtitle: "Hands"
+	quest.3525D5DCC3A534D9.title: "&9Digging Claws"
+	quest.3705D303CF423804.quest_desc: ["Directly increases melee damage dealt."]
+	quest.3705D303CF423804.quest_subtitle: "Hands"
+	quest.3705D303CF423804.title: "&ePower Glove"
+	quest.3B3BD39BA02DCA13.quest_desc: ["Increases melee knockback force and attack range."]
+	quest.3B3BD39BA02DCA13.quest_subtitle: "Hands"
+	quest.3B3BD39BA02DCA13.title: "&6Pocket Piston"
+	quest.3E0643EA9183CDAE.quest_desc: ["Significantly speeds up eating and drinking."]
+	quest.3E0643EA9183CDAE.quest_subtitle: "Head"
+	quest.3E0643EA9183CDAE.title: "&9Novelty Drinking Hat"
+	quest.3E1A3BC8642390B3.quest_desc: ["Slows your fall like a parachute and works as a shield when holding Right Click."]
+	quest.3E1A3BC8642390B3.quest_subtitle: "Unique"
+	quest.3E1A3BC8642390B3.title: "&4Umbrella"
+	quest.3EC8A0B89788D079.quest_desc: ["Significantly increases underwater swimming speed."]
+	quest.3EC8A0B89788D079.quest_subtitle: "Feet"
+	quest.3EC8A0B89788D079.title: "&9Flippers"
+	quest.427014BDE06DE631.quest_desc: ["Makes all melee attacks set targets on fire."]
+	quest.427014BDE06DE631.quest_subtitle: "Hands"
+	quest.427014BDE06DE631.title: "&cFire Gauntlet"
+	quest.436E4E3515BCCDE9.quest_desc: ["Grants a mid-air double jump and reduces fall damage."]
+	quest.436E4E3515BCCDE9.quest_subtitle: "Belt"
+	quest.436E4E3515BCCDE9.title: "&bCloud in a Bottle"
+	quest.4564B577CB4EC046.quest_desc: ["An infinite piece of raw beef that doesn't get consumed (works with backpack feeders)."]
+	quest.4564B577CB4EC046.quest_subtitle: "Unique"
+	quest.4564B577CB4EC046.title: "&cEverlasting Beef"
+	quest.4933CF4675E77D50.quest_desc: ["Grants temporary fire resistance after taking fire damage."]
+	quest.4933CF4675E77D50.quest_subtitle: "Belt"
+	quest.4933CF4675E77D50.title: "&5Obsidian Skull"
+	quest.4A7AEBEB87CEC274.quest_desc: ["Increases sprint speed and auto-steps 1-block heights."]
+	quest.4A7AEBEB87CEC274.quest_subtitle: "Feet"
+	quest.4A7AEBEB87CEC274.title: "&cRunning Shoes"
+	quest.4D3379D38237F830.quest_desc: ["Allows sprinting across water surfaces."]
+	quest.4D3379D38237F830.quest_subtitle: "Feet"
+	quest.4D3379D38237F830.title: "&bAqua-Dashers"
+	quest.5040B3D29F238BC0.quest_desc: ["Doubles jump height and halves fall damage."]
+	quest.5040B3D29F238BC0.quest_subtitle: "Feet"
+	quest.5040B3D29F238BC0.title: "&dBunny Hoppers"
+	quest.50A32AC6EDBC5854.quest_desc: ["Grants a temporary Haste buff when eating food."]
+	quest.50A32AC6EDBC5854.quest_subtitle: "Hands"
+	quest.50A32AC6EDBC5854.title: "&6Onion Ring"
+	quest.589F1D502F680075.quest_desc: ["Allows swimming through mid-air by pressing sprint while jumping."]
+	quest.589F1D502F680075.quest_subtitle: "Belt"
+	quest.589F1D502F680075.title: "&dHelium Flamingo"
+	quest.5CE44C58A470E48E.quest_desc: [
+		"The &3&lArtifacts&r mod adds unique accessories hidden across underground campsites and ruins."
+		""
+		"Guarded by &cMimics&r disguised as ordinary chests. Defeating a Mimic guarantees a random artifact!"
+	]
+	quest.5CE44C58A470E48E.title: "&l&3Artifacts: Mimic Hunt"
+	quest.5DE7C4FD5FA29236.quest_desc: ["Saves you from fatal blows by teleporting you away and granting regeneration."]
+	quest.5DE7C4FD5FA29236.quest_subtitle: "Belt"
+	quest.5DE7C4FD5FA29236.title: "&5Chorus Totem"
+	quest.5EB7CE3A1DCD3E9B.quest_desc: ["Acts as a powerful item and XP magnet."]
+	quest.5EB7CE3A1DCD3E9B.quest_subtitle: "Belt"
+	quest.5EB7CE3A1DCD3E9B.title: "&cUniversal Attractor"
+	quest.5F5E43B3F51CAE9E.quest_desc: ["Grants an extra level of Looting when killing mobs."]
+	quest.5F5E43B3F51CAE9E.quest_subtitle: "Head"
+	quest.5F5E43B3F51CAE9E.title: "&aSuperstitious Hat"
+	quest.623796B1D7981E59.quest_desc: ["Permanently increases max health by extra hearts."]
+	quest.623796B1D7981E59.quest_subtitle: "Belt"
+	quest.623796B1D7981E59.title: "&4Crystal Heart"
+	quest.62622137648A4F56.quest_desc: ["Automatically smelts mined metal ores."]
+	quest.62622137648A4F56.quest_subtitle: "Hands"
+	quest.62622137648A4F56.title: "&7Pickaxe Heater"
+	quest.6A452BFC8A967C39.quest_desc: ["Increases attack speed with weapons and fists."]
+	quest.6A452BFC8A967C39.quest_subtitle: "Hands"
+	quest.6A452BFC8A967C39.title: "&aFeral Claws"
+	quest.6FBE5B5D5027B32C.quest_desc: ["Increases mount speed and jump height."]
+	quest.6FBE5B5D5027B32C.quest_subtitle: "Head"
+	quest.6FBE5B5D5027B32C.title: "&7Cowboy Hat"
+	quest.70C7D92844089DEB.quest_desc: ["Strikes attackers with lightning and grants storm immunity."]
+	quest.70C7D92844089DEB.quest_subtitle: "Naszyjnik"
+	quest.70C7D92844089DEB.title: "&bShock Pendant"
+	quest.7188DC06A28AE30E.quest_desc: ["Increases XP yield from defeated enemies."]
+	quest.7188DC06A28AE30E.quest_subtitle: "Hands"
+	quest.7188DC06A28AE30E.title: "&eGolden Hook"
+	quest.72D6265E35814927.quest_desc: ["Extends invincibility frames after taking damage."]
+	quest.72D6265E35814927.quest_subtitle: "Naszyjnik"
+	quest.72D6265E35814927.title: "&eCross Necklace"
+	quest.73B73870B29DFAD9.quest_desc: ["Lowers villager trade prices."]
+	quest.73B73870B29DFAD9.quest_subtitle: "Head"
+	quest.73B73870B29DFAD9.title: "&eVillager Hat"
+	quest.73FC51144FC2DA52.quest_desc: ["Lifesteal effect on every melee attack."]
+	quest.73FC51144FC2DA52.quest_subtitle: "Hands"
+	quest.73FC51144FC2DA52.title: "&7Vampiric Glove"
+	quest.74B352457BF1541B.quest_desc: ["Prevents sinking in powder snow and boosts speed on snow."]
+	quest.74B352457BF1541B.quest_subtitle: "Feet"
+	quest.74B352457BF1541B.title: "&fSnowshoes"
+	quest.7503823ACDDB0491.quest_desc: ["Grants an extra level of Fortune to your pickaxes."]
+	quest.7503823ACDDB0491.quest_subtitle: "Scarf (Necklace)"
+	quest.7503823ACDDB0491.title: "&2Lucky Scarf"
+	quest.789AF6D0A6321945.quest_desc: ["Crouching emits a funny sound that repels and stuns nearby mobs."]
+	quest.789AF6D0A6321945.quest_subtitle: "Unique"
+	quest.789AF6D0A6321945.title: "&dWhoopee Cushion"
+	task.68DC39876E14FC1B.title: "Kill 1 Mimic"
+}

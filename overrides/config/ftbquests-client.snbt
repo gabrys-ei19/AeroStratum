@@ -60,7 +60,7 @@
 		backspace_history: true
 		
 		# Default: false
-		chapter_panel_pinned: true
+		chapter_panel_pinned: false
 		
 		# Default: false
 		old_scroll_wheel: false
@@ -70,7 +70,7 @@
 	}
 	xlate: {
 		# Default: ""
-		editing_locale: ""
+		editing_locale: "pl_pl"
 		
 		# Default: ""
 		fallback_locale: ""
