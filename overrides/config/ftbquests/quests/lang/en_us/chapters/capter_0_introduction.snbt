@@ -1,0 +1,78 @@
+{
+	quest.05DD778297C6611B.quest_desc: ["Diamond reinforcements grant massive cargo capacity and slots for advanced upgrade modules. With this backpack, you can carry half a factory on your back."]
+	quest.05DD778297C6611B.quest_subtitle: "The strongest hauler on the team"
+	quest.05DD778297C6611B.title: "Diamond Backpack"
+	quest.0794B19AAB6261EF.quest_desc: ["Combine stripped wood with Andesite Alloy by right-clicking placed wood with the alloy or crafting it at a table. Congratulations – you now have an official frame capable of holding cogwheels and pistons together without falling apart."]
+	quest.0794B19AAB6261EF.quest_subtitle: "5x Andesite Casing"
+	quest.0794B19AAB6261EF.title: "Andesite Casing"
+	quest.166B94A48B3625D5.quest_desc: ["Essential fuel for your early furnaces and boilers. Stockpile plenty of coal before transitioning to liquid fuels."]
+	quest.166B94A48B3625D5.quest_subtitle: "32x Coal"
+	quest.166B94A48B3625D5.title: "Black Gold: Coal"
+	quest.18A64670D9EE86E8.quest_desc: ["An unassuming gray rock that serves as the foundation of all Create technology. Mine a full stack of andesite – you'll need it sooner than you think!"]
+	quest.18A64670D9EE86E8.quest_subtitle: "64x Andesite"
+	quest.18A64670D9EE86E8.title: "Foundation of Engineering: Andesite"
+	quest.1FD7EB7910170E8D.quest_desc: ["Copper is the key to mastering pipelines, pressurized tanks, and brass smelting in the upcoming eras."]
+	quest.1FD7EB7910170E8D.quest_subtitle: "16x Copper Ingot"
+	quest.1FD7EB7910170E8D.title: "Industrial Ores: Copper"
+	quest.226FB6C7CF3FEFB3.quest_desc: ["A backpack is essential for survival on this journey. Craft one as soon as possible (you will need leather)."]
+	quest.226FB6C7CF3FEFB3.quest_subtitle: "A gatherer's best friend - BACKPACK"
+	quest.226FB6C7CF3FEFB3.title: "Essential Accessory"
+	quest.25DB44EB6E7DA3B0.quest_desc: ["This is the single most important material in Era 0. Combining ordinary andesite with iron (or zinc) nuggets produces an exceptionally malleable and durable alloy. You will need hundreds, if not thousands, of these. Stock up!"]
+	quest.25DB44EB6E7DA3B0.quest_subtitle: "8x Andesite Alloy"
+	quest.25DB44EB6E7DA3B0.title: "Magical Fusion: Andesite Alloy"
+	quest.269AB30A3588E4CD.quest_desc: ["Every great engineer started by getting their hands dirty. Before building steam factories, you must survive your first night. Mine some stone, craft basic tools, and prepare for hard work."]
+	quest.269AB30A3588E4CD.quest_subtitle: "16x Cobblestone"
+	quest.269AB30A3588E4CD.title: "Pick Up That Stone"
+	quest.33BDEE1D6D8C50A6.quest_desc: ["A noble metal with superior conductivity. Useful for advanced electronic components and specialty alloys."]
+	quest.33BDEE1D6D8C50A6.quest_subtitle: "16x Silver Ingot"
+	quest.33BDEE1D6D8C50A6.title: "Industrial Ores: Silver"
+	quest.36E78F8D9F91A5E0.quest_desc: ["Stone tools are fine for digging holes, not for building factories. Find iron ore and smelt it in a furnace. Iron forms the backbone of your first mechanisms, shafts, and cogwheels."]
+	quest.36E78F8D9F91A5E0.quest_subtitle: "32x Iron Ingot"
+	quest.36E78F8D9F91A5E0.title: "The Iron Age"
+	quest.43B52BE28D14514D.quest_desc: ["The lifeblood of logic circuits, rose quartz, and Refined Storage memory cores. The more you mine, the better."]
+	quest.43B52BE28D14514D.quest_subtitle: "64x Redstone"
+	quest.43B52BE28D14514D.title: "Industrial Ores: Redstone"
+	quest.43B5BA3A5CE95E7A.quest_desc: ["A heavy shielding metal that will prove invaluable when building industrial batteries and nuclear reactors in later eras."]
+	quest.43B5BA3A5CE95E7A.quest_subtitle: "16x Lead Ingot"
+	quest.43B5BA3A5CE95E7A.title: "Industrial Ores: Lead"
+	quest.43DA4C62DD1CD392.quest_desc: ["The hardest mineral in the world, required for advanced processors and high-durability tools."]
+	quest.43DA4C62DD1CD392.quest_subtitle: "16x Diamond"
+	quest.43DA4C62DD1CD392.title: "Treasures of the Deep: Diamonds"
+	quest.4AF4F5612CE4A30F.quest_desc: ["Gold plating provides even more inventory slots and extra pockets for functional upgrades."]
+	quest.4AF4F5612CE4A30F.quest_subtitle: "Almost the best"
+	quest.4AF4F5612CE4A30F.title: "Gold Backpack"
+	quest.55F156D969DFF910.quest_desc: ["Early on in an engineer's career it's easy to overlook raw resources – secure your future right from your first mining trip (you started with iron – now gather everything in sight!)."]
+	quest.55F156D969DFF910.quest_subtitle: "Start stockpiling ores now (you won't regret it)"
+	quest.55F156D969DFF910.title: "Riches of the Underground"
+	quest.5B35AA2B52B7EE5F.quest_desc: ["Precious crystals sought after by traders and precision optics engineers alike."]
+	quest.5B35AA2B52B7EE5F.quest_subtitle: "16x Emerald"
+	quest.5B35AA2B52B7EE5F.title: "Treasures of the Deep: Emeralds"
+	quest.6996F3F5F20CC47C.quest_desc: ["Alongside copper, the most important metal of Era 1. Essential for alloying brass, zinc casings, and mechanical hands."]
+	quest.6996F3F5F20CC47C.quest_subtitle: "16x Zinc Ingot"
+	quest.6996F3F5F20CC47C.title: "Industrial Ores: Zinc"
+	quest.6BD6050862596B7F.quest_desc: ["Reinforcing your backpack with iron plates significantly expands its storage capacity during long mining expeditions."]
+	quest.6BD6050862596B7F.quest_subtitle: "Upgrade"
+	quest.6BD6050862596B7F.title: "Iron Backpack"
+	quest.72B909D63ED0D8E0.quest_desc: ["Machines need motion, and in Create, motion means rotation. Shafts transfer power over distance, while cogwheels change rotation direction and speed. Craft these fundamental parts from Andesite Alloy and wooden planks."]
+	quest.72B909D63ED0D8E0.quest_subtitle: "16x Shaft, 2x Cogwheel, 2x Large Cogwheel"
+	quest.72B909D63ED0D8E0.title: "Let It Spin!"
+	quest.78EE55CCF4235510.quest_desc: ["Essential for enchanting as well as advanced alchemical and optical processes."]
+	quest.78EE55CCF4235510.quest_subtitle: "64x Lapis Lazuli"
+	quest.78EE55CCF4235510.title: "Industrial Ores: Lapis Lazuli"
+	quest.793CC4C42DE82B09.quest_desc: ["One final step stands between you and the core component that will let you build your own automated factory. Keep it up!"]
+	quest.793CC4C42DE82B09.quest_subtitle: "2x Andesite Mechanism"
+	quest.793CC4C42DE82B09.title: "The First Mechanism"
+	quest.7C2AADE731F3CA8F.quest_desc: ["To build a machine casing, you need smooth, treated timber. Use an axe on placed logs to strip the bark. Prepared logs form the core of every casing."]
+	quest.7C2AADE731F3CA8F.quest_subtitle: "8x Stripped Log"
+	quest.7C2AADE731F3CA8F.title: "Bark Begone!"
+	quest.7D906E6F59EF726B.quest_desc: ["Golden sheets form the base of Precision Mechanisms and network processors."]
+	quest.7D906E6F59EF726B.quest_subtitle: "16x Gold Ingot"
+	quest.7D906E6F59EF726B.title: "Industrial Ores: Gold"
+	quest.7FF173A78D72F662.quest_desc: [
+		"It is done. You have combined casings, cogwheels, and andesite alloy into a single working unit. This machine is your ticket to automation, enabling effortless sheet pressing, metalworking, and ore processing at a scale an ordinary miner could only dream of."
+		""
+		"Era 0 is officially complete. Welcome to the Age of Steam and Kinetics!"
+	]
+	quest.7FF173A78D72F662.quest_subtitle: "Era 0 Milestone"
+	quest.7FF173A78D72F662.title: "Andesite Machine"
+}

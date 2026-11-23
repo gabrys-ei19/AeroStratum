@@ -1,0 +1,45 @@
+{
+	quest.083ED9A55CB6F690.quest_desc: [
+		"Nie pozwól, aby Creepery zniszczyły Twoje ciężko zarobione maszyny i skrzynki. Może to też uchronić Cię przed kradzieżą, jeśli grasz ze znajomymi!"
+		""
+		"Otwórz mapę świata klawiszem [ M ]."
+		""
+		"Kliknij ikonę trzech nakładających się kwadratów w lewym górnym rogu (Claimed Chunks)."
+		""
+		"Klikaj lewym przyciskiem myszy na kwadraty (chunki), aby je zająć. Staną się bezpieczne."
+		""
+		"Przytrzymaj [ Shift ] + kliknij LPM na zajęty chunk, aby go załadować na stałe (Force Load). Dzięki temu Twoje farmy i maszyny będą działać, nawet gdy pójdziesz na daleką wyprawę!"
+	]
+	quest.083ED9A55CB6F690.quest_subtitle: "(Zabezpiecz bazę)"
+	quest.083ED9A55CB6F690.title: "Moje na zawsze!"
+	quest.0961A1F2AC4E3A5B.quest_desc: [
+		"Świat, w którym się znalazłeś, skrywa mroczne tajemnice. Pradawne, monstrualne bestie (z moda Cataclysm) śpią głęboko w gigantycznych strukturach – w ruinach na dnie oceanów, w płonących zamkach w Netherze czy w pustkach Endu."
+		""
+		"Nie próbuj z nimi walczyć na początku gry. Bez pełnego netherytowego pancerza, potężnych mieczy i zapasu mikstur, te potwory zniszczą Cię jednym uderzeniem. Eksploruj ostrożnie, przygotuj się dobrze i dopiero wtedy ruszaj po ich legendarne dropy!"
+	]
+	quest.0961A1F2AC4E3A5B.title: "Ostrzeżenie: Cienie w ciemności"
+	quest.243D55E17CC9B04A.quest_desc: [
+		"Aby ułatwić sobie życie, zapamiętaj te najważniejsze skróty klawiszowe:"
+		""
+		"[ M ] – Otwiera mapę świata (Xaero's lub JourneyMap)."
+		"[ R ] / [ U ] – Najeżdżając myszką na przedmiot w ekwipunku, sprawdzisz jak go stworzyć (R) lub do czego służy (U)."
+		"[ W ] – Objaśnienie za pomocą animacji działania i zastosowania danego komponentu Create."
+		"[ ~ ] (Tylda) – Aktywuje FTB Ultimine. Przytrzymaj ten klawisz podczas kopania, aby wykopać całą żyłę surowców naraz!"
+		"[ B ] – Szybki dostęp do plecaka (Sophisticated Backpacks)."
+	]
+	quest.243D55E17CC9B04A.quest_subtitle: "(Ważne Klawisze)"
+	quest.243D55E17CC9B04A.title: "Podręcznik Przetrwania"
+	quest.31FE06D7BD761156.quest_desc: [
+		"W tej paczce pieniądze rządzą światem! Oficjalną walutą są monety z systemu Create Numismatics (od drobnych Spur i Bevel po Sprocket, Cog i Crown)."
+		""
+		"Monety możesz zdobywać wykonując trudniejsze questy, pokonując bossów oraz sprzedając nadmiarowe surowce w specjalnych maszynach. Zarobioną gotówkę możesz wydać w sklepie lub w automatach vendingowych rozstawionych w świecie gry. Schowaj tę monetę głęboko do kieszeni!"
+	]
+	quest.31FE06D7BD761156.quest_subtitle: "(Zarabianie)"
+	quest.31FE06D7BD761156.title: "Ekonomia i Ty"
+	quest.7ED4C6E89007F931.quest_desc: [
+		"Cieszymy się, że tu jesteś! Ta paczka modów została stworzona z myślą o płynnej rozgrywce, automatyzacji i eksploracji. Questy, które tu znajdziesz, nie są obowiązkowe, ale poprowadzą Cię przez najważniejsze etapy rozwoju – od rzemiosła, przez mechanikę Create, aż po starcia z potężnymi bossami."
+		""
+		"Kliknij przycisk poniżej, aby odebrać swój pakiet startowy i oficjalnie rozpocząć przygodę!"
+	]
+	quest.7ED4C6E89007F931.title: "Witaj w świecie przygody!"
+}

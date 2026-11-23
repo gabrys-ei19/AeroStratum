@@ -1,0 +1,62 @@
+{
+	quest.0931562098210538.quest_desc: ["Give a Blaze Burner a straw, and instead of solid fuels it will drink liquid fuels, oils, and lava piped directly to it!"]
+	quest.0931562098210538.quest_subtitle: "4x Straw"
+	quest.0931562098210538.title: "Liquid Fuel: Straws for the Blaze"
+	quest.0BFD8B6ECABADB11.quest_desc: ["A metal whisk mounted inside a Mechanical Mixer. Rapidly blends fluids, resins, and molten metals."]
+	quest.0BFD8B6ECABADB11.quest_subtitle: "1x Whisk"
+	quest.0BFD8B6ECABADB11.title: "Spinning Blades: Whisk"
+	quest.11DBC70D36451A8D.quest_desc: ["A digital cartridge capable of storing 64 buckets of fluid inside a Disk Drive. Say goodbye to building entire halls of tanks!"]
+	quest.11DBC70D36451A8D.quest_subtitle: "1x 64b Fluid Storage Disk"
+	quest.11DBC70D36451A8D.title: "64b Fluid Storage Disk"
+	quest.152852C93E3A82F4.quest_desc: ["A standalone fluid memory block holding 64 buckets of liquid, ready to be wired directly into your Refined Storage network."]
+	quest.152852C93E3A82F4.quest_subtitle: "1x 64b Fluid Storage Block"
+	quest.152852C93E3A82F4.title: "Stationary Fluid Bank 64b"
+	quest.1A52D891F39B3956.quest_desc: ["A specialized module converting fluid pressure into digital data. Required for crafting fluid storage disks and blocks."]
+	quest.1A52D891F39B3956.quest_subtitle: "1x Digital Tank"
+	quest.1A52D891F39B3956.title: "Digital Reservoir: Digital Tank"
+	quest.1B344A2390B3E993.quest_desc: ["The true might of the Steam Age! Mount Steam Engines onto a heated Fluid Tank boiler over Blaze Burners to generate massive amounts of Stress Units (SU) for your entire factory."]
+	quest.1B344A2390B3E993.quest_subtitle: "4x Steam Engine"
+	quest.1B344A2390B3E993.title: "Powerhouse Heart: Steam Engines"
+	quest.1C83657D7D6B7C2B.quest_desc: ["Pushes specified items or fluids from your digital network directly into a connected machine, basin, or tank."]
+	quest.1C83657D7D6B7C2B.quest_subtitle: "1x Exporter"
+	quest.1C83657D7D6B7C2B.title: "Output Node: Exporter"
+	quest.26EB8490366CC44A.quest_desc: ["Pulls finished products or fluids from chests, tanks, and machines straight onto your Refined Storage disks."]
+	quest.26EB8490366CC44A.quest_subtitle: "1x Importer"
+	quest.26EB8490366CC44A.title: "Input Node: Importer"
+	quest.2B2222D49AE2002C.quest_desc: ["Thermal processing of raw rubber yields vulcanized industrial rubber. You can now seal copper pipelines and manufacture conveyor belts."]
+	quest.2B2222D49AE2002C.quest_subtitle: "1x Cured Rubber"
+	quest.2B2222D49AE2002C.title: "Vulcanized Rubber: Cured Rubber"
+	quest.34DB788A15B67B4B.quest_desc: ["Pipes alone won't move liquids. Connect a Mechanical Pump to a rotating shaft to drive flow and pressure across your network."]
+	quest.34DB788A15B67B4B.quest_subtitle: "1x Mechanical Pump"
+	quest.34DB788A15B67B4B.title: "Heart of the Pipeline: Mechanical Pump"
+	quest.41B05A85F70439BD.quest_desc: ["Combining a Copper Casing with a Copper Mechanism creates a watertight core for all steam and high-pressure fluid machinery."]
+	quest.41B05A85F70439BD.quest_subtitle: "1x Copper Machine"
+	quest.41B05A85F70439BD.title: "Hydraulic Core: Copper Machine"
+	quest.42238D09992C1B0D.quest_desc: ["Tamed Nether fire! Feed the Blaze coal or liquid fuel to heat basins for brass smelting and power high-pressure steam boilers."]
+	quest.42238D09992C1B0D.quest_subtitle: "1x Blaze Burner"
+	quest.42238D09992C1B0D.title: "Heart of the Furnace: Blaze Burner"
+	quest.4279865600998487.quest_desc: ["Copper pipes sealed with cured rubber transport water, steam, lava, and chemicals between tanks and machines."]
+	quest.4279865600998487.quest_subtitle: "1x Fluid Pipe"
+	quest.4279865600998487.title: "Copper Pipelines: Fluid Pipe"
+	quest.451788130D250037.quest_desc: ["Modular fluid storage. Combine 16 of them into a large boiler above Blaze Burners and pump water inside to prepare the foundation for a steam power plant!"]
+	quest.451788130D250037.quest_subtitle: "16x Fluid Tank"
+	quest.451788130D250037.title: "Silos & Boilers: Fluid Tank"
+	quest.49D9B3C76D4602B9.quest_desc: ["An advanced storage medium holding up to 256 buckets of fluid on a single disk inside a Disk Drive."]
+	quest.49D9B3C76D4602B9.quest_subtitle: "1x 256b Fluid Storage Disk"
+	quest.49D9B3C76D4602B9.title: "256b Fluid Storage Disk"
+	quest.4AA48533372994DB.quest_desc: ["Blending organic ingredients and fluids in a Basin under a Mechanical Mixer produces raw rubber ready for vulcanization."]
+	quest.4AA48533372994DB.quest_subtitle: "1x Rubber"
+	quest.4AA48533372994DB.title: "Rubber Synthesis: Raw Rubber"
+	quest.5535D36DB16F11D3.quest_desc: ["The cast-iron Basin is your factory's reaction vessel. Ingredient mixing, rubber extraction, and brass alloying all happen here."]
+	quest.5535D36DB16F11D3.quest_subtitle: "1x Basin"
+	quest.5535D36DB16F11D3.title: "Industrial Crucible: Basin"
+	quest.5DB9B7305AF04186.quest_desc: ["A freestanding server block holding 256 buckets of any fluid directly inside your digital network."]
+	quest.5DB9B7305AF04186.quest_subtitle: "1x 256b Fluid Storage Block"
+	quest.5DB9B7305AF04186.title: "Stationary Fluid Bank 256b"
+	quest.648E38F45D52F906.quest_desc: ["A rotation-powered mixing head. Combined with a Basin and a Blaze Burner, it synthesizes rubber and alloys brass."]
+	quest.648E38F45D52F906.quest_subtitle: "1x Mechanical Mixer"
+	quest.648E38F45D52F906.title: "Rotational Alchemy: Mechanical Mixer"
+	quest.7D0A62106E356F04.quest_desc: ["A bidirectional bridge connecting conventional logistics (funnels, belts, pipes) with your digital network. Keeps specified items stocked and accepts incoming goods."]
+	quest.7D0A62106E356F04.quest_subtitle: "1x Interface"
+	quest.7D0A62106E356F04.title: "Logistics Bridge: Interface"
+}

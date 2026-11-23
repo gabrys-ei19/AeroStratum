@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "ee4994ac88f649f9a0ccbc2976ab70f5"
+	name: "Spawn#ee4994ac"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}

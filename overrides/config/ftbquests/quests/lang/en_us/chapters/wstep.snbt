@@ -1,0 +1,45 @@
+{
+	quest.083ED9A55CB6F690.quest_desc: [
+		"Don't let Creepers blow up your hard-earned machines and chests. It also protects you from theft when playing with friends!"
+		""
+		"Open the world map with [ M ]."
+		""
+		"Click the icon of three overlapping squares in the top-left corner (Claimed Chunks)."
+		""
+		"Left-click on squares (chunks) to claim them and make them safe."
+		""
+		"Hold [ Shift ] + Left-Click a claimed chunk to Force Load it. Your farms and assembly lines will keep running even when you are far away!"
+	]
+	quest.083ED9A55CB6F690.quest_subtitle: "(Secure your base)"
+	quest.083ED9A55CB6F690.title: "Mine Forever!"
+	quest.0961A1F2AC4E3A5B.quest_desc: [
+		"The world you find yourself in hides dark secrets. Ancient, monstrous beasts (from the Cataclysm mod) slumber deep within colossal structures – in ocean floor ruins, burning Nether fortresses, and the voids of the End."
+		""
+		"Do not attempt to fight them early on. Without full Netherite armor, powerful weapons, and plenty of potions, these monsters will obliterate you in a single strike. Explore carefully, prepare thoroughly, and only then hunt for their legendary drops!"
+	]
+	quest.0961A1F2AC4E3A5B.title: "Warning: Shadows in the Dark"
+	quest.243D55E17CC9B04A.quest_desc: [
+		"To make your life easier, memorize these essential keybinds:"
+		""
+		"[ M ] – Opens the world map (Xaero's or JourneyMap)."
+		"[ R ] / [ U ] – Hover over an item in your inventory to check its recipe (R) or uses (U)."
+		"[ W ] – Hold to Ponder: watch an interactive 3D animation explaining how a Create component works."
+		"[ ~ ] (Tilde) – Activates FTB Ultimine. Hold while mining to excavate an entire ore vein at once!"
+		"[ B ] – Quick access to your backpack (Sophisticated Backpacks)."
+	]
+	quest.243D55E17CC9B04A.quest_subtitle: "(Important Keybinds)"
+	quest.243D55E17CC9B04A.title: "Survival Handbook"
+	quest.31FE06D7BD761156.quest_desc: [
+		"Money makes the world go round! The official currency consists of Create: Numismatics coins (ranging from Spurs and Bevels to Sprockets, Cogs, and Crowns)."
+		""
+		"Earn coins by completing quests, defeating bosses, and exporting surplus manufactured goods. Spend your hard-earned cash at trade stations and vending machines across the world. Keep this starter coin safe in your pocket!"
+	]
+	quest.31FE06D7BD761156.quest_subtitle: "(Making Money)"
+	quest.31FE06D7BD761156.title: "The Economy and You"
+	quest.7ED4C6E89007F931.quest_desc: [
+		"We're glad you're here! This modpack is designed around smooth progression, factory automation, and exploration. The quests here aren't mandatory, but they will guide you through key milestones – from basic crafting and Create mechanics to battles with formidable bosses."
+		""
+		"Click the checkmark below to claim your starter kit and officially begin your adventure!"
+	]
+	quest.7ED4C6E89007F931.title: "Welcome to the Adventure!"
+}

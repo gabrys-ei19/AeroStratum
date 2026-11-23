@@ -1,0 +1,16 @@
+{
+  "formatVersion": 2,
+  "phaseIncompatible": {
+    "Registering categories": [
+      "createmorefans:jei_plugin"
+    ],
+    "Registering recipes": [
+      "silentgear:plugin/main",
+      "farmersdelight:jei_plugin",
+      "createnuclear:jei_plugin",
+      "tfmg:jei_plugin",
+      "sophisticatedbackpacks:default",
+      "simulated:jei_plugin"
+    ]
+  }
+}

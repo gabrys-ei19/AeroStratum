@@ -1,0 +1,147 @@
+{
+	quest.001C1881E9289566.quest_desc: [
+		"&9Rare&r is the middle rarity tier, dominating in &eAscent&r."
+		""
+		"Obtain &9Luminous Crystal Shards&r by salvaging Rare items in a &c&lSalvaging Table&r."
+	]
+	quest.001C1881E9289566.quest_subtitle: "&9Rare"
+	quest.001C1881E9289566.title: "&9Luminous Crystal Shard"
+	quest.0089A394566B0F3B.quest_desc: [
+		"&aUncommon&r is the second rarity tier, most abundant in &2Frontier&r."
+		""
+		"Obtain &aTimeworn Fabric&r by salvaging Uncommon items in a &c&lSalvaging Table&r."
+	]
+	quest.0089A394566B0F3B.quest_subtitle: "&aUncommon"
+	quest.0089A394566B0F3B.title: "&aTimeworn Fabric"
+	quest.097FDC136BC843A7.quest_desc: [
+		"Advance to &6&lSummit&r by equipping &9Rare&r+ gear and defeating &0&lThe Wither&r."
+		""
+		"• Unlocks &6Mythic&r loot & &zPerfect&r gems!"
+		"• Bonuses: +75% XP, +50% Luck, &a75 Max Eterna&r"
+		"• Monster buffs: +12 Armor, +10 Toughness, +15 Pierce"
+	]
+	quest.097FDC136BC843A7.title: "&lWorld Tier: &6Summit"
+	quest.099C2A9B9CA138F8.quest_desc: [
+		"&6Mythic&r is the highest item tier, found exclusively in &6Summit&r and &4Pinnacle&r!"
+		""
+		"Obtain &6Godforged Pearls&r by salvaging Mythic items in a &c&lSalvaging Table&r."
+	]
+	quest.099C2A9B9CA138F8.quest_subtitle: "&6Mythic"
+	quest.099C2A9B9CA138F8.title: "&6Godforged Pearl"
+	quest.1403D677CF2815C3.quest_desc: ["The upgraded &5&lReforging Table&r handles high-tier affixes using &5Epic&r and &6Mythic&r materials!"]
+	quest.1403D677CF2815C3.title: "(Better) &5&lReforging Table&r"
+	quest.166CE4243896A0CD.quest_desc: ["Upgrade your gems on the &a&lGem Cutting Table&r by combining two identical gems of the same purity with dust and rarity materials to reach &zPerfect&r status!"]
+	quest.166CE4243896A0CD.title: "Gem Cutting Table"
+	quest.16C74B5F99AD6724.quest_desc: [
+		"&8Common&r is the lowest rarity tier, common in &9Haven&r."
+		""
+		"Obtain &8Mysterious Scrap Metals&r by salvaging Common items in a &c&lSalvaging Table&r."
+	]
+	quest.16C74B5F99AD6724.quest_subtitle: "&8Common"
+	quest.16C74B5F99AD6724.title: "&8Mysterious Scrap Metal"
+	quest.196312DF0D2E2CB6.quest_desc: [
+		"&4Invaders&r are mini-bosses spawning across dimensions, always equipped with affixed gear and gems."
+		""
+		"Their power and loot scale with your &lWorld Tier&r. Open the World Tier menu anytime with &e[ CTRL + T ]&r."
+	]
+	quest.196312DF0D2E2CB6.title: "&4Invaders&r & &lWorld Tiers"
+	quest.1CD05CB4A3DB112A.quest_desc: ["The &c&lSalvaging Table&r breaks down unwanted affixed gear, weapons, and gems into dust and matching rarity scrap materials."]
+	quest.1CD05CB4A3DB112A.title: "&c&lSalvaging Table"
+	quest.1D1FAA2F86695781.quest_desc: [
+		"Advance to &e&lAscent&r by equipping &aUncommon&r+ gear and defeating at least one &4Invader&r."
+		""
+		"• Bonuses: +55% XP, +30% Luck, &a60 Max Eterna&r"
+		"• Monster buffs: +8 Armor, +5 Armor Pierce"
+	]
+	quest.1D1FAA2F86695781.title: "&lWorld Tier: &eAscent"
+	quest.2002C7EB13626AE7.quest_desc: [
+		"&6Sigil of Enhancement&r serves as fuel for the &6&lAugmenting Table&r."
+		""
+		"Rerolling an affix costs 1 sigil, while upgrading costs 2."
+	]
+	quest.2002C7EB13626AE7.title: "&6Sigil of Enhancement"
+	quest.22E57BF23B9BA2C5.quest_desc: ["Stockpile Gem Dust required for advanced high-tier crafting."]
+	quest.22E57BF23B9BA2C5.title: "Gem Dust Reserves"
+	quest.24D11ED5F4EEDC48.quest_desc: [
+		"To socket a gem, your item needs an open &9Socket&r."
+		""
+		"Combine your item with a &9Sigil of Socketing&r in a &8&lSmithing Table&r to unlock up to 2 sockets!"
+	]
+	quest.24D11ED5F4EEDC48.title: "&9Sigil of Socketing"
+	quest.29EA8E178F8F8FDB.quest_desc: [
+		"The &9&lSimple Reforging Table&r rolls new affixes on gear up to &9Rare&r rank."
+		""
+		"Place your item in the center, rarity material on the left, and &dSigil of Rebirth&r on the right."
+	]
+	quest.29EA8E178F8F8FDB.title: "&9&lSimple Reforging Table"
+	quest.2A032EC573B5316C.quest_desc: [
+		"Unlock &2&lFrontier&r by equipping a full set of affixed armor and an affixed tool/weapon, then activating it in &e[ CTRL + T ]&r."
+		""
+		"• Bonuses: +35% XP, +20% Luck, &a45 Max Eterna&r"
+		"• Monster buffs: +4 Armor"
+	]
+	quest.2A032EC573B5316C.title: "&lWorld Tier: &2Frontier"
+	quest.2E5E129F25707C5D.quest_desc: ["The &6Sigil of Supremacy&r overcharges every single affix simultaneously without resetting any stats!"]
+	quest.2E5E129F25707C5D.title: "&6Sigil of Supremacy"
+	quest.377A41499D8218C9.quest_desc: [
+		"The first world tier is &9&lHaven&r. Unlocked automatically by holding an affixed item."
+		""
+		"• Most common loot: &8Common&r & &aUncommon&r"
+		"• Max &aEterna&r: &a30&r"
+		"• Natural &4Invaders&r do not spawn here."
+	]
+	quest.377A41499D8218C9.title: "&lWorld Tier: &9Haven"
+	quest.38956DC28E317DEF.quest_desc: ["&dSigil of Rebirth&r acts as a catalyst for all &9&lReforging Tables&r when applying new affixes."]
+	quest.38956DC28E317DEF.title: "&dSigil of Rebirth"
+	quest.3BF5B8DE7A1CC4D7.quest_desc: [
+		"Powerful gear in Apotheosis begins with &aGems&r!"
+		""
+		"Gems drop rarely from regular monsters and guaranteed from &4Invaders (Bosses)&r. Socket them into weapons or armor for major stat boosts."
+	]
+	quest.3BF5B8DE7A1CC4D7.title: "&6&lApotheosis Adventure"
+	quest.45647395169978ED.quest_desc: [
+		"To obtain &9Gem Dust&r, drop unwanted gems on the ground and drop an &7&lAnvil&r on top of them!"
+		""
+		"Use the dust to craft Salvaging Tables, Reforging Tables, and sigils."
+	]
+	quest.45647395169978ED.title: "&9Gem Dust"
+	quest.4E9DDDBD8263D0E3.quest_desc: ["Combine an item with a &7Sigil of Unnaming&r in a &8&lSmithing Table&r to strip away long affixed titles while keeping its base name and rarity color."]
+	quest.4E9DDDBD8263D0E3.title: "&7Sigil of Unnaming"
+	quest.552BA5E6FA987256.quest_desc: [
+		"&cSigil of Malice&r is a rare drop from &4Invaders&r."
+		""
+		"Applied in a &8&lSmithing Table&r, it overcharges a random affix beyond normal limits while resetting another (which can be saved later in the Augmenting Table)."
+	]
+	quest.552BA5E6FA987256.title: "&cSigil of Malice"
+	quest.57BB2CC6D9D2AE87.quest_desc: [
+		"The &6&lAugmenting Table&r is the ultimate gear-tuning station!"
+		""
+		"Powered by &6Sigils of Enhancement&r, it lets you inspect individual affixes, reroll specific stats, or maximize their power."
+	]
+	quest.57BB2CC6D9D2AE87.title: "&6&lAugmenting Table"
+	quest.6667638252DB9C74.quest_desc: ["&8Sigils&r modify affixed gear – allowing you to add sockets, extract gems, or clear names using a Smithing Table, Reforging Table, or Augmenting Table."]
+	quest.6667638252DB9C74.quest_subtitle: "Sigil Foundation"
+	quest.6667638252DB9C74.title: "&8Gem-Fused Slate & Sigils"
+	quest.6B5B01C612951BAF.quest_desc: ["Forge &6Godforged Pearls&r and &8Gem-Fused Slates&r in preparation for ultimate sigil crafting."]
+	quest.6B5B01C612951BAF.title: "Master Apotheosis Resources"
+	quest.6EF206A0BD5BAC0A.quest_desc: [
+		"&5Epic&r is a high rarity tier appearing from &2Frontier&r onwards."
+		""
+		"Obtain &5Arcane Sands&r by salvaging Epic items in a &c&lSalvaging Table&r."
+	]
+	quest.6EF206A0BD5BAC0A.quest_subtitle: "&5Epic"
+	quest.6EF206A0BD5BAC0A.title: "&5Arcane Sands"
+	quest.7C90008081DEBECA.quest_desc: ["Once your tool has an open &9Socket&r and you have a matching &aGem&r, combine them inside a &8&lSmithing Table&r!"]
+	quest.7C90008081DEBECA.title: "Socketing &aGems"
+	quest.7CB03F92F9ECEFFB.quest_desc: ["Extract socketed gems safely without destroying your gear. Combine the item and an &aSigil of Withdrawal&r in a &8&lSmithing Table&r."]
+	quest.7CB03F92F9ECEFFB.title: "&aSigil of Withdrawal"
+	quest.7EF873DCEB3B9D48.quest_desc: [
+		"The final tier – &4&lPinnacle&r! Requires defeating the &d&lEnder Dragon&r and wearing &5Epic&r or &6Mythic&r gear."
+		""
+		"• Bonuses: +125% XP, +100% Luck, &a100 Max Eterna&r!"
+		"• Monster buffs: +16 Armor, +20 Toughness, +25 Pierce"
+	]
+	quest.7EF873DCEB3B9D48.title: "&lWorld Tier: &4Pinnacle"
+	task.1F073FD0F4A296A3.title: "Gem Dust"
+	task.67D884FA6DD22065.title: "Any Apotheosis Gem"
+}

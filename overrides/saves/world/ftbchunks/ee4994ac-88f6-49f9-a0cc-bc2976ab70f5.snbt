@@ -1,0 +1,97 @@
+{
+	max_claim_chunks: -1
+	max_force_load_chunks: -1
+	last_login_time: 0L
+	chunks: {
+		"minecraft:overworld": [
+			{ x: 12, z: 24, time: 1795438080944L, force_loaded: 1795438109724L }
+			{ x: 15, z: 17, time: 1795438080946L, force_loaded: 1795438109735L }
+			{ x: 12, z: 20, time: 1795438080944L, force_loaded: 1795438109722L }
+			{ x: 15, z: 24, time: 1795438080946L, force_loaded: 1795438109737L }
+			{ x: 8, z: 19, time: 1795438080944L, force_loaded: 1795438109724L }
+			{ x: 5, z: 17, time: 1795438080944L, force_loaded: 1795438097340L }
+			{ x: 10, z: 22, time: 1795438080946L, force_loaded: 1795438109734L }
+			{ x: 13, z: 21, time: 1795438080944L, force_loaded: 1795438109726L }
+			{ x: 10, z: 23, time: 1795438080946L, force_loaded: 1795438109734L }
+			{ x: 12, z: 18, time: 1795438080944L, force_loaded: 1795438109721L }
+			{ x: 7, z: 19, time: 1795438080946L, force_loaded: 1795438097340L }
+			{ x: 9, z: 20, time: 1795438080944L, force_loaded: 1795438109727L }
+			{ x: 11, z: 22, time: 1795438080946L, force_loaded: 1795438109739L }
+			{ x: 9, z: 21, time: 1795438080944L, force_loaded: 1795438109727L }
+			{ x: 8, z: 22, time: 1795438080944L, force_loaded: 1795438109724L }
+			{ x: 6, z: 17, time: 1795438080946L, force_loaded: 1795438109734L }
+			{ x: 5, z: 24, time: 1795438080945L, force_loaded: 1795438109729L }
+			{ x: 10, z: 19, time: 1795438080946L, force_loaded: 1795438109733L }
+			{ x: 14, z: 23, time: 1795438080946L, force_loaded: 1795438109732L }
+			{ x: 6, z: 18, time: 1795438080946L, force_loaded: 1795438097340L }
+			{ x: 9, z: 24, time: 1795438080945L, force_loaded: 1795438109728L }
+			{ x: 14, z: 19, time: 1795438080945L, force_loaded: 1795438109730L }
+			{ x: 15, z: 21, time: 1795438080946L, force_loaded: 1795438109736L }
+			{ x: 10, z: 21, time: 1795438080946L, force_loaded: 1795438109734L }
+			{ x: 7, z: 20, time: 1795438080946L, force_loaded: 1795438097342L }
+			{ x: 13, z: 17, time: 1795438080944L, force_loaded: 1795438109725L }
+			{ x: 12, z: 17, time: 1795438080943L, force_loaded: 1795438109720L }
+			{ x: 15, z: 20, time: 1795438080946L, force_loaded: 1795438109736L }
+			{ x: 14, z: 18, time: 1795438080945L, force_loaded: 1795438109730L }
+			{ x: 6, z: 23, time: 1795438080946L, force_loaded: 1795438109735L }
+			{ x: 5, z: 20, time: 1795438080945L, force_loaded: 1795438109728L }
+			{ x: 7, z: 21, time: 1795438080946L, force_loaded: 1795438109740L }
+			{ x: 9, z: 17, time: 1795438080944L, force_loaded: 1795438109726L }
+			{ x: 5, z: 18, time: 1795438080944L, force_loaded: 1795438097342L }
+			{ x: 14, z: 22, time: 1795438080946L, force_loaded: 1795438109731L }
+			{ x: 15, z: 18, time: 1795438080946L, force_loaded: 1795438109735L }
+			{ x: 13, z: 19, time: 1795438080944L, force_loaded: 1795438109725L }
+			{ x: 11, z: 24, time: 1795438080946L, force_loaded: 1795438109739L }
+			{ x: 6, z: 19, time: 1795438080946L, force_loaded: 1795438097342L }
+			{ x: 7, z: 17, time: 1795438080946L, force_loaded: 1795438109737L }
+			{ x: 8, z: 24, time: 1795438080944L, force_loaded: 1795438109725L }
+			{ x: 13, z: 20, time: 1795438080944L, force_loaded: 1795438109726L }
+			{ x: 6, z: 21, time: 1795438080946L, force_loaded: 1795438109734L }
+			{ x: 7, z: 23, time: 1795438080946L, force_loaded: 1795438109740L }
+			{ x: 12, z: 19, time: 1795438080944L, force_loaded: 1795438109722L }
+			{ x: 5, z: 22, time: 1795438080945L, force_loaded: 1795438109729L }
+			{ x: 10, z: 17, time: 1795438080946L, force_loaded: 1795438109731L }
+			{ x: 15, z: 22, time: 1795438080946L, force_loaded: 1795438109736L }
+			{ x: 9, z: 23, time: 1795438080945L, force_loaded: 1795438109728L }
+			{ x: 15, z: 19, time: 1795438080946L, force_loaded: 1795438109736L }
+			{ x: 8, z: 17, time: 1795438080944L, force_loaded: 1795438109722L }
+			{ x: 15, z: 23, time: 1795438080946L, force_loaded: 1795438109737L }
+			{ x: 8, z: 21, time: 1795438080944L, force_loaded: 1795438109724L }
+			{ x: 6, z: 20, time: 1795438080946L, force_loaded: 1795438109734L }
+			{ x: 13, z: 23, time: 1795438080944L, force_loaded: 1795438109726L }
+			{ x: 13, z: 18, time: 1795438080944L, force_loaded: 1795438109725L }
+			{ x: 9, z: 19, time: 1795438080944L, force_loaded: 1795438109727L }
+			{ x: 5, z: 23, time: 1795438080945L, force_loaded: 1795438109729L }
+			{ x: 14, z: 21, time: 1795438080946L, force_loaded: 1795438109731L }
+			{ x: 14, z: 24, time: 1795438080946L, force_loaded: 1795438109733L }
+			{ x: 7, z: 24, time: 1795438080946L, force_loaded: 1795438109740L }
+			{ x: 5, z: 19, time: 1795438080944L, force_loaded: 1795438097343L }
+			{ x: 10, z: 24, time: 1795438080946L, force_loaded: 1795438109734L }
+			{ x: 6, z: 22, time: 1795438080946L, force_loaded: 1795438109735L }
+			{ x: 14, z: 20, time: 1795438080946L, force_loaded: 1795438109730L }
+			{ x: 11, z: 17, time: 1795438080946L, force_loaded: 1795438109736L }
+			{ x: 12, z: 23, time: 1795438080944L, force_loaded: 1795438109723L }
+			{ x: 5, z: 21, time: 1795438080945L, force_loaded: 1795438109729L }
+			{ x: 13, z: 22, time: 1795438080944L, force_loaded: 1795438109726L }
+			{ x: 11, z: 18, time: 1795438080946L, force_loaded: 1795438109736L }
+			{ x: 8, z: 23, time: 1795438080944L, force_loaded: 1795438109724L }
+			{ x: 8, z: 18, time: 1795438080944L, force_loaded: 1795438109723L }
+			{ x: 12, z: 22, time: 1795438080944L, force_loaded: 1795438109723L }
+			{ x: 12, z: 21, time: 1795438080944L, force_loaded: 1795438109723L }
+			{ x: 9, z: 18, time: 1795438080944L, force_loaded: 1795438109726L }
+			{ x: 7, z: 18, time: 1795438080946L, force_loaded: 1795438109739L }
+			{ x: 13, z: 24, time: 1795438080944L, force_loaded: 1795438109727L }
+			{ x: 10, z: 20, time: 1795438080946L, force_loaded: 1795438109733L }
+			{ x: 11, z: 23, time: 1795438080946L, force_loaded: 1795438109739L }
+			{ x: 9, z: 22, time: 1795438080944L, force_loaded: 1795438109728L }
+			{ x: 14, z: 17, time: 1795438080945L, force_loaded: 1795438109729L }
+			{ x: 10, z: 18, time: 1795438080946L, force_loaded: 1795438109732L }
+			{ x: 11, z: 19, time: 1795438080946L, force_loaded: 1795438109737L }
+			{ x: 11, z: 20, time: 1795438080946L, force_loaded: 1795438109737L }
+			{ x: 11, z: 21, time: 1795438080946L, force_loaded: 1795438109737L }
+			{ x: 6, z: 24, time: 1795438080946L, force_loaded: 1795438109735L }
+			{ x: 7, z: 22, time: 1795438080946L, force_loaded: 1795438109740L }
+			{ x: 8, z: 20, time: 1795438080944L, force_loaded: 1795438097336L }
+		]
+	}
+}

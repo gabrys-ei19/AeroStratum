@@ -1,0 +1,102 @@
+{
+	quest.0223CC1700D49B6C.quest_desc: [
+		"Połączenie mosiądzu z układami redstone tworzy zaawansowany moduł sterujący."
+		""
+		"To serce inteligentnej automatyki – od filtrujących zsypów i sekwenserów, aż po terminale rzemieślnicze i autocraftery Refined Storage."
+	]
+	quest.0223CC1700D49B6C.quest_subtitle: "1x Brass Redstone Machine"
+	quest.0223CC1700D49B6C.title: "Mosiężna Logika: Brass Redstone Machine"
+	quest.02E1E48521F85EF6.quest_desc: [
+		"Potężne, zbrojone koła kruszące składane na Mechanicznym Crafterze."
+		""
+		"Obracając się naprzeciw siebie, mielą skały i rudy z ogromną prędkością, zapewniając dodatkowy uzysk surowców oraz dostęp do cennych pyłów."
+	]
+	quest.02E1E48521F85EF6.quest_subtitle: "2x Crushing Wheel"
+	quest.02E1E48521F85EF6.title: "Ciężkie Kruszarki: Crushing Wheels"
+	quest.046B84EA84A40FA7.quest_desc: [
+		"Kiełkujący Ametyst (Budding Amethyst) to żywe serce geody, na którym nieustannie odrastają nowe kryształy."
+		""
+		"Zabezpiecz go na miejscu lub stwórz własny za pomocą rytuału infuzji, aby zautomatyzować zbiory odłamków ametystu!"
+	]
+	quest.046B84EA84A40FA7.quest_subtitle: "1x Budding Amethyst"
+	quest.046B84EA84A40FA7.title: "Serce Geody: Kiełkujący Ametyst"
+	quest.0E809204C288AAE9.quest_desc: ["Zwykły stół rzemieślniczy ma swoje granice. Zestawienie co najmniej 9 Mechanicznych Crafterów w jedną matrycę pozwala składać wielkogabarytowe części maszyn, takie jak Koła Kruszące!"]
+	quest.0E809204C288AAE9.quest_subtitle: "9x Mechanical Crafter"
+	quest.0E809204C288AAE9.title: "Matryca Montażowa: Mechanical Crafter"
+	quest.1204BCEDBE8D18EE.quest_desc: ["Wydajna, bezobsługowa produkcja obsydianu w mosiężnym ekstruderze – fundament pod masową produkcję Sturdy Sheets i zaawansowanych obudów."]
+	quest.1204BCEDBE8D18EE.quest_subtitle: "64x Obsidian"
+	quest.1204BCEDBE8D18EE.title: "Zaawansowana Ekstruzja: Obsydian"
+	quest.1D415EDA55BC810F.quest_desc: ["Diamentowy Autocrafter jeszcze bardziej przyspiesza pracę i udostępnia ogromną liczbę slotów na wzorce dla rozbudowanych linii produkcyjnych."]
+	quest.1D415EDA55BC810F.quest_subtitle: "1x Diamond Crafter"
+	quest.1D415EDA55BC810F.title: "Diamentowy Autocrafter"
+	quest.1E13E3DE5D69B61F.quest_desc: ["Czysta karta pamięci na schematy produkcyjne. Zapisz na niej recepturę rzemieślniczą lub proces przetapiania, a następnie umieść w Autocrafterze."]
+	quest.1E13E3DE5D69B61F.quest_subtitle: "1x Pattern"
+	quest.1E13E3DE5D69B61F.title: "Nośnik Schematu: Pattern"
+	quest.213EB741245A7B27.quest_desc: ["Pojemny dysk twardy mieszczący 16 384 przedmiotów wewnątrz stacji Disk Drive."]
+	quest.213EB741245A7B27.quest_subtitle: "1x 16k Storage Disk"
+	quest.213EB741245A7B27.title: "Dysk Danych 16k"
+	quest.28D3A1D0B60D86C5.quest_desc: ["Mosiężny ekstruder pozwala generować Kamień Endu bezpośrednio w Twojej fabryce, bez konieczności ręcznego rozkopywania wysp w Endzie."]
+	quest.28D3A1D0B60D86C5.quest_subtitle: "64x End Stone"
+	quest.28D3A1D0B60D86C5.title: "Zaawansowana Ekstruzja: Kamień Endu"
+	quest.33664C509F66A6E2.quest_desc: ["Wykop krystaliczne bloki ametystu wyścielające wnętrze odkrytej geody."]
+	quest.33664C509F66A6E2.quest_subtitle: "1x Amethyst Block"
+	quest.33664C509F66A6E2.title: "Skarby Geody: Blok Ametystu"
+	quest.35A0D0350873E798.quest_desc: ["Czterokrotne zwiększenie pojemności względem rdzenia 4k. Pozwala zmagazynować aż 16 384 przedmiotów na jednym nośniku."]
+	quest.35A0D0350873E798.quest_subtitle: "1x 16k Storage Part"
+	quest.35A0D0350873E798.title: "Wyższa Gęstość: Rdzeń 16k"
+	quest.3EE5013CCEC66EF8.quest_desc: ["Nieskończone źródło Netherracku prosto z mosiężnego ekstrudera – idealne do przemiału na mączkę popiołową (Cinder Flour) do wyrobu Blaze Cake!"]
+	quest.3EE5013CCEC66EF8.quest_subtitle: "64x Netherrack"
+	quest.3EE5013CCEC66EF8.title: "Zaawansowana Ekstruzja: Netherrack"
+	quest.414FE7C3B16B1F76.quest_desc: ["Szczytowe osiągnięcie cyfrowej automatyzacji z moda ExtraStorage – Netherytowy Autocrafter błyskawicznie realizuje najbardziej złożone łańcuchy zamówień."]
+	quest.414FE7C3B16B1F76.quest_subtitle: "1x Netherite Crafter"
+	quest.414FE7C3B16B1F76.title: "Netherytowy Autocrafter"
+	quest.46C2B6B25AD1ED93.quest_desc: ["Specjalistyczny terminal (Pattern Grid) pozwalający jednym kliknięciem z EMI przenosić receptury na czyste karty wzorców (Patterns)."]
+	quest.46C2B6B25AD1ED93.quest_subtitle: "1x Pattern Grid"
+	quest.46C2B6B25AD1ED93.title: "Programator Schematów: Pattern Grid"
+	quest.4768E04E1E7DC172.quest_desc: ["Ekran diagnostyczny pokazujący w czasie rzeczywistym postęp wszystkich zleconych zadań autocraftingu oraz ewentualne brakujące surowce."]
+	quest.4768E04E1E7DC172.quest_subtitle: "1x Autocrafting Monitor"
+	quest.4768E04E1E7DC172.title: "Kontrola Produkcji: Autocrafting Monitor"
+	quest.479018DD12B5D1DD.quest_desc: ["Potężny, wolnostojący blok serwerowy mieszczący aż 65 536 przedmiotów bezpośrednio w sieci."]
+	quest.479018DD12B5D1DD.quest_subtitle: "1x 64k Storage Block"
+	quest.479018DD12B5D1DD.title: "Stacjonarny Bank 64k"
+	quest.4AB3D19BB418DCD7.quest_desc: ["Centralna konsola zarządzająca wszystkimi Autocrafterami w Twojej bazie. Pozwala zdalnie wkładać i porządkować wzorce (Patterns) bez biegania po hali maszyn!"]
+	quest.4AB3D19BB418DCD7.quest_subtitle: "1x Autocrafter Manager"
+	quest.4AB3D19BB418DCD7.title: "Centrum Dowodzenia: Autocrafter Manager"
+	quest.4C247BF978FA7AEE.quest_desc: ["Złoty Autocrafter oferuje znacznie większą prędkość przetwarzania oraz więcej miejsca na karty wzorców niż wariant żelazny."]
+	quest.4C247BF978FA7AEE.quest_subtitle: "1x Gold Crafter"
+	quest.4C247BF978FA7AEE.title: "Złoty Autocrafter"
+	quest.54A9CBBFC0236AC9.quest_desc: ["Zbierz 32 Odłamki Ametystu – będą kluczowym surowcem do kalibracji kryształów i zaawansowanej optyki w kolejnych etapach."]
+	quest.54A9CBBFC0236AC9.quest_subtitle: "32x Amethyst Shard"
+	quest.54A9CBBFC0236AC9.title: "Krystaliczny Urobek: Odłamki Ametystu"
+	quest.54BC4B2395B82D1B.quest_desc: ["Komplet narzędzi do inteligentnego zarządzania fabryką: Smart Chute filtruje zrzucane przedmioty, Content Observer i Stockpile Switch badają stan zapasów, a Sequenced Gearshift programuje precyzyjne ruchy maszyn!"]
+	quest.54BC4B2395B82D1B.quest_subtitle: "Zestaw Automatyki Mosiężnej"
+	quest.54BC4B2395B82D1B.title: "Inteligentna Logistyka Create"
+	quest.574A358ADA1BC26D.quest_desc: ["Połączenie zwykłego terminala ze stołem rzemieślniczym! Pozwala tworzyć przedmioty bezpośrednio z surowców zgromadzonych na dyskach sieci Refined Storage."]
+	quest.574A358ADA1BC26D.quest_subtitle: "1x Crafting Grid"
+	quest.574A358ADA1BC26D.title: "Wygodne Rzemiosło: Crafting Grid"
+	quest.5B56BCBD12170E53.quest_desc: ["Koniec z ręcznym składaniem podzespołów! Włóż zaprogramowany wzorzec (Pattern) do Autocraftera, aby sieć sama produkowała potrzebne przedmioty na żądanie lub zasilała zewnętrzne maszyny."]
+	quest.5B56BCBD12170E53.quest_subtitle: "1x Autocrafter"
+	quest.5B56BCBD12170E53.title: "Produkcja na Żądanie: Autocrafter"
+	quest.63CB5961BE31AA90.quest_desc: ["Połączenie mosiężnej obudowy z precyzyjnymi mechanizmami tworzy Brass Machine – fundament pod ciężkie maszyny montażowe, kruszarki oraz zaawansowaną logistykę Ery 2."]
+	quest.63CB5961BE31AA90.quest_subtitle: "1x Brass Machine"
+	quest.63CB5961BE31AA90.title: "Mosiężny Fundament: Brass Machine"
+	quest.6842600FC1293062.quest_desc: ["Zejdź pod ziemię, odnajdź naturalną geodę ametystową i spójrz bezpośrednio na blok Kiełkującego Ametystu (Budding Amethyst) znajdujący się w jej wnętrzu."]
+	quest.6842600FC1293062.quest_subtitle: "Spójrz na Budding Amethyst"
+	quest.6842600FC1293062.title: "Poszukiwacz Geod"
+	quest.6A3841EB4433E273.quest_desc: ["Dysk pamięci masowej mieszczący aż 65 536 przedmiotów w pojedynczym slocie stacji Disk Drive."]
+	quest.6A3841EB4433E273.quest_subtitle: "1x 64k Storage Disk"
+	quest.6A3841EB4433E273.title: "Dysk Danych 64k"
+	quest.6B1B13C942556064.quest_desc: ["Potężny rdzeń pamięci zdolny pomieścić aż 65 536 przedmiotów."]
+	quest.6B1B13C942556064.quest_subtitle: "1x 64k Storage Part"
+	quest.6B1B13C942556064.title: "Masowa Pamięć: Rdzeń 64k"
+	quest.7292BDEC4D72AF07.quest_desc: ["Ulepszona, mosiężna wersja ekstrudera mechanicznego. Wytrzymuje wyższe ciśnienia i pozwala generować egzotyczne skały z innych wymiarów!"]
+	quest.7292BDEC4D72AF07.quest_subtitle: "1x Mechanical Brass Extruder"
+	quest.7292BDEC4D72AF07.title: "Mosiężna Kuźnia Skał: Brass Extruder"
+	quest.74C78BDDFC275D0D.quest_desc: ["Stacjonarny blok pamięci o pojemności 16 384 przedmiotów, gotowy do postawienia i podpięcia kablem do sieci."]
+	quest.74C78BDDFC275D0D.quest_subtitle: "1x 16k Storage Block"
+	quest.74C78BDDFC275D0D.title: "Stacjonarny Bank 16k"
+	quest.751FD398A3CEFA87.quest_desc: ["Ulepszenie podstawowego Autocraftera za pomocą żelaza zwiększa liczbę slotów na wzorce oraz przyspiesza wykonywanie zadań."]
+	quest.751FD398A3CEFA87.quest_subtitle: "1x Iron Crafter"
+	quest.751FD398A3CEFA87.title: "Żelazny Autocrafter"
+	task.074B307481A475B0.title: "Spójrz na blok Budding Amethyst"
+}

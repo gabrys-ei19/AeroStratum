@@ -1,0 +1,62 @@
+{
+	quest.0931562098210538.quest_desc: ["Podaj Płomykowi słomkę, a zamiast paliw stałych będzie mógł pić płynne paliwa, oleje i lawę doprowadzone prosto rurociągiem!"]
+	quest.0931562098210538.quest_subtitle: "4x Straw"
+	quest.0931562098210538.title: "Płynne Paliwo: Słomki dla Płomyków"
+	quest.0BFD8B6ECABADB11.quest_desc: ["Metalowa trzepaczka montowana w mikserze mechanicznym. Pozwala błyskawicznie łączyć ciecze, żywice i roztopione metale."]
+	quest.0BFD8B6ECABADB11.quest_subtitle: "1x Whisk"
+	quest.0BFD8B6ECABADB11.title: "Wirujące Łopatki: Trzepaczka"
+	quest.11DBC70D36451A8D.quest_desc: ["Cyfrowy kartridż zdolny pomieścić aż 64 wiadra cieczy wewnątrz napędu Disk Drive. Koniec z budowaniem całych hal pełnych zbiorników!"]
+	quest.11DBC70D36451A8D.quest_subtitle: "1x 64b Fluid Storage Disk"
+	quest.11DBC70D36451A8D.title: "Dysk Płynów 64b"
+	quest.152852C93E3A82F4.quest_desc: ["Stacjonarny blok pamięci na płyny o pojemności 64 wiader, gotowy do bezpośredniego wpięcia w sieć Refined Storage."]
+	quest.152852C93E3A82F4.quest_subtitle: "1x 64b Fluid Storage Block"
+	quest.152852C93E3A82F4.title: "Stacjonarny Bank Płynów 64b"
+	quest.1A52D891F39B3956.quest_desc: ["Specjalistyczny moduł konwertujący ciśnienie cieczy na sygnał cyfrowy. Niezbędny do budowy dysków i bloków magazynowych na płyny."]
+	quest.1A52D891F39B3956.quest_subtitle: "1x Digital Tank"
+	quest.1A52D891F39B3956.title: "Cyfrowy Zbiornik: Digital Tank"
+	quest.1B344A2390B3E993.quest_desc: ["Prawdziwa potęga Wieku Pary! Zamontuj silniki parowe na rozgrzanym kotle z Fluid Tanków zasilanym palnikami Blaze Burner, aby wygenerować gigantyczne ilości jednostek naprężeń (SU) dla całej fabryki."]
+	quest.1B344A2390B3E993.quest_subtitle: "4x Steam Engine"
+	quest.1B344A2390B3E993.title: "Serce Elektrowni: Silniki Parowe"
+	quest.1C83657D7D6B7C2B.quest_desc: ["Wypycha wskazane przedmioty lub płyny z sieci cyfrowej bezpośrednio do podłączonej maszyny, kadzi lub zbiornika."]
+	quest.1C83657D7D6B7C2B.quest_subtitle: "1x Exporter"
+	quest.1C83657D7D6B7C2B.title: "Węzeł Wyjściowy: Exporter"
+	quest.26EB8490366CC44A.quest_desc: ["Zasysa gotowe produkty lub płyny ze skrzyń, zbiorników i maszyn prosto na dyski Twojej sieci Refined Storage."]
+	quest.26EB8490366CC44A.quest_subtitle: "1x Importer"
+	quest.26EB8490366CC44A.title: "Węzeł Wejściowy: Importer"
+	quest.2B2222D49AE2002C.quest_desc: ["Obróbka termiczna surowego kauczuku daje wulkanizowaną gumę przemysłową. Od teraz możesz uszczelniać miedziane rurociągi i produkować pasy transmisyjne."]
+	quest.2B2222D49AE2002C.quest_subtitle: "1x Cured Rubber"
+	quest.2B2222D49AE2002C.title: "Wulkanizowana Guma: Cured Rubber"
+	quest.34DB788A15B67B4B.quest_desc: ["Rury same z siebie nie przesuną cieczy. Podłącz Pompę Mechaniczną do wału, aby nadać kierunek i ciśnienie w całej instalacji."]
+	quest.34DB788A15B67B4B.quest_subtitle: "1x Mechanical Pump"
+	quest.34DB788A15B67B4B.title: "Serce Rurociągu: Pompa Mechaniczna"
+	quest.41B05A85F70439BD.quest_desc: ["Połączenie miedzianej obudowy z mechanizmem miedzianym tworzy wodoszczelny korpus bazowy pod budowę aparatury parowej i ciśnieniowej."]
+	quest.41B05A85F70439BD.quest_subtitle: "1x Copper Machine"
+	quest.41B05A85F70439BD.title: "Rdzeń Hydrauliki: Copper Machine"
+	quest.42238D09992C1B0D.quest_desc: ["Ujarzmiony płomień Netheru! Nakarm Płomyka węglem lub płynnym paliwem, aby podgrzać kadzie do wytopu mosiądzu oraz zasilić potężne kotły parowe."]
+	quest.42238D09992C1B0D.quest_subtitle: "1x Blaze Burner"
+	quest.42238D09992C1B0D.title: "Serce Pieca: Palnik Płomyka"
+	quest.4279865600998487.quest_desc: ["Miedziane rury uszczelnione kauczukiem pozwalają przesyłać wodę, parę, lawę i chemikalia między zbiornikami a maszynami."]
+	quest.4279865600998487.quest_subtitle: "1x Fluid Pipe"
+	quest.4279865600998487.title: "Rurociągi Miedziane: Fluid Pipe"
+	quest.451788130D250037.quest_desc: ["Modułowe zbiorniki na ciecze. Połącz 16 z nich w wielki kocioł nad palnikami Blaze Burner i doprowadź wodę pompą, aby przygotować bazę pod elektrownię parową!"]
+	quest.451788130D250037.quest_subtitle: "16x Fluid Tank"
+	quest.451788130D250037.title: "Silosy i Kotły: Fluid Tank"
+	quest.49D9B3C76D4602B9.quest_desc: ["Zaawansowany nośnik danych mieszczący aż 256 wiader płynów na jednym dysku w stacji Disk Drive."]
+	quest.49D9B3C76D4602B9.quest_subtitle: "1x 256b Fluid Storage Disk"
+	quest.49D9B3C76D4602B9.title: "Dysk Płynów 256b"
+	quest.4AA48533372994DB.quest_desc: ["Wymieszanie składników organicznych i płynów w kadzi pod mikserem pozwala uzyskać surowy kauczuk gotowy do wulkanizacji."]
+	quest.4AA48533372994DB.quest_subtitle: "1x Rubber"
+	quest.4AA48533372994DB.title: "Synteza Kauczuku: Surowa Guma"
+	quest.5535D36DB16F11D3.quest_desc: ["Żeliwna kadź (Basin) to naczynie reakcyjne Twojej fabryki. Tutaj odbywa się mieszanie składników, wyciskanie kauczuku i wytop mosiądzu."]
+	quest.5535D36DB16F11D3.quest_subtitle: "1x Basin"
+	quest.5535D36DB16F11D3.title: "Tygiel Przemysłowy: Kadź"
+	quest.5DB9B7305AF04186.quest_desc: ["Wolnostojący blok serwerowy mieszczący 256 wiader dowolnego płynu bezpośrednio w sieci cyfrowej."]
+	quest.5DB9B7305AF04186.quest_subtitle: "1x 256b Fluid Storage Block"
+	quest.5DB9B7305AF04186.title: "Stacjonarny Bank Płynów 256b"
+	quest.648E38F45D52F906.quest_desc: ["Napędzana obrotami głowica miksująca. W połączeniu z kadzią (Basin) oraz palnikiem Płomyka pozwala wytwarzać kauczuk i wytapiać mosiądz."]
+	quest.648E38F45D52F906.quest_subtitle: "1x Mechanical Mixer"
+	quest.648E38F45D52F906.title: "Alchemia Obrotów: Mikser Mechaniczny"
+	quest.7D0A62106E356F04.quest_desc: ["Dwukierunkowy pomost łączący konwencjonalną logistykę (leje, taśmociągi, rury) z siecią cyfrową. Utrzymuje zadaną liczbę przedmiotów w buforze i przyjmuje urobek z zewnątrz."]
+	quest.7D0A62106E356F04.quest_subtitle: "1x Interface"
+	quest.7D0A62106E356F04.title: "Pomost Logistyczny: Interface"
+}

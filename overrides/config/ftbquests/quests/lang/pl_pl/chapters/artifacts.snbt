@@ -1,0 +1,153 @@
+{
+	quest.010607466D565B53.quest_desc: ["&aRooted Boots&r stojąc na trawie powoli odnawiają punkty głodu i zdrowia, pobierając składniki odżywcze z podłoża."]
+	quest.010607466D565B53.quest_subtitle: "Stopy"
+	quest.010607466D565B53.title: "&aRooted Boots"
+	quest.0A1D4228271DECA3.quest_desc: ["Zmniejsza rozmiar Twojej postaci o połowę, pozwalając swobodnie przechodzić przez szczeliny o wysokości 1 bloku."]
+	quest.0A1D4228271DECA3.quest_subtitle: "Naszyjnik"
+	quest.0A1D4228271DECA3.title: "&5Charm of Shrinking&r"
+	quest.0E716B90E60C486B.quest_desc: ["&4Panic Necklace&r zapewnia zastrzyk prędkości ruchu natychmiast po otrzymaniu obrażeń, pozwalając szybko wycofać się z zagrożenia."]
+	quest.0E716B90E60C486B.quest_subtitle: "Naszyjnik"
+	quest.0E716B90E60C486B.title: "&4Panic Necklace&r"
+	quest.11C5F17C6BB1237B.quest_desc: ["Ataki wręcz z założoną &5Withered Bracelet&r mają szansę nałożyć na cel efekt Obumierania (Wither)."]
+	quest.11C5F17C6BB1237B.quest_subtitle: "Nadgarstki (Dłonie)"
+	quest.11C5F17C6BB1237B.title: "&5Withered Bracelet&r"
+	quest.122E6E7CABCB17E7.quest_desc: ["&7Kitty Slippers&r sprawiają, że wszystkie Creepery uciekają przed Tobą w popłochu, a Ty otrzymujesz mniejsze obrażenia od upadku."]
+	quest.122E6E7CABCB17E7.quest_subtitle: "Stopy"
+	quest.122E6E7CABCB17E7.title: "&7Kitty Slippers&r"
+	quest.145E7D1A88B83DDD.quest_desc: ["Otula właściciela aurą niewidzialności, utrudniając potworom wykrycie Twojej obecności."]
+	quest.145E7D1A88B83DDD.quest_subtitle: "Szalik (Naszyjnik)"
+	quest.145E7D1A88B83DDD.title: "&9Scarf of Invisibility&r"
+	quest.161A90E134592D0E.quest_desc: ["Przepalenie &cEverlasting Beef&r w piecu daje &4Eternal Steak&r – nieskończony stek odnawiający znacznie więcej punktów głodu i nasycenia!"]
+	quest.161A90E134592D0E.quest_subtitle: "Unikalny"
+	quest.161A90E134592D0E.title: "&4Eternal Steak"
+	quest.16255FB20F35A9D9.quest_desc: ["&3Snorkel&r zapewnia zapas oddychania pod wodą po zanurzeniu, ułatwiając eksplorację podwodnych struktur."]
+	quest.16255FB20F35A9D9.quest_subtitle: "Głowa"
+	quest.16255FB20F35A9D9.title: "&3Snorkel"
+	quest.19B393433FB0C62F.quest_desc: ["&4Strider Shoes&r pozwalają bezpiecznie chodzić po powierzchni lawy podczas skradania się oraz chronią przed obrażeniami od bloków magmy."]
+	quest.19B393433FB0C62F.quest_subtitle: "Stopy"
+	quest.19B393433FB0C62F.title: "&4Strider Shoes&r"
+	quest.1E40ACF3E69A4100.quest_desc: ["&6Antidote Vessel&r drastycznie skraca czas trwania negatywnych efektów (takich jak Trucizna czy Wither)."]
+	quest.1E40ACF3E69A4100.quest_subtitle: "Pas"
+	quest.1E40ACF3E69A4100.title: "&6Antidote Vessel&r"
+	quest.2215FB0777D7029D.quest_desc: ["&7Steadfast Spikes&r chronią przed odrzutem od ciosów, eliminują poślizg na lodzie i pozwalają powoli zsuwać się po pionowych ścianach."]
+	quest.2215FB0777D7029D.quest_subtitle: "Stopy"
+	quest.2215FB0777D7029D.title: "&7Steadfast Spikes&r"
+	quest.221C9EDA651144BA.quest_desc: ["Z &3Charm of Sinking&r poruszasz się po dnie oceanu tak swobodnie, jakby wokół nie było wody (pamiętaj jednak o zapasie tlenu!)."]
+	quest.221C9EDA651144BA.quest_subtitle: "Naszyjnik"
+	quest.221C9EDA651144BA.title: "&3Charm of Sinking&r"
+	quest.2607F3DC07049785.quest_desc: ["Praktyczny kask z uchwytami na napoje, który wyraźnie skraca czas jedzenia posiłków oraz picia mikstur."]
+	quest.2607F3DC07049785.quest_subtitle: "Głowa"
+	quest.2607F3DC07049785.title: "&6Plastic Drinking Hat"
+	quest.27E951F4F4F6F847.quest_desc: ["&cFlame Pendant&r ma szansę podpalić atakującego Cię wroga i jednocześnie obdarzyć Cię odpornością na ogień."]
+	quest.27E951F4F4F6F847.quest_subtitle: "Naszyjnik"
+	quest.27E951F4F4F6F847.title: "&cFlame Pendant&r"
+	quest.29448D08C8777425.quest_desc: ["&cAngler's Hat&r przyspiesza branie ryb na wędkę oraz zwiększa szansę na wyłowienie rzadkich skarbów."]
+	quest.29448D08C8777425.quest_subtitle: "Głowa"
+	quest.29448D08C8777425.title: "&cAngler's Hat"
+	quest.2AD78E22988A92D3.quest_desc: ["Założenie &2Night Vision Goggles&r zapewnia widzenie w ciemności podczas eksploracji jaskiń i podziemi."]
+	quest.2AD78E22988A92D3.quest_subtitle: "Głowa"
+	quest.2AD78E22988A92D3.title: "&2Night Vision Goggles"
+	quest.321F16645640C462.quest_desc: ["&9Warp Drive&r sprawia, że rzucane Perły Endu nie zużywają się i nie zadają obrażeń od upadku, pobierając w zamian niewielką ilość głodu!"]
+	quest.321F16645640C462.quest_subtitle: "Pas"
+	quest.321F16645640C462.title: "&9Warp Drive&r"
+	quest.3446803FB59D8875.quest_desc: ["Działa jak naturalne Ciernie (Thorns) – rani i zatruwa każdego napastnika, który Cię uderzy."]
+	quest.3446803FB59D8875.quest_subtitle: "Naszyjnik"
+	quest.3446803FB59D8875.title: "&aThorn Pendant&r"
+	quest.3525D5DCC3A534D9.quest_desc: ["&9Digging Claws&r zwiększają ogólną prędkość kopania bloków oraz sprawiają, że Twoje gołe dłonie kopią na poziomie kamiennego kilofa."]
+	quest.3525D5DCC3A534D9.quest_subtitle: "Dłonie"
+	quest.3525D5DCC3A534D9.title: "&9Digging Claws&r"
+	quest.3705D303CF423804.quest_desc: ["&ePower Glove&r bezpośrednio zwiększa obrażenia zadawane w walce wręcz."]
+	quest.3705D303CF423804.quest_subtitle: "Dłonie"
+	quest.3705D303CF423804.title: "&ePower Glove&r"
+	quest.3B3BD39BA02DCA13.quest_desc: ["&6Pocket Piston&r znacząco zwiększa siłę odrzutu Twoich ataków wręcz oraz zasięg uderzenia."]
+	quest.3B3BD39BA02DCA13.quest_subtitle: "Dłonie"
+	quest.3B3BD39BA02DCA13.title: "&6Pocket Piston&r"
+	quest.3E0643EA9183CDAE.quest_desc: ["Znacząco przyspiesza spożywanie jedzenia oraz picie mikstur (i wygląda przy tym niezwykle stylowo!)."]
+	quest.3E0643EA9183CDAE.quest_subtitle: "Głowa"
+	quest.3E0643EA9183CDAE.title: "&9Novelty Drinking Hat"
+	quest.3E1A3BC8642390B3.quest_desc: ["&4Umbrella&r trzymana w dłoni pozwala bezpiecznie szybować w dół niczym ze spadochronem, a po przytrzymaniu prawego przycisku myszy działa jak tarcza odbijająca ataki."]
+	quest.3E1A3BC8642390B3.quest_subtitle: "Unikalny"
+	quest.3E1A3BC8642390B3.title: "&4Umbrella&r"
+	quest.3EC8A0B89788D079.quest_desc: ["&9Flippers&r znacznie zwiększają prędkość pływania i manewrowania pod wodą."]
+	quest.3EC8A0B89788D079.quest_subtitle: "Stopy"
+	quest.3EC8A0B89788D079.title: "&9Flippers&r"
+	quest.427014BDE06DE631.quest_desc: ["&cFire Gauntlet&r sprawia, że każde Twoje uderzenie wręcz staje w płomieniach i podpala przeciwnika!"]
+	quest.427014BDE06DE631.quest_subtitle: "Dłonie"
+	quest.427014BDE06DE631.title: "&cFire Gauntlet&r"
+	quest.436E4E3515BCCDE9.quest_desc: ["&bCloud in a Bottle&r pozwala wykonać podwójny skok w powietrzu (naciśnij dwukrotnie Spację) oraz zmniejsza obrażenia od upadku."]
+	quest.436E4E3515BCCDE9.quest_subtitle: "Pas"
+	quest.436E4E3515BCCDE9.title: "&bCloud in a Bottle&r"
+	quest.4564B577CB4EC046.quest_desc: ["&cEverlasting Beef&r to niezwykle rzadki łup z krów – kawałek surowej wołowiny, który nie zużywa się po zjedzeniu (ma jedynie krótki czas odnowienia i działa z modułem karmienia w plecaku!)."]
+	quest.4564B577CB4EC046.quest_subtitle: "Unikalny"
+	quest.4564B577CB4EC046.title: "&cEverlasting Beef&r"
+	quest.4933CF4675E77D50.quest_desc: ["Po otrzymaniu obrażeń od ognia lub lawy &5Obsidian Skull&r zapewnia tymczasową Odporność na Ogień, dając czas na wyjście z płomieni."]
+	quest.4933CF4675E77D50.quest_subtitle: "Pas"
+	quest.4933CF4675E77D50.title: "&5Obsidian Skull&r"
+	quest.4A7AEBEB87CEC274.quest_desc: ["&cRunning Shoes&r zwiększają prędkość sprintu oraz pozwalają automatycznie wbiegać na bloki o wysokości 1 kratki bez skakania."]
+	quest.4A7AEBEB87CEC274.quest_subtitle: "Stopy"
+	quest.4A7AEBEB87CEC274.title: "&cRunning Shoes&r"
+	quest.4D3379D38237F830.quest_desc: ["&bAqua-Dashers&r pozwalają biec po powierzchni wody niczym po twardym lądzie, dopóki utrzymujesz sprint!"]
+	quest.4D3379D38237F830.quest_subtitle: "Stopy"
+	quest.4D3379D38237F830.title: "&bAqua-Dashers&r"
+	quest.5040B3D29F238BC0.quest_desc: ["&dBunny Hoppers&r podwajają wysokość skoku oraz redukują otrzymywane obrażenia od upadku."]
+	quest.5040B3D29F238BC0.quest_subtitle: "Stopy"
+	quest.5040B3D29F238BC0.title: "&dBunny Hoppers&r"
+	quest.50A32AC6EDBC5854.quest_desc: ["Z założonym &6Onion Ring&r każde zjedzone jedzenie zapewnia tymczasowy bonus do prędkości kopania (Haste)."]
+	quest.50A32AC6EDBC5854.quest_subtitle: "Dłonie"
+	quest.50A32AC6EDBC5854.title: "&6Onion Ring&r"
+	quest.589F1D502F680075.quest_desc: ["&dHelium Flamingo&r pozwala przez chwilę dosłownie pływać w powietrzu po naciśnięciu klawisza sprintu w trakcie skoku!"]
+	quest.589F1D502F680075.quest_subtitle: "Pas"
+	quest.589F1D502F680075.title: "&dHelium Flamingo&r"
+	quest.5CE44C58A470E48E.quest_desc: [
+		"Modyfikacja &3&lArtifacts&r dodaje unikalne akcesoria ukryte w podziemnych obozowiskach i ruinach."
+		""
+		"Strzegą ich &cMimiki&r – potwory podszywające się pod zwykłe drewniane skrzynie. Pokonanie Mimika gwarantuje zdobycie losowego artefaktu!"
+	]
+	quest.5CE44C58A470E48E.title: "&l&3Artifacts: Polowanie na Mimika"
+	quest.5DE7C4FD5FA29236.quest_desc: ["&5Chorus Totem&r ratuje Ci życie przed śmiertelnym uderzeniem, teleportując Cię w bezpieczne miejsce i nadając regenerację."]
+	quest.5DE7C4FD5FA29236.quest_subtitle: "Pas"
+	quest.5DE7C4FD5FA29236.title: "&5Chorus Totem&r"
+	quest.5EB7CE3A1DCD3E9B.quest_desc: ["&cUniversal Attractor&r działa jak potężny magnes przyciągający leżące w pobliżu przedmioty oraz kule doświadczenia."]
+	quest.5EB7CE3A1DCD3E9B.quest_subtitle: "Pas"
+	quest.5EB7CE3A1DCD3E9B.title: "&cUniversal Attractor&r"
+	quest.5F5E43B3F51CAE9E.quest_desc: ["&aSuperstitious Hat&r zapewnia dodatkowy poziom Grabieży (Looting) przy zabijaniu potworów – kumuluje się z zaklęciem na broni!"]
+	quest.5F5E43B3F51CAE9E.quest_subtitle: "Głowa"
+	quest.5F5E43B3F51CAE9E.title: "&aSuperstitious Hat"
+	quest.623796B1D7981E59.quest_desc: ["&4Crystal Heart&r na stałe zwiększa Twoje maksymalne zdrowie o dodatkowe serca, dopóki masz je założone."]
+	quest.623796B1D7981E59.quest_subtitle: "Pas"
+	quest.623796B1D7981E59.title: "&4Crystal Heart&r"
+	quest.62622137648A4F56.quest_desc: ["Podczas noszenia &7Pickaxe Heater&r wykopywane rudy metali są automatycznie przetapiane na sztabki!"]
+	quest.62622137648A4F56.quest_subtitle: "Dłonie"
+	quest.62622137648A4F56.title: "&7Pickaxe Heater&r"
+	quest.6A452BFC8A967C39.quest_desc: ["&aFeral Claws&r zwiększają prędkość wyprowadzania ciosów każdą bronią oraz gołymi pięściami."]
+	quest.6A452BFC8A967C39.quest_subtitle: "Dłonie"
+	quest.6A452BFC8A967C39.title: "&aFeral Claws&r"
+	quest.6FBE5B5D5027B32C.quest_desc: ["&7Cowboy Hat&r zwiększa prędkość i skoczność każdego wierzchowca, którego dosiadasz."]
+	quest.6FBE5B5D5027B32C.quest_subtitle: "Głowa"
+	quest.6FBE5B5D5027B32C.title: "&7Cowboy Hat"
+	quest.70C7D92844089DEB.quest_desc: ["&bShock Pendant&r ma szansę porazić napastnika piorunem oraz całkowicie uodparnia Cię na wyładowania burzowe."]
+	quest.70C7D92844089DEB.quest_subtitle: "Naszyjnik"
+	quest.70C7D92844089DEB.title: "&bShock Pendant&r"
+	quest.7188DC06A28AE30E.quest_desc: ["&eGolden Hook&r zwiększa ilość punktów doświadczenia wypadających z pokonanych potworów."]
+	quest.7188DC06A28AE30E.quest_subtitle: "Dłonie"
+	quest.7188DC06A28AE30E.title: "&eGolden Hook&r"
+	quest.72D6265E35814927.quest_desc: ["&eCross Necklace&r wydłuża czas nietykalności bezpośrednio po otrzymaniu ciosu, dając Ci czas na kontratak lub odwrót."]
+	quest.72D6265E35814927.quest_subtitle: "Naszyjnik"
+	quest.72D6265E35814927.title: "&eCross Necklace&r"
+	quest.73B73870B29DFAD9.quest_desc: ["&eVillager Hat&r sprawia, że osadnicy traktują Cię jak swojego i oferują znaczne zniżki podczas handlu."]
+	quest.73B73870B29DFAD9.quest_subtitle: "Głowa"
+	quest.73B73870B29DFAD9.title: "&eVillager Hat"
+	quest.73FC51144FC2DA52.quest_desc: ["&7Vampiric Glove&r wykrada życie z trafionych przeciwników, lecząc Cię przy każdym ataku wręcz."]
+	quest.73FC51144FC2DA52.quest_subtitle: "Dłonie"
+	quest.73FC51144FC2DA52.title: "&7Vampiric Glove&r"
+	quest.74B352457BF1541B.quest_desc: ["&fSnowshoes&r pozwalają chodzić po sypkim śniegu bez zapadania się oraz zapewniają premię do prędkości na zaśnieżonych biomach."]
+	quest.74B352457BF1541B.quest_subtitle: "Stopy"
+	quest.74B352457BF1541B.title: "&fSnowshoes&r"
+	quest.7503823ACDDB0491.quest_desc: ["&2Lucky Scarf&r zapewnia dodatkowy poziom Szczęścia (Fortune) do wszystkich wykopanych przez Ciebie rud!"]
+	quest.7503823ACDDB0491.quest_subtitle: "Szalik (Naszyjnik)"
+	quest.7503823ACDDB0491.title: "&2Lucky Scarf&r"
+	quest.789AF6D0A6321945.quest_desc: ["&dWhoopee Cushion&r przy kucaniu wydaje charakterystyczny dźwięk i potrafi odepchnąć oraz sparaliżować pobliskie potwory."]
+	quest.789AF6D0A6321945.quest_subtitle: "Unikalny"
+	quest.789AF6D0A6321945.title: "&dWhoopee Cushion&r"
+	task.68DC39876E14FC1B.title: "Pokonaj 1x Mimic"
+}

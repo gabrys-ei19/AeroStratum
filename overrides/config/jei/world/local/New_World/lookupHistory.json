@@ -1,0 +1,7 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:crafting_table"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"animaltrap:small_animals_bait"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"alexscaves:thornwood_trapdoor"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"animaltrap:empty"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
